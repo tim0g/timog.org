@@ -74,7 +74,8 @@ weight = 1
 
 # Comment out if you don't want the "print entire section" link enabled.
 # [outputs]
-# section = ["HTML", "print"]
+section = ["HTML"]
+# section = ["HTML", "print"] (default)
 
 [params]
 # copyright = "Timog.org"
