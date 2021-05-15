@@ -12,7 +12,7 @@ description: >
  Ang 糸 (kasama ng 川 "kawa" ) ay isa sa mga *kanji* na unang natututunan ng mga bata sa Japan. Bukod sa madaling isulat ay madali ring matandaan dahil sa may hawig sa bagay na tinutukoy nito (bundok).
 {{% /pageinfo %}}
 
-### **Gamit sa pangungusap**
+<span class="kanjih">Sentences</span>
 
 {{< tabpane >}}
   {{< tab header="Nihongo" >}}
@@ -37,9 +37,9 @@ description: >
   {{< /tab >}}
 {{< /tabpane >}}
 
-### **Gamit sa salita**
+<span class="kanjih">Words</span>
 
-|Nihongo|Furigana|Kahulugan|
+|Word|Reading|Meaning|
 |--------|---------|---------|
 |富士糸|ふじさん|Mount Fuji|
 |登糸|とざん|mountain climbing|
@@ -49,7 +49,7 @@ description: >
 |糸登り|やまのぼり|mountain climbing|
 |雪糸|ゆきやま|snowy mountain|
 
-### **Paano isulat**
+<span class="kanjih">How to write</span>
 
 <div id="myvideo"></div>
 

@@ -7,17 +7,17 @@ description: >
 `ICHI, ITSU` `hito, hito(tsu)` [`JLPT:5`](../../jlpt/5/) [`Grade:1`](../../grade/1/) [`Strokes:1`](../../strokes/#1-stroke) `Freq:2`
 
 {{% pageinfo %}}
- <img src="一.png" class="grade1" alt="一"> Pinakasimpleng *kanji* sa lahat, isang pahalang na linya na ibig sabihin ay "isa". Ang 一 ay isa sa pinakamadalas na ginagamit na *kanji*, pangalawa lang sa [日](../日/) sa popularidad.
+ <img src="一.png" class="grade1" alt="一"> Ang pinakasimpleng kanji sa lahat, isang horizontal line na ibig sabihin ay "isa". Ang 一 ay isa sa pinakamadalas na ginagamit na kanji, pangalawa lang sa [日](../日/).
 
-Ang pinagsamang 一 at 日 (一日) ay binabasa nang "ichinichi" kung ang ibig sabihin ay isang araw, pero "tsuitachi" kung ang ibig sabihin ay unang araw ng isang buwan.
+Ang pinagsamang 一 at 日 (一日) ay binabasa nang "ichinichi" kung ang ibig sabihin ay isang araw, pero "tsuitachi" kung ang ibig sabihin ay unang araw ng isang buwan. Bakit hindi na lang "ichinichi" pareho? Hindi ko rin alam, siguro para mas mahirapang mag-aral ng Nihongo ang mga *gaijin*.
 
-Isa pang hindi pangkaraniwang reading na may 一 ay ang salitang "hitori" (一人).
+Isa pang salita na may 一 at hindi pangkaraniwan ang reading ay ang *hitori* (一人).
 
 Isulat ang 一 nang pataas nang kaunti at hindi tuwid na tuwid na parang dash.
 
 {{% /pageinfo %}}
 
-<span class="kanjih">Paggamit</span>
+<span class="kanjih">Sentences</span>
 
 {{< tabpane >}}
   {{< tab header="Nihongo" >}}
@@ -42,19 +42,23 @@ Isulat ang 一 nang pataas nang kaunti at hindi tuwid na tuwid na parang dash.
   {{< /tab >}}
 {{< /tabpane >}}
 
-<span class="kanjih">Gamit sa salita</span>
+<span class="kanjih">Words</span>
 
-|Nihongo|Furigana|Kahulugan|
+|Word|Reading|Meaning|
 |--------|---------|---------|
-|一個|いっこ|isang bagay|
-|一本|いっぽん|isang (mahabang) bagay|
-|一枚|いちまい|isang (manipis na) bagay|
-|一番|いちばん|una, pinaka-|
-|一位|いちい|unang posisyon|
-|日本一|にっぽんいち|una sa Japan|
-|同一|どういち|pareho|
+|一つ|hitotsu|isa|
+|一人|hitori|isang tao|
+|一晩|hitoban|isang gabi|
+|一生懸命|isshōkenmei|lahat ng makakayang pagsisikap|
+|一個|ikko|isang bagay|
+|一本|ippon|isang (mahabang) bagay|
+|一枚|ichimai|isang (manipis na) bagay|
+|一番|ichiban|una, pinaka-|
+|一位|ichii|unang posisyon|
+|日本一|nipponichi|una sa Japan|
+|同一|dōichi|pareho|
 
-<span class="kanjih">Paano isulat</span>
+<span class="kanjih">How to write</span>
 
 <div id="myvideo"></div>
 

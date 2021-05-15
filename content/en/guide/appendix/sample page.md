@@ -13,6 +13,13 @@ This is a placeholder page. Replace it with your own content.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BqIEOf81jBk?start=0&end=5&rel=0;" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
+## Long vowels
+
+A macron is a line above a vowel to indicate that it should be spoken as a long vowel: ā, ē, ī, ō, ū, Ā, Ē, Ī, Ō and Ū.
+
+ā ē ī ō ū Ā Ē Ī Ō Ū
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://gohugo.io) should be blue with no underlines (unless hovered over). There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery.
 
 90's four loko seitan photo booth gochujang freegan tumeric listicle fam ugh humblebrag. Bespoke leggings gastropub, biodiesel brunch pug fashion axe meh swag art party neutra deep v chia. Pitchfork schlitz semiotics fanny pack, ugh artisan vegan vaporware hexagon. Polaroid fixie post-ironic venmo wolf ramps **kale chips**.

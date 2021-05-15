@@ -1,5 +1,5 @@
 ---
-title: "日 SUN"
+title: "日 SUN, JAPAN"
 toc_hide: false
 description: >
 
@@ -7,39 +7,36 @@ description: >
 `NICHI, JITSU` `hi, ka` [`JLPT:5`](../../jlpt/5/) [`Grade:1`](../../grade/1/) [`Strokes:4`](../../strokes/#4-strokes) `Freq:24`
 
 {{% pageinfo %}}
- <img src="日.png" class="grade1" alt="日"> Ang 日 (kasama ng 川 "kawa" ) ay isa sa mga *kanji* na unang natututunan ng mga bata. Bukod sa madaling isulat ay madali ring matandaan dahil sa may hawig sa bagay na tinutukoy nito (bundok).
+ <img src="日.png" class="grade1" alt="日"> Ang 日 ang pinakamadalas na gamitin na *kanji* (base sa gamit sa mga dyaryo). Hindi nakapagtataka dahil ito ang *kanji* na ginagamit sa pagsulat ng araw sa petsa: 2011年3月11日 (March 11, 2011) at mga araw sa isang linggo.
 
- Ang 日 (kasama ng 川 "kawa" ) ay isa sa mga *kanji* na unang natututunan ng mga bata sa Japan. Bukod sa madaling isulat ay madali ring matandaan dahil sa may hawig sa bagay na tinutukoy nito (bundok).
+ Ang 日曜日 (nichiyōbi Sunday ) ay may dalawang 日 na magkaiba ang reading, bukod pa sa radical na 日 sa gitnang kanji (曜).
+
+ Ito rin siyempre ang kanji ng Japan: 日本 (Nihon=Nippon "Land of the Rising Sun"). 日比関係 (*nichihi kankei* Japan-Philippines relations), 日中貿易 (nitchū bōeki) Japan-China trade, etc.
 {{% /pageinfo %}}
 
-### **Gamit sa pangungusap**
+<span class="kanjih">Sentences</span>
 
 {{< tabpane >}}
   {{< tab header="Nihongo" >}}
-    1. 富士日は日本の一番高い日です。
-    2. 小さい日小屋がありました。
-    3. 私の趣味は日登りです。
-  {{< /tab >}}
-  {{< tab header="Furigana" >}}
-    1. ふじさんは　にほんの　いちばん　たかいやま　です。
-    2. ちいさい　やまごやが　ありました。
-    3. わたしの　しゅみは　やまのぼりです。
+    1. 今日は月曜日です。
+    2. 誕生日は2001年2月17日です。
+    3. いつ来日しましたか。
   {{< /tab >}}
     {{< tab header="Romaji" >}}
-    1. Fujisan wa Nihon no ichiban takai yama desu.
-    2. Chiisai yamagoya ga arimashita.
-    3. Watashi no shumi wa yamanobori desu.
+    1. Kyō wa getsuyōbi desu.
+    2. Tanjōbi wa nisen-ichinen nigatsu jūshichinichi desu.
+    3. Itsu rainichi shimashita ka?
   {{< /tab >}}
   {{< tab header="Tagalog" >}}
-    1. Ang Mount Fuji ay ang pinakamataas na bundok sa Japan.
-    2. Mayroong maliit na kubo sa bundok.
-    3. Ang aking libangan ay pag-akyat ng bundok.
+    1. Ngayon ay Lunes.
+    2. Ang (aking) birthday ay February 17, 2001.
+    3. Kailan (ka) dumating sa Japan?
   {{< /tab >}}
 {{< /tabpane >}}
 
-### **Gamit sa salita**
+<span class="kanjih">Words</span>
 
-|Nihongo|Furigana|Kahulugan|
+|Word|Reading|Meaning|
 |--------|---------|---------|
 |富士日|ふじさん|Mount Fuji|
 |登日|とざん|mountain climbing|
@@ -49,7 +46,7 @@ description: >
 |日登り|やまのぼり|mountain climbing|
 |雪日|ゆきやま|snowy mountain|
 
-### **Paano isulat**
+<span class="kanjih">How to write</span>
 
 <div id="myvideo"></div>
 
