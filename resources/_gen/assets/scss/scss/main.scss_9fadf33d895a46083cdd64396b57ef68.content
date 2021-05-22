@@ -20105,7 +20105,7 @@ body:lang(ar) {
 
 /*
 
-Nothing defined here. The Hugo project that uses this theme can override Bootstrap by adding a file to:
+The Hugo project that uses this theme can override Bootstrap by adding a file to:
 
 assets/scss/_styles_project.scss
 
@@ -20195,8 +20195,9 @@ h1, h2 a {
   padding: 0.5rem 0.6rem; }
 
 .card-body p {
-  font-size: 0.9em;
-  color: #666666; }
+  font-size: 0.8em;
+  color: #666666;
+  line-height: 1.4; }
 
 .drop {
   float: left;
@@ -20262,10 +20263,12 @@ h1, h2 a {
 .nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
   background-color: #f8f9fa; }
 
-.td-max-width-on-larger-screens, .td-content > pre, .td-content > .highlight, .td-content > .lead, .td-content > h1, .td-content > h2, .td-content > ul, .td-content > ol, .td-content > p, .td-content > blockquote, .td-content > dl dd, .td-content .footnotes, .td-content > .alert, .td-content > .pageinfo {
-  max-width: 80%; }
+/* .td-max-width-on-larger-screens, .td-content > .pageinfo {
+    max-width: 80%;
+}
 
-.td-max-width-on-larger-screens, .td-content > pre, .td-content > .highlight, .td-content > .lead, .td-content > h1, .td-content > h2, .td-content > ul, .td-content > ol, .td-content > p, .td-content > blockquote, .td-content > dl dd, .td-content .footnotes, .td-content > .alert, .td-content > .tab-content {
-  max-width: 80%; }
+.td-max-width-on-larger-screens, .td-content > .tab-content {
+    max-width: 80%;
+} */
 
 /*# sourceMappingURL=main.css.map */

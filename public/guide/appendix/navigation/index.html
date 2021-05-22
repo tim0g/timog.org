@@ -1,0 +1,2809 @@
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="generator" content="Hugo 0.81.0" /><META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+
+
+<link rel="shortcut icon" href="/favicons/favicon.ico" >
+<link rel="apple-touch-icon" href="/favicons/apple-touch-icon-180x180.png" sizes="180x180">
+<link rel="icon" type="image/png" href="/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicons/android-36x36.png" sizes="36x36">
+<link rel="icon" type="image/png" href="/favicons/android-48x48.png" sizes="48x48">
+<link rel="icon" type="image/png" href="/favicons/android-72x72.png" sizes="72x72">
+<link rel="icon" type="image/png" href="/favicons/android-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicons/android-144x144.png" sizes="144x144">
+<link rel="icon" type="image/png" href="/favicons/android-192x192.png" sizes="192x192">
+
+<title>Navigation and Search | Timog</title><meta property="og:title" content="Navigation and Search" />
+<meta property="og:description" content="Customize site navigation and search for your Docsy site.
+" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://timog.org/guide/appendix/navigation/" /><meta property="article:section" content="guide" />
+<meta property="article:published_time" content="2017-01-05T00:00:00&#43;00:00" />
+<meta property="article:modified_time" content="2017-01-05T00:00:00&#43;00:00" /><meta property="og:site_name" content="Timog" />
+
+<meta itemprop="name" content="Navigation and Search">
+<meta itemprop="description" content="Customize site navigation and search for your Docsy site.
+"><meta itemprop="datePublished" content="2017-01-05T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2017-01-05T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="2384">
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Navigation and Search"/>
+<meta name="twitter:description" content="Customize site navigation and search for your Docsy site.
+"/>
+
+
+
+
+
+
+
+<link rel="preload" href="/scss/main.scss" as="style">
+<link href="/scss/main.scss" rel="stylesheet" integrity="">
+
+
+<script
+  src="https://code.jquery.com/jquery-3.5.1.min.js"
+  integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
+  crossorigin="anonymous"></script>
+
+<script
+  src="https://unpkg.com/lunr@2.3.9/lunr.min.js"
+  integrity="sha384-203J0SNzyqHby3iU6hzvzltrWi/M41wOP5Gu+BiJMz5nwKykbkUx8Kp7iti0Lpli"
+  crossorigin="anonymous"></script>
+
+
+
+<link rel="stylesheet" href="/css/tabbed-pane.css"/>
+
+
+  </head>
+  <body class="td-page">
+    <header>
+      
+<nav class="js-navbar-scroll navbar navbar-expand navbar-dark flex-column flex-md-row td-navbar">
+        <a class="navbar-brand" href="/">
+		<span class="navbar-logo"></span><span class="text-uppercase font-weight-bold">Timog</span>
+	</a>
+	<div class="td-navbar-nav-scroll ml-md-auto" id="main_navbar">
+		<ul class="navbar-nav mt-2 mt-lg-0">
+			
+			
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+				
+				
+				
+				
+				
+				
+				
+				
+				<a class="nav-link active" href="/guide/" ><span class="active">Guide</span></a>
+			</li>
+			
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+				
+				
+				
+				
+				
+				
+				
+				
+				<a class="nav-link" href="/news/" ><span>News</span></a>
+			</li>
+			
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+				
+				
+				
+				
+				
+				
+				
+				
+				<a class="nav-link" href="/blog/" ><span>Blog</span></a>
+			</li>
+			
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+				
+				
+				
+				
+				
+				
+				
+				
+				<a class="nav-link" href="/nihongo/" ><span>Nihongo</span></a>
+			</li>
+			
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+				
+				
+				
+				
+				
+				
+				
+				
+				<a class="nav-link" href="/about/" ><span>About</span></a>
+			</li>
+			
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+				
+				
+				
+				
+				
+				
+				
+				
+				<a class="nav-link" href="/wiki/" ><span>Wiki</span></a>
+			</li>
+			
+			
+			
+		</ul>
+	</div>
+	<div class="navbar-nav d-none d-lg-block">
+
+
+
+<input
+  type="search"
+  class="form-control td-search-input"
+  placeholder="&#xf002; Search this site…"
+  aria-label="Search this site…"
+  autocomplete="off"
+  
+  data-offline-search-index-json-src="/offline-search-index.59e8d08b5e009d7bdc7a31585d75ddec.json"
+  data-offline-search-base-href="/"
+  data-offline-search-max-results="10"
+>
+
+</div>
+</nav>
+
+    </header>
+    <div class="container-fluid td-outer">
+      <div class="td-main">
+        <div class="row flex-xl-nowrap">
+          <div class="col-12 col-md-3 col-xl-2 td-sidebar d-print-none">
+            
+
+
+
+
+  
+
+
+<div id="td-sidebar-menu" class="td-sidebar__inner">
+  
+  <form class="td-sidebar__search d-flex align-items-center">
+    
+
+
+
+<input
+  type="search"
+  class="form-control td-search-input"
+  placeholder="&#xf002; Search this site…"
+  aria-label="Search this site…"
+  autocomplete="off"
+  
+  data-offline-search-index-json-src="/offline-search-index.59e8d08b5e009d7bdc7a31585d75ddec.json"
+  data-offline-search-base-href="/"
+  data-offline-search-max-results="10"
+>
+
+
+    <button class="btn btn-link td-sidebar__toggle d-md-none p-0 ml-3 fas fa-bars" type="button" data-toggle="collapse" data-target="#td-section-nav" aria-controls="td-docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    </button>
+  </form>
+  
+  <nav class="collapse td-sidebar-nav" id="td-section-nav">
+    
+    
+    
+    
+    
+    <ul class="td-sidebar-nav__section pr-md-3 ul-0">
+      
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child active-path" id="m-guide-li">
+    <a href="/guide/" title="Gabay sa pamumuhay sa Japan" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section tree-root" id="m-guide"><span class="">Guide</span></a>
+    
+      
+      <ul class="pr-md-3 ul-1">
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child" id="m-guidehome-li">
+    <a href="/guide/home/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section" id="m-guidehome"><span class="">Home</span></a>
+    
+      
+      <ul class="pr-md-3 ul-2">
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidehomeundeliverable-item-notice-li">
+    <a href="/guide/home/undeliverable-item-notice/" title="Request to re-deliver package" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidehomeundeliverable-item-notice"><span class="">Package redelivery request</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child collapse" id="m-guidehomecalendar-li">
+    <a href="/guide/home/calendar/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section" id="m-guidehomecalendar"><span class="">Date and Time</span></a>
+    
+      
+      <ul class="pr-md-3 ul-3">
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidehomecalendar2021-japanese-calendar-li">
+    <a href="/guide/home/calendar/2021-japanese-calendar/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidehomecalendar2021-japanese-calendar"><span class="">2021 Japanese Calendar</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidehomecalendarreiwa-heisei-showa-taisho-western-japanese-year-table-li">
+    <a href="/guide/home/calendar/reiwa-heisei-showa-taisho-western-japanese-year-table/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidehomecalendarreiwa-heisei-showa-taisho-western-japanese-year-table"><span class="">Western-Japanese Year Table</span></a>
+    
+  </li>
+
+          
+        
+      </ul>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child collapse" id="m-guidehomegarbage-disposal-li">
+    <a href="/guide/home/garbage-disposal/" title="Proper disposal of garbage" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section" id="m-guidehomegarbage-disposal"><span class="">Garbage disposal</span></a>
+    
+      
+      <ul class="pr-md-3 ul-3">
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidehomegarbage-disposalgarbage-disposal-calendar-li">
+    <a href="/guide/home/garbage-disposal/garbage-disposal-calendar/" title="Garbage disposal calendar" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidehomegarbage-disposalgarbage-disposal-calendar"><span class="">Calendar</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidehomegarbage-disposalkinds-of-garbage-li">
+    <a href="/guide/home/garbage-disposal/kinds-of-garbage/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidehomegarbage-disposalkinds-of-garbage"><span class="">Kinds of garbage</span></a>
+    
+  </li>
+
+          
+        
+      </ul>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidehomedisaster-li">
+    <a href="/guide/home/disaster/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidehomedisaster"><span class="">Websites and apps in times of disaster</span></a>
+    
+  </li>
+
+          
+        
+      </ul>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child" id="m-guidework-li">
+    <a href="/guide/work/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section" id="m-guidework"><span class="">Work</span></a>
+    
+      
+      <ul class="pr-md-3 ul-2">
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guideworkworking-conditions-handbook-li">
+    <a href="/guide/work/working-conditions-handbook/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guideworkworking-conditions-handbook"><span class="">Working Conditions Handbook</span></a>
+    
+  </li>
+
+          
+        
+      </ul>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child" id="m-guidevisa-and-immigration-li">
+    <a href="/guide/visa-and-immigration/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section" id="m-guidevisa-and-immigration"><span class="">Visa &amp; Immigration</span></a>
+    
+      
+      <ul class="pr-md-3 ul-2">
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidevisa-and-immigrationresidence-card-li">
+    <a href="/guide/visa-and-immigration/residence-card/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidevisa-and-immigrationresidence-card"><span class="">Residence Card</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child collapse" id="m-guidevisa-and-immigrationvisa-extension-li">
+    <a href="/guide/visa-and-immigration/visa-extension/" title="Extension of Period of Stay" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section" id="m-guidevisa-and-immigrationvisa-extension"><span class="">Visa Extension</span></a>
+    
+      
+      <ul class="pr-md-3 ul-3">
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidevisa-and-immigrationvisa-extensionsupporting-documents-li">
+    <a href="/guide/visa-and-immigration/visa-extension/supporting-documents/" title="Supporting documents (Table 3-2)" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidevisa-and-immigrationvisa-extensionsupporting-documents"><span class="">Documents</span></a>
+    
+  </li>
+
+          
+        
+      </ul>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child collapse" id="m-guidevisa-and-immigrationchange-of-status-li">
+    <a href="/guide/visa-and-immigration/change-of-status/" title="Change of Status of Residence" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section" id="m-guidevisa-and-immigrationchange-of-status"><span class="">Change of Status</span></a>
+    
+      
+      <ul class="pr-md-3 ul-3">
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidevisa-and-immigrationchange-of-statussupporting-documents-li">
+    <a href="/guide/visa-and-immigration/change-of-status/supporting-documents/" title="Supporting documents (Table 3-2)" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidevisa-and-immigrationchange-of-statussupporting-documents"><span class="">Documents</span></a>
+    
+  </li>
+
+          
+        
+      </ul>
+    
+  </li>
+
+          
+        
+      </ul>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child" id="m-guidetransportation-li">
+    <a href="/guide/transportation/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section" id="m-guidetransportation"><span class="">Transportation</span></a>
+    
+      
+      <ul class="pr-md-3 ul-2">
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidetransportationbicycle-li">
+    <a href="/guide/transportation/bicycle/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidetransportationbicycle"><span class="">Bicycle</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidetransportationscooter-li">
+    <a href="/guide/transportation/scooter/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidetransportationscooter"><span class="">Scooter</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidetransportationmotocycle-li">
+    <a href="/guide/transportation/motocycle/" title="Motorsiklo" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidetransportationmotocycle"><span class="">Motorcycle</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child collapse" id="m-guidetransportationcar-li">
+    <a href="/guide/transportation/car/" title="Pagmamaneho ng kotse" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section" id="m-guidetransportationcar"><span class="">Driving cars</span></a>
+    
+      
+      <ul class="pr-md-3 ul-3">
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidetransportationcarconfiguring-ponycopters-li">
+    <a href="/guide/transportation/car/configuring-ponycopters/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidetransportationcarconfiguring-ponycopters"><span class="">Configuring Ponycopters</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidetransportationcarinternational-driving-permit-kokusai-menkyo-li">
+    <a href="/guide/transportation/car/international-driving-permit-kokusai-menkyo/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidetransportationcarinternational-driving-permit-kokusai-menkyo"><span class="">International Driving Permit</span></a>
+    
+  </li>
+
+          
+        
+      </ul>
+    
+  </li>
+
+          
+        
+      </ul>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child" id="m-guideconsular-affairs-li">
+    <a href="/guide/consular-affairs/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section" id="m-guideconsular-affairs"><span class="">Consular procedures</span></a>
+    
+      
+      <ul class="pr-md-3 ul-2">
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child collapse" id="m-guideconsular-affairsphilippine-embassy-tokyo-li">
+    <a href="/guide/consular-affairs/philippine-embassy-tokyo/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section" id="m-guideconsular-affairsphilippine-embassy-tokyo"><span class="">Philippine Embassy in Tokyo</span></a>
+    
+      
+      <ul class="pr-md-3 ul-3">
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guideconsular-affairsphilippine-embassy-tokyoaccess-li">
+    <a href="/guide/consular-affairs/philippine-embassy-tokyo/access/" title="Philippine Embassy in Tokyo Access" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guideconsular-affairsphilippine-embassy-tokyoaccess"><span class="">Access</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guideconsular-affairsphilippine-embassy-tokyopassport-application-li">
+    <a href="/guide/consular-affairs/philippine-embassy-tokyo/passport-application/" title="Passport application and renewal" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guideconsular-affairsphilippine-embassy-tokyopassport-application"><span class="">Passport application</span></a>
+    
+  </li>
+
+          
+        
+      </ul>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guideconsular-affairsphilippine-consulate-osaka-li">
+    <a href="/guide/consular-affairs/philippine-consulate-osaka/" title="Pilippine Consulate in Osaka" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section" id="m-guideconsular-affairsphilippine-consulate-osaka"><span class="">Philippine Consulate in Osaka</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guideconsular-affairsphilippine-overseas-labor-office-tokyo-li">
+    <a href="/guide/consular-affairs/philippine-overseas-labor-office-tokyo/" title="Pilippine Overseas Labor Office (POLO)" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section" id="m-guideconsular-affairsphilippine-overseas-labor-office-tokyo"><span class="">Philippine Overseas Labor Office</span></a>
+    
+  </li>
+
+          
+        
+      </ul>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child" id="m-guidevisa-application-li">
+    <a href="/guide/visa-application/" title="Visa application for Japan" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section" id="m-guidevisa-application"><span class="">Visa application</span></a>
+    
+      
+      <ul class="pr-md-3 ul-2">
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child collapse" id="m-guidevisa-applicationjapan-embassy-manila-philippines-li">
+    <a href="/guide/visa-application/japan-embassy-manila-philippines/" title="Embassy of Japan in the Philippines" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section" id="m-guidevisa-applicationjapan-embassy-manila-philippines"><span class="">Japan Embassy</span></a>
+    
+      
+      <ul class="pr-md-3 ul-3">
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidevisa-applicationjapan-embassy-manila-philippinescebu-consular-office-li">
+    <a href="/guide/visa-application/japan-embassy-manila-philippines/cebu-consular-office/" title="Consular Office of Japan in Cebu" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section" id="m-guidevisa-applicationjapan-embassy-manila-philippinescebu-consular-office"><span class="">Cebu Consular Office</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidevisa-applicationjapan-embassy-manila-philippinesdavao-consulate-general-li">
+    <a href="/guide/visa-application/japan-embassy-manila-philippines/davao-consulate-general/" title="Consulate-General of Japan in Davao" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section" id="m-guidevisa-applicationjapan-embassy-manila-philippinesdavao-consulate-general"><span class="">Davao Consulate-General</span></a>
+    
+  </li>
+
+          
+        
+      </ul>
+    
+  </li>
+
+          
+        
+      </ul>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child" id="m-guidekeywords-li">
+    <a href="/guide/keywords/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section" id="m-guidekeywords"><span class="">Keywords</span></a>
+    
+      
+      <ul class="pr-md-3 ul-2">
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child collapse" id="m-guidekeywordsabcd-li">
+    <a href="/guide/keywords/abcd/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section" id="m-guidekeywordsabcd"><span class="">A ･ B ･ C ･ D</span></a>
+    
+      
+      <ul class="pr-md-3 ul-3">
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsabcdboshi-techo-maternity-handbook-li">
+    <a href="/guide/keywords/abcd/boshi-techo-maternity-handbook/" title="Boshi Techo (Maternity Handbook)" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidekeywordsabcdboshi-techo-maternity-handbook"><span class="">Boshi Techo</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsabcdcertificate-of-eligibility-coe-li">
+    <a href="/guide/keywords/abcd/certificate-of-eligibility-coe/" title="Certificate of Eligibility (COE) " class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidekeywordsabcdcertificate-of-eligibility-coe"><span class="">Certificate of Eligibility</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsabcdcertificate-of-employment-li">
+    <a href="/guide/keywords/abcd/certificate-of-employment/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidekeywordsabcdcertificate-of-employment"><span class="">Certificate of Employment</span></a>
+    
+  </li>
+
+          
+        
+      </ul>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child collapse" id="m-guidekeywordsefgh-li">
+    <a href="/guide/keywords/efgh/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section" id="m-guidekeywordsefgh"><span class="">E ･ F ･ G ･ H</span></a>
+    
+      
+      <ul class="pr-md-3 ul-3">
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsefghemployment-certificate-li">
+    <a href="/guide/keywords/efgh/employment-certificate/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidekeywordsefghemployment-certificate"><span class="">Employment Certificate</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsefghemployment-insurance-li">
+    <a href="/guide/keywords/efgh/employment-insurance/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidekeywordsefghemployment-insurance"><span class="">Employment Insurance</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsefghgensen-withholding-tax-slip-li">
+    <a href="/guide/keywords/efgh/gensen-withholding-tax-slip/" title="Gensen (Withholding Tax Slip)" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidekeywordsefghgensen-withholding-tax-slip"><span class="">Gensen</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsefghhealth-insurance-card-li">
+    <a href="/guide/keywords/efgh/health-insurance-card/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidekeywordsefghhealth-insurance-card"><span class="">Health Insurance Card</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsefghhokensho-li">
+    <a href="/guide/keywords/efgh/hokensho/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidekeywordsefghhokensho"><span class="">Hokensho</span></a>
+    
+  </li>
+
+          
+        
+      </ul>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child collapse" id="m-guidekeywordsijkl-li">
+    <a href="/guide/keywords/ijkl/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section" id="m-guidekeywordsijkl"><span class="">I ･ J ･ K ･ L</span></a>
+    
+      
+      <ul class="pr-md-3 ul-3">
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsijklinternational-driving-permit-li">
+    <a href="/guide/keywords/ijkl/international-driving-permit/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidekeywordsijklinternational-driving-permit"><span class="">International Driving Permit</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsijkljuminhyo-residence-certificate-li">
+    <a href="/guide/keywords/ijkl/juminhyo-residence-certificate/" title="Juminhyo (Residence Certificate)" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidekeywordsijkljuminhyo-residence-certificate"><span class="">Juminhyo</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsijklkazei-shomeisho-tax-certificate-li">
+    <a href="/guide/keywords/ijkl/kazei-shomeisho-tax-certificate/" title="Kazei Shomeisho (Tax Certificate)" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidekeywordsijklkazei-shomeisho-tax-certificate"><span class="">Kazei Shomeisho</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsijklkenko-hokensho-health-insurance-card-li">
+    <a href="/guide/keywords/ijkl/kenko-hokensho-health-insurance-card/" title="Kenko Hokensho (Health Insurance Card)" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidekeywordsijklkenko-hokensho-health-insurance-card"><span class="">Kenko Hokensho</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsijklkokusai-menkyo-international-driving-permit-li">
+    <a href="/guide/keywords/ijkl/kokusai-menkyo-international-driving-permit/" title="Kokusai Menkyo (International Driving Permit)" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidekeywordsijklkokusai-menkyo-international-driving-permit"><span class="">Kokusai Menkyo</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsijklkoseki-tohon-family-registry-li">
+    <a href="/guide/keywords/ijkl/koseki-tohon-family-registry/" title="Koseki Tohon (Family Registry)" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidekeywordsijklkoseki-tohon-family-registry"><span class="">Koseki Tohon</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsijklkoyo-hoken-employment-insurance-li">
+    <a href="/guide/keywords/ijkl/koyo-hoken-employment-insurance/" title="Koyo Hoken (Employment Insurance)" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidekeywordsijklkoyo-hoken-employment-insurance"><span class="">Koyo Hoken</span></a>
+    
+  </li>
+
+          
+        
+      </ul>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child collapse" id="m-guidekeywordsmnop-li">
+    <a href="/guide/keywords/mnop/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section" id="m-guidekeywordsmnop"><span class="">M ･ N ･ O ･ P</span></a>
+    
+      
+      <ul class="pr-md-3 ul-3">
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsmnopnozei-shomeisho-tax-payment-certificate-li">
+    <a href="/guide/keywords/mnop/nozei-shomeisho-tax-payment-certificate/" title="Nozei Shomeisho (Tax Payment Cerficate)" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidekeywordsmnopnozei-shomeisho-tax-payment-certificate"><span class="">Nozei Shomeisho</span></a>
+    
+  </li>
+
+          
+        
+      </ul>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child collapse" id="m-guidekeywordsqrst-li">
+    <a href="/guide/keywords/qrst/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section" id="m-guidekeywordsqrst"><span class="">Q ･ R ･ S ･ T</span></a>
+    
+      
+      <ul class="pr-md-3 ul-3">
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsqrstresidence-card-li">
+    <a href="/guide/keywords/qrst/residence-card/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidekeywordsqrstresidence-card"><span class="">Residence Card</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsqrstresidence-certificate-li">
+    <a href="/guide/keywords/qrst/residence-certificate/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidekeywordsqrstresidence-certificate"><span class="">Residence Certificate</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsqrstshakai-hoken-social-insurance-li">
+    <a href="/guide/keywords/qrst/shakai-hoken-social-insurance/" title="Shakai Hoken (Social Insurance)" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidekeywordsqrstshakai-hoken-social-insurance"><span class="">Shakai Hoken</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsqrstshaken-automobile-inspection-certificate-li">
+    <a href="/guide/keywords/qrst/shaken-automobile-inspection-certificate/" title="Shaken (Automobile Inspection Certificate)" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidekeywordsqrstshaken-automobile-inspection-certificate"><span class="">Shaken</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsqrststatus-of-residence-li">
+    <a href="/guide/keywords/qrst/status-of-residence/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidekeywordsqrststatus-of-residence"><span class="">Status of Residence</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsqrsttax-certificate-li">
+    <a href="/guide/keywords/qrst/tax-certificate/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidekeywordsqrsttax-certificate"><span class="">Tax Certificate</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsqrsttax-payment-certificate-li">
+    <a href="/guide/keywords/qrst/tax-payment-certificate/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidekeywordsqrsttax-payment-certificate"><span class="">Tax Payment Certificate</span></a>
+    
+  </li>
+
+          
+        
+      </ul>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsuvwx-li">
+    <a href="/guide/keywords/uvwx/" title="U ･ V ･ W ･ X " class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section" id="m-guidekeywordsuvwx"><span class="">U ･ V ･ W ･ X</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child collapse" id="m-guidekeywordsyz09-li">
+    <a href="/guide/keywords/yz09/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section" id="m-guidekeywordsyz09"><span class="">Y ･ Z ･ 0 - 9</span></a>
+    
+      
+      <ul class="pr-md-3 ul-3">
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsyz09zaigaku-shomeisho-school-certificate-li">
+    <a href="/guide/keywords/yz09/zaigaku-shomeisho-school-certificate/" title="Zaigaku Shomeisho (School Certificate)" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidekeywordsyz09zaigaku-shomeisho-school-certificate"><span class="">Zaigaku Shomeisho</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsyz09zairyu-kado-residence-card-li">
+    <a href="/guide/keywords/yz09/zairyu-kado-residence-card/" title="Zairyu Kado (Residence Card)" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidekeywordsyz09zairyu-kado-residence-card"><span class="">Zairyu Kado</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsyz09zairyu-shikaku-status-of-residence-li">
+    <a href="/guide/keywords/yz09/zairyu-shikaku-status-of-residence/" title="Zairyu Shikaku (Status of Residence)" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidekeywordsyz09zairyu-shikaku-status-of-residence"><span class="">Zairyu Shikaku</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsyz09zairyu-shikaku-nintei-shomeisho-certificate-of-eligibility-li">
+    <a href="/guide/keywords/yz09/zairyu-shikaku-nintei-shomeisho-certificate-of-eligibility/" title="Zairyu Shikaku Nintei Shomeisho (Certificate of Eligibility)" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidekeywordsyz09zairyu-shikaku-nintei-shomeisho-certificate-of-eligibility"><span class="">Zairyu Shikaku Nintei Shomeisho</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidekeywordsyz09zaishoku-shomeisho-employment-certificate-li">
+    <a href="/guide/keywords/yz09/zaishoku-shomeisho-employment-certificate/" title="Zaishoku Shomeisho (Employment Certificate)" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidekeywordsyz09zaishoku-shomeisho-employment-certificate"><span class="">Zaishoku Shomeisho</span></a>
+    
+  </li>
+
+          
+        
+      </ul>
+    
+  </li>
+
+          
+        
+      </ul>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child active-path" id="m-guideappendix-li">
+    <a href="/guide/appendix/" title="Appendix: Content and Customization" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section" id="m-guideappendix"><span class="">Appendix</span></a>
+    
+      
+      <ul class="pr-md-3 ul-2">
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child" id="m-guideappendixcontent-li">
+    <a href="/guide/appendix/content/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guideappendixcontent"><span class="">Adding Content</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child" id="m-guideappendixlookandfeel-li">
+    <a href="/guide/appendix/lookandfeel/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guideappendixlookandfeel"><span class="">Look and Feel</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child active-path" id="m-guideappendixnavigation-li">
+    <a href="/guide/appendix/navigation/" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__page" id="m-guideappendixnavigation"><span class="td-sidebar-nav-active-item">Navigation and Search</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child" id="m-guideappendixshortcodes-li">
+    <a href="/guide/appendix/shortcodes/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guideappendixshortcodes"><span class="">Docsy Shortcodes</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child" id="m-guideappendixiconsimages-li">
+    <a href="/guide/appendix/iconsimages/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guideappendixiconsimages"><span class="">Logos and Images</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child" id="m-guideappendixprint-li">
+    <a href="/guide/appendix/print/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guideappendixprint"><span class="">Print Support</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child" id="m-guideappendixfeedback-li">
+    <a href="/guide/appendix/feedback/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guideappendixfeedback"><span class="">Analytics and User Feedback</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child" id="m-guideappendixsample-page-li">
+    <a href="/guide/appendix/sample-page/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guideappendixsample-page"><span class="">Sample Page</span></a>
+    
+  </li>
+
+          
+        
+      </ul>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child" id="m-guidecoronavirus-li">
+    <a href="/guide/coronavirus/" title="Coronavirus information page" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section" id="m-guidecoronavirus"><span class="">Coronavirus</span></a>
+    
+      
+      <ul class="pr-md-3 ul-2">
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidecoronavirusavoid-three-cs-li">
+    <a href="/guide/coronavirus/avoid-three-cs/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidecoronavirusavoid-three-cs"><span class="">Avoid the ‘3 Cs’</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidecoronaviruscocoa-li">
+    <a href="/guide/coronavirus/cocoa/" title="COVID-19 Contact-Confirming Application (COCOA)" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidecoronaviruscocoa"><span class="">COCOA App</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidecoronaviruscoronavirus-prevention-posters-li">
+    <a href="/guide/coronavirus/coronavirus-prevention-posters/" title="Coronavirus prevention posters’" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidecoronaviruscoronavirus-prevention-posters"><span class="">Posters</span></a>
+    
+  </li>
+
+          
+        
+          
+            
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-guidecoronavirus5-situations-that-increase-risk-of-infection-li">
+    <a href="/guide/coronavirus/5-situations-that-increase-risk-of-infection/" title="5 situations that increase the risk of coronavirus infection" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__page" id="m-guidecoronavirus5-situations-that-increase-risk-of-infection"><span class="">5 situations that increase the risk of infection</span></a>
+    
+  </li>
+
+          
+        
+      </ul>
+    
+  </li>
+
+          
+        
+      </ul>
+    
+  </li>
+
+    </ul>
+  </nav>
+</div>
+
+
+
+
+          </div>
+          <div class="d-none d-xl-block col-xl-2 td-toc d-print-none">
+            
+  
+  
+  
+  
+  
+  <div class="td-page-meta ml-2 pb-1 pt-2 mb-0">
+  
+  
+  </div>
+
+
+
+
+
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#top-level-menu">Top-level menu</a>
+      <ul>
+        <li><a href="#adding-icons-to-the-top-level-menu">Adding icons to the top-level menu</a></li>
+        <li><a href="#adding-a-version-drop-down">Adding a version drop-down</a></li>
+        <li><a href="#adding-a-language-drop-down">Adding a language drop-down</a></li>
+      </ul>
+    </li>
+    <li><a href="#section-menu">Section menu</a>
+      <ul>
+        <li><a href="#adding-icons-to-section-menu">Adding icons to section menu</a></li>
+        <li><a href="#add-manual-links-to-section-menu">Add manual links to section menu</a></li>
+      </ul>
+    </li>
+    <li><a href="#breadcrumb-navigation">Breadcrumb navigation</a></li>
+    <li><a href="#site-search-options">Site search options</a>
+      <ul>
+        <li><a href="#disabling-the-sidebar-search-box">Disabling the sidebar search box</a></li>
+      </ul>
+    </li>
+    <li><a href="#configure-search-with-a-google-custom-search-engine">Configure search with a Google Custom Search Engine</a>
+      <ul>
+        <li><a href="#setting-up-site-search">Setting up site search</a></li>
+        <li><a href="#adding-the-search-page">Adding the search page</a></li>
+        <li><a href="#disabling-gcse-search">Disabling GCSE search</a></li>
+      </ul>
+    </li>
+    <li><a href="#configure-algolia-docsearch">Configure Algolia DocSearch</a>
+      <ul>
+        <li><a href="#sign-up-for-algolia-docsearch">Sign up for Algolia DocSearch</a></li>
+        <li><a href="#adding-algolia-docsearch">Adding Algolia DocSearch</a></li>
+      </ul>
+    </li>
+    <li><a href="#configure-local-search-with-lunr">Configure local search with Lunr</a>
+      <ul>
+        <li><a href="#changing-the-summary-length-of-the-local-search-results">Changing the summary length of the local search results</a></li>
+        <li><a href="#changing-the-maximum-result-count-of-the-local-search">Changing the maximum result count of the local search</a></li>
+        <li><a href="#changing-the-width-of-the-local-search-results-popover">Changing the width of the local search results popover</a></li>
+        <li><a href="#excluding-pages-from-local-search-results">Excluding pages from local search results</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+
+          </div>
+          <main class="col-12 col-md-9 col-xl-8 pl-md-5" role="main">
+            
+  
+
+            <nav aria-label="breadcrumb" class="d-none d-md-block d-print-none">
+	<ol class="breadcrumb spb-1">
+		
+
+
+
+
+
+
+
+
+
+
+<li class="breadcrumb-item" >
+	<a href="https://timog.org/guide/">Guide</a>
+</li>
+
+
+
+
+<li class="breadcrumb-item" >
+	<a href="https://timog.org/guide/appendix/">Appendix</a>
+</li>
+
+
+
+
+<li class="breadcrumb-item active" aria-current="page">
+	<a href="https://timog.org/guide/appendix/navigation/">Navigation and Search</a>
+</li>
+
+	</ol>
+</nav	>
+
+            
+<div class="td-content">
+	<h1>Navigation and Search</h1>
+    <div class="lead">Customize site navigation and search for your Docsy site.</div>
+	       
+	<h2 id="top-level-menu">Top-level menu</h2>
+<p>The top level menu (the one that appears in the top navigation bar for the entire site) uses your site&rsquo;s <a href="https://gohugo.io/content-management/menus/"><code>main</code> menu</a>. All Hugo sites have a <code>main</code> menu array of menu entries, accessible via the <code>.Site.Menus</code> site variable and populatable via page front matter or your site&rsquo;s <code>config.toml</code>.</p>
+<p>To add a page or section to this menu, add it to the site&rsquo;s <code>main</code> menu in either <code>config.toml</code> or in the destination page&rsquo;s front matter (in <code>_index.md</code> or <code>_index.html</code> for a section, as that&rsquo;s the section landing page). For example, here&rsquo;s how we added the Documentation section landing page to the main menu in this site:</p>
+<div class="highlight"><pre style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#000">---</span><span style="color:#f8f8f8;text-decoration:underline">
+</span><span style="color:#f8f8f8;text-decoration:underline"></span><span style="color:#204a87;font-weight:bold">title</span><span style="color:#000;font-weight:bold">:</span><span style="color:#f8f8f8;text-decoration:underline"> </span><span style="color:#4e9a06">&#34;Welcome to Docsy&#34;</span><span style="color:#f8f8f8;text-decoration:underline">
+</span><span style="color:#f8f8f8;text-decoration:underline"></span><span style="color:#204a87;font-weight:bold">linkTitle</span><span style="color:#000;font-weight:bold">:</span><span style="color:#f8f8f8;text-decoration:underline"> </span><span style="color:#4e9a06">&#34;Documentation&#34;</span><span style="color:#f8f8f8;text-decoration:underline">
+</span><span style="color:#f8f8f8;text-decoration:underline"></span><span style="color:#204a87;font-weight:bold">menu</span><span style="color:#000;font-weight:bold">:</span><span style="color:#f8f8f8;text-decoration:underline">
+</span><span style="color:#f8f8f8;text-decoration:underline">  </span><span style="color:#204a87;font-weight:bold">main</span><span style="color:#000;font-weight:bold">:</span><span style="color:#f8f8f8;text-decoration:underline">
+</span><span style="color:#f8f8f8;text-decoration:underline">    </span><span style="color:#204a87;font-weight:bold">weight</span><span style="color:#000;font-weight:bold">:</span><span style="color:#f8f8f8;text-decoration:underline"> </span><span style="color:#0000cf;font-weight:bold">20</span><span style="color:#f8f8f8;text-decoration:underline">
+</span><span style="color:#f8f8f8;text-decoration:underline">    </span><span style="color:#204a87;font-weight:bold">pre</span><span style="color:#000;font-weight:bold">:</span><span style="color:#f8f8f8;text-decoration:underline"> </span><span style="color:#000">&lt;i class=&#39;fas fa-book&#39;&gt;&lt;/i&gt;</span><span style="color:#f8f8f8;text-decoration:underline">
+</span><span style="color:#f8f8f8;text-decoration:underline"></span><span style="color:#000">---</span><span style="color:#f8f8f8;text-decoration:underline">
+</span></code></pre></div><p>The menu is ordered from left to right by page <code>weight</code>. So, for example, a section index or page with <code>weight: 30</code> would appear after the Documentation section in the menu, while one with <code>weight: 10</code> would appear before it.</p>
+<p>If you want to add a link to an external site to this menu, add it in <code>config.toml</code>, specifying the <code>weight</code>.</p>
+<div class="highlight"><pre style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#000;font-weight:bold">[[</span><span style="color:#000">menu.main]]</span><span style="color:#f8f8f8;text-decoration:underline">
+</span><span style="color:#f8f8f8;text-decoration:underline">    </span><span style="color:#000">name = &#34;GitHub&#34;</span><span style="color:#f8f8f8;text-decoration:underline">
+</span><span style="color:#f8f8f8;text-decoration:underline">    </span><span style="color:#000">weight = 50</span><span style="color:#f8f8f8;text-decoration:underline">
+</span><span style="color:#f8f8f8;text-decoration:underline">    </span><span style="color:#000">url = &#34;https://github.com/google/docsy/&#34;</span><span style="color:#f8f8f8;text-decoration:underline">
+</span></code></pre></div><h3 id="adding-icons-to-the-top-level-menu">Adding icons to the top-level menu</h3>
+<p>As described in the <a href="https://gohugo.io/content-management/menus/#add-non-content-entries-to-a-menu">Hugo docs</a>, you can add icons to the top-level menu by using the pre and/or post parameter for main menu items defined in your site&rsquo;s <code>config.toml</code> or via page front matter. For example, the following configuration adds the GitHub icon to the GitHub menu item, and a <strong>New!</strong> alert to indicate that this is a new addition to the menu.</p>
+<div class="highlight"><pre style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#000;font-weight:bold">[[</span><span style="color:#000">menu.main]]</span><span style="color:#f8f8f8;text-decoration:underline">
+</span><span style="color:#f8f8f8;text-decoration:underline">    </span><span style="color:#000">name = &#34;GitHub&#34;</span><span style="color:#f8f8f8;text-decoration:underline">
+</span><span style="color:#f8f8f8;text-decoration:underline">    </span><span style="color:#000">weight = 50</span><span style="color:#f8f8f8;text-decoration:underline">
+</span><span style="color:#f8f8f8;text-decoration:underline">    </span><span style="color:#000">url = &#34;https://github.com/google/docsy/&#34;</span><span style="color:#f8f8f8;text-decoration:underline">
+</span><span style="color:#f8f8f8;text-decoration:underline">    </span><span style="color:#000">pre = &#34;&lt;i class=&#39;fab fa-github&#39;&gt;&lt;/i&gt;&#34;</span><span style="color:#f8f8f8;text-decoration:underline">
+</span><span style="color:#f8f8f8;text-decoration:underline">    </span><span style="color:#000">post = &#34;&lt;span class=&#39;alert&#39;&gt;New!&lt;/span&gt;&#34; </span><span style="color:#f8f8f8;text-decoration:underline">
+</span></code></pre></div><p>You can find a complete list of icons to use in the <a href="https://fontawesome.com/icons?d=gallery&amp;p=2">FontAwesome documentation</a>. Docsy includes the free FontAwesome icons by default.</p>
+<h3 id="adding-a-version-drop-down">Adding a version drop-down</h3>
+<p>If you add some <code>[params.versions]</code> in <code>config.toml</code>, the Docsy theme adds a
+version selector drop down to the top-level menu.</p>
+<p>You can find out more in the guide to
+<a href="/docs/adding-content/versioning/">versioning your docs</a>.</p>
+<h3 id="adding-a-language-drop-down">Adding a language drop-down</h3>
+<p>If you configure more than one language in <code>config.toml</code>, the Docsy theme adds a language selector drop down to the top-level menu. Selecting a language takes the user to the translated version of the current page, or the home page for the given language.</p>
+<p>You can find out more in <a href="/docs/language/">Multi-language support</a>.</p>
+<h2 id="section-menu">Section menu</h2>
+<p>The section menu, as shown in the left side of the <code>docs</code> section, is automatically built from the <code>content</code> tree. Like the top-level menu, it is ordered by page or section index <code>weight</code> (or by page creation <code>date</code> if <code>weight</code> is not set), with the page or index&rsquo;s <code>Title</code>, or <code>linkTitle</code> if different, as its link title in the menu. If a section subfolder has pages other than <code>_index.md</code> or <code>_index.html</code>, those pages will appear as a submenu, again ordered by <code>weight</code>. For example, here&rsquo;s the metadata for this page showing its <code>weight</code> and <code>title</code>:</p>
+<div class="highlight"><pre style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#000">---</span><span style="color:#f8f8f8;text-decoration:underline">
+</span><span style="color:#f8f8f8;text-decoration:underline"></span><span style="color:#204a87;font-weight:bold">title</span><span style="color:#000;font-weight:bold">:</span><span style="color:#f8f8f8;text-decoration:underline"> </span><span style="color:#4e9a06">&#34;Navigation and Search&#34;</span><span style="color:#f8f8f8;text-decoration:underline">
+</span><span style="color:#f8f8f8;text-decoration:underline"></span><span style="color:#204a87;font-weight:bold">linkTitle</span><span style="color:#000;font-weight:bold">:</span><span style="color:#f8f8f8;text-decoration:underline"> </span><span style="color:#4e9a06">&#34;Navigation and Search&#34;</span><span style="color:#f8f8f8;text-decoration:underline">
+</span><span style="color:#f8f8f8;text-decoration:underline"></span><span style="color:#204a87;font-weight:bold">date</span><span style="color:#000;font-weight:bold">:</span><span style="color:#f8f8f8;text-decoration:underline"> </span><span style="color:#000">2017-01-05</span><span style="color:#f8f8f8;text-decoration:underline">
+</span><span style="color:#f8f8f8;text-decoration:underline"></span><span style="color:#204a87;font-weight:bold">weight</span><span style="color:#000;font-weight:bold">:</span><span style="color:#f8f8f8;text-decoration:underline"> </span><span style="color:#0000cf;font-weight:bold">3</span><span style="color:#f8f8f8;text-decoration:underline">
+</span><span style="color:#f8f8f8;text-decoration:underline"></span><span style="color:#204a87;font-weight:bold">description</span><span style="color:#000;font-weight:bold">:</span><span style="color:#f8f8f8;text-decoration:underline"> </span><span style="color:#000;font-weight:bold">&gt;</span><span style="color:#8f5902;font-style:italic">
+</span><span style="color:#8f5902;font-style:italic">  </span><span style="color:#f8f8f8;text-decoration:underline">  </span><span style="color:#000">Customize site navigation and search for your Docsy site.</span><span style="color:#f8f8f8;text-decoration:underline">
+</span><span style="color:#f8f8f8;text-decoration:underline"></span><span style="color:#000">---</span><span style="color:#f8f8f8;text-decoration:underline">
+</span></code></pre></div><p>To hide a page or section from the menu, set <code>toc_hide: true</code> in front matter.</p>
+<p>By default, the section menu shows the current section fully expanded all the way down. This may make the left nav too long and difficult to scan for bigger sites. Try setting site param <code>ui.sidebar_menu_compact = true</code> in <code>config.toml</code>.</p>
+<p>With the compact menu (<code>.ui.sidebar_menu_compact = true</code>), only the current page&rsquo;s ancestors, siblings and direct descendants are shown. You can use the optional parameter <code>.ui.ul_show</code> to set a desired menu depth to always be visible. For example, with <code>.ui.ul_show = 1</code> the first menu level is always displayed.</p>
+<p>On large sites (default: &gt; 2000 pages) the section menu is not generated for each page, but cached for the whole section. The HTML classes for marking the active menu item (and menu path) are then set using JS. You can adjust the limit for activating the cached section menu with the optional parameter <code>.ui.sidebar_cache_limit</code>.</p>
+<h3 id="adding-icons-to-section-menu">Adding icons to section menu</h3>
+<p>It&rsquo;s also possible to add icons to the section menu in the sidebar by setting the <code>icon</code> parameter in the page front matter (e.g. <code>icon: fas fa-tools</code>).</p>
+<p>You can find a complete list of icons to use in the <a href="https://fontawesome.com/icons?d=gallery&amp;p=2">FontAwesome documentation</a>. Docsy includes the free FontAwesome icons by default.</p>
+<p>Out of the box, if you want to use icons, you should define icons for all items on the same menu level in order to ensure an appropriate look. If the icons are used in a different way, individual CSS adjustments are likely necessary.</p>
+<h3 id="add-manual-links-to-section-menu">Add manual links to section menu</h3>
+<p>By default the section menu is entirely generated from your section&rsquo;s pages. If you want to add a manual link to this menu, such as a link to an external site or a page in a different section of your site, you can do this by creating a <em>placeholder page file</em> in the doc hierarchy with the appropriate weight and some special parameters in its metadata (frontmatter) to specify the link details.</p>
+<p>To create a placeholder page, create a page file as usual in the directory where you want the link to show up in the menu, and add a <code>manualLink</code> parameter to its metadata. If a page has <code>manualLink</code> in its metadata, Docsy generates a link for it in the section menu for this page and in the section index (the list of the child pages of a section on a landing page - see <a href="/docs/adding-content/content/#docs-section-landing-pages">description in the Docsy docs</a>), but the link destination is replaced by the value of <code>manualLink</code>. The link text is the <code>title</code> (or <code>linkTitle</code> if set) of your placeholder page. You can optionally also set the <code>title</code> attribute of the link with the parameter <code>manualLinkTitle</code> and a link target with <code>manualLinkTarget</code> - for example if you want an external link to open in a new tab you can set the link target to <code>_blank</code>. Docsy automatically adds <code>rel=noopener</code> to links that open new tabs as a security best practice.</p>
+<p>You can also use <code>manualLink</code> to add an additional cross reference to another existing page of your site. For internal links you can choose to use the parameter <code>manualLinkRelref</code> instead of <code>manualLink</code> to use the built-in Hugo function <a href="https://gohugo.io/functions/relref/" title="External link to official Hugo Docs">relref</a>. If <code>relref</code> can&rsquo;t find a unique page in your site, Hugo throws a error message.</p>
+
+
+<div class="alert alert-primary" role="alert">
+<h4 class="alert-heading">Note</h4>
+
+    Although all generated menu and landing page links based on your placeholder file are set according to the parameters <code>manualLink</code> or <code>manualLinkRelref</code>, Hugo still generates a regular HTML site page for the file, albeit one with no generated links to it. To avoid confusion if users accidentally land on a generated placeholder page, we recommend specifying the URL for the external link in the normal content and / or page description of the page.
+
+</div>
+
+<h2 id="breadcrumb-navigation">Breadcrumb navigation</h2>
+<p>Breadcrumb navigation is enabled by default. To disable breadcrumb navigation, set site param <code>ui.breadcrumb_disable = true</code> in <code>config.toml</code>.</p>
+<h2 id="site-search-options">Site search options</h2>
+<p>Docsy offers multiple options that let your readers search your site content, so you can pick one that suits your needs. You can choose from:</p>
+<ul>
+<li><a href="#configure-search-with-a-google-custom-search-engine">Google Custom Search Engine</a> (GCSE), the default option, which uses Google&rsquo;s index of your public site to generate a search results page.</li>
+<li><a href="#configure-algolia-docsearch">Algolia DocSearch</a>, which uses Algolia&rsquo;s indexing and search mechanism, and provides an organized dropdown of search results when your readers use the search box. Algolia DocSearch is free for public documentation sites.</li>
+<li><a href="#configure-local-search-with-lunr">Local search with Lunr</a>, which uses Javascript to index and search your site without the need to connect to external services. This option doesn&rsquo;t require your site to be public.</li>
+</ul>
+<p>If you enable any of these search options in your <code>config.toml</code>, a search box displays in the right of your top navigation bar. By default a search box also displays at the top of the section menu in the left navigation pane, which you can disable if you prefer, or if you&rsquo;re using a search option that only works with the top search box.</p>
+<p>Be aware that if you accidentally enable more than one search option in your <code>config.toml</code> you may get unexpected results (for example, if you have added the <code>.js</code> for Algolia DocSearch, you&rsquo;ll get Algolia results if you enable GCSE search but forget to disable Algolia search).</p>
+<h3 id="disabling-the-sidebar-search-box">Disabling the sidebar search box</h3>
+<p>By default, the search box appears in both the top navigation bar and at the top of the sidebar left navigation pane. If you don&rsquo;t want the sidebar search box, set <code>sidebar_search_disable</code> to <code>true</code> in <code>config.toml</code>:</p>
+<pre><code>sidebar_search_disable = true
+</code></pre><h2 id="configure-search-with-a-google-custom-search-engine">Configure search with a Google Custom Search Engine</h2>
+<p>By default Docsy uses a <a href="https://cse.google.com/cse/all">Google Custom Search Engine</a> (GCSE) to search your site. To enable this feature, you&rsquo;ll first need to make sure that you have built a public production version of your site, as otherwise your site won&rsquo;t be crawled and indexed.</p>
+<h3 id="setting-up-site-search">Setting up site search</h3>
+<ol>
+<li>
+<p>Deploy your site and ensure that it&rsquo;s built with <code>HUGO_ENV=&quot;production&quot;</code>, as Google will only crawl and index Docsy sites built with this setting (you probably don&rsquo;t want your not-ready-for-prime-time site to be searchable!). You can specify this variable as a command line flag to Hugo:</p>
+<pre><code>$ env HUGO_ENV=&quot;production&quot; hugo
+</code></pre><p>Alternatively, if you&rsquo;re using Netlify, you can specify it as a Netlify <a href="https://www.netlify.com/docs/continuous-deployment/#build-environment-variables">deployment setting</a> in <code>netlify.toml</code> or the Netlify UI, along with the Hugo version. It may take a day or so before your site has actual search results available.</p>
+</li>
+<li>
+<p>Create a Google Custom Search Engine for your deployed site by clicking <strong>New search engine</strong> on the <a href="https://cse.google.com/cse/all">Custom Search page</a> and following the instructions. Make a note of the ID for your new search engine.</p>
+</li>
+<li>
+<p>Add any further configuration you want to your search engine using the <strong>Edit search engine</strong> options. In particular you may want to do the following:</p>
+<ul>
+<li>Select <strong>Look and feel</strong>. Change from the default <strong>Overlay</strong> layout to <strong>Results only</strong>, as this option means your search results are embedded in your search page rather than appearing in a separate box. Click <strong>Save</strong> to save your changes.</li>
+<li>Edit the default result link behavior so that search results from your site don&rsquo;t open in a new tab. To do this, select <strong>Search Features</strong> - <strong>Advanced</strong> - <strong>Websearch Settings</strong>. In the <strong>Link Target</strong> field, type &ldquo;_parent&rdquo;. Click <strong>Save</strong> to save your changes.</li>
+</ul>
+</li>
+</ol>
+
+
+<div class="alert alert-primary" role="alert">
+<h4 class="alert-heading">Tip</h4>
+
+    Your site search results should show up within a couple of days. If it takes longer than that, you can manually request that your site is indexed by <a href="https://support.google.com/webmasters/answer/183668?hl=en">submitting a sitemap through the Google Search Console</a>.
+
+</div>
+
+<h3 id="adding-the-search-page">Adding the search page</h3>
+<p>Once you have your search engine set up, you can add the feature to your site:</p>
+<ol>
+<li>
+<p>Ensure you have a Markdown file in <code>content/en/search.md</code> (and one per other languages if needed) to display your search results. It only needs a title and <code>layout: search</code>, as in the following example:</p>
+<pre><code>---
+title: Search Results
+layout: search
+---
+</code></pre></li>
+<li>
+<p>Add your Google Custom Search Engine ID to the site params in <code>config.toml</code>. You can add different values per language if needed.</p>
+<pre><code># Google Custom Search Engine ID. Remove or comment out to disable search.
+gcs_engine_id = &quot;011737558837375720776:fsdu1nryfng&quot;
+</code></pre></li>
+</ol>
+<h3 id="disabling-gcse-search">Disabling GCSE search</h3>
+<p>If you don&rsquo;t specify a Google Custom Search Engine ID for your project and haven&rsquo;t enabled any other search options, the search box won&rsquo;t appear in your site. If you&rsquo;re using the default <code>config.toml</code> from the example site and want to disable search, just comment out or remove the relevant line.</p>
+<h2 id="configure-algolia-docsearch">Configure Algolia DocSearch</h2>
+<p>As an alternative to GCSE, you can use <a href="https://community.algolia.com/docsearch/">Algolia DocSearch</a> with this theme. Algolia DocSearch is free for public documentation sites.</p>
+<h3 id="sign-up-for-algolia-docsearch">Sign up for Algolia DocSearch</h3>
+<p>Complete the form at <a href="https://community.algolia.com/docsearch/#join-docsearch-program">https://community.algolia.com/docsearch/#join-docsearch-program</a>.</p>
+<p>If you are accepted to the program, you will receive the JavaScript code to add to your documentation site from Algolia by email.</p>
+<h3 id="adding-algolia-docsearch">Adding Algolia DocSearch</h3>
+<ol>
+<li>
+<p>Enable Algolia DocSearch in <code>config.toml</code>.</p>
+<pre><code># Enable Algolia DocSearch
+algolia_docsearch = true
+</code></pre></li>
+<li>
+<p>Remove or comment out any GCSE ID in <code>config.toml</code> and ensure local search is set to <code>false</code> as you can only have one type of search enabled. See <a href="#disabling-gcse-search">Disabling GCSE search</a>.</p>
+</li>
+<li>
+<p>Disable the sidebar search in <code>config.toml</code> as this is not currently supported for Algolia DocSearch. See <a href="#disabling-the-sidebar-search-box">Disabling the sidebar search box</a>.</p>
+</li>
+<li>
+<p>Add the JavaScript code provided to you by Algolia to the head and body of every page on your site. See <a href="/docs/adding-content/lookandfeel/#add-code-to-head-or-before-body-end">Add code to head or before body end</a> for details.</p>
+</li>
+<li>
+<p>Update the <code>inputSelector</code> field in the body end Javascript with the appropriate CSS selector (e.g. <code>.td-search-input</code> to use the default CSS from this theme).</p>
+</li>
+</ol>
+<p>When you&rsquo;ve completed these steps the Algolia search should be enabled on your site. Search results are displayed as a drop-down under the search box, so you don&rsquo;t need to add any search results page.</p>
+<h2 id="configure-local-search-with-lunr">Configure local search with Lunr</h2>
+<p><a href="https://lunrjs.com/">Lunr</a> is a Javascript-based search option that lets you index your site and make it searchable without the need for external, server-side search services. This is a good option particularly for smaller or non-public sites.</p>
+<p>To add Lunr search to your Docsy site:</p>
+<ol>
+<li>
+<p>Enable local search in <code>config.toml</code>.</p>
+<pre><code># Enable local search
+offlineSearch = true
+</code></pre></li>
+<li>
+<p>Remove or comment out any GCSE ID in <code>config.toml</code> and ensure Algolia DocSearch is set to <code>false</code>, as you can only have one type of search enabled. See <a href="#disabling-gcse-search">Disabling GCSE search</a>.</p>
+</li>
+</ol>
+<p>Once you&rsquo;ve completed these steps, local search is enabled for your site and results appear in a drop down when you use the search box.</p>
+
+
+<div class="alert alert-primary" role="alert">
+<h4 class="alert-heading">Tip</h4>
+
+    If you&rsquo;re <a href="/docs/deployment/#serving-your-site-locally">testing this locally</a> using Hugo’s local server functionality, you need to build your <code>offline-search-index.xxx.json</code> file first by running <code>hugo</code>. If you have the Hugo server running while you build <code>offline-search-index.xxx.json</code>, you may need to stop the server and restart it in order to see your search results.
+
+</div>
+
+<h3 id="changing-the-summary-length-of-the-local-search-results">Changing the summary length of the local search results</h3>
+<p>You can customize the summary length by setting <code>offlineSearchSummaryLength</code> in <code>config.toml</code>.</p>
+<pre><code>#Enable offline search with Lunr.js
+offlineSearch = true
+offlineSearchSummaryLength = 200
+</code></pre><h3 id="changing-the-maximum-result-count-of-the-local-search">Changing the maximum result count of the local search</h3>
+<p>You can customize the maximum result count by setting <code>offlineSearchMaxResults</code> in <code>config.toml</code>.</p>
+<pre><code>#Enable offline search with Lunr.js
+offlineSearch = true
+offlineSearchMaxResults = 25
+</code></pre><h3 id="changing-the-width-of-the-local-search-results-popover">Changing the width of the local search results popover</h3>
+<p>The width of the search results popover will automatically widen according to the content.</p>
+<p>If you want to limit the width, add the following scss into <code>assets/scss/_variables_project.scss</code>.</p>
+<div class="highlight"><pre style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-scss" data-lang="scss"><span style="color:#204a87;font-weight:bold">body</span> <span style="color:#000;font-weight:bold">{</span>
+    <span style="color:#000">.popover.offline-search-result</span> <span style="color:#000;font-weight:bold">{</span>
+        <span style="color:#204a87;font-weight:bold">max-width</span><span style="color:#5c35cc;font-weight:bold">:</span> <span style="color:#204a87;font-weight:bold">460px</span><span style="color:#000;font-weight:bold">;</span>
+    <span style="color:#000;font-weight:bold">}</span>
+<span style="color:#000;font-weight:bold">}</span>
+</code></pre></div><h3 id="excluding-pages-from-local-search-results">Excluding pages from local search results</h3>
+<p>To exclude pages from local search results, add <code>exclude_search: true</code> to the the frontmatter of each page:</p>
+<div class="highlight"><pre style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#000">---</span><span style="color:#f8f8f8;text-decoration:underline">
+</span><span style="color:#f8f8f8;text-decoration:underline"></span><span style="color:#204a87;font-weight:bold">title</span><span style="color:#000;font-weight:bold">:</span><span style="color:#f8f8f8;text-decoration:underline"> </span><span style="color:#4e9a06">&#34;Index&#34;</span><span style="color:#f8f8f8;text-decoration:underline">
+</span><span style="color:#f8f8f8;text-decoration:underline"></span><span style="color:#204a87;font-weight:bold">weight</span><span style="color:#000;font-weight:bold">:</span><span style="color:#f8f8f8;text-decoration:underline"> </span><span style="color:#0000cf;font-weight:bold">10</span><span style="color:#f8f8f8;text-decoration:underline">
+</span><span style="color:#f8f8f8;text-decoration:underline"></span><span style="color:#204a87;font-weight:bold">exclude_search</span><span style="color:#000;font-weight:bold">:</span><span style="color:#f8f8f8;text-decoration:underline"> </span><span style="color:#204a87;font-weight:bold">true</span><span style="color:#f8f8f8;text-decoration:underline">
+</span><span style="color:#f8f8f8;text-decoration:underline"></span><span style="color:#000">---</span><span style="color:#f8f8f8;text-decoration:underline">
+</span></code></pre></div>
+	
+	
+	<div class="text-muted mt-5 pt-3 border-top">Last modified January 5, 2017
+</div>
+</div>
+
+
+          </main>
+        </div>
+      </div>
+
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF" crossorigin="anonymous"></script>
+
+
+<script src="https://cdn.jsdelivr.net/npm/mermaid@8.9.2/dist/mermaid.min.js" integrity="sha384-uQikAXnCAqsMb3ygtdqBYvcwvHUkzGIpjdGyy9owhURXHUxLC5LgTcSxJQH/RzjK" crossorigin="anonymous"></script>
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="/js/main.min.518952ab153faee01bac387cacc98de453d47e71eb54f525fd5aeba6d9a03ca7.js" integrity="sha256-UYlSqxU/ruAbrDh8rMmN5FPUfnHrVPUl/VrrptmgPKc=" crossorigin="anonymous"></script>
+
+
+
+
+  </body>
+</html>
