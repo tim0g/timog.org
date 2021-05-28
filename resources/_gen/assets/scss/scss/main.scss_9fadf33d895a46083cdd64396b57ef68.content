@@ -20263,6 +20263,21 @@ h1, h2 a {
 .nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
   background-color: #f8f9fa; }
 
+.caption {
+  font-size: 0.8em;
+  color: #666666;
+  line-height: 1.4; }
+
+.figcaption {
+  font-size: 0.8em;
+  color: #666666;
+  line-height: 1.4; }
+
+.attribution {
+  font-size: 0.8em;
+  color: #666666;
+  line-height: 1.4; }
+
 /* .td-max-width-on-larger-screens, .td-content > .pageinfo {
     max-width: 80%;
 }

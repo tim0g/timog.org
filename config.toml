@@ -7,7 +7,7 @@ enableRobotsTXT = true
 theme = ["docsy"]
 
 # Will give values to .Lastmod etc.
-# enableGitInfo = true
+enableGitInfo = true
 
 # Language settings
 contentDir = "content/en"
@@ -192,3 +192,8 @@ enable = false
 [params.mermaid]
 enable = true
 theme = "default"
+
+[[menu.main]]
+    name = "About"
+    weight = 99
+    url = "https://timog.org/blog/2021/05/22/about-timog.org/"

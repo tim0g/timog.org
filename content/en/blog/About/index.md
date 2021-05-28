@@ -1,36 +1,24 @@
 ---
-title: "When educators and national figures become fascist enablers"
+title: "About Timog.org"
 linkTitle: ""
-date: 2021-05-20
-author:  "Crystal Peralta, [The Catalyst](https://pahayagangthecatalyst.wordpress.com/)"
-description: Utilize education to express. Never weaponize degree to repress.
+date: 2021-05-22
+author:  "Leon Timog"
+description: 
 resources:
 - src: "**.{png,jpg,webp}"
   params:
     byline: 
 ---
-{{< imgproc featured Fit "600x450" >}}Layout and Design by Allaizah Diaz{{< /imgproc>}}
+Timog is a publicly accessible place where I put stuff for later reference, and to write about random topics, whenever I have the time. 
 
-<span class="drop">I</span>n a glimpse, being in line along the rosters of National Artists, which is considered as the highest recognition in the discipline of arts might only cursor through honor and prestige. However, the thing that should be magnified in this august title is how the scope of influence is boundless.  F. Sionil José is widely acknowledged as part of  the Philippines’ National Artist in Literature, bestowed by his works that reflect nationalism, anti-elite notions and social underpinnings of colonialism and class struggles which are still relevant at this time. 
+Also, part of my job is assisting recently arrived Filipinos get used to life in Japan, so there are topics about everyday aspects of life in Japan in the Guide section.
 
-It is now an open secret how this administration imposed record-high numbers of killings and acts of oppression to the critics and progressives. In the recent tally of the National Union of Journalists in the Philippines (NUJP), the country has recorded 19 murders, 37 libel cases, 52 intimidation cases, 20 online harassment cases since the Duterte administration began to reign. In line with this horrific scenario, the apparency of both suppression and oppression is more than obvious. Being a figure of expression, F Sionil Jose made statements that revealed how he must be a genius of FICTION. The operative words to begin, fiction. 
+Some other contents are for experimentation and testing, and there will be broken links and unfinished sections where I have left things either intentionally or otherwise.
 
-In a column for the Philippine Star titled, [Independence](../independence-sionil-jose/), José claimed with aplomb that Duterte is the next gold of the country--analogizing to the former president, Ramon Magsaysay. Without reluctance, he was able to hastily justify the president’s foul language and his distorted idea of “best” ruling. This belies the dreadful state of activism and progression, which the Commission on Human Rights described as the “worst state” of press freedom after the country downgraded from 136th to 138th rank in 2021 World Press Freedom Index. 
+(For anyone interested, this site was made using [Hugo](https://gohugo.io/), a static site generator, with the [Docsy](https://www.docsy.dev/) theme. All files are in [Github](https://github.com/) and deployed using [Netlify](https://www.netlify.com/).)
 
-Amidst the controversial shutting down of ABS-CBN where censures went through the roofs, it was shocking how  José’s justified this sudden termination of the country’s largest media network. He wrote a “requiem” stating that he sympathized with the number of Filipino families who lost their jobs but he assured that he will never mourn with ABS-CBN shutdown.  Unhesitatingly, he ended his requiem by stating that “The Filipinos do not really need ABS-CBN”. His profound approval to the discontinuity of the network was catalyzed by his personal hate towards the oligarchs of the people. Alongside shutting down a media outfit, it ramified 11,000 workers to lose their jobs, but a body of expression which ought to defend the freedom of expression, had weaponized his power to cheer up in this horror. 
+Most of the news, articles and essays in this site that are from other websites are under Creative Commons license. Others, I have treated as under fair use--and have copied them and given attribution as appropriate.
 
-If one thing is more dreadful than the rest, is how José phlegmatically stated that the country during Duterte’s governance is “far safer now”. The unforgettable bloodshed of the extra-judicial killings caused by Duterte’s war-on-drugs, the high-rise number of killings of media practitioners, peasant activists and progressives- these are just the few of the many contradictions on how it is possible for a public figure to call out country “safe”. The fear cuts deeper and deeper as the 2020 Social Weather Station reveals that 65 percent of Filipino adults believe that it is fearful to publish any print or broadcast critical takes against the administration even if it’s the truth.  
+All original content in Timog.org are under [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/) license. Copy & paste as much as you like.
 
-John Pablo Salud, a fellow book author vented out his disappointment on how José’s consistent reliance on the government is still unwavered despite the current reports of media killings and progressives repression. To be fair, it was also stated by Salud that  José’s factors of aging and mental capacities are weakening due to suffering from dementia. These details were put into consideration why  José is still an avid believer of this administration. However,  Salud stated  that “when people are being murdered, siding with the executioners is not a matter of debate”. Foremost, it is beyond “catastrophic” to realize how an influential body of Arts, which seemed to be an undying discipline especially today, is still choosing to shut their unquestionable ability to call out and influence. 
-
-Art is the ultimate form of expression. It is saddening to know that a representation of Filipino art is enabling a fascist to retrograde the country’s freedom of speech and entitlement of opinions.  José being earmarked as a genius of fiction must have been the best label. Everything he consistently believes in seems so unreal to take. However, the lives taken and identities harassed were not products of just mere imagination and no flowering words nor understatement can sugarcoat this trepidation- this is the real state of the country. 
-
-Localizing more the significance of why this needs to be called out,just imagine the number of educators who look up to these national figures as inspirations to teach the youth. Domino effect it must be, being one of the pioneers of arts is more than the title itself but the accountability it holds. It is very undeniable how educators can be also a subject of enabling fascism. It is very undoubtful how this influence of supporting a fascist translates over huge personalities just like Harry Roque, a former law professor. A pill that is hard to swallow, not everyone who educates, is truly educated. 
-
-Starting from a normal scenario, when educators refuse to hear the appeals and opinions of their students up to the fact that many professors are still in their stand to support this government. A learning setting should guarantee a learner’s feeling of safety, but up to this day professors who neglect political opposition and critics do not guarantee a secured learning environment.  It was stated by  José the notable quote that “the influence of teachers extends beyond the classroom well into the future”. He spoke for himself and his massive influence together with the power of an educator to impact a learner- now it boils down to what kind of influence that is translated with their stands. 
-
-It seems confusing, what is more unsettling, is the fact that a National Artist enables a fascist which serves an utter irony to how he views himself as an anti-dictator and his works defying anti-elite views or how his scope of influence can even transcends through educators and professors that are disposed in nurturing the youth? Truth to tell, degree and prestige is sometimes weaponized to stay in privilege and the fact that they are benefiting in this fascist system. No one questions the ability of F. Sionil José as a prolific writer,  his  to write in excellence nor the capability of educators to teach. The question here, to whom they dedicate their excellence in their fields- to the masses? or to the silencers of the masses. This comes across the thought that education equates no actual learning when one uses it to only benefit oneself.
-
-{{% pageinfo %}}
-Originally published in [The Catalyst](https://pahayagangthecatalyst.wordpress.com/2021/05/19/feature-faces-of-fascism-when-educators-and-national-figures-become-fascist-enablers/).
-{{% /pageinfo %}}
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
