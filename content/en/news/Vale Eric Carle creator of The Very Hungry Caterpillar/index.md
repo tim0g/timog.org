@@ -9,7 +9,7 @@ resources:
   params:
     byline:
 ---
-  <figure>
+  <figure class="align-center zoomable">
     <img src="https://images.theconversation.com/files/403126/original/file-20210527-17-t6rflu.jpg?ixlib=rb-1.1.0&rect=13%2C0%2C2977%2C2038&q=45&auto=format&w=754&fit=clip" />
       <figcaption><span class="attribution"><a class="source" href="https://photos-cdn.aap.com.au/Image/20210527001545437359?path=/aap_dev11/device/imagearc/2021/05-27/bd/fb/8d/aapimage-7fyhmqbwqb711da017r9_layout.jpg">AP Photo/Richard Drew</a></span>
       </figcaption>
@@ -115,10 +115,9 @@ resources:
 
 <p>Ultimately, after some mild abdominal pain and a medicinal green leaf, he transforms into a handsome butterfly.</p>
 
-<figure>
-            <iframe width="440" height="260" src="https://www.youtube.com/embed/vkYmvxP0AJI?wmode=transparent&amp;start=0" frameborder="0" allowfullscreen=""></iframe>
-            <figcaption><span class="caption">‘On Monday, he ate through one apple, but he was still hungry…’</span></figcaption>
-          </figure>
+<div class="yt"><iframe width="440" height="260" src="https://www.youtube.com/embed/vkYmvxP0AJI?wmode=transparent&amp;start=0" frameborder="0" allowfullscreen=""></iframe></div>
+<figcaption><span class="caption">‘On Monday, he ate through one apple, but he was still hungry…’</span></figcaption>
+          
 
 <p>Carle’s multifaceted practice, combined with his distinctive visual language, transforms his books into objects of wonder and play, lending themselves to repeated readings.</p>
 
