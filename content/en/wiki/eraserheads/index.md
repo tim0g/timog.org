@@ -2,6 +2,11 @@
 title: "Eraserheads"
 linkTitle: ""
 description: Filipino rock band
+resources:
+- src: "**.{png,jpg,webp}"
+  params:
+    byline:
+hide_feedback: true
 ---
 **Eraserheads** was a Filipino rock band formed in 1989. Consisting of [Ely Buendia](../ely-buendia), [Buddy Zabala](../buddy-zabala), [Marcus Adoro](../marcus-adoro), and [Raimund Marasigan](../raimund-marasigan), the band became one of the most successful, most influential, critically acclaimed, and significant bands in the history of Philippine music, leaving a legacy that made them the most commercially successful Filipino music artist of all time. Often dubbed as "The Beatles of the Philippines", they are credited for spearheading a second wave of Manila band invasions, paving the way for a host of Philippine alternative rock bands.
 

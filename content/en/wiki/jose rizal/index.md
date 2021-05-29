@@ -2,10 +2,15 @@
 title: "Jose Rizal"
 linkTitle: "Rizal, Jose"
 description: Filipino nationalist and polymath
+resources:
+- src: "**.{png,jpg,webp}"
+  params:
+    byline:
+hide_feedback: true
 ---
-**José Protasio Rizal Mercado y Alonso Realonda** (*June 19, 1861 – December 30, 1896*) was a Filipino nationalist and polymath during the tail end of the Spanish colonial period of the Philippines. He is tagged as the national hero of the Filipino people. An ophthalmologist by profession, Rizal became a writer and a key member of the Filipino Propaganda Movement, which advocated political reforms for the colony under Spain.
+<img src="featured-jose-rizal.jpg" class="float-left">
 
-<img src="featured-jose-rizal.jpg" alt="Girl in a jacket" style=”float: left; padding: 0 15px 15px 0;”> 
+**José Protasio Rizal Mercado y Alonso Realonda** (*June 19, 1861 – December 30, 1896*) was a Filipino nationalist and polymath during the tail end of the Spanish colonial period of the Philippines. He is tagged as the national hero of the Filipino people. An ophthalmologist by profession, Rizal became a writer and a key member of the Filipino Propaganda Movement, which advocated political reforms for the colony under Spain.
 
 He was executed by the Spanish colonial government for the crime of rebellion after the Philippine Revolution, inspired in part by his writings, broke out. Though he was not actively involved in its planning or conduct, he ultimately approved of its goals which eventually led to Philippine independence.
 

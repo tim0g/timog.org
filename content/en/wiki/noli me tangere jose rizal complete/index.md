@@ -2,6 +2,11 @@
 title: "Noli Me Tangere by Jose Rizal"
 linkTitle: "Noli Me Tangere"
 description: "Complete English translation by Charles Derbyshire"
+resources:
+- src: "**.{png,jpg,webp}"
+  params:
+    byline:
+hide_feedback: true
 ---
 
 **Translated into English from the original Spanish**

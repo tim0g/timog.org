@@ -2,6 +2,11 @@
 title: "Raimund Marasigan"
 linkTitle: "Marasigan, Raimund"
 description: Filipino musician
+resources:
+- src: "**.{png,jpg,webp}"
+  params:
+    byline:
+hide_feedback: true
 ---
 **Raimund Emmanuel Parcon Marasigan** (born May 22, 1971) is a Filipino rock musician and record producer. His first name is often misspelled Raymond or Raimond though he personally prefers to spell his name as Raymund. The breadth of his projects has made him one of the most well-respected mainstays of the Philippine rock band scene. He was the drummer, vocalist and lyricist alongside bandmate [Ely Buendia](../ely-buendia) of the [Eraserheads](../eraserheads), and the current keyboard/synths player for Pedicab, former rhythm guitarist and now frontman of Sandwich, current drummer of Cambio, vocalist of Project 1 and the man behind Squid 9. Currently, he holds bass for his newest band, Gaijin. Aside from writing songs and being a musician, he is also a record producer, voice actor, TV host and product endorser.
 

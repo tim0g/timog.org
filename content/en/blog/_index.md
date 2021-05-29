@@ -3,7 +3,7 @@ title: "Blog"
 linkTitle: "Blog"
 menu:
   main:
-    weight: 30
+    weight: 50
 ---
 
 This is the **blog** section.

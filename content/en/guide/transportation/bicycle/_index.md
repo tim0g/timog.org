@@ -6,7 +6,7 @@ description: >
   Lahat ng kailangan mong malaman sa pagsakay ng bisikleta sa Japan
 ---
 
-![Biycle beside a cabin](/static/images/bicycle-beside-cabin_320_640.jpg)
+![Biycle beside a cabin](/static/img/bicycle-beside-cabin_320_640.jpg)
 
 Karamihan ng mga Hapon ay natututong sumakay ng bisikleta bago pa lang pumasok sa elementary school kaya ang bisikleta ang isa sa pinakapopular na sasakyan sa Japan. Walang kailangang lisensya, walang gastos para sa gasolina at kaunti lang ang kailangang maintenance.
 
@@ -30,7 +30,7 @@ O ang tinatawag nilang *mamachari* (parang sa itaas), popular sa mga high school
 
 ### **Mountain bike**
 
-![Mountain bike](/static/images/mountain-bike_320_640.jpg)
+![Mountain bike](/static/img/mountain-bike_320_640.jpg)
 
 Mas sporty ang style at mas pamilyar sa mga Pinoy kaya marami ang may gusto nito. 
 
@@ -46,7 +46,7 @@ Mas sporty ang style at mas pamilyar sa mga Pinoy kaya marami ang may gusto nito
 
 ### **Road bike**
 
-![Road bike](/static/images/road-bike_320_640.jpg)
+![Road bike](/static/img/road-bike_320_640.jpg)
 
 Parang mountain bike ang hugis pero mas manipis ang gulong at magaang ang katawan para mabilis na puwedeng sakyan sa mga daan. Hindi magandang sasakyan sa pang araw-araw na gawain.
 
@@ -71,7 +71,7 @@ Ang mga city bike ay mabibili sa kahit saang home center. Kung gusto mo ng disen
 
 Mukhang simple lang ang pagsakay ng bisikleta pero maraming rules na kailangang maging pamilyar tayo para maging ligtas at komportable ang pagbibisikleta.
 
-![Pedestrian and bicycle lane](/static/images/pedestrian-bicycle_320_640.jpg)
+![Pedestrian and bicycle lane](/static/img/pedestrian-bicycle_320_640.jpg)
 
 * Ang bisikleta ay isang uri ng sasakyan kaya ang daanan nito ay sa kalsada, hindi sa sidewalk (puwera ang mga batang wala pang 13 taong gulang at mga matatandang 70 taon pataas, o mga taong may kapansanan).
 * Sa kaliwang bahagi ng kalsada dumaan.

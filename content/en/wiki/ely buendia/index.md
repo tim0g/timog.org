@@ -2,6 +2,11 @@
 title: Ely Buendia
 linkTitle: ""
 description: Filipino musician
+resources:
+- src: "**.{png,jpg,webp}"
+  params:
+    byline:
+hide_feedback: true
 ---
 **Ely Eleandre Basiño Buendia** (born November 2, 1970), popularly known as Ely Buendia, is a Filipino musician, writer and director who gained fame as guitarist, songwriter and lead vocalist of the popular Filipino rock band [Eraserheads](../eraserheads). Widely regarded as one of the most respected music icons in the country, his compositions gained massive commercial success and universal critical acclaim, topping various music charts and leaving a legacy in Philippine popular culture. He currently performs as guitarist and lead vocalist for Apartel.
 

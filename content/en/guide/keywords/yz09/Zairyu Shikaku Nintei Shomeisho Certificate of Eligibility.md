@@ -5,7 +5,7 @@ weight: 2640
 no_list: true
 hide_readingtime: true
 description: >
-   在留資格認定証明書 (Zairyuu Shikaku Nintei Shoumeisho) [🖼](/static/images/zairyu-shikaku-nintei-shomeisho-certificate-of-eligibility.jpg)
+   在留資格認定証明書 (Zairyuu Shikaku Nintei Shoumeisho) [🖼](/static/img/zairyu-shikaku-nintei-shomeisho-certificate-of-eligibility.jpg)
 ---
 Dokumentong iniisyu ng isang immigration office ng Japan upang sabihin sa Japanese Embassy sa Pilipinas na ang taong nasa dokumentong ito ay pasado sa mga requirements para makapasok sa Japan.
 

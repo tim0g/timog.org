@@ -2,6 +2,11 @@
 title: "Manila Times"
 linkTitle: ""
 description: Philippine print and online newspaper
+resources:
+- src: "**.{png,jpg,webp}"
+  params:
+    byline:
+hide_feedback: true
 ---
 <img src="featured-manila-times.jpg" class="float-left">
 

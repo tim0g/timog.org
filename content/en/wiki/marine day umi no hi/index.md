@@ -3,12 +3,12 @@ title: "Marine Day (Umi no Hi)"
 linkTitle: ""
 description: Japanese holiday
 resources:
-- src: "*.jpg"
+- src: "**.{png,jpg,webp}"
   params:
-    byline: ""
+    byline:
+hide_feedback: true
 ---
-![Katase Enoshima Beach in Japan](featured-katase-enoshima-beach-japan.jpg)
-*Beachgoers in Katase Enoshima Beach in Japan.*
+{{< imgproc featured Fit "600x450" >}}Beachgoers in Katase Enoshima Beach in Japan.{{< /imgproc >}}
 
 Marine Day (海の日, Umi no Hi), also known as “Ocean Day” or “Sea Day”, is a Japanese national holiday usually celebrated on the third Monday in July. The purpose of the holiday is to give thanks to the ocean's bounty and to consider the importance of the ocean to Japan as an island nation.
 

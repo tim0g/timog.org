@@ -2,6 +2,11 @@
 title: "Buddy Zabala"
 linkTitle: "Zabala, Buddy"
 description: Filipino musician
+resources:
+- src: "**.{png,jpg,webp}"
+  params:
+    byline:
+hide_feedback: true
 ---
 **Hector "Buddy" Avanceña Zabala** (born November 13, 1971) is a Filipino musician and producer. He is currently the bassist of Filipino pop band Moonstar88 and indie band Cambio, and widely known as the member of the formerly disbanded and now reunited alternative rock band, [Eraserheads](../eraserheads). He also served as bassist to The Dawn and Hilera.
 

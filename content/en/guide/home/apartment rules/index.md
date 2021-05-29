@@ -1,10 +1,10 @@
 ---
-title: "Apartment rules for technical intern trainees"
+title: "Apartment rules"
 linkTitle: "Apartment rules"
 description: >
-  Panuntunan ng tirahan para sa mga technical intern trainee
+  Panuntunan sa lugar ng tirahan
 ---
-{{% pageinfo %}}**Note:** Para sa kumpanyang nagsasagawa ng training, o sa mga trainee na magkasamang nakatira sa isang tirahan na walang malinaw na panuntunan, maaring gamitin ito bilang basehan para makagawa ng sariling panuntunan sa lugar ng tirahan. Bawasan o dagdagan ayon sa pangangailangan.
+{{% pageinfo %}}**Note:** <span class="-text-red">Ang panuntunang ito ay ginawa para sa mga technical intern trainee na magkasamang nakatira sa isang apartment</span>. Maaring gamitin ito bilang basehan para makagawa ng sariling panuntunan sa lugar ng tirahan. Bawasan o dagdagan ayon sa pangangailangan.
 {{% /pageinfo %}}
 
 Bilang trainee ng kumpanya at residente ng tirahan na inuupahan ng kumpanya, ang bawat isa ay kailangang sumunod sa mga panuntunan ng tirahan na itinalaga ng kumpanya.
@@ -67,7 +67,7 @@ Ang pagpunta sa tirahan ng bisita ay madalas na sanhi ng ingay at kaguluhan na n
 
 Ang sumusunod na patakaran tungkol sa bisita ay ginawa para sa kaligtasan, katahimikan at privacy ng mga residente sa isang tirahan.
 
-**Isaisip palagi na ang karapatan ng isang residente na manatili sa tirahan nang walang bisita ay mauuna sa karapatan ng kasambahay na tumanggap ng bisita.**
+cIsaisip palagi na ang karapatan ng isang residente na manatili sa tirahan nang walang bisita ay mauuna sa karapatan ng kasambahay na tumanggap ng bisita.</span>
 
 (Ang tinatawag na “bisita” ay hindi kasama ang kinatawan ng kumpanya, *kumiai* o ahente ng gobyerno na nagsasagawa ng inspeksyon, pagsisiyasat, o opisyal na trabaho.)
 
@@ -86,7 +86,7 @@ residente o kapitbahay.
    - Hindi lalampas sa 2 tao ang bisita.
    - Sa loob lamang ng visiting hours ng 13:00- 18:00 ang oras ng pagbisita.
 2. Ang bisita ay kailangang nakasuot ng wastong proteksyon (kagaya ng mask) upang maiwasan ang pagkalat ng sakit.
-3. **Maaaring bawiin ng kahit sinong residente ng isang tirahan sa ano mang oras at dahilan ang kanyang pahintulot sa pananatili ng bisita, at ang bisita ay kailangang paalisin agad-agad ng nagpapasok nito kapag sinabihan.**
+3. <span class="-text-red">Maaaring bawiin ng kahit sinong residente ng isang tirahan sa ano mang oras at dahilan ang kanyang pahintulot sa pananatili ng bisita, at ang bisita ay kailangang paalisin agad-agad ng nagpapasok nito kapag sinabihan.</span>
 
 #### **Ingay**
 Ang ingay ang madalas na dahilan ng reklamo mula sa kabitbahay at pinanggagalingan din ng

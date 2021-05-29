@@ -1,5 +1,5 @@
 ---
-title: "Coronavirus prevention posters’"
+title: "Coronavirus prevention posters"
 linkTitle: "Posters"
 description: >
    Iba't-ibang poster na maaaring i-print at ipaskil sa lugar ng trabaho o paaralan

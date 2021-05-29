@@ -1,7 +1,7 @@
 ---
-title: "Appendix: Content and Customization"
+title: "Appendix: adding content"
 linkTitle: "Appendix"
 weight: 99999
 description: >
-  How to add content to and customize your Docsy site.
+  Content creation for site administrator
 ---

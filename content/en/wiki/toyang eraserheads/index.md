@@ -2,6 +2,11 @@
 title: "Toyang"
 linkTitle: ""
 description: Eraserheads song
+resources:
+- src: "**.{png,jpg,webp}"
+  params:
+    byline:
+hide_feedback: true
 ---
 "**Toyang**" is a song by Filipino rock band [Eraserheads](../eraserheads), from their debut album *[UltraElectroMagneticPop!](../ultraelectromagneticpop)*. Written by [Ely Buendia](../ely-buendia) and [Marcus Adoro](../marcus-adoro), it is the band's second hit single.
 

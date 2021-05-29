@@ -7,7 +7,7 @@ description: >
   Listahan ng importanteng salita tungkol sa iba't-ibang aspeto ng pamumuhay sa Japan
 weight: 999
 ---
-![Japanese calligraphy](/static/images/japanese-calligraphy_320_640.jpg)
+![Japanese calligraphy](/static/img/japanese-calligraphy_320_640.jpg)
 
 ### Note tungkol sa romaji entry sa Keywords
 

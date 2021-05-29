@@ -3,7 +3,7 @@ title: "International Driving Permit"
 linkTitle: "International Driving Permit"
 weight: 90
 description: >
-  Pagmamaneho ng sasakyan sa Japan gamit ang International Driving Permit [🖼](/static/images/kokusai-menkyo-international-driving-permit.jpg)
+  Pagmamaneho ng sasakyan sa Japan gamit ang International Driving Permit [🖼](/static/img/kokusai-menkyo-international-driving-permit.jpg)
 ---
 Kung wala kang regular na Japanese license ay maaari pa ring mag-drive ng sasakyan sa Japan gamit ang International Driving Permit (IDP), ayon sa mga rules sa ibaba.
 

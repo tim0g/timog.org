@@ -2,6 +2,11 @@
 title: "Ligaya"
 linkTitle: ""
 description: Eraserheads song
+resources:
+- src: "**.{png,jpg,webp}"
+  params:
+    byline:
+hide_feedback: true
 ---
 "**Ligaya**" (English: "Joy"), composed by [Ely Buendia](../ely-buendia), is the first single by the [Eraserheads](../eraserheads) from their debut album, *[Ultraelectromagneticpop!](../ultraelectromagneticpop)*. The single was able to make it to the Top Ten of 97.1 WLS-FM countdown. The band last performed the song in their second and final reunion concert dubbed as "The Final Set" on March 7, 2009. No music video was made for the song.
 

@@ -5,7 +5,7 @@ weight: 250
 hide_readingtime: true
 no_list: true
 description: >
-   母子手帳 (Boshi Techou) [🖼](/static/images/boshi-techo-maternity-passbook.jpg)
+   母子手帳 (Boshi Techou) [🖼](/static/img/boshi-techo-maternity-passbook.jpg)
 ---
 Literal na translation: “Mother and child notebook” o tinatawag ding “Maternity Passbook”. Importanteng maliit na notebook na binibigay sa prospective na nanay.
 

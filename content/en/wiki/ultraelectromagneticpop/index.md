@@ -2,6 +2,11 @@
 title: "Ultraelectromagneticpop!"
 linkTitle: "Ultraelectromagneticpop!"
 description: Eraserheads album
+resources:
+- src: "**.{png,jpg,webp}"
+  params:
+    byline:
+hide_feedback: true
 ---
 ***Ultraelectromagneticpop!*** (officially written and stylized as ultraelectromagneticpop!) is the debut studio album of the Filipino alternative rock band [Eraserheads](../eraserheads), released by BMG Records (Pilipinas), Inc. in 1993. Ultraelectromagneticpop! spawned hit songs such as "Ligaya", "Toyang", and "Pare Ko". The album brought the underground Philippine college rock scene into public awareness and the emergence of "Eraserheadsmania" because of successive hit singles and sold-out concerts.
 

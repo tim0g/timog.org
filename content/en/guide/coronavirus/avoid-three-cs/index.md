@@ -2,7 +2,7 @@
 title: "Avoid the ‘3 Cs’"
 linkTitle: ""
 description: >
-   Iwasan ang **Closed Spaces**, **Crowded Places** at **Close-contact Settings**
+   Iwasan ang Closed Spaces, Crowded Places at Close-contact Settings
 weight: 10
 ---
 {{% pageinfo %}}

@@ -2,10 +2,12 @@
 title: "Wiki"
 linkTitle: "Wiki"
 description: "A compendium of Philippine-related info"
+hide_feedback: true
 no_list: true
+weight: 30
 menu:
   main:
-    weight:
+    weight: 30
 ---
 {{< blocks/section color="white" >}}
 {{% blocks/feature icon="fa-lightbulb" title="Fastest OS **on the planet**!" %}}

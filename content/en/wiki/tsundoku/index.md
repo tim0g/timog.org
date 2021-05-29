@@ -2,9 +2,13 @@
 title: "Tsundoku"
 linkTitle: "Tsundoku"
 description:
+resources:
+- src: "**.{png,jpg,webp}"
+  params:
+    byline:
+hide_feedback: true
 ---
-![Tsundoku](featured-tsundoku.webp)
-*'Tsundoku' by Reddit user [Wemedge](https://www.reddit.com/r/books/comments/1efnug/asked_my_12year_old_daughter_to_illustrate/)*
+{{< imgproc featured Fit "600x450" >}}<em>Tsundoku</em> by <a href="https://www.reddit.com/r/books/comments/1efnug/asked_my_12year_old_daughter_to_illustrate/">Wemedge</a>{{< /imgproc >}}
 
 ***Tsundoku*** (Japanese: 積ん読) is acquiring reading materials but letting them pile up in one's home without reading them. It is also used to refer to books ready for reading later when they are on a bookshelf.
 

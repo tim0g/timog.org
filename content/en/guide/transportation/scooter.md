@@ -7,7 +7,7 @@ weight: 20
 description: >
   Masarap mag-scooter at mura pa ang pagkuha ng lisensya
 ---
-![Honda Super Cub](/static/images/honda-super-cub.jpg)
+![Honda Super Cub](/static/img/honda-super-cub.jpg)
 
 Napapagod ka na sa pagbibisikleta, pero mahirap (o mahal) kumuha ng driver's license? Kuha ka ng scooter (gentsuki) license!
 

@@ -3,11 +3,9 @@ title: "Consular procedures"
 linkTitle: "Consular procedures"
 weight: 95
 description: >
-  Sa Philippine Embassy sa Tokyo o Philippine Consulate sa Osaka
+  Philippine Embassy sa Tokyo o Philippine Consulate sa Osaka
+hide_feedback: true
 ---
-![Tokyo subway](/static/images/tokyo-subway_320_640.jpg)
-
-
 Paminsan-minsan ay kailangang pumunta sa Consular Section ng Philippine Embassy sa Tokyo o Consulate sa Osaka para mag-renew ng passport, mag-report ng pangaganak o pag-aasawa, at iba pang bagay na may koneksyon sa Pilipinas.
 
 Ang pupuntahan mong lugar ay depende kung saang prefecture ka nakatira.

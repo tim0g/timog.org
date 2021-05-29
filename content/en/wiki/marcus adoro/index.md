@@ -2,6 +2,11 @@
 title: "Marcus Adoro"
 linkTitle: "Adoro, Marcus"
 description: Filipino musician
+resources:
+- src: "**.{png,jpg,webp}"
+  params:
+    byline:
+hide_feedback: true
 ---
 **Marcus Antonius Corpuz Adoro** (born December 31, 1971) is a Filipino musician who was the lead guitarist of the [Eraserheads](../eraserheads), a Filipino alternative rock band in the 1990s. He is also known by the stage name or band name Markus Highway.
 

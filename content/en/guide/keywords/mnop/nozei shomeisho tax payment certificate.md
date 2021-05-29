@@ -5,7 +5,7 @@ weight: 1450
 hide_readingtime: true
 no_list: true
 description: >
-  納税証明書 (Nouzei Shoumeisho) [🖼](/static/images/nozei-shomeisho-tax-payment-certificate.jpg)
+  納税証明書 (Nouzei Shoumeisho) [🖼](/static/img/nozei-shomeisho-tax-payment-certificate.jpg)
 ---
 Nakasulat sa papel na ito ang binayaran o hindi pa binabayarang tax.
 
