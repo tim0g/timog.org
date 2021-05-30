@@ -1,6 +1,6 @@
 ---
 title: Ely Buendia
-linkTitle: ""
+linkTitle: "Buendia, Ely"
 description: Filipino musician
 resources:
 - src: "**.{png,jpg,webp}"

@@ -2,7 +2,7 @@
 title: "Pag-aaral ng Nihongo"
 linkTitle: "Nihongo"
 description: >
-  Iba't-ibang impormasyon tungkol sa pag-aaral ng Nihongo.
+  This section is experimental
 hide_feedback: true
 weight: 30
 menu:
