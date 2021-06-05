@@ -1,5 +1,5 @@
 ---
-title: "Vale Eric Carle: creator of The Very Hungry Caterpillar, a story of hope ... and holes"
+title: "Vale Eric Carle: creator of The Very Hungry Caterpillar, a story of hope... and holes"
 linkTitle: "Vale Eric Carle: creator of The Very Hungry Caterpillar"
 date: 2021-05-22
 author: <a href="https://theconversation.com/profiles/kate-cantrell-444834">Kate Cantrell</a> and <a href="https://theconversation.com/profiles/rhiannan-johnson-1236337">Rhiannan Johnson</a>, <em><a href="https://theconversation.com/institutions/university-of-southern-queensland-1069">University of Southern Queensland</a></em>

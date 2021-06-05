@@ -3,7 +3,7 @@ title: "Request to re-deliver package"
 linkTitle: "Package redelivery request"
 weight: 10
 description: >
-  Hilingin na i-deliver ulit ang hindi nakuhang package
+  Ipa-deliver ulit ang hindi nakuhang package
 ---
 ## Procedure para sa Japan Post
 
