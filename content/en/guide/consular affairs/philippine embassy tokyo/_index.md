@@ -7,7 +7,7 @@ description: >
 ---
 
 * Click [here](https://tokyo.philembassy.net/pponline/) to go to the Online ePassport Application Information page
-* Click [here](access-by-train-bus-car/) to go to the Access page with map and guide
+* Click [here](access/) to go to the Access page with map and guide
 * Click [here](https://tokyo.philembassy.net) to go to the official website of the Philippine Embassy in Tokyo
 * Click [here](../philippine-consulate-osaka) to go to the Philippine Consulate in Osaka page
 

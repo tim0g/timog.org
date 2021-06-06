@@ -1,5 +1,5 @@
 ---
-title: "Philippine Embassy in Tokyo Access"
+title: "Philippine Embassy in Tokyo access"
 linkTitle: "Access"
 weight: 1
 description: >

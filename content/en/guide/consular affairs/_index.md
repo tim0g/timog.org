@@ -1,16 +1,16 @@
 ---
-title: "Consular procedures"
-linkTitle: "Consular procedures"
+title: "Consular affairs"
+linkTitle: "Consular affairs"
 weight: 95
 description: >
-  Philippine Embassy sa Tokyo o Philippine Consulate sa Osaka
+  Philippine Embassy sa Tokyo or Philippine Consulate sa Osaka
 hide_feedback: true
 ---
 Paminsan-minsan ay kailangang pumunta sa Consular Section ng Philippine Embassy sa Tokyo o Consulate sa Osaka para mag-renew ng passport, mag-report ng pangaganak o pag-aasawa, at iba pang bagay na may koneksyon sa Pilipinas.
 
 Ang pupuntahan mong lugar ay depende kung saang prefecture ka nakatira.
 
-## [Philippine Embassy sa Tokyo](philippine-embassy-tokyo/)
+## [Philippine Embassy in Tokyo](philippine-embassy-tokyo/)
 
 Mga prefecture sa Eastern Japan na sakop ng Philippine Embassy: 
 
@@ -19,9 +19,9 @@ Mga prefecture sa Eastern Japan na sakop ng Philippine Embassy:
 |Hokkaido|Hokkaido|
 |Tohoku|Akita, Aomori, Fukushima, Iwate, Miyagi, Yamagata|
 |Kanto|Chiba, Gunma, Ibaraki, Kanagawa, Saitama, Tochigi, Tokyo|
-|Chubu| Nagano, Niigata, Shizuoka, Yamanashi (ang **Aichi**, **Fukui**, **Gifu**, **Ishikawa** at **Toyama** ay sakop ng Philippine Consulate sa Osaka)|
+|Chubu| Nagano, Niigata, Shizuoka, Yamanashi (ang **Aichi**, **Fukui**, **Gifu**, **Ishikawa** at **Toyama** ay sakop ng **Philippine Consulate sa Osaka**)|
 
-* [Official webpage ng Philippine Embassy sa Tokyo](https://tokyo.philembassy.net/)
+* [Official webpage of Philippine Embassy in Tokyo](https://tokyo.philembassy.net/)
 
 ## [Philippine Consulate sa Osaka](philippine-consulate-osaka/)
 
@@ -29,7 +29,7 @@ Mga prefecture sa Western Japan na sakop ng Philippine Consulate:
 
 |Region    |Prefecture|
 |---------------------|------------------------------------------|
-|Chubu     |Aichi, Fukui, Gifu, Ishikawa, Toyama (ang **Nagano**, **Niigata**, **Shizuoka** at **Yamanashi** ay sakop ng Philippine Embassy sa Tokyo)|
+|Chubu     |Aichi, Fukui, Gifu, Ishikawa, Toyama (ang **Nagano**, **Niigata**, **Shizuoka** at **Yamanashi** ay sakop ng **Philippine Embassy sa Tokyo**)|
 |Kansai |Hyogo, Kyoto, Mie, Nara, Osaka, Shiga, Wakayama|
 |Chugoku      |Hiroshima, Okayama, Shimane, Tottori, Yamaguchi        |
 |Shikoku| Ehime, Kagawa, Kochi, Tokushima|

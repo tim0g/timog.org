@@ -196,4 +196,4 @@ theme = "default"
 [[menu.main]]
     name = "About"
     weight = 99
-    url = "https://timog.org/blog/2021/05/22/about-timog.org/"
+    url = "https://timog.org/blog/about-timog.org/"
