@@ -1,5 +1,5 @@
 ---
-title: "Washing my work keyboard"
+title: "Cleaning a mechanical keyboard"
 linkTitle: ""
 date: 2021-06-06
 author:  Leon Timog
@@ -9,7 +9,7 @@ resources:
   params:
     byline: 
 ---
-Isa sa mga kailangang gawin na hindi magawa-gawa ay ang paglilinis ng keyboard ko sa trabaho. Dahil sa corona, hindi makalabas masyado sa bahay kaya may oras sa mga ganitong gawain.
+Isa sa mga kailangang gawin na hindi magawa-gawa ay ang paglilinis ng keyboard ko sa trabaho. Pero dahil sa corona, hindi makalabas masyado sa bahay kaya may oras sa mga ganitong gawain.
 
 #### **Topre Realforce Just Systems Japanese-layout keyboard**
 
@@ -17,7 +17,7 @@ Ito ang paborito kong keyboard sa trabaho. Hindi kami makapili ng computer na ga
 
 ![Topre Realforce Just Systems](/static/img/blog/topre-realforce-just-systems-01.jpg)
 
-Madumi. Sa ilang taon na gamit ay malagkit na ang mga keys at puno na ng alikabok, buhok, maliliit na piraso ng tinapay, balat, at kung ano-ano pang dumi ang ilalim ng mga keys.
+Madumi. Sa ilang taon na gamit ay malagkit na ang mga keys at puno na ng alikabok, buhok, maliliit na piraso ng pagkain, balat, at kung ano-ano pang dumi ang ilalim ng mga keys. Kailangan ito ng vacuum cleaner, basahan, cotton buds, at air blower.
 
 ![Topre Realforce Just Systems](/static/img/blog/topre-realforce-just-systems-04.jpg)
 
