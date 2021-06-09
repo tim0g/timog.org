@@ -1,6 +1,6 @@
 ---
-title: "The PNP is hopelessly irredeemable"
-linkTitle: ""
+title: "The Philippine National Police is hopelessly irredeemable"
+linkTitle: "The PNP is hopelessly irredeemable"
 date: 2021-05-25
 author: "Nicolas Basilio Antonio, [Philippine Collegian](https://phkule.org/)"
 description: 
