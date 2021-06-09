@@ -1,5 +1,5 @@
 ---
-title: "Ang Kwento Bilang Tulay ng Buhay at Pagsusulat ni Ricky Lee"
+title: "Ang kwento bilang tulay ng buhay at pagsusulat ni Ricky Lee"
 linkTitle: ""
 date: 2021-05-13
 author: "Arthur David San Juan, [Philippine Collegian](https://phkule.org/)"

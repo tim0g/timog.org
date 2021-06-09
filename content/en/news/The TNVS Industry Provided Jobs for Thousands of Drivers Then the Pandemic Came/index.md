@@ -1,6 +1,6 @@
 ---
-title: "The TNVS Industry Provided Jobs for Thousands of Drivers. Then the Pandemic Came."
-linkTitle: ""
+title: "The TNVS industry provided jobs for thousands of drivers. Then the pandemic came."
+linkTitle: "TNVS drivers after a year of pandemic"
 date: 2021-04-17
 author: "Immanuel Joshua Estrada, [Philippine Collegian](https://phkule.org/)"
 description: TNVS drivers had been placed in a precarious situation as demand for their service dipped due to the pandemic. A year after a lockdown was first declared, their situation is still far from ideal.
