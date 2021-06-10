@@ -1,6 +1,6 @@
 ---
-title: "Guide to acquire OEC exemption for Balik-Manggagawa"
-linkTitle: "Guide to acquire OEC exemption"
+title: "OEC exemption for Balik-Manggagawa"
+linkTitle: "OEC exemption for Balik-Manggagawa"
 description: >
   Gabay sa pagkuha ng OEC exemption para sa Balik-Manggagawa
 resources:
