@@ -40,4 +40,4 @@ Reminds me of [this](https://www.reddit.com/r/japan/comments/64mojh/is_this_norm
 
 {{< imgproc featured-0936 Fit "600x600" >}}Lumang libro sa labas: 20 yen. Madaming libro sa Japan (at nakasulat sa Nihongo, hindi English) at marami ding library at community center na may mga libro kaya mataas ang literacy rate sa bansa.{{< /imgproc >}}
 
-{{< imgproc featured-0940 Fit "600x600" >}}Ito ang binili kong libro. Mahilig akong <a href="https:/timog.org/wiki/tsundoku/">bumili ng libro na hindi ko naman binabasa</a>. Mahilig din akong bumili ng Nihongo version ng isang libro para puwede kong pagkumparahin ang English at Nihongo version.{{< /imgproc >}}
+{{< imgproc featured-0940 Fit "600x600" >}}Ito ang binili kong libro. Mahilig akong <a href="https://timog.org/wiki/tsundoku/">bumili ng libro na hindi ko naman binabasa</a>. Mahilig din akong bumili ng Nihongo version ng isang libro para puwede kong pagkumparahin ang English at Nihongo version.{{< /imgproc >}}
