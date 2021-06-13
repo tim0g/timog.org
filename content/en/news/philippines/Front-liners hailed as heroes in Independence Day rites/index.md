@@ -31,7 +31,7 @@ Zamora said the vaccination program is the last phase of the city government’s
 
 "Panawagan sa bawat isa, tayo po ay magpabakuna. Ito po ay makakapagbibigay ng proteksyon at para sa ating pamilya at mahal sa buhay (My call to everyone, let's get vaccinated. This will give us protection, our family and loved ones)," he said.
 
-New heroes
+#### **New heroes**
 
 In Pasig City, Mayor Vico Sotto also lauded medical front-liners who are trying to halt the dreaded virus.
 
@@ -51,7 +51,7 @@ In Taytay, the local government led by Mayor Joric Gacula held its Independence 
 
 "May we continue to fight for Philippine sovereignty for the generations after us," the local government said in a social media post.
 
-Blood-letting
+#### **Blood-letting**
 
 Taytay's Barangay Muzon, meanwhile, conducted a blood donation drive to contribute to the increasing demand for supply among Covid-19 patients.
 
