@@ -1,11 +1,11 @@
 ---
 title: "10K ayuda: kalabisan bang ibigay sa masa?"
 linkTitle: ""
-date: 2021-05-19
+date: 2021-05-20
 author:  "Moira Panganiban and Xyrone Pelayo, [The Catalyst](https://pahayagangthecatalyst.wordpress.com/)"
 description: 
 resources:
-- src: "**.{png,jpg,webp}"
+- src: "**.{png,jpg,PNG,JPG}"
   params:
     byline: 
 ---
