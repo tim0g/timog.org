@@ -20292,6 +20292,23 @@ figcaption {
   width: 100%;
   height: 100%; }
 
+.osm {
+  position: relative;
+  overflow: hidden;
+  width: 100%; }
+
+.osm::after {
+  display: block;
+  content: "";
+  padding-top: 56.25%; }
+
+.osm iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
+
 /* .td-max-width-on-larger-screens, .td-content > .pageinfo {
     max-width: 80%;
 }

@@ -10,15 +10,20 @@ hide_feedback: true
 ---
 **Timog Avenue** is a major road located in Quezon City within the Diliman area of northeastern Metro Manila, Philippines. It runs east–west through the southern edge of the barangay of South Triangle and is used to be named in English as South Avenue. The street is located in Quezon City's entertainment area, known for its trendy restaurants, bars and karaoke and comedy clubs. It is also home to the GMA Network Center studios located on the avenue's junction with Epifanio de los Santos Avenue (EDSA). The entire avenue is designated as National Route 172 (N172) of the Philippine highway network.
 
-{{< imgproc featured Fit "600x450" >}}
-Burger King restaurants in Quezon City, Timog and Panay Avenues, corner Barangay South Triangle, Quezon City, District 4 Barangays of Quezon City South Triangle, Paligsahan or Roces District 1, Laging Handa District 4 or Boy Scout Area, in Mother Ignacia Avenue, Sgt. Esguerra Avenue, beside Camelot Hotel, in Timog Avenue, Timog Avenue, and Panay Avenue, Torre Venezia Hotel-Suites, Saint Paul the Apostle Parish Church.
-{{< /imgproc >}}
+### Map
+
+<div class="osm"><iframe width="600" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=121.01981163024904%2C14.622288498907045%2C121.05178356170654%2C14.650856087781966&amp;layer=transportmap" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=15/14.6366/121.0358&amp;layers=T">View Larger Map</a></small></div>
+
 
 ### Route description
 
 Timog Avenue is a four-lane road located at the heart of Quezon City's entertainment district. It begins at its junction with EDSA south of East Avenue by South Triangle's border with the central Diliman village of Pinyahan. It heads west from this junction to cross GMA Network Drive and Sergeant Esguerra Avenue towards the 11th World Scout Jamboree Memorial Rotonda on the intersection with Tomas Morato Avenue.
 
 Located on or near this eastern section of Timog are the GMA studios, Kamuning MRT Station, Tune Hotel Quezon City, and Imperial Palace Suites Hotel. After crossing the Boy Scout circle, the avenue is dominated by more commercial establishments, including The Shoppes at Victoria which houses a Robinsons Supermarket, Luxent Hotel (positioned as an upscale Business and Family-friendly hotel), Torre Venezia and the Toyama Center. Located on this western section are many popular restaurants, comedy clubs, and cosmetic salons which cater to local actors working in nearby studios. The avenue terminates at the junction with Quezon Avenue south of West Avenue near West Triangle.
+
+{{< imgproc featured Fit "600x450" >}}
+Burger King restaurants in Quezon City, Timog and Panay Avenues, corner Barangay South Triangle, Quezon City, District 4 Barangays of Quezon City South Triangle, Paligsahan or Roces District 1, Laging Handa District 4 or Boy Scout Area, in Mother Ignacia Avenue, Sgt. Esguerra Avenue, beside Camelot Hotel, in Timog Avenue, Timog Avenue, and Panay Avenue, Torre Venezia Hotel-Suites, Saint Paul the Apostle Parish Church.
+{{< /imgproc >}}
 
 ### History
 

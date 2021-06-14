@@ -1,7 +1,7 @@
 ---
 title: "Tsuchiura"
 linkTitle: ""
-description: City in southern Ibaraki
+description: "City in southern Ibaraki ([Official website](https://www.city.tsuchiura.lg.jp/))"
 resources:
 - src: "**.{png,jpg,webp}"
   params:
@@ -10,7 +10,11 @@ hide_feedback: true
 ---
 **Tsuchiura** (土浦市, Tsuchiura-shi) is a city located in Ibaraki Prefecture, Japan. As of 1 October 2020, the city had an estimated population of 138,033 in 60,069 households and a population density of 1123 persons per km2. The percentage of the population aged over 65 was 29.7%. The total area of the city is 122.89 square kilometres (47.45 sq mi). About 3,000 residents are non-Japanese, a large proportion of which are Filipinos, Chinese, and Brazilians.
 
-{{< imgproc featured Fit "600x450" >}}Tsuichiura City Hall in the Urala Building near the Tsuchiura train station.{{< /imgproc >}}
+### Map
+
+<div class="osm">
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=140.0362014770508%2C35.99967405355564%2C140.28717041015628%2C36.190537861146936&amp;layer=transportmap" style="border: 1px solid gray"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=12/36.0952/140.1617&amp;layers=T">View Larger Map</a></small>
+</div>
 
 ### Geography
 
@@ -20,11 +24,11 @@ Located in southwestern Ibaraki Prefecture, Tsuchiura is situated along the west
 
 Ibaraki Prefecture
 
-- [Ushiku](../ushiku)
-- [Tsukuba](../tsukuba)
-- [Kasumigaura](../kasumigaura)
-- [Ishioka](../ishioka)
-- [Ami](../ami)
+- [Ushiku](https://timog.org/wiki/ushiku/)
+- [Tsukuba](https://timog.org/wiki/tsukuba/)
+- [Kasumigaura](https://timog.org/wiki/kasumigaura/)
+- [Ishioka](https://timog.org/wiki/ishioka/)
+- [Ami](https://timog.org/wiki/ami-ibaraki/)
 
 ### Climate
 
@@ -62,10 +66,14 @@ With the creation of the modern municipalities system after the Meiji Restoratio
 
 Tsuchiura was elevated to city status when the towns of Manabe and Tsuchiura were merged on November 3, 1940. The city suffered damage during an air raid on June 10, 1945 during World War II. On September 1, 1951, Tsuchiura absorbed parts of the village of Asahi (on the shores of Arakawa) and absorbed the village of Towa. The city later absorbed the village of Kamiotsu on November 1, 1954. On February 20, 2006, the village of Niihari (from Niihari District) was merged into Tsuchiura.
 
+
 ### Government
 
-The city is managed by the mayor's office and the city council, essentially a mayor-council government. The mayor is elected through a citywide election and the city council are elected from their respective districts. The mayor's office is made up of the Mayor, Kiyoshi Nakagawa (中川清), and Vice mayors, Hideaki Goto (五頭英明) and Hiroshi Koizumi (小泉祐司). The 28-member city council is headed by Chairperson Kiyoshi Yaguchi (矢口清). Tsuchiura's political system is similar to other cities in Japan, as the Local Autonomy Law makes all municipalities uniform in terms of power and organization. Tsuchiura contributes three members to the Ibaraki Prefectural Assembly. In terms of national politics, the city is part of Ibaraki 6th district of the lower house of the Diet of Japan.
-Economy
+The city is managed by the mayor's office and the city council, essentially a mayor-council government. The mayor is elected through a citywide election and the city council are elected from their respective districts. The city's government is made up of one mayor, vice mayors, and a 28-member city council. Tsuchiura's political system is similar to other cities in Japan, as the Local Autonomy Law makes all municipalities uniform in terms of power and organization. Tsuchiura contributes three members to the Ibaraki Prefectural Assembly. In terms of national politics, the city is part of Ibaraki 6th district of the lower house of the Diet of Japan.
+
+{{< imgproc featured Fit "600x450" >}}Tsuchiura City Hall in the Urala Building near the Tsuchiura train station.{{< /imgproc >}}
+
+### Economy
 
 Tsuchiura was formerly the center of commerce in southern Ibaraki Prefecture due to its good rail connections and location on Lake Kasumigaura. It was also the location of a major base of the Imperial Japanese Navy Air Corps both before and during the war. In the postwar era, the development of the Japanese national highway system, selection of neighboring Tsukuba as a center for government investment and development, and increasing suburbanization has resulted in the closure of many department stores and commercial facilities in the center of the city. The city has several industrial parks. Present land usage is over 30% agricultural, with lotus root as a famous local crop.
 
