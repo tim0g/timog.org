@@ -1,5 +1,5 @@
 ---
-title: "News, Articles & Essays"
+title: "News & Commentary"
 linkTitle: "News"
 weight: 10
 menu:
