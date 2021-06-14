@@ -27,4 +27,3 @@ Celebration
 
 On this day, families may visit the sea and swim, snorkel, surf, or dive. People may also participate in an event called ‘mud-ball throwing’. Mud-balls are composed of "Effective Micro-organisms" (EMs), which help break-down and eliminate sea grime. National aquariums also host special water-related events on this day.
 
-*Adapted from [Wikipedia](https://en.wikipedia.org), under [Creative Commons](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) license.*

@@ -348,4 +348,3 @@ Ang Luha at Lualhati ni Jeronima is a film inspired by the third chapter of Riza
 - Rizal appeared in the 1999 video game Medal of Honor as a secret character in multiplayer, alongside other historical figures such as William Shakespeare and Winston Churchill. He can be unlocked by completing the single-player mode, or through cheat codes.
 - The Tekken series introduced a character by the name of Josie Rizal in acknowledgement of José Rizal.
 
-*Adapted from [Wikipedia](https://en.wikipedia.org), under [Creative Commons](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) license.*

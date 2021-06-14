@@ -56,4 +56,3 @@ At nakatambay kami sa Tandang Sora
 We were not too young at all wohh...
 
 
-*Partly adapted from [Wikipedia](https://en.wikipedia.org), under [Creative Commons](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) license.*

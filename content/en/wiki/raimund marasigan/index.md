@@ -76,4 +76,3 @@ After some various TV appearances as a host, such as being a guest host and part
 
 - Run Barbi Run (1995)
 
-*Adapted from [Wikipedia](https://en.wikipedia.org), under [Creative Commons](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) license.*

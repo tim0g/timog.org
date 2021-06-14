@@ -64,4 +64,3 @@ The first issue of The Manila Times on October 11, 1898 had a sheet of two leave
 
 - On July 20, 1999, The Manila Times was acquired by Katrina Legarda and Reghis Romero from Gokongwei and then shut down for the third time on July 23, 1999 and later re-opened on October 11, 1999. On May 14, 2001, Mark Jimenez acquired the paper, until he sold to Dante Ang, a publicist for President Gloria Macapagal Arroyo on August 8, 2001.
 
-*Adapted from [Wikipedia](https://en.wikipedia.org), under [Creative Commons](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) license.*

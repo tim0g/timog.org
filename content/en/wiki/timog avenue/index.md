@@ -28,4 +28,3 @@ The quadrangle is bordered on the north by North Avenue, on the east by East Ave
 
 The Diliman Quadrangle had been largely undeveloped for decades due to lack of funding. After several revisions, the government planners moved the city center to Novaliches due to its higher elevation. On April 24, 1964, the Quezon City council renamed streets in the area commemorated at the 11th World Scout Jamboree the previous year, it was to be renamed Boy Scouts Avenue, but the government disagreed, however the street eventually renamed Timog Avenue (Tagalog for South). By 1976, the country's capital had been transferred back to Manila with only the Quezon Memorial built in the former capital site. 
 
-*Adapted from [Wikipedia](https://en.wikipedia.org), under [Creative Commons](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) license.*

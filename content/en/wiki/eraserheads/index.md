@@ -616,4 +616,3 @@ Ryan Cayabyab *The Silver Album* (1997)
 <td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won
 </td></tr></tbody></table>
 
-*Adapted from [Wikipedia](https://en.wikipedia.org), under [Creative Commons](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) license.*

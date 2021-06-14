@@ -112,4 +112,3 @@ Transportation
 - Noriyuki Sugasawa, basketball player
 - Junichi Saga, local writer and medical doctor
 
-*Adapted from [Wikipedia](https://en.wikipedia.org), under [Creative Commons](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) license.*

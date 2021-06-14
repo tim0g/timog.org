@@ -46,4 +46,3 @@ In its native range, the green pheasant outcompetes introduced populations of co
 
 Though the green pheasant has a decreasing population, its population is not severely fragmented. On a local and national level, they are used for food, sport hunting, specimen collecting and as pets or display animals. None of these practices are found on an international level. The green pheasant is one of the 29 designated 'game species' in Japan. These are the only species that can legally be hunted. A hunting license is required.
 
-*Adapted from [Wikipedia](https://en.wikipedia.org), under [Creative Commons](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) license.*

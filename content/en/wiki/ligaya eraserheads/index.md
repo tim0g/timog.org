@@ -59,4 +59,3 @@ Wag ka sanang magtanong at magduda\
 Dahil ang puso ko’y walang pangamba\
 Lahat tayo’y mabubuhay na tahimik at buong ligaya
 
-*Partly adapted from [Wikipedia](https://en.wikipedia.org), under [Creative Commons](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) license.*

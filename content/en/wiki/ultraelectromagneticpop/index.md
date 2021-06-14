@@ -71,4 +71,3 @@ Notes
 - "Parental Advisory: Some songs may not be suitable for children (but there isn't anything in this album that your kids haven't heard before!)"
 - The Parental Advisory is removed in the 25th Anniversary edition cover.
 
-*Adapted from [Wikipedia](https://en.wikipedia.org), under [Creative Commons](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) license.*

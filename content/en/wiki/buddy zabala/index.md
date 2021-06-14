@@ -41,4 +41,3 @@ Started July 2017, working with Raymund Marasigan, currently working as producer
 - Run Barbi Run as himself (Eraserheads)
 - Tulad Ng Dati as himself (The Dawn)
 
-*Adapted from [Wikipedia](https://en.wikipedia.org), under [Creative Commons](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) license.*

@@ -72,4 +72,3 @@ In September 2019, Marcus' daughter, singer Syd Hartha, and Marcus' ex-partner, 
 - American Girl
 - Bonfire
 
-*Adapted from [Wikipedia](https://en.wikipedia.org), under [Creative Commons](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) license.*

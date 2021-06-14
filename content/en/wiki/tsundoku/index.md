@@ -16,4 +16,3 @@ The term originated in the Meiji era (1868–1912) as Japanese slang. It combine
 
 The American author and bibliophile A. Edward Newton commented on a similar state in 1921.
 
-*Adapted from [Wikipedia](https://en.wikipedia.org), under [Creative Commons](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) license.*
