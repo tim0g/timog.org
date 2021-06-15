@@ -1,5 +1,5 @@
 ---
-title: "Ushiku"
+title: "Ushiku, Ibaraki"
 linkTitle: ""
 description: "City in southern Ibaraki ([Official website](http://www.city.ushiku.lg.jp/))"
 resources:

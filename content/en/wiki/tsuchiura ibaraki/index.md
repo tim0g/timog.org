@@ -1,5 +1,5 @@
 ---
-title: "Tsuchiura"
+title: "Tsuchiura, Ibaraki"
 linkTitle: ""
 description: "City in southern Ibaraki ([Official website](https://www.city.tsuchiura.lg.jp/))"
 resources:
