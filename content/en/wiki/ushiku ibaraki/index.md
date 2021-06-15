@@ -24,10 +24,10 @@ Ushiku is located in southern Ibaraki Prefecture, in the low-lying marshy flatla
 
 Ibaraki Prefecture
 
-- [Tsuchiura](https://timog.org/wiki/tsuchiura/)
-- [Tsukuba](https://timog.org/wiki/tsukuba/)
-- [Ryūgasaki](https://timog.org/wiki/ryugasaki/)
-- [Inashiki](https://timog.org/wiki/inashiki/)
+- [Tsuchiura](https://timog.org/wiki/tsuchiura-ibaraki/)
+- [Tsukuba](https://timog.org/wiki/tsukuba-ibaraki/)
+- [Ryūgasaki](https://timog.org/wiki/ryugasaki-ibaraki/)
+- [Inashiki](https://timog.org/wiki/inashiki-ibaraki/)
 - [Ami](https://timog.org/wiki/ami-ibaraki/)
 
 ### Climate

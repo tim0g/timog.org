@@ -24,10 +24,10 @@ Located in southwestern Ibaraki Prefecture, Tsuchiura is situated along the west
 
 Ibaraki Prefecture
 
-- [Ushiku](https://timog.org/wiki/ushiku/)
-- [Tsukuba](https://timog.org/wiki/tsukuba/)
-- [Kasumigaura](https://timog.org/wiki/kasumigaura/)
-- [Ishioka](https://timog.org/wiki/ishioka/)
+- [Ushiku](https://timog.org/wiki/ushiku-ibaraki/)
+- [Tsukuba](https://timog.org/wiki/tsukuba-ibaraki/)
+- [Kasumigaura](https://timog.org/wiki/kasumigaura-ibaraki/)
+- [Ishioka](https://timog.org/wiki/ishioka-ibaraki/)
 - [Ami](https://timog.org/wiki/ami-ibaraki/)
 
 ### Climate

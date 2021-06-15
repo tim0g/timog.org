@@ -8,7 +8,7 @@ resources:
     byline:
 hide_feedback: true
 ---
-**Raimund Emmanuel Parcon Marasigan** (born May 22, 1971) is a Filipino rock musician and record producer. His first name is often misspelled Raymond or Raimond though he personally prefers to spell his name as Raymund. The breadth of his projects has made him one of the most well-respected mainstays of the Philippine rock band scene. He was the drummer, vocalist and lyricist alongside bandmate [Ely Buendia](../ely-buendia) of the [Eraserheads](../eraserheads), and the current keyboard/synths player for Pedicab, former rhythm guitarist and now frontman of Sandwich, current drummer of Cambio, vocalist of Project 1 and the man behind Squid 9. Currently, he holds bass for his newest band, Gaijin. Aside from writing songs and being a musician, he is also a record producer, voice actor, TV host and product endorser.
+**Raimund Emmanuel Parcon Marasigan** (born May 22, 1971) is a Filipino rock musician and record producer. The breadth of his projects has made him one of the most well-respected mainstays of the Philippine rock band scene. He was the drummer, vocalist and lyricist alongside bandmate [Ely Buendia](https://timog.org/wiki/ely-buendia/) of the [Eraserheads](https://timog.org/wiki/eraserheads/), and the current keyboard/synths player for Pedicab, former rhythm guitarist and now frontman of Sandwich, current drummer of Cambio, vocalist of Project 1 and the man behind Squid 9. Currently, he holds bass for his newest band, Gaijin. Aside from writing songs and being a musician, he is also a record producer, voice actor, TV host and product endorser.
 
 ## Eraserheads
 
@@ -16,7 +16,7 @@ He first achieved fame as drummer for the rock band Eraserheads, one of the most
 
 In 2002, vocalist-guitarist Ely Buendia left the Eraserheads, and Kris Dancel from the all-female band Fatal Posporos was recruited to fill the vacancy. The group billed themselves as Eheads and issued an EP entitled *Please Transpose* (2003). The group later renamed themselves Cambio after their lead guitarist Marcus Adoro quit. Cambio released two albums: *Derby Light* (2003) and *Matic* (2007).
 
-On August 30, 2008 at the Fort Bonifacio Open Grounds in Taguig, Marasigan joined Buendia, [Adoro](../marcus-adoro), and [Zabala](../buddy-zabala) for The Eraserheads reunion concert. The continuation of the reunion "The Final Set" was held on March 7, 2009 at the SM Mall of Asia concert grounds.
+On August 30, 2008 at the Fort Bonifacio Open Grounds in Taguig, Marasigan joined Buendia, [Adoro](https://timog.org/wiki/marcus-adoro), and [Zabala](https://timog.org/wiki/buddy-zabala) for The Eraserheads reunion concert. The continuation of the reunion "The Final Set" was held on March 7, 2009 at the SM Mall of Asia concert grounds.
 
 ## Sandwich
 

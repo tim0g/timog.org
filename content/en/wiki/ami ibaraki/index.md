@@ -24,9 +24,9 @@ Located in southern Ibaraki Prefecture, Ami is bordered to the north by Lake Kas
 
 Ibaraki Prefecture
 
-- [Inashiki](https://timog.org/wiki/inashiki/)
-- [Tsuchiura](https://timog.org/wiki/tsuchiura/)
-- [Ushiku](https://timog.org/wiki/ushiku/)
+- [Inashiki](https://timog.org/wiki/inashiki-ibaraki/)
+- [Tsuchiura](https://timog.org/wiki/tsuchiura-ibaraki/)
+- [Ushiku](https://timog.org/wiki/ushiku-ibaraki/)
 - [Miho](https://timog.org/wiki/miho-ibaraki/)
 
 ### Climate

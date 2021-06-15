@@ -8,13 +8,13 @@ resources:
     byline:
 hide_feedback: true
 ---
-**Hector "Buddy" Avanceña Zabala** (born November 13, 1971) is a Filipino musician and producer. He is currently the bassist of Filipino pop band Moonstar88 and indie band Cambio, and widely known as the member of the formerly disbanded and now reunited alternative rock band, [Eraserheads](../eraserheads). He also served as bassist to The Dawn and Hilera.
+**Hector "Buddy" Avanceña Zabala** (born November 13, 1971) is a Filipino musician and producer. He is currently the bassist of Filipino pop band Moonstar88 and indie band Cambio, and widely known as the member of the formerly disbanded and now reunited alternative rock band, [Eraserheads](https://timog.org/wiki/eraserheads). He also served as bassist to The Dawn and Hilera.
 
 ## Early life
 
 Zabala was born in Zamboanga City, Philippines and attended University of the Philippines Diliman in Quezon City.
 
-## [Eraserheads](../eraserheads) bassist (1989–2003)
+## Eraserheads bassist (1989–2003)
 
 Zabala only began writing and singing songs as an Eraserhead starting with the band's 1996 Christmas album, *Fruitcake*. The album contains "The Fabulous Baker Boy" and "Fruit Fairy." Buddy later also sang and wrote "Tama Ka" and "Kahit Ano" in the 1999 album, *Natin99*.
 
