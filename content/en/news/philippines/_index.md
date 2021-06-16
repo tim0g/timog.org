@@ -1,5 +1,5 @@
 ---
-title: "Philippines News"
+title: "Philippine News & Commentary"
 linkTitle: "Philippines"
 weight: 10
 ---
