@@ -1,6 +1,6 @@
 ---
 title: "Tsuchiura, Ibaraki"
-linkTitle: ""
+linkTitle: "Tsuchiura"
 description: "City in southern Ibaraki ([Official website](https://www.city.tsuchiura.lg.jp/))"
 resources:
 - src: "**.{png,jpg,webp}"
@@ -82,11 +82,11 @@ Tsuchiura was formerly the center of commerce in southern Ibaraki Prefecture due
 - Tsukuba International University
 - Tsuchiura has 16 public elementary schools and seven public middle schools operated by the city government, and five public high school operated by the Ibaraki Prefectural Board of Education. There are also one private elementary school, one combined middle/high school and three private high schools. The prefecture also operates one special education school for the handicapped.
 
-Transportation
+### Transportation
 
 #### Railway
 
-- JR East – Jōban Line
+JR East – Jōban Line
 - Arakawaoki - Tsuchiura - Kandatsu
 
 #### Highway

@@ -1,6 +1,6 @@
 ---
 title: "Ami, Ibaraki"
-linkTitle: ""
+linkTitle: "Ami, Ibaraki"
 description: "Town in southern Ibaraki ([Official website](http://www.town.ami.lg.jp/))"
 resources:
 - src: "**.{png,jpg,webp}"

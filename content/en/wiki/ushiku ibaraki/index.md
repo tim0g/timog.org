@@ -1,6 +1,6 @@
 ---
 title: "Ushiku, Ibaraki"
-linkTitle: ""
+linkTitle: "Ushiku"
 description: "City in southern Ibaraki ([Official website](http://www.city.ushiku.lg.jp/))"
 resources:
 - src: "**.{png,jpg,webp}"
