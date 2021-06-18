@@ -101,8 +101,8 @@ Kantō Railway - Ryūgasaki Line
 
 ### Noted people
 
-    Isao Okano, judoka, Olympic gold medalist
-    Nana Suzuki, model
-    Kisenosato Yutaka, the 72nd yokozuna in sumo wrestling
-    Akiyo Noguchi, professional rock climber, seven-time IFSC Climbing World Cup champion
+- Isao Okano, judoka, Olympic gold medalist
+- Nana Suzuki, model
+- Kisenosato Yutaka, the 72nd yokozuna in sumo wrestling
+- Akiyo Noguchi, professional rock climber, seven-time IFSC Climbing World Cup champion
 
