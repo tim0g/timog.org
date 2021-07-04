@@ -11,9 +11,9 @@ resources:
 ---
 Isa sa mga kailangang gawin na hindi magawa-gawa ay ang paglilinis ng keyboard ko sa trabaho. Pero dahil sa corona, hindi makalabas masyado sa bahay kaya may oras sa mga ganitong gawain.
 
-#### **Topre Realforce Just Systems Japanese-layout keyboard**
+Ito ang paborito kong keyboard sa trabaho: **Topre Realforce Just Systems Japanese-layout keyboard**.
 
-Ito ang paborito kong keyboard sa trabaho. Hindi kami makapili ng computer na gagamitin pero pinalitan ko ang keyboard ng nabili ko ilang taon na ang nakakaraan mula sa [online store ng Just Systems](https://www.justmyshop.com/). Simpleng puti at grey, at may ilang extra na pulang keys.
+Hindi kami makapili ng computer na gagamitin pero pinalitan ko ang keyboard ng nabili ko ilang taon na ang nakakaraan mula sa [online store ng Just Systems](https://www.justmyshop.com/). Simpleng puti at grey, at may ilang extra na pulang keys.
 
 ![Topre Realforce Just Systems](/static/img/blog/topre-realforce-mechanical-keyboard-01.jpg)
 

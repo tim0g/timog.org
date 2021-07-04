@@ -1,11 +1,11 @@
 ---
-title: "Guide to living in Japan"
+title: "Gabay sa pamumuhay sa Japan"
 linkTitle: "Guide"
 description: >
-  Gabay sa pamumuhay sa bansang Hapon
-hide_feedback: true
+  Visa application at renewal, paghahanap ng apartment, pagkuha ng lisensya ng sasakyan, pagluluto ng curry rice, pag-akyat sa Mount Fuji, pag-iwas sa COVID-19, at kung ano-ano pa
 weight: 10
 menu:
   main:
     weight: 10
 ---
+![Stone stairs in Japan](/static/img/japan-stone-stairs_320_640.jpg)
