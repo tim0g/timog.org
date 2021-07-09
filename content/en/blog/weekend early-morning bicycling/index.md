@@ -30,9 +30,13 @@ Isa din ito sa mga safe na gawin sa panahon ngayon ng Covid, huwag lang kalimuta
 
 Reminds me of [this](https://www.reddit.com/r/japan/comments/64mojh/is_this_normal/):
 
->Alright so I was on a flight to Tokyo with a seat by the window and an empty seat next to me (rows of 2) and some old Japanese dude came and looked at me then walked back. I didn't think anything of it till I walked to the bathroom and saw him sitting behind some other old Japanese lady holding her hand so I was like you wanna trade seats I have two and he said some samurai stuff I really couldn't understand so a flight attendant translated and he was like, overly sorry about making me think I have to give him and his wife the seat but I was totally ok with it and kinda wanted to so I told her to tell them to come over and they were super duper happy and kept nodding their heads at me. So they were at the seat and the flight attendant comes back later saying they paid for full drink service for me and that the old dude LITERALLY is gonna buy me a bonsai tree and he wants to know where I'm gonna be staying in Tokyo. Is this normal???
+May nagtanong:
 
->I give up seats on the train all the time. I've had to rent a second apartment to house all my bonsai.
+>So nasa flight ako papuntang Tokyo sa may window seat at may bakanteng upuan sa tabi ko (dalawang row ng upuan) tapos may matandang Hapon na dumating at tinignan nya ako tapos umalis ulit. Hindi ko masyadong pinansin hanggang pumunta ako sa toilet at nakita ko na nakaupo siya sa likod ng isang matandang Hapon na babae at magkaholding hands sila kaya sabi ko, gusto nyo bang magpalit ng upuan may dalawa ako doon tapos may sinabi siyang parang samurai na hindi ko maintindihan kaya may dumating na stewardess na nag-translate at sabi nya super sorry daw yung matandang Hapon dahil pinaisip nila ako na ibigay sa kanila yung upuan ko pero sabi ko walang problema sa akin at talagang gusto kong ibigay sa kanila yung upuan kaya sabi ko na sabihin sa kanila na punta sila doon sa upuan at tuwang-tuwa sila at bow sila ng bow sa akin. Kaya nung nakaupo na sila dumating ulit yung stewardess at sabi niya binayaran daw nung mag-asawa ang full drink service para sa akin at yung matandang lalaki bibilhan daw TALAGA niya ako ng bonsai tree at gusto nyang malaman kung saan ako mag-s-stay sa Tokyo. Normal ba ito???
+
+At may sumagot nang:
+
+>Lagi kong binibigay ang upuan ko sa ibang tao sa tren. Ngayon andami ko ng bonsai kailangan kong magrenta ng isa pang apartment.
 
 {{< imgproc featured-0892 Fit "600x600" >}}Riles ng tren: ang kaliwa ay papunta ng Fukushima at ang kanan ay Tokyo.{{< /imgproc >}}
 
