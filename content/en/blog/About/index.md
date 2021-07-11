@@ -2,7 +2,7 @@
 title: "About Timog.org"
 linkTitle: ""
 date: 2021-05-22
-author:  "Leon Timog"
+author: "Leon Timog"
 description: 
 resources:
 - src: "**.{png,jpg,webp}"

@@ -97,10 +97,6 @@ h1, h2 a {
     line-height: 0.85;
 }
 
-.blockquote {
-      color: #666666;
-}
-
 .btn {
     border-radius: 2rem;
 
@@ -230,3 +226,12 @@ figcaption {
 .td-max-width-on-larger-screens, .td-content > .tab-content {
     max-width: 80%;
 } */
+
+.blockquote {
+   padding: 0.5rem 1rem;
+   margin-bottom: 1rem;
+   color: #000;
+   border: none;
+   border-radius: 10px;
+   background: #eeeeee;
+  }

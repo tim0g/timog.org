@@ -17,7 +17,7 @@ Isa din ito sa mga safe na gawin sa panahon ngayon ng Covid, huwag lang kalimuta
 
 {{< imgproc featured-0878 Fit "600x600" >}}Gate valve sa daan. Logo ng <a href="https:timog.org/wiki/tsuchiura/">Tsuchiura City</a> ang nasa itaas.{{< /imgproc >}}
 
-{{< imgproc featured-0912 Fit "600x600" >}}<a href="https:timog.org/guide/home/garbage-disposal/kinds-of-garbage/#recyclables">Recyclable garbage</a> na nakaayos sa tabi ng daan. Sabado pala ang tapunan ng bote, can at PET bottles sa lugar na ito, at may designated na lugar kung saan ilalagay ang mga recycleble garbage, hindi lang sa ordinaryong tapunan ng mga burnable na busura. Pati mga bote ay nakahiwalay sa clear, kulay brown at kulay green. Magaling.{{< /imgproc >}}
+{{< imgproc featured-0912 Fit "600x600" >}}<a href="https://timog.org/guide/home/garbage-disposal/kinds-of-garbage/#recyclables">Recyclable garbage</a> na nakaayos sa tabi ng daan. Sabado pala ang tapunan ng bote, can at PET bottles sa lugar na ito, at may designated na lugar kung saan ilalagay ang mga recycleble garbage, hindi lang sa ordinaryong tapunan ng mga burnable na busura. Pati mga bote ay nakahiwalay sa clear, kulay brown at kulay green. Magaling.{{< /imgproc >}}
 
 {{< imgproc featured-0880 Fit "600x600" >}}Ito naman ay basurang hindi kinuha ng garbage collector. "Ang basurang ito ay hindi maaring kolekhahin. Reason: hindi nakalagay sa tamang plastik."{{< /imgproc >}}
 
