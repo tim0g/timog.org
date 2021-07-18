@@ -29,7 +29,7 @@ May sinabi si Phillip E. Wegner sa kanyang [review ng Tonari no Totoro](http://i
 
 Isa sa mga magandang bagay sa pagbibisikleta ay madaling makadiskubre ng mga lugar na hindi napupuntahan o nahihintuan kapag nakakotse. Kagaya nitong tindahan ng mga locally made na gulay at pagkain at halaman.
 
-May mga lilies sa tabi at mga cactus at iba't-ibang tropical plants na kagaya nitong pitcher plant sa loob.
+May mga water lilies (*[renkon](https://en.wikipedia.org/wiki/Nelumbo_nucifera)*) sa tabi at mga cactus at iba't-ibang tropical plants na kagaya nitong pitcher plant sa loob.
 
 {{< imgproc featured-E1084 Fit "600x600" >}}{{< /imgproc >}}
 
