@@ -187,4 +187,15 @@ Not surprisingly, of the 282,000 Filipinos in Japan, 237,000 or 84% are in prime
 
 ![Filipinos in Japan by gender](filipinos-in-japan-by-gender-2020.png)
 
+Looking at the graph below, female and male residents are both equal in numbers up to 33 years old (female:male ratio of 1.05). From 34 years of age, we notice a significant change (1.15).
+
+By 37, there are more than 2 women for every 1 man; at 39 more than 3 women for every 1 man; at 41 more than 4 women for every 1 man, and so on, peaking at almost 11 women for every 1 man by the age of 52.
+
+From there, the ratio falls almost as steeply as it climbed, down to 3.67 at 64 years. From there the graph has several ups and downs and reaches another peak at age 80, when there are 8.5 women for every 1 man.
+
+If we assume that the average age of a Filipina *tarento* that came to Japan with an entertainer visa was 25, then it's probably reasonable to believe that the peak entertainer boom was reached in 1994 and started decreasing after.
+
+###### **Female-to-Male ratio of Filipinos in Japan by age**
+![Female-to-Male ratio of Filipinos in Japan by age](filipinos-in-japan-gender-ratio-by-age.png)
+
 
