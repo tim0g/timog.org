@@ -189,13 +189,13 @@ Again, excluding the Northern Territories, the easternmost point of Japan where 
 
 (Japan's easternmost point is actually Minamitorishima (Southern Bird Island), a small lonely atoll in the northwestern Pacific Ocean, some some 1,848 kilometers southeast of Tokyo (and is administratively part of the capital city). It is off-limits to civilians.)
 
-#### Ogasawara Village, Tokyo (southernmost)
+#### Taketomi Town, Okinawa Prefecture (southernmost)
 
 <div class="osm">
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=142.1430015563965%2C26.626475492409128%2C142.17467308044436%2C26.651025848596724&amp;layer=transportmap" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=15/26.6388/142.1588&amp;layers=TN">View Larger Map</a></small>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=123.51516723632812%2C24.028905254133637%2C124.02191162109376%2C24.42964604483519&amp;layer=transportmap" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=11/24.2294/123.7685&amp;layers=T">View Larger Map</a></small>
 </div>
 
-Officially it is part of Tokyo, but Ogasawara Village, a group of several islands in the Pacific Ocean, is almost 1,000 from the capital city. Most of the little more than 3,000 residents, including 4 Filipinos, live on the two biggest islands.
+Taketomi Town is a group of islands in the Yaeyama island chain located southwest of the main Okinawa island. It includes Hateruma, Japan's southernmost inhabited island, purportedly the site of Japan's best beach. 1 lucky Filipino lives in this town.
 
 (Japan's southernmost uninhabited point is Okinotorishima (Remote Bird Island), a coral reef in the Philippine Sea.)
 
@@ -205,9 +205,7 @@ Officially it is part of Tokyo, but Ogasawara Village, a group of several island
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=122.94894218444826%2C24.429489752240542%2C123.01228523254396%2C24.479493493061938&amp;layer=transportmap" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=14/24.4545/122.9806&amp;layers=TN">View Larger Map</a></small>
 </div>
 
-Yonaguni Island, on which Yonaguni Town is located, is one of the Sakishima Islands, an archipelago of several tropical islands southwest of Okinawa Island.
-
-It is the westernmost point of Japan, from where Taiwan is visible, and only 417 kilometers from the Batanes island of Itbayat. In this lonely tropical paradise live 2 Filipinos.
+West of Taketomi is Yonaguni Island, on which Yonaguni Town is located. It is the westernmost point of Japan, from where Taiwan is visible, and only 417 kilometers from the Batanes island of Itbayat. In this lonely tropical paradise live 2 Filipinos.
 
 ## Filipinos in Japan by age group
 
