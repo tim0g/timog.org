@@ -20230,6 +20230,14 @@ h1, h2 a {
   border-left: 1px solid #dee2e6;
   border-radius: 0.25rem; }
 
+.td-content blockquote {
+  padding: 0.5rem 0.5rem 0.1rem 0.8rem;
+  margin-bottom: 1rem;
+  color: #333;
+  border: 1px solid #ffe4e4;
+  background: #fff9f9;
+  border-radius: 8px; }
+
 .grade1 {
   border: 15px solid pink;
   border-radius: 15px;
