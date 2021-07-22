@@ -1,7 +1,7 @@
 ---
-title: "Wiki"
+title: "Timog Wiki"
 linkTitle: "Wiki"
-description: "A compendium of Philippine-related info"
+description: "A compendium of Japan-related wiki"
 hide_feedback: true
 no_list: true
 weight: 30
