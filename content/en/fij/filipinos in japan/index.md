@@ -56,7 +56,7 @@ As can be seen on the graph below, China has a significant lead over other forei
 
 ###### **Population of select groups of foreigners in Japan over time**
 
-![Filipinos in Japan over time](filipinos-in-japan-pop-over-time.png)
+![Filipinos in Japan over time](filipinos-in-japan-population-over-time.png)
 
 Vietnam comes from out of nowhere in the middle of the last decade and overtakes Brazil (2016) and the Philippines (2017) and is on course to bump South Korea from second place if stays on its present trajectory.
 
