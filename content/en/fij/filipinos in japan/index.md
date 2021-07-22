@@ -167,7 +167,45 @@ The cities of **Chiba** in Chiba Prefecture and **Kawaguchi** in Saitama Prefect
 |49  |Koshigaya, Saitama  | 1,010    |
 |50  |Kashiwa, Chiba      | 1,003    |
 
+### **Filipinos living at the extreme points of Japan**
 
+#### Wakkanai City, Hokkaido (northernmost)
+
+<div class="osm">
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=141.5677642822266%2C45.319564529927746%2C141.8211364746094%2C45.473855048084765&amp;layer=transportmap" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=12/45.3968/141.6945&amp;layers=TN">View Larger Map</a></small>
+</div>
+
+The city of Wakkanai (which means "cold water river" in Ainu language) in Hokkaido is Japan's northernmost point and from where Russia's Sakhalin Island is visible. There are 6 Filipinos living in this cold city, where the lowest average winter temperature falls below -6°C.
+
+(The northernmost point that Japan claims is the island of Iturup in the Northern Territories, but it is controlled by Russia.)
+
+#### Nemuro City, Hokkaido (easternmost)
+
+<div class="osm">
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=145.32096862792972%2C43.162618434925875%2C145.82771301269534%2C43.482321075924304&amp;layer=transportmap" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=11/43.3227/145.5743&amp;layers=TN">View Larger Map</a></small>
+</div>
+
+Again, excluding the Northern Territories, the easternmost point of Japan where Filipinos live is Nemuro City in Hokkaido. There are 11 Filipino residents in this city, where, as in Wakkanai, the lowest average winter temperature falls below -6°C.
+
+(Japan's easternmost point is actually Minamitorishima (Southern Bird Island), a small lonely atoll in the northwestern Pacific Ocean, some some 1,848 kilometers southeast of Tokyo (and is administratively part of the capital city). It is off-limits to civilians.)
+
+#### Taketomi Town, Okinawa Prefecture (southernmost)
+
+<div class="osm">
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=123.51516723632812%2C24.028905254133637%2C124.02191162109376%2C24.42964604483519&amp;layer=transportmap" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=11/24.2294/123.7685&amp;layers=T">View Larger Map</a></small>
+</div>
+
+Taketomi Town is a group of islands in the Yaeyama island chain located southwest of the main Okinawa island. It includes Hateruma, Japan's southernmost inhabited island, purportedly the site of Japan's best beach. 1 lucky Filipino lives in this town.
+
+(Japan's southernmost uninhabited point is Okinotorishima (Remote Bird Island), a coral reef in the Philippine Sea.)
+
+#### Yonaguni Town, Okinawa Prefecture (westernmost)
+
+<div class="osm">
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=122.94894218444826%2C24.429489752240542%2C123.01228523254396%2C24.479493493061938&amp;layer=transportmap" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=14/24.4545/122.9806&amp;layers=TN">View Larger Map</a></small>
+</div>
+
+West of Taketomi is Yonaguni Island, on which Yonaguni Town is located. It is the westernmost point of Japan, from where Taiwan is visible, and only 417 kilometers from the Batanes island of Itbayat. In this lonely tropical paradise live 2 Filipinos.
 
 ## Filipinos in Japan by age group
 
@@ -186,5 +224,16 @@ Not surprisingly, of the 282,000 Filipinos in Japan, 237,000 or 84% are in prime
 ###### **Filipinos in Japan by gender**
 
 ![Filipinos in Japan by gender](filipinos-in-japan-by-gender-2020.png)
+
+Looking at the graph below, female and male residents are both equal in numbers up to 33 years old (female:male ratio of 1.05). From 34 years of age, we notice a significant change (1.15).
+
+By 37, there are more than 2 women for every 1 man; at 39 more than 3 women for every 1 man; at 41 more than 4 women for every 1 man, and so on, peaking at almost 11 women for every 1 man by the age of 52.
+
+From there, the ratio falls as steeply as it climbed, down to 3.67 at 64 years. From this point the graph goes through several ups and downs and reaches another peak at age 80, when there are 8.5 women for every 1 man.
+
+Looking at this graph, if we assume that the average age of a Filipina *tarento* that came to Japan with an entertainer visa was 25, then it's probably reasonable to believe that the peak entertainer boom was reached in 1994 and started decreasing after.
+
+###### **Female-to-Male ratio of Filipinos in Japan by age**
+![Female-to-Male ratio of Filipinos in Japan by age](filipinos-in-japan-gender-ratio-by-age.png)
 
 
