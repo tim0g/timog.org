@@ -1,11 +1,12 @@
 ---
 title: "Filipinos in Japan: statistics"
-linkTitle: ""
+linkTitle: "Statistics in tables"
 type: blog
 author: Leon Timog
 date: 2021-07-17
 description: >
-  Detailed statistics in tables
+  Detailed statistics in tables about Filipinos in Japan
+weight: 20
 ---
 In the middle of the last decade, Filipinos were the third largest group of foreigners in Japan, behind only the Chinese and South Koreans. In 2018, Filipinos slipped to fourth, behind the Vietnamese.
 
