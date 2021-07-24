@@ -1,10 +1,10 @@
 ---
-title: "Gilas cadet Kemark Cariño finalizing deal with Aomori Wat's as latest Filipino player in Japan"
+title: "Gilas cadet Kemark Cariño finalizing deal with Aomori Wats as latest Filipino player in Japan"
 linkTitle: ""
 type: blog
-author: Philip Matel
+author: Philip Matel, ESPN
 date: 2021-07-21
-description: 
+description: "Filipino basketball player heads Japan to play for Aomori Wats"
 ---
 Kemark Cariño is set to head to Japan B.League's Second Division as an Asian Player Quota import, just finalizing his contract with the Aomori Wat's, according to San Beda team manager Jude Roque.
 

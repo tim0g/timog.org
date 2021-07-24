@@ -4,7 +4,7 @@ linkTitle: ""
 type: blog
 author: Kyodo News
 date: 2020-06-05
-description: 
+description: "A Filipino man's 1,100-km journey across Japan ends in a police station"
 ---
 A Filipino man has been arrested for allegedly taking a free ride on a bullet train halfway across the country in hopes of getting the government’s ¥100,000 ($920) coronavirus cash handout, police said Friday.
 

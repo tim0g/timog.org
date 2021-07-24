@@ -2,9 +2,9 @@
 title: "Aging Filipino war orphans race against time in bid for Japanese citizenship"
 linkTitle: ""
 type: blog
-author: Ronron Calunsod
+author: Ronron Calunsod, Kyodo News
 date: 2019-07-29
-description: 
+description: "Time is running short for war-displaced Japanese-Filipinos in their quest to acquire Japanese citizenship"
 ---
 Two groups working to help war-displaced descendants of Japanese in the Philippines acquire Japanese citizenship are redoubling their efforts as time runs out for the aging applicants, many of whom technically remain stateless.
 
