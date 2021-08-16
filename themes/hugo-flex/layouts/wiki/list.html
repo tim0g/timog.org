@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+  {{ partial "heading.html" . }}
+
+  {{ .Content }}
+
+  {{ range .Pages.GroupByPublishDate "2006" }}
+    <h3>Entries</h3>
+    <ul>
+      {{ range .Pages.ByWeight }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+{{ end }}
+

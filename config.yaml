@@ -1,0 +1,66 @@
+baseURL: 'https://timog.org/'
+title: TIMOG
+author: Leon Timog
+languageCode: en-us
+pygmentsCodeFences: false
+enableRobotsTXT: true
+theme: hugo-flex
+publishDir: public
+rssLimit: 10
+
+outputs:
+  taxonomyTerm:
+  - HTML
+  taxonomy:
+  - HTML
+  section:
+  - HTML
+
+permalinks:
+  posts: '/:filename/'
+  pages: '/:filename/'
+
+params:
+  editURL: # "https://example.com/GROUP/PROJECT/tree/master/docs/content/"
+  color: "#1C86EE"
+  width: 42rem
+  description: Guide, Wiki, Blog
+  footer: ©2021 Leon Timog + 
+    <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">
+    CC BY 4.0</a></br><em>Please link back when you reuse our content.</em></br>
+    Edit Timog.org + <a href="#top"> Back to top</a>
+  rss: >-
+    To subscribe to this RSS feed, copy the address in the address bar and paste
+    it into your favorite feed reader.
+  divider: false # Set to false to remove divider below posts on homepage
+  schema: false
+  opengraph: false
+  twittercards: false
+  summaries: false
+  utterances:
+    repo:               # Set to Utterances repo URL to add Utterances comments
+    issueterm: pathname
+    theme: github-light
+  netlify:
+    honeypot: false     # Set to true to add honeypot field in contact form
+    recaptcha: false    # Set to true to add recaptcha challenge in contact form
+  # css:                # Uncomment to add custom CSS from a list of files
+  #   - css/foo.css
+  #   - bar.css
+  # js:                 # Uncomment to add custom JS from a list of files
+  #   - js/foo.js
+  #   - bar.js
+
+
+
+menu:
+  nav:
+    - name: About
+      url: about-timog.org/
+      weight: 1
+    - name: Blog
+      url: posts/
+      weight: 2
+    - name: Guide
+      url: guide/
+      weight: 3
