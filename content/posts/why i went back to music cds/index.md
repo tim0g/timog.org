@@ -23,7 +23,7 @@ Gusto kong nahahawakan ang aking music, yung may ritwal na bubuksan mo ang case,
 
 Kaya nang nagkaroon ako ng extra na pera ay bumili ako ng second-hand na [`amplifier`](/why-i-went-back-to-music-cds/victor-stereo-amplifier.jpg "Old Victor stereo amplifier") (na sira ang phono input) at CD player, at mura lang na bagong speakers. Tapos bumili ako ng mga second-hand na CD mula sa [Mercari](https://www.mercari.com/jp/).
 
-Isa sa mga una kong binili ay itong [`boxed set`] ng classical music(/why-i-went-back-to-music-cds/naxos-30th-anniversary-boxed-set-classical.jpg "Naxos 30th Anniversary Boxed Set") na binili ko nang mahigit lang sa 3,000 yen; and isang disc ay halos kasing mahal lang ng isang can coffee sa vending machine.
+Isa sa mga una kong binili ay itong [`boxed set`](/why-i-went-back-to-music-cds/naxos-30th-anniversary-boxed-set-classical.jpg "Naxos 30th Anniversary Boxed Set") ng classical music na binili ko nang mahigit lang sa 3,000 yen; and isang disc ay halos kasing mahal lang ng isang can coffee sa vending machine.
 
 Unang pakinig lang sa *[Four Seasons](https://en.wikipedia.org/wiki/The_Four_Seasons_(Vivaldi))* ni Vivaldi ay sulit na sa pagbili ng mga equipment! Buong-buo ang tunog, para nasa tabi mo lang ang tumutugtog ng violin!
 

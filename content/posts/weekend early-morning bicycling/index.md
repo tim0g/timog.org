@@ -15,9 +15,9 @@ Walang tatalo sa pagbibisikleta para sa pag-explore ang lugar sa paligid ng tira
 
 Isa din ito sa mga safe na gawin sa panahon ngayon ng Covid, huwag lang kalimutan ang mask kung sakaling papasok sa mga *kombini* para bumili ng inumin at pagkain.
 
-Dahil madaling huminto ay maraming bagay ang mapapansin, kagaya nitong kape sa 2nd floor na [`sign`](/weekend-early-morning-bicycling/coffee-at-second-floor.jpg) "Coffee at 2nd floor sign"), [`gate valve`](/weekend-early-morning-bicycling/tsuchiura-valve-cover.jpg "Tsuchiura gate valve") sa daan na may logo ng Tsuchiura sa Ibaraki Prefecture, at mga [`recyclable garbage`](/weekend-early-morning-bicycling/recyclable-grabage-street-side.jpg "Recyclable garbage") na nakaayos sa tabi ng daan.
+Dahil madaling huminto ay maraming bagay ang mapapansin, kagaya nitong [`kape`](/weekend-early-morning-bicycling/coffee-at-second-floor.jpg "Coffee at 2nd floor sign") sa 2nd floor na sign, [`gate valve`](/weekend-early-morning-bicycling/tsuchiura-valve-cover.jpg "Tsuchiura gate valve") sa daan na may logo ng Tsuchiura sa Ibaraki Prefecture, at mga [`recyclable garbage`](/weekend-early-morning-bicycling/recyclable-grabage-street-side.jpg "Recyclable garbage") na nakaayos sa tabi ng daan.
 
-Sabado pala ang tapunan ng bote, can at PET bottles sa lugar na ito, at may designated na lugar kung saan ilalagay ang mga recycleble garbage, hindi lang sa ordinaryong tapunan ng mga burnable na busura. Pati mga bote ay nakahiwalay sa clear, kulay brown at kulay green. Magaling.
+Sabado pala ang tapunan ng bote, can at PET bottles sa lugar na ito, at may designated na lugar kung saan ilalagay ang mga recyclable garbage, hindi lang sa ordinaryong tapunan ng mga burnable na busura. Pati mga bote ay nakahiwalay sa clear, kulay brown at kulay green. Magaling.
 
 Meron ding basurang [`hindi kinuha`](/weekend-early-morning-bicycling/garbage-cannot-be-collected.jpg "Garbage not collected") ng garbage collector dahil hindi nakalagay sa tamang plastik.
 
