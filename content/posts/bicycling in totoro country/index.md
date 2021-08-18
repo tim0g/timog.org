@@ -11,15 +11,9 @@ tags:
 - renkon
 - bicycle
 ---
-Puro ulan nitong mga nakaraang araw kaya nang nagkaroon ng kaunting oras sa weekend na tumila ang ulan ay nag-bisikleta ulit kami sa paligid. Ngayon ay medyo malayo ang nabisikleta namin, isang lugar na hindi pa namin napupuntahan, sa tabi ng mga palayan. Ito ang rainy season bago mag-summer sa Japan at saturated ang green sa buong paligid.
+Puro ulan nitong mga nakaraang araw kaya nang nagkaroon ng kaunting oras sa weekend na tumila ang ulan ay nag-bisikleta ulit kami sa paligid. Ngayon ay medyo malayo ang nabisikleta namin, isang [`lugar`](/bicycling-in-totoro-country/t-intersection-with-mirror.jpg "T intersection with mirror") na hindi pa namin napupuntahan, sa tabi ng mga palayan. Ito ang rainy season bago mag-summer sa Japan at saturated ang [`green`](/bicycling-in-totoro-country/reeds-in-a-rice-field.jpg "Reeds in a rice field") sa buong paligid.
 
 Parang hawig sa landscape ng [Tonari no Totoro](https://en.wikipedia.org/wiki/My_Neighbor_Totoro).
-
-![>>reeds-in-a-rice-field.jpg](reeds-in-a-rice-field.jpg)
-
-![>>t-intersection-with-mirror.jpg](t-intersection-with-mirror.jpg)
-
-![>>biking-down-a-country-road.jpg](biking-down-a-country-road.jpg)
 
 May sinabi si Phillip E. Wegner sa kanyang [review ng Tonari no Totoro](http://imagetext.english.ufl.edu/archives/v5_2/wegner/) tungkol sa *satoyama*, ang setting ng pelikula:
 
@@ -29,20 +23,8 @@ May sinabi si Phillip E. Wegner sa kanyang [review ng Tonari no Totoro](http://i
 
 🌳🌳🌳
 
-Isa sa mga magandang bagay sa pagbibisikleta ay madaling makadiskubre ng mga lugar na hindi napupuntahan o nahihintuan kapag nakakotse. Kagaya nitong tindahan ng mga locally made na gulay at pagkain at halaman.
+Isa sa mga magandang bagay sa [`pagbibisikleta`](/bicycling-in-totoro-country/biking-down-a-country-road.jpg "Biking down a country road") ay madaling makadiskubre ng mga lugar na hindi napupuntahan o nahihintuan kapag nakakotse. Kagaya nitong tindahan ng mga locally made na gulay at pagkain at halaman.
 
-May mga water lilies (*[renkon](https://en.wikipedia.org/wiki/Nelumbo_nucifera)*) sa tabi at mga cactus at iba't-ibang tropical plants na kagaya nitong pitcher plant sa loob.
+May mga [`water lilies`](/bicycling-in-totoro-country/landscape-with-water-lilies-renkon.jpg "Landscape with water lilies") (*[renkon](https://en.wikipedia.org/wiki/Nelumbo_nucifera)*) sa tabi at mga [`cactus`](/bicycling-in-totoro-country/different-kinds-of-cacti.jpg "Different kinds of cacti") at iba't-ibang tropical plants na kagaya nitong [`pitcher plant`](/bicycling-in-totoro-country/pitcher-plants.jpg "Pitcher plants") sa loob.
 
-![>>landscape-with-water-lilies-renkon.jpg](landscape-with-water-lilies-renkon.jpg)
-
-![>>different-kinds-of-cacti.jpg](different-kinds-of-cacti.jpg)
-
-![>>pitcher-plants.jpg](pitcher-plants.jpg)
-
-Pag-uwi ay may nadaanan kaming Buddhist temple sa tabi ng isang sementeryo. Tahimik--at malamok ngayong summer, kaya umalis kaagad kami.
-
-![>>violet-flowers-green-rice-fields.jpg](violet-flowers-green-rice-fields.jpg)
-
-![>>statue-in-buddhist-temple.jpg](statue-in-buddhist-temple.jpg)
-
-![>>rice-fields-framed-by-trees-and-stone-lanterns.jpg](rice-fields-framed-by-trees-and-stone-lanterns.jpg)
+Sa [`palayan`](/bicycling-in-totoro-country/violet-flowers-green-rice-fields.jpg "Violet flowers near rice fields") ulit ang pauwi at may nadaanan naman kaming [`Buddhist temple`](/bicycling-in-totoro-country/statue-in-buddhist-temple.jpg "Statue in Buddhist temple") sa tabi ng isang sementeryo. [`Tahimik`](/bicycling-in-totoro-country/rice-fields-framed-by-trees-and-stone-lanterns.jpg "Rice fields framed by trees and stone lanterns")--at malamok ngayong summer, kaya umalis kaagad kami.

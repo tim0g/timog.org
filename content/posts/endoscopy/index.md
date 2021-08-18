@@ -12,7 +12,7 @@ Unang araw ng mahabang *obon yasumi* at nasa clinic ako para sa isang endoscopy.
 
 Mas gusto ko ang mas simpleng *ikamera*: 胃カメラ (camera sa tiyan).
 
-Mas gusto ko pang pumunta sa dentista kaysa gawin ang procedure na ito. Papainumin ka ng nakakasukang mala-sopas na likido, iisprayhan ang ilong at lalamunan mo ng pangpamanhid, at ipapasok sa ilong mo (o bibig depende sa hilig mo) hanggang sa tiyan ang [`isang maliit na camera`](/endoscopy/olympus-endoscopy-apparatus-ikamera.jpg "Olympus endoscopy apparatus") sa dulo ng mahabang cable.
+Mas gusto ko pang pumunta sa dentista kaysa gawin ang procedure na ito. Papainumin ka ng nakakasukang mala-sopas na likido, iisprayhan ang ilong at lalamunan mo ng pangpamanhid, at ipapasok sa ilong mo (o bibig depende sa hilig mo) hanggang sa tiyan ang isang [`maliit na camera`](/endoscopy/olympus-endoscopy-apparatus-ikamera.jpg "Olympus endoscopy apparatus") sa dulo ng mahabang cable.
 
 Ang tawag nila dito ay *upper* endoscopy.
 

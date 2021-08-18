@@ -13,44 +13,22 @@ tags:
 ---
 Walang tatalo sa pagbibisikleta para sa pag-explore ang lugar sa paligid ng tirahan. 5x na mas mabilis sa paglalakad, pero maaring huminto halos kahit saan para tignan ang paligid o kumuha ng picture.
 
-Isa din ito sa mga safe na gawin sa panahon ngayon ng Covid, huwag lang kalimutan ang mask kung sakaling papasok sa mga kombini para bumili ng inumin at pagkain.
+Isa din ito sa mga safe na gawin sa panahon ngayon ng Covid, huwag lang kalimutan ang mask kung sakaling papasok sa mga *kombini* para bumili ng inumin at pagkain.
 
-![>>coffee-at-second-floor.jpg](coffee-at-second-floor.jpg) `Kape sa second floor, hindi pa bukas.`
-
-![>>tsuchiura-valve-cover.jpg](tsuchiura-valve-cover.jpg) `Gate valve sa daan na may logo ng Tsuchiura sa Ibaraki Prefecture.`
-
-![>>recyclable-grabage-street-side.jpg](recyclable-grabage-street-side.jpg) `Recyclable garbage na nakaayos sa tabi ng daan.`
+Dahil madaling huminto ay maraming bagay ang mapapansin, kagaya nitong kape sa 2nd floor na [`sign`](/weekend-early-morning-bicycling/coffee-at-second-floor.jpg) "Coffee at 2nd floor sign"), [`gate valve`](/weekend-early-morning-bicycling/tsuchiura-valve-cover.jpg "Tsuchiura gate valve") sa daan na may logo ng Tsuchiura sa Ibaraki Prefecture, at mga [`recyclable garbage`](/weekend-early-morning-bicycling/recyclable-grabage-street-side.jpg "Recyclable garbage") na nakaayos sa tabi ng daan.
 
 Sabado pala ang tapunan ng bote, can at PET bottles sa lugar na ito, at may designated na lugar kung saan ilalagay ang mga recycleble garbage, hindi lang sa ordinaryong tapunan ng mga burnable na busura. Pati mga bote ay nakahiwalay sa clear, kulay brown at kulay green. Magaling.
 
-![>>garbage-cannot-be-collected.jpg](garbage-cannot-be-collected.jpg) `Ito naman ay basurang hindi kinuha ng garbage collector. Dahil: hindi nakalagay sa tamang plastik.`
+Meron ding basurang [`hindi kinuha`](/weekend-early-morning-bicycling/garbage-cannot-be-collected.jpg "Garbage not collected") ng garbage collector dahil hindi nakalagay sa tamang plastik.
 
-![>>street-clock-traffic-mirror.jpg](street-clock-traffic-mirror.jpg) `6:40 ng umaga, hindi pa mainit.`
+Masisikip ang daan sa lugar na ito kaya tamang-tama ang bisikleta. [`6:40`](/weekend-early-morning-bicycling/street-clock-traffic-mirror.jpg "Street clock and traffic mirror") pa lang ng umaga kaya hindi pa mainit. Maraming mga salamin para madaling makita ng mga sasakyan kung may parating na tao o sasakyan.
 
-Masisikip ang daan sa lugar na ito kaya tamang-tama ang bisikleta. Maraming mga salamin para madaling makita ng mga sasakyan kung may parating na tao o sasakyan.
+Maraming pulang [`post box`](/weekend-early-morning-bicycling/red-post-box-bicycle.jpg "Red post box and Gios bicycle") na makikita sa iba't-ibang lugar sa Japan. Sa panahon ngayon ng Internet at instant communication ay bumaba na ang paggamit ng mga post box pero magandang isipin na regular at efficient pa rin ang pagkolekta at pag-deliver ng sulat.
 
-![>>red-post-box-bicycle.jpg](red-post-box-bicycle.jpg) `Ang pulang post box na makikita sa iba't-ibang lugar sa Japan.`
+Dito sa isang bahay ay maraming [`bonsai`](/weekend-early-morning-bicycling/backyard-bonsai.jpg "Backyard bonsai") at naalala ko itong [tanong](https://www.reddit.com/r/japan/comments/64mojh/is_this_normal/) sa Reddit kung normal ang magbigay sa ibang tao ng bonsai para sa magpasalamat. Puwede siguro: "Salamat nang marami, ito para sa iyo, bonsai."
 
-Sa panahon ngayon ng Internet at instant communication ay bumaba na ang paggamit ng mga post box pero magandang isipin na regular at efficient pa rin ang pagkolekta at pag-deliver ng sulat.
+Dumating na ako sa [`riles`](/weekend-early-morning-bicycling/railroad-tracks-in-the-morning.jpg "Railroad tracks near Arakawaoki Station") ng tren sa may Arakawaoki Station. Papunta sa Fukushima ang kaliwa at Tokyo naman ang kanan.
 
-![>>backyard-bonsai.jpg](backyard-bonsai.jpg) `Bonsai sa bakuran ng isang bahay.`
+Pauwi ang napadaan ako sa isang second-hand shop kung saan may mga interesting na [`abubot`](/weekend-early-morning-bicycling/second-hand-store-knick-knacks.jpg "Knick-knacks at second-hand store") sa ding-ding. May mga lumang [`libro`](/weekend-early-morning-bicycling/second-hand-books.jpg "Second-hand books outside") sa labas na tig-20 yen ang isa. Madaming libro sa Japan (at nakasulat sa Nihongo, hindi English) at marami ding library at community center na may mga libro kaya mataas ang literacy rate sa bansa.
 
-Naalala ko [ito](https://www.reddit.com/r/japan/comments/64mojh/is_this_normal/):
-
->So nasa flight ako papuntang Tokyo sa may window seat at may bakanteng upuan sa tabi ko (dalawang row ng upuan) tapos may matandang Hapon na dumating at tinignan nya ako tapos umalis ulit. Hindi ko masyadong pinansin hanggang pumunta ako sa toilet at nakita ko na nakaupo siya sa likod ng isang matandang Hapon na babae at magkaholding hands sila kaya sabi ko, gusto nyo bang magpalit ng upuan may dalawa ako doon tapos may sinabi siyang parang samurai na hindi ko maintindihan kaya may dumating na stewardess na nag-translate at sabi nya super sorry daw yung matandang Hapon dahil pinaisip nila ako na ibigay sa kanila yung upuan ko pero sabi ko walang problema sa akin at talagang gusto kong ibigay sa kanila yung upuan kaya sabi ko na sabihin sa kanila na punta sila doon sa upuan at tuwang-tuwa sila at bow sila ng bow sa akin. Kaya nung nakaupo na sila dumating ulit yung stewardess at sabi niya binayaran daw nung mag-asawa ang full drink service para sa akin at yung matandang lalaki bibilhan daw TALAGA niya ako ng bonsai tree at gusto nyang malaman kung saan ako mag-s-stay sa Tokyo. Normal ba ito???
-
-At may sumagot nang:
-
->Lagi kong binibigay ang upuan ko sa ibang tao sa tren. Ngayon andami ko ng bonsai kailangan kong magrenta ng isa pang apartment.
-
-![>>railroad-tracks-in-the-morning.jpg](railroad-tracks-in-the-morning.jpg) `Riles ng tren: ang kaliwa ay papunta ng Fukushima at ang kanan ay Tokyo.`
-
-![>>second-hand-store-knick-knacks.jpg](second-hand-store-knick-knacks.jpg) `Abubot sa ding-ding ng isang second-hand shop na nadaanan pauwi.`
-
-![>>second-hand-books.jpg](second-hand-books.jpg) `Lumang libro sa labas: 20 yen ang isa.`
-
-Madaming libro sa Japan (at nakasulat sa Nihongo, hindi English) at marami ding library at community center na may mga libro kaya mataas ang literacy rate sa bansa.
-
-![>>diary-of-young-girl-anne-frank-japanese.jpg](diary-of-young-girl-anne-frank-japanese.jpg) `Ito ang binili kong libro.`
-
-Mahilig akong [bumili ng libro na hindi ko naman binabasa](https://timog.org/wiki/tsundoku/). Mahilig din akong bumili ng Nihongo version ng isang libro para puwede kong pagkumparahin ang English at Nihongo version.
+Ito ang binili ko: [`Diary of a young girl`](/weekend-early-morning-bicycling/diary-of-young-girl-anne-frank-japanese.jpg "Diary of a young girl by Anne Frank") ni Anne Frank. Bumibili ako ng Nihongo version ng isang libro para puwede kong pagkumparahin ang English at Nihongo version. Pero mahilig din naman akong bumili ng libro na hindi ko naman binabasa.

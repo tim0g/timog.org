@@ -9,15 +9,11 @@ tags:
 - melodica
 - recorder
 ---
-Wala akong dalang pampalit na sapatos o slippers kaya naglakad ako sa corridor nang nakamedyas lang.
+Wala akong dalang pampalit na [`sapatos`](/visit-to-elementary-school-classroom/shoes-school-entrance.jpg "Shoes in school entrance") o slippers kaya naglakad ako sa corridor nang nakamedyas lang.
 
-![>>shoes-school-entrance.jpg](shoes-school-entrance.jpg)
+Sa classroom ay may usual na [`randoseru`](/visit-to-elementary-school-classroom/randoseru-melodica-recorder.jpg "Randoseru, melodica at recorder"), melodica at recorder ng mga bata. Dati ay puro itim (lalaki) at pula (babae) lang ang mga randoseru; ngayon may iba't-ibang kulay na. 
 
-*Randoseru*, melodica at recorder ng mga bata. Dati ay puro itim (lalaki) at pula (babae) lang ang mga ito; ngayon may iba't-ibang kulay na. 
-
-![>>randoseru-melodica-recorder.jpg](randoseru-melodica-recorder.jpg)
-
-Selection ng ba't-ibang libro sa shelves ng classroom.
+Selection ng ba't-ibang [`libro`](/visit-to-elementary-school-classroom/classroom-books-on-shelf.jpg "Books on classroom shelf") sa shelves ng classroom.
 
 - なぜなに大語源 (The Why-What Big Book of Word Origins)
 - 校庭にうかんだ墓地 (Graveyard That Rose on the School Grounds)
@@ -33,12 +29,6 @@ Selection ng ba't-ibang libro sa shelves ng classroom.
 - 危険なオーディション (Dangerous Audition)
 - スウィート・メモリーズ (Sweet Memories)
 - 心は高原に (My Heart's in the Highlands)
-
-![>>classroom-books-on-shelf.jpg](classroom-books-on-shelf.jpg)
-
-**Plaza of the Heart:** Makakagawa ka ba ng mabuting bagay nang hindi nagdadalawang-isip？
-
-![>>classroom-kokoro-no-hiroba.jpg](classroom-kokoro-no-hiroba.jpg)
 
 Noong una nag-aalangan akong kumuha ng pictures habang nagka-klase pero naisip ko bakit hindi? basta hindi ko ipo-post sa Internet. Sensitive ang mga Hapon tungkol sa pagpopost sa Internet ng mga pictures at video na nakikita ang mukha o kahit na anong personal information.
 

@@ -16,7 +16,7 @@ Pagkatapos ng ilang linggong ulan ay summer na naman.
 
 Ano ba ang scenery ng summer sa Japan? Camping sa tabi ng ilog... ligo sa beach... huni ng kuliglig... tunog ng wind chime... hanabi sa gabi...
 
-Ang siyempre, ang [`berdeng-berdeng palayan`](/summer-in-japan-rice-fields-and-beer/summer-rice-fields-mount-tsukuba.jpg "Summer rice fields and Mount Tsukuba").
+Ang siyempre, ang berdeng-berdeng [`palayan`](/summer-in-japan-rice-fields-and-beer/summer-rice-fields-mount-tsukuba.jpg "Summer rice fields and Mount Tsukuba").
 
 Kapag nakikita ko ang malawak na palayan sa summer ay naaalala ko ang mga palayan sa aking kilalakihang maliit na bayan sa Pilipinas.
 

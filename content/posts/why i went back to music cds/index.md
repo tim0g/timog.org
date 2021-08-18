@@ -21,9 +21,9 @@ Gusto kong nahahawakan ang aking music, yung may ritwal na bubuksan mo ang case,
 
 (Nagkaroon din ako ng record player dati at talagang mas maganda ang listening experience kahit kumpara sa CD player. Nakikita mong umiikot-ikot ang plaka sa itaas ng turntable, tapos babaligtarin mo ang plaka para sa side B. Kaso ang mahal ng mga vinyl records at wala sa aking budget, bukod pa sa nagde-deteriorate habang pinapatugtog.)
 
-Kaya nang nagkaroon ako ng extra na pera ay bumili ako ng [`second-hand na amplifier`](/why-i-went-back-to-music-cds/victor-stereo-amplifier.jpg "Old Victor stereo amplifier") (na sira ang phono input) at CD player, at mura lang na bagong speakers. Tapos bumili ako ng mga second-hand na CD mula sa [Mercari](https://www.mercari.com/jp/).
+Kaya nang nagkaroon ako ng extra na pera ay bumili ako ng second-hand na [`amplifier`](/why-i-went-back-to-music-cds/victor-stereo-amplifier.jpg "Old Victor stereo amplifier") (na sira ang phono input) at CD player, at mura lang na bagong speakers. Tapos bumili ako ng mga second-hand na CD mula sa [Mercari](https://www.mercari.com/jp/).
 
-Isa sa mga una kong binili ay itong [`boxed set ng classical music`](/why-i-went-back-to-music-cds/naxos-30th-anniversary-boxed-set-classical.jpg "Naxos 30th Anniversary Boxed Set") na binili ko nang mahigit lang sa 3,000 yen; and isang disc ay halos kasing mahal lang ng isang can coffee sa vending machine.
+Isa sa mga una kong binili ay itong [`boxed set`] ng classical music(/why-i-went-back-to-music-cds/naxos-30th-anniversary-boxed-set-classical.jpg "Naxos 30th Anniversary Boxed Set") na binili ko nang mahigit lang sa 3,000 yen; and isang disc ay halos kasing mahal lang ng isang can coffee sa vending machine.
 
 Unang pakinig lang sa *[Four Seasons](https://en.wikipedia.org/wiki/The_Four_Seasons_(Vivaldi))* ni Vivaldi ay sulit na sa pagbili ng mga equipment! Buong-buo ang tunog, para nasa tabi mo lang ang tumutugtog ng violin!
 
