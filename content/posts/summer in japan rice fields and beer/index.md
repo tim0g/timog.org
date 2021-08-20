@@ -26,9 +26,9 @@ At siyempre, beer.
 
 Bihira lang akong uminom ng beer (at konti lang), kaya "totoong beer" ang binibili ko at hindi yung mas murang *happoshu* (hindi maganda ang lasa).
 
-Ang karamihang binibili ko na beer ay ang **[Kirin Heartland](http://www.heartland.jp/)**. Emerald green na bote, korteng diamond na logo, simpleng design, masarap ang lasa.
+Ang karamihang binibili ko na beer ay ang [Kirin Heartland](http://www.heartland.jp/). Emerald green na bote, korteng diamond na logo, simpleng design, masarap ang lasa.
 
-Pero kamakailan ay bumibili din ako nitong **[Hitachino Nest Beer](https://hitachino.cc/en/)**, gawa ng Kiuchi Brewery sa Ibaraki Prefecture.
+Pero kamakailan ay bumibili din ako nitong [Hitachino Nest Beer](https://hitachino.cc/en/), gawa ng Kiuchi Brewery sa Ibaraki Prefecture.
 
 Nakasulat sa label ng iniinom kong [`Pale Ale`](/summer-in-japan-rice-fields-and-beer/hitachino-nest-beer.jpg "Hitachino Nest Beer Pale Ale"):
 
