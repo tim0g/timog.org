@@ -6,7 +6,7 @@ weight: 45
 type: page
 ---
 {{< bluebox >}}
-**NOTE:** ang ilustrasyon ng mga basura sa webpage na ito ay inangkop mula sa *Tamang Paghihiwalay at Pagtatapon ng Recyclable Items at Basura* (正しい資源物とごみの分け方・出し方 Tadashii Shigenbutsu to Gomi no Wakekata, Dashikata), na nilathala ng lungsod ng Kyoto. Maaaring i-download ang PDF (**[Nihongo](https://www.city.kyoto.lg.jp/kankyo/cmsfiles/contents/0000250/250067/handbookjp.pdf)** at **[English](https://www.city.kyoto.lg.jp/kankyo/cmsfiles/contents/0000250/250067/handbookenglish.pdf)**) mula sa **[website ng lungsod ng Kyoto](https://www.city.kyoto.lg.jp/kankyo/page/0000250067.html)**.
+**NOTE:** ang ilustrasyon ng mga basura sa webpage na ito ay inangkop mula sa *Tamang Paghihiwalay at Pagtatapon ng Recyclable Items at Basura* (正しい資源物とごみの分け方・出し方 Tadashii Shigenbutsu to Gomi no Wakekata, Dashikata), na nilathala ng lungsod ng Kyoto. Maaaring i-download ang PDF ([Nihongo](https://www.city.kyoto.lg.jp/kankyo/cmsfiles/contents/0000250/250067/handbookjp.pdf) at [English](https://www.city.kyoto.lg.jp/kankyo/cmsfiles/contents/0000250/250067/handbookenglish.pdf)) mula sa [website ng lungsod ng Kyoto](https://www.city.kyoto.lg.jp/kankyo/page/0000250067.html).
 {{< /bluebox >}}
 
 Iba't-ibang uri ng basura ang lumalabas sa bahay: mula sa pinakamaraming Burnable Garbage hanggang sa bihira lang na lumabas na kagaya ng battery, bumbilya o malalaking kasangkapan.
@@ -88,7 +88,7 @@ Kagaya ng bote, may lugar na may espesyal na plastik na lalagyan para dito, sa i
 **Huwag lalagyan ng kung ano-anong bagay** ang loob ng mga lata, bote o PET bottles, na kagaya ng upos ng sigarilyo o mga maliliit na bagay na kagaya ng pako o turnilyo. Kailangang malinis ang mga ito.
 {{< /pinkbox >}}
 
-## Plastic Container and Packaging
+## Plastic Containers and Packaging
 
 ![Plastic Containers and Packaging](plastic-containers-packaging.gif)
 
@@ -180,6 +180,6 @@ Kung itatapon lang at alam kung saang tindahan ito binili, doon hilingin na itap
 
 Ang iba't-ibang klase ng computer (kasama dito ang desktop computer, laptop, monitor, atbp) ay karamihang <span class="-text-red"><strong> hindi kinukulekta ng lunsod o bayan</strong></span>.
 
-Kailangang kontakin ang sari-sariling maker ng mga ito sa paraan ng pagtatapon. Maraming impormasyon ang **[webpage ng PC3R](https://www.pc3r.jp/)** sa ibaba tungkol dito.
+Kailangang kontakin ang sari-sariling maker ng mga ito sa paraan ng pagtatapon. Maraming impormasyon ang [webpage ng PC3R](https://www.pc3r.jp/) sa ibaba tungkol dito.
 
 [![PC3R](pc3r.gif)](https://www.pc3r.jp/)
