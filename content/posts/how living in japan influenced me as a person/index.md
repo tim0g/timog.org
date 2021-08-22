@@ -22,7 +22,7 @@ Sabi ko, "Paano mo nalaman na mga Pinay sila?" Sabi nya, "Basa ang buhok sa umag
 
 Napangiti ako sa comment na ito, dahil totoo. Wala pa akong nakitang Hapon na basa ang buhok sa umaga. (Baka may blow-dryer lang lahat sila?)
 
-Lalo na sa winter, nakakawala ng pagod ang paliligo sa gabi. Kapag malamig ay nagkukulang ng circulation ng dugo ang paa at kamay at kapag maligo nang mainit ay umiikot ulit ang dugo sa buong katawan hanggang sa kadulo-duluan ng mga daliri.
+Lalo na sa winter, nakakawala ng pagod ang paliligo sa gabi. Kapag malamig ay nagkukulang ng circulation ng dugo ang paa at kamay at kapag maligo nang mainit ay umiikot ulit ang dugo sa buong katawan hanggang sa kadulu-duluan ng mga daliri.
 
 Masarap natulog nang ganito.
 
@@ -36,16 +36,20 @@ Kung paghihiwalay ng basura ang pag-uusapan ay mananalo siguro ako sa mga kapitb
 
 Sa aking experience, ang gawaing pinanggagalingan ng pinakamaraming problema sa mga basura ay:
 
-1. hindi tama ang segregation;
-2. mali ang pinagtapunang plastic (o lalagyan); 
-3. pagtatapon ng basura sa gabi kaya kinakalat ng mga uwak at maliliit na hayop; at
-4. pagtatapon ng mantika sa lababo kaya nagbabara ang mga tubo lalo na sa winter.
+1. Hindi tama ang segregation;
+2. Mali ang pinagtapunang plastic (o lalagyan); 
+3. Pagtatapon ng basura sa gabi kaya kinakalat ng mga uwak at maliliit na hayop; at
+4. Pagtatapon ng mantika sa lababo kaya nagbabara ang mga tubo lalo na sa winter.
+
+Lagi kong pinag-iingatan ang tamang pagtatapon ng basura para walang problema sa mga kapitbahay.
 
 ## Being polite
 
-Ang pagiging magalang ay hindi lang pag-bow at pagsabi ng *Ohayo gozaimasu!* sa umaga at *Otsukaresama deshita!* sa uwian.
+Sa *kaisha* pagiging magalang ay pag-bow at pagbati sa mga tao ng *Ohayo gozaimasu!* sa umaga at pagsabi nang *Otsukaresama deshita!* sa uwian.
 
-Kung nakatira ka sa apartment o mansion ay ang pinakamagalang na maaaring gawin (bukod sa paghihiwalay nang mabuti ng basura) ay hindi pag-iingay lalo na sa gabi na makakabulabog sa katabing kuwarto.
+Para naman walang problema sa mga kapitbahay, binabati ko sila kapag nakita sa labas, kaunting komento tungkol sa panahon: *"Kyou wa atsui desu ne!*", *"Zuutto ame bakari desu ne!*", etc.
+
+Pero pinakaimportante para sa magandang relasyon sa kapitbahay (at pagiging magalang) para sa akin ay: pag-segregate ng basura at hindi pag-iingay lalo na sa gabi.
 
 ## Not being noisy
 
