@@ -73,6 +73,7 @@ code {
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: baseline;
+  margin: 0 0 1.5rem 0;
 }
 
 .Heading-title {
