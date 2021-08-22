@@ -6,6 +6,7 @@ description: Demographics of Filipinos in Japan from the Immigration Services Ag
 weight: 10
 aliases:
     - /fij/filipinos-in-japan/
+    - /fij/filipinos-in-japan-latest-demographics/
 ---
 According to the [latest figures](http://www.moj.go.jp/isa/policies/statistics/toukei_ichiran_touroku.html) from the [Immigration Services Agency](http://www.moj.go.jp/isa/) of Japan, there are now **282,023 Filipino citizens** residing in the country. They comprise the fourth largest foreign group, behind China (786,830), South Korea (435,459) and Vietnam (420,415).
 

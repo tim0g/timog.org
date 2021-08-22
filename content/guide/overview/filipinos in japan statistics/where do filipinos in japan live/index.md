@@ -4,7 +4,6 @@ author: Leon Timog
 date: 2021-07-17
 description: Where do Filipinos in Japan live?
 weight: 15
-aliases:
 ---
 The population of Filipinos in Japan is concentrated in metropolitan areas like Tokyo and Osaka, and centers of industrial production like Nagoya in Aichi Prefecture and Hamamatsu in Shizuoka.
 
@@ -34,7 +33,7 @@ Seventh and eight is **Toyohashi**, Aichi and **Kani**, Gifu. Kani borders Aichi
 
 The cities of **Chiba** in Chiba Prefecture and **Kawaguchi** in Saitama Prefecture, at ninth and tenth, are part of the Tokyo metropolitan area.
 
-### Table: the top 50 Japan cities where Filipinos live
+### Table: the top 50 cities in Japan where Filipinos live
 
 |Rank|City, Prefecture    |Population|
 |----|--------------------|----------|

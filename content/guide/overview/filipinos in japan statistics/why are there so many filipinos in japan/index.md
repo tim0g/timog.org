@@ -37,4 +37,6 @@ Recently I came upon this [question-and-answer](https://detail.chiebukuro.yahoo.
 
 This was in 2009. Whether the figures above are accurate or not, they have certainly changed drastically in the twelve years that have passed since then.
 
-There are now more almost [300,000 documented Filipinos in Japan](../filipinos-in-japan-2020-demographics/), the fourth largest group of foreigners behind China, Korea and Vietnam, and a large portion of them are permanent and long-term residents and technical trainees. And Filipinos with entertainer visas have almost completely disappeared.
+There are now almost [300,000 documented Filipinos in Japan](../filipinos-in-japan-2020-demographics/), the fourth largest group of foreigners behind China, Korea and Vietnam, and a large portion of them are permanent and long-term residents and technical trainees.
+
+And Filipinos with entertainer visas have almost completely disappeared.
