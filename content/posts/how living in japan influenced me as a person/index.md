@@ -1,5 +1,5 @@
 ---
-title: How living in Japan influenced me as a person
+title: "‘How living in Japan influenced me as a person’"
 date: 2021-08-22
 author: Leon Timog
 description: How living in Japan influenced me as a person
