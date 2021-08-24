@@ -1,7 +1,7 @@
 ---
 title: Endoscopy
 date: 2021-08-15
-author: Leon Timog
+authors: ["Leon Timog"]
 description: I got an endoscopy at the local clinic
 tags:
 - endoscopy
