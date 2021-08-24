@@ -1,7 +1,7 @@
 ---
 title: "Buddhist temple at the foot of Mount Tsukuba"
 date: 2020-12-06
-author:  Leon Timog
+authors: ["Leon Timog"]
 description: "We went to a Buddhist temple at the foor of Mount Tsukuba"
 tags:
 - blog

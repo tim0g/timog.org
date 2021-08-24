@@ -1,7 +1,7 @@
 ---
 title: "A visit to an elementary school classroom"
 date: 2021-07-10
-author:  Leon Timog
+authors: ["Leon Timog"]
 description: "I visited a Japanese elementary school classroom"
 tags:
 - blog
