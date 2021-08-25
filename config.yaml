@@ -23,8 +23,8 @@ permalinks:
 params:
   editURL: # "https://example.com/GROUP/PROJECT/tree/master/docs/content/"
   color: "#1C86EE"
-  width: 45rem
-  description: Guide, Wiki, Blog
+  width: 50rem
+  description: TIMOG: Guide, Wiki, Blog
   footer: <small>©2021 Leon Timog + 
     <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">
     CC BY 4.0</a></br><em>Please link back when you reuse our content.</em></br>

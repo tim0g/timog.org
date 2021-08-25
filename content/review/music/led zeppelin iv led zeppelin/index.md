@@ -6,9 +6,11 @@ author: Leon Timog
 ---
 **Rating:** [★★★★☆](https://timog.org/music/)
 
-Una kong narinig ang [`Led Zeppelin IV`](led-zeppelin-iv-cd-cover.jpg "Led Zeppelin IV CD") na ito sa bahay ni Kuya Gab sa Quiapo noong nasa high school pa ako at nakikinig sa British New Wave. Naaalala ko pa na habang nagpi-play ang unang riff ng "Black Dog" tinitignan kong umiikot yung cassette tape sa loob ng kulay pulang tsipipay na radio cassette player na binili daw nila sa Raon.
+Una kong narinig ang [`Led Zeppelin IV`](led-zeppelin-iv-cd-cover.jpg "Led Zeppelin IV CD") na ito sa bahay ni Kuya Gab sa Quiapo noong nasa high school ako (late 80's) at nakikinig sa British New Wave. Parang kapag pumupunta ako doon at nag-iinuman kami itong album na ito o yung Randy Rhoads Tribute album ni Ozzy Osbourne ang laging nasa loob ng cassette deck.
 
-Noong nasa Tokyo na ako at nag-aaral sa *nihongo gakko*, sa unang pagkakataon sa buhay ko ay nagkaroon ako ng pera para bumili ng CD player. Bumili ako ng isang Sony radio cassette/CD player at isa ito sa mga unang binili kong CD (kasama ang Astral Weeks at Abbey Road). Pagbalik ko sa dorm, sinet ko sa auto-replay ang "When the Levee Breaks" at siguro dahil sa pagod sa kalalakad sa Ochanomizu, nakatulog ako habang paulit-ulit ang kantang ito.
+Naaalala ko pa na habang nagpi-play ang unang riff ng "Black Dog" tinitignan kong umiikot yung cassette tape sa loob ng kulay pulang tsipipay na radio cassette player na binili daw nila sa Raon.
+
+Noong nasa Tokyo na ako at nag-aaral sa *nihongo gakko*, sa unang pagkakataon sa buhay ko ay nagkaroon ako ng pera para bumili ng CD player. Bumili ako ng isang Sony radio cassette/CD player at isa ito sa mga unang binili kong CD (kasama ang Astral Weeks ni Van Morrison at Abbey Road ng Beatles). Pagbalik ko sa dorm, sinet ko sa auto-replay ang "When the Levee Breaks" at siguro dahil sa pagod sa kalalakad sa Ochanomizu, nakatulog ako habang paulit-ulit ang kantang ito.
 
 Nagising ako kinaumagahan sa tunog ng drums, at kailangan kong mag-*gomennasai* sa katabing kwarto dahil sa ingay.
 
