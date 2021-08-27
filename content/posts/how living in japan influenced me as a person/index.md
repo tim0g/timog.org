@@ -24,7 +24,7 @@ Napangiti ako sa comment na ito, dahil totoo. Wala pa akong nakitang Hapon na ba
 
 Lalo na sa winter, nakakawala ng pagod ang paliligo sa gabi. Kapag malamig ay nagkukulang ng circulation ng dugo ang paa at kamay at kapag maligo nang mainit ay umiikot ulit ang dugo sa buong katawan hanggang sa kadulu-duluan ng mga daliri.
 
-Masarap natulog nang ganito.
+Masarap matulog nang ganito.
 
 Sabi naman ng mga Hapon na nakausap ko, natural lang na maligo sa gabi dahil madumi ka pagdating mo sa bahay. Sa umaga ay malinis ka pa, kaya kailangan na lang ng kaunting hilamos sa mukha, at iba pang personal hygiene.
 
