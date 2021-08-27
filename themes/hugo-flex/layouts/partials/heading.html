@@ -2,9 +2,10 @@
   <h1 class="Heading-title">
     <a class="Heading-link u-clickable" href="{{ .RelPermalink }}" rel="bookmark">{{ .Title }}</a>
   </h1>
+	<span class="postmeta">{{ range .Param "authors" }}{{ . }},{{ end }} 
   {{ with .PublishDate | default nil }}
     <time datetime="{{ .Format "2006-01-02T15:04:05Z07:00" }}">
       {{- .Format "Jan 2, 2006" -}}
     </time>
-  {{ end }}
+  {{ end }}</span>
 </header>

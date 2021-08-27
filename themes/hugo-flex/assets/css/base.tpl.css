@@ -10,11 +10,11 @@ body {
   padding: 0;
 }
 
-h1, h2, h3, h4 {
-	letter-spacing: -0.014em;
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: -0.014em;
 }
 
-h1 {font-size: 2.25rem; line-height: 1.1;}
+h1 {font-size: 2.25rem; line-height: 1.1; padding: 0 0 5px 0;}
 h2 {font-size: 1.80rem; line-height: 1.2;}
 h3 {font-size: 1.44rem; line-height: 1.3;}
 h4 {font-size: 1.15rem; line-height: 1.4;}
@@ -172,7 +172,7 @@ a {
 }
 
 a:hover {
-  color:#444;
+  color: #555;
 }
 
 .alert {
@@ -180,7 +180,7 @@ a:hover {
   padding: 0.4rem .8rem;
   margin: 1rem 0;
   border: 1px solid transparent;
-  border-radius: 5px;
+  border-radius: 8px;
 }
 
 .bluebox {
@@ -222,4 +222,9 @@ a:hover {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+.postmeta {
+  font-size: 1rem;
+  color:#666;
 }

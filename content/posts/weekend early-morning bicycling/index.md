@@ -1,7 +1,7 @@
 ---
 title: "Weekend early-morning bicycling"
 date: 2021-06-13
-author:  Leon Timog
+authors: ["Leon Timog"]
 description: "I rode my bicycle around the neighborhood one early morning"
 tags:
 - blog

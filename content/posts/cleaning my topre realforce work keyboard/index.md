@@ -1,7 +1,7 @@
 ---
 title: "Cleaning my Topre Realforce work keyboard"
 date: 2021-06-06
-author:  Leon Timog
+authors: ["Leon Timog"]
 description: "Cleaning the Topre Realforce Just Systems Japanese keyboard"
 tags:
 - blog
@@ -13,7 +13,7 @@ Isa sa mga kailangang gawin na hindi magawa-gawa ay ang paglilinis ng keyboard k
 
 Ito ang paborito kong keyboard sa trabaho: [`Topre Realforce`](/cleaning-my-topre-realforce-work-keyboard/topre-realforce-jp-keyboard-top-view.jpg "Topre Realforce Just Systems Japanese keyboard") Just Systems Japanese-layout keyboard.
 
-Hindi kami makapili ng computer na gagamitin pero pinalitan ko ang keyboard ng nabili ko ilang taon na ang nakakaraan mula sa [online store ng Just Systems](https://www.justmyshop.com/). Simpleng puti at grey, at may ilang extra na pulang keys.
+Hindi kami makapili ng computer na gagamitin pero pinalitan ko ang keyboard ng nabili ko ilang taon na ang nakakaraan mula sa online store ng [Just Systems](https://www.justmyshop.com/). Simpleng puti at grey, at may ilang extra na pulang keys.
 
 [`Madumi`](/cleaning-my-topre-realforce-work-keyboard/topre-realforce-jp-keyboard-very-dirty.jpg "Very dirty Topre Realforce keyboard"). Sa ilang taon na gamit ay malagkit na ang mga keys at puno na ng alikabok, buhok, maliliit na piraso ng pagkain, balat, at kung ano-ano pang dumi ang ilalim ng mga keys. Kailangan ito ng vacuum cleaner, basahan, cotton buds, at air blower.
 

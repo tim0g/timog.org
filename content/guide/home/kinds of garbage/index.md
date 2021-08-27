@@ -15,7 +15,7 @@ Sa page na ito ay makikita ang iba't-ibang uri ng basura at ang tamang pagtatapo
 
 ## Burnable garbage
 
-![Burnable garbage](burnable-garbage.gif)
+![Burnable garbage](burnable-garbage.gif "Burnable garbage")
 
 **燃やすごみ (Moyasu gomi)** Ang pinakamaraming lumalabas na basura sa isang bahay ay ang Burnable Garbage (sinusunog na basura). May iba't-ibang tawag sa basurang ito depende sa lugar, pero iisa lang ang ibig sabihin: basurang dinadala sa incinerator para sunugin.
 
@@ -58,7 +58,7 @@ Basain ng tubig ang **posporo at upos ng sigarilyo** at gamitin hanggang maubos 
 
 ## Recyclables
 
-![Cans, Bottles, PET bottles](cans-bottles-pet-bottles.gif)
+![Cans, Bottles, PET bottles](cans-bottles-pet-bottles.gif "Cans, glass bottles, PET bottles")
 
 **資源ごみ しげんごみ (Shigen Gomi)** Ang literal na ibig sabihin ng *shigen* ay *resource* (as in natural resources) at ang Shigen Gomi ay nire-recycle para magamit ulit bilang materyal sa paggawa ng ibang bagay.
 
@@ -90,7 +90,7 @@ Kagaya ng bote, may lugar na may espesyal na plastik na lalagyan para dito, sa i
 
 ## Plastic Containers and Packaging
 
-![Plastic Containers and Packaging](plastic-containers-packaging.gif)
+![Plastic Containers and Packaging](plastic-containers-packaging.gif "Plastic containers and packaging")
 
 Isa sa pinakamaraming klase ng basura, bukod sa Burnable Garbage. Mga plastik na pinaglagyan o pinangbalot ng mga produkto at may Plastic Recycle mark. Ang walang Plastic Recycle mark at mga plastik na produkto ay itapon sa **[Burnable Garbage](#burnable-garbage)**.
 
@@ -124,7 +124,7 @@ Ang karamihan ng mga papel na basura ay maaring i-recycle, pero may iba na dahil
 
 ### Recyclable Paper
 
-![Recyclable paper](paper-recycle.gif)
+![Recyclable paper](paper-recycle.gif "Recyclable paper")
 
 Karamihan ng mga papel na maaring i-recycle ay dyaryo, karton, paper pack (ginagamit na lalagyan ng gatas), leaflet, catalog, magasin, papel na lalagyan, sobre at postcard, papel na balot, papel na bag, gitna ng toilet paper, kalendaryo (tinanggal ang metal na parte), memo pad, computer paper, atbp).
 
@@ -136,7 +136,7 @@ Water-proof na papel, papel ng fax machine, larawan, papel na may coating, papel
 
 **PAANO ITAPON**: Itapon ang mga ito sa **[Burnable Garbage](#burnable-garbage)**.
 
-![Non-recyclable paper](paper-nonrecycle.gif)
+![Non-recyclable paper](paper-nonrecycle.gif "Non-recyclable paper")
 
 ## Non-burnable garbage
 
@@ -154,7 +154,7 @@ Kasama dito ang
 
 ## Oversized Garbage
 
-![Oversized Garbage](oversized-garbage.gif)
+![Oversized Garbage](oversized-garbage.gif "Oversized garbage")
 
 **大型ごみ おおがたごみ (Ogata Gomi)** o **粗大ごみ そだいごみ (Sodai Gomi)** Ang malalaking basura na kagaya ng mga kasangkapan sa bahay na kagaya ng tokador, kama, bisikleta, *futon*, at malalaking container ay itinatapon bilang Oversized Garbage.
 
@@ -164,7 +164,7 @@ Ang mga disposal sticker ay karamihang nabibili sa mga convenience store, city h
 
 ## Four kinds of electrical appliances
 
-![Electrical appliance](electrical-appliance.gif)
+![Electrical appliance](electrical-appliance.gif "Electical appliance for disposal")
 
 Ang tinatawag nilang "Apat na Klase ng Electrical Appliance" (TV, aircon (kasama ang makina sa labas), refrigerator, at washing machine/dryer) ay karamihang <span class="-text-red"><strong> hindi kinukulekta ng lunsod o bayan</strong></span>.
 
@@ -176,7 +176,7 @@ Kung itatapon lang at alam kung saang tindahan ito binili, doon hilingin na itap
 
 ## Computer
 
-![Computers](computers.gif)
+![Computers](computers.gif "Computers for disposal")
 
 Ang iba't-ibang klase ng computer (kasama dito ang desktop computer, laptop, monitor, atbp) ay karamihang <span class="-text-red"><strong> hindi kinukulekta ng lunsod o bayan</strong></span>.
 

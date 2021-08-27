@@ -1,7 +1,7 @@
 ---
-title: How living in Japan influenced me as a person
+title: "‘How living in Japan influenced me as a person’"
 date: 2021-08-22
-author: Leon Timog
+authors: ["Leon Timog"]
 description: How living in Japan influenced me as a person
 tags:
 - japan
@@ -24,11 +24,13 @@ Napangiti ako sa comment na ito, dahil totoo. Wala pa akong nakitang Hapon na ba
 
 Lalo na sa winter, nakakawala ng pagod ang paliligo sa gabi. Kapag malamig ay nagkukulang ng circulation ng dugo ang paa at kamay at kapag maligo nang mainit ay umiikot ulit ang dugo sa buong katawan hanggang sa kadulu-duluan ng mga daliri.
 
-Masarap natulog nang ganito.
+Masarap matulog nang ganito.
 
 Sabi naman ng mga Hapon na nakausap ko, natural lang na maligo sa gabi dahil madumi ka pagdating mo sa bahay. Sa umaga ay malinis ka pa, kaya kailangan na lang ng kaunting hilamos sa mukha, at iba pang personal hygiene.
 
 Kapag summer naman ay either dawalang beses ako naliligo (gabi at umaga) o kaya ay umaga lang.
+
+Bukod sa paliligo sa gabi ay mas malaki ang impression sa akin nang paliligo na kasama ang mga anak. Hindi kasi ginagawa ito sa Pilipinas pero napakanatural lang na gawin ito sa Japan. Kung napanood ninyo ang Tonari no Totoro, may scene doon na naliligo ang tatlong mag-ama (tatay at dalawang anak na babae) nang sabay. Para sa akin, ang paliligo ay magandang bonding ng magulang at maliliit na anak. Kapag umabot na sila sa tamang edad (usually early elementary school age) ay natural na hindi na sila sasabay sa magulang kahit yayaing maligo.
 
 ## Segregation of garbage
 
@@ -36,20 +38,20 @@ Kung paghihiwalay ng basura ang pag-uusapan ay mananalo siguro ako sa mga kapitb
 
 Sa aking experience, ang gawaing pinanggagalingan ng pinakamaraming problema sa mga basura ay:
 
-1. Hindi tama ang segregation;
-2. Mali ang pinagtapunang plastic (o lalagyan); 
-3. Pagtatapon ng basura sa gabi kaya kinakalat ng mga uwak at maliliit na hayop; at
-4. Pagtatapon ng mantika sa lababo kaya nagbabara ang mga tubo lalo na sa winter.
+1. Hindi tama ang segregation
+2. Mali ang pinagtapunang plastic (o lalagyan)
+3. Pagtatapon ng basura sa gabi kaya kinakalat ng mga uwak at maliliit na hayop
+4. Pagtatapon ng mantika sa lababo kaya nagbabara ang mga tubo lalo na sa winter
 
-Lagi kong pinag-iingatan ang tamang pagtatapon ng basura para walang problema sa mga kapitbahay.
+Lagi kong pinag-iingatan ang tamang pagtatapon ng basura para walang problema sa mga kapitbahay (at ma-recycle nang tama ang basura).
 
 ## Being polite
 
 Sa *kaisha* pagiging magalang ay pag-bow at pagbati sa mga tao ng *Ohayo gozaimasu!* sa umaga at pagsabi nang *Otsukaresama deshita!* sa uwian.
 
-Para naman walang problema sa mga kapitbahay, binabati ko sila kapag nakita sa labas, kaunting komento tungkol sa panahon: *"Kyou wa atsui desu ne!*", *"Zuutto ame bakari desu ne!*", etc.
+Para naman sa mga kapitbahay, binabati ko sila kapag nakita sa labas, kaunting komento tungkol sa panahon: *"Kyou wa atsui desu ne!*", *"Zuutto ame bakari desu ne!"*, etc. para friendly ang relations.
 
-Pero pinakaimportante para sa magandang relasyon sa kapitbahay (at pagiging magalang) para sa akin ay: pag-segregate ng basura at hindi pag-iingay lalo na sa gabi.
+Pero pinakaimportante para sa magandang relasyon sa kapitbahay (at pagiging magalang) para sa akin ay ang pag-segregate ng basura at hindi pag-iingay lalo na sa gabi.
 
 ## Not being noisy
 
@@ -57,13 +59,15 @@ Maraming taon na ang nakakalipas ay nagdala ako ng electric guitar sa bahay nami
 
 Natatandaan ko ay isang lumang [Fender Telecaster](https://en.wikipedia.org/wiki/Fender_Telecaster) ito na nabakbak na ang pintura na napulot ng isang kaibigan sa basura at binigay sa akin, tapos kinaskas ko naman ang lahat ng pintura ng katawan. (Ito yung panahon sa Japan na may nagtatapon pa ng mga household appliance na kagaya ng TV at ref sa basura.)
 
-Pagkadating ko sa bahay ay nilabas ng kapatid ko yung Telecaster, sinaksak sa amplifier ang cable at tinesting yung distortion ng amplifier. Sabi ko, "Pre, hindi ba maingay?" Sabi nyan, "Hindi mo ba naririnig sa sarap may mga tricycle, sa likod may nagkakaraoke, tapos sasabihin mo hindi ba maingay?" Oo nga naman.
+Pagkadating ko sa bahay ay nilabas ng kapatid ko yung Telecaster, sinaksak sa amplifier ang cable at tinesting yung distortion ng kasamang effector. Sabi ko, "Pre, hindi ba maingay?" Sabi nya, "Hindi mo ba naririnig sa sarap may mga tricycle, sa likod may nagkakaraoke, tapos sasabihin mo hindi ba maingay?" Oo nga naman.
 
 Maaaring puwede ito sa Pilipinas pero sa kasamaang palad ay nadadala nating mga Pilipino ang pagiging maingay kahit dito sa Japan.
 
 Mahilig ang mga Pilipino na magtipon-tipon, at kapag magtipon-tipon ay hindi maiiwasan ang ingay. Kaya nagrereklamo ang mga kapitbahay na Hapon. Kung minsan ay dumarating pa ang mga pulis dahil sa sobrang ingay hindi na matiis ng mga kapitbahay.
 
 Sensitive ang mga Hapon sa ingay (dapat lang) kaya kahit sa publiko o pribado, kung maiiwasan nating mag-ingay ay malaki ang ikagaganda ng image ng mga Pilipino sa Japan.
+
+Minsan ay naiwanan naming bukas ang bintana sa bahay nang nanood kami ng movie at nakiskubre ko lang nung natapos na yung pinanood namin. Kinaumagahan noong nakita ko yung kapitbahay namin ay nag-*gomennasai* ako dahil sa ingay. Sabi naman nya ay wala daw silang narinig, pero dahil siyempre hindi ko alam kung talagang wala silang narinig o ayaw lang niyang sabihin ng direkta. Kaya tsinitsek ko palagi ang mga bintana kung manonood ng movie para maganda ang relasyon sa kapitbahay.
 
 ## Eco-friendly bags
 

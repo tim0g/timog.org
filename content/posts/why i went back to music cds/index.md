@@ -1,7 +1,7 @@
 ---
 title: "Why I went back to music CDs"
 date: 2021-08-01
-author:  Leon Timog
+authors: ["Leon Timog"]
 description: "Why I went back to listening to music CDs from mp3 and streaming"
 tags:
 - blog
