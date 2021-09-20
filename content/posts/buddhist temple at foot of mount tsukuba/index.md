@@ -11,7 +11,7 @@ tags:
 ---
 By accident, ay may nadaanan kaming Buddhist [`temple`](/buddhist-temple-at-foot-of-mount-tsukuba/buddhist-temple-entrance.jpg "Entrance of Buddhist temple") sa baba ng Tsukuba-san kaya nang nagkaroon ng oras ay binalikan namin.
 
-![Buddhist temple](buddhist-temple-entrance.jpg "Entrance of Buddhist temple")
+![Buddhist temple](/buddhist-temple-at-foot-of-mount-tsukuba/buddhist-temple-entrance.jpg "Entrance of Buddhist temple")
 
 Gusto ko ang [`feel`](/buddhist-temple-at-foot-of-mount-tsukuba/buddhist-temple-bodhisattva.jpg "Bodhisattva in Buddhist temple") ng mga Buddhist temple at Shinto shrine sa Japan: [`tahimik`](/buddhist-temple-at-foot-of-mount-tsukuba/buddhist-temple-water-plants.jpg "Water plants at Buddhist temple"), halos laging walang tao, malapit sa nature, at makakapag-isip ka ng mga spiritual na bagay.
 

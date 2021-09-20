@@ -10,7 +10,10 @@ tags:
 - egret
 - heron
 ---
-Kapag nilalabas ko ang basura sa umaga, tinitignan ko ang mga puting [`ibon`](/taking-out-the-trash-in-the-morning/egret-heron-rice-fields.jpg "Egret and heron on the rice fields") sa bagong tanim na palayan (karamihan ay egret pero merong ding grey heron at ibang maliliit na ibon).
+ ![Ibon](/taking-out-the-trash-in-the-morning/egret-heron-rice-fields.jpg "Egret and heron on the rice fields")
+ {{< caption >}}*Tagak at iba't-ibang ibon sa palagay sa umaga sa Tsukuba, Ibaraki.*{{< /caption >}}
+
+Kapag nilalabas ko ang basura sa umaga, tinitignan ko ang mga puting ibon sa bagong tanim na palayan (karamihan ay egret pero merong ding grey heron at ibang maliliit na ibon).
 
 Iniisip kong ang main na pagkain nila ay mga palaka na maingay sa gabi pero tahimik sa umaga kapag nandito ang mga ibon na ito. Bukod sa palaka ay maliliit na insekto at crustacean.
 

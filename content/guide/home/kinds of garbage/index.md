@@ -6,7 +6,7 @@ weight: 45
 type: page
 ---
 {{< bluebox >}}
-**NOTE:** ang ilustrasyon ng mga basura sa webpage na ito ay inangkop mula sa *Tamang Paghihiwalay at Pagtatapon ng Recyclable Items at Basura* (正しい資源物とごみの分け方・出し方 Tadashii Shigenbutsu to Gomi no Wakekata, Dashikata), na nilathala ng lungsod ng Kyoto. Maaaring i-download ang PDF ([Nihongo](https://www.city.kyoto.lg.jp/kankyo/cmsfiles/contents/0000250/250067/handbookjp.pdf) at [English](https://www.city.kyoto.lg.jp/kankyo/cmsfiles/contents/0000250/250067/handbookenglish.pdf)) mula sa [website ng lungsod ng Kyoto](https://www.city.kyoto.lg.jp/kankyo/page/0000250067.html).
+**NOTE:** ang ilustrasyon ng mga basura sa webpage na ito ay inangkop mula sa *Tamang Paghihiwalay at Pagtatapon ng Recyclable Items at Basura* (正しい資源物とごみの分け方・出し方 Tadashii Shigenbutsu to Gomi no Wakekata, Dashikata), na nilathala ng lungsod ng Kyoto. Maaaring i-download ang PDF ([Nihongo](https://www.city.kyoto.lg.jp/kankyo/cmsfiles/contents/0000250/250067/handbookjp.pdf) at [English](https://www.city.kyoto.lg.jp/kankyo/cmsfiles/contents/0000250/250067/handbookenglish.pdf)) mula sa kanilang [website](https://www.city.kyoto.lg.jp/kankyo/page/0000250067.html).
 {{< /bluebox >}}
 
 Iba't-ibang uri ng basura ang lumalabas sa bahay: mula sa pinakamaraming Burnable Garbage hanggang sa bihira lang na lumabas na kagaya ng battery, bumbilya o malalaking kasangkapan.
@@ -128,7 +128,7 @@ Ang karamihan ng mga papel na basura ay maaring i-recycle, pero may iba na dahil
 
 Karamihan ng mga papel na maaring i-recycle ay dyaryo, karton, paper pack (ginagamit na lalagyan ng gatas), leaflet, catalog, magasin, papel na lalagyan, sobre at postcard, papel na balot, papel na bag, gitna ng toilet paper, kalendaryo (tinanggal ang metal na parte), memo pad, computer paper, atbp).
 
-**PAANO ITAPON**: Ang mga dyaryo, magasin, karton, atbp. ay talian at 
+**PAANO ITAPON**: Ang mga dyaryo, magasin, karton, atbp. ay **talian** bago itapon para hindi maghiwa-hiwalay. Ang maliliit na papel ay maaaring ilagay sa **karton na kahon** o kaya ay **paper bag** bago itapon.
 
 ### Non-recyclable paper
 
@@ -140,9 +140,20 @@ Water-proof na papel, papel ng fax machine, larawan, papel na may coating, papel
 
 ## Non-burnable garbage
 
-Ang hindi nasusunog na basura at hindi kasama sa Recyclables ay karamihang inilalagay sa Non-burnable Garbage.
+Ang hindi nasusunog na basura at hindi kasama sa Recyclables ay karamihang inilalagay sa Non-burnable Garbage. Ang nasa baba ay example lang; kumunsulta sa rules ng pagtatapon ng sariling lungsod.
 
-Kasama dito ang 
+| Item | Remarks |
+|---------|---------|
+|Cellphone, camera, etc| Tsekin kung may designated na tapunan ang maliliit na electronics na kagaya ng mga ito sa community center. |
+|Computer printer, scanner, etc| Tsekin kung maaring itapon ang mga ito sa non-burnable garbage. Taggalin ang ink cartridge o toner bago itapon. Ang ink cartridge at toner ay karamihang tinatapon sa mga electronics shop. |
+|Microwave oven, rice cooker, oven toaster, etc| Tsekin ang kung gaano kalaki ang household appliance na maaring itapon sa non-burnable garbage at hindi sa oversized garbage. May mga lugar na maaring itapon sa non-burnable garbage ang appliance na hindi hahaba sa **50cm** ang isang side. |
+|Bumbilya, flourescent bulbs, LED bulbs| Tsekin kung maaring itapon ang mga ito o kung may designated na tapunan sa mga electronics shop, community center, etc. May ibang lugar na maaring itapon ang ordinaryong bumbilya at hindi ang mga LED bulbs. Kung basag ay balutin ng makapal na papel at sulatan ng **"危険"** o kaya ay **"KIKEN"** ang plastic bago itapon. |
+|Kutsilyo, gunting, cutter, etc| Balutin ng makapal na papel at sulatan ng **"危険"** o kaya ay **"KIKEN"** ang plastic bago itapon. |
+|Baso, pinggan, kutsara, tinidor, etc| Ang basag na baso o matutulis na bagay ay balutin ng makapal na papel at sulatan ng **"危険"** o kaya ay **"KIKEN"** ang plastic bago itapon. |
+|Bote na ginamit sa cosmetics, kemikal, pintura, etc| Karamihang hinihiwalay ito sa ordinaryong boteng ginamit sa pagkain na nire-recycle. Kung basag ay balutin ng makapal na papel at sulatan ng **"危険"** o kaya ay **"KIKEN"** ang plastic bago itapon. |
+|Metal bat, golf club, payong, etc| Tsekin kung gaano kalaki ang mga ito para maitapon sa non-burnable garbage at hindi sa oversized garbage. May mga lugar na maaring itapon ang mga ito sa non-burnable garbage kung hindi hahaba sa **150cm** ang sukat.|
+|Iba't-ibang tools (lagare, martilyo, liabe, etc)| Kung may matulis na parter ay balutin ng makapal na papel at sulatan ng **"危険"** o kaya ay **"KIKEN"** ang plastic bago itapon. |
+|Lighter| Palabasin ang lahat ng gas bago itapon. |
 
 | Nihongo | Reading |
 |---------|---------|

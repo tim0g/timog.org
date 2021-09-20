@@ -12,10 +12,17 @@ Unang araw ng mahabang *obon yasumi* at nasa clinic ako para sa isang endoscopy.
 
 Mas gusto ko ang mas simpleng *ikamera*: 胃カメラ (camera sa tiyan).
 
-Mas gusto ko pang pumunta sa dentista kaysa gawin ang procedure na ito. Papainumin ka ng nakakasukang mala-sopas na likido, iisprayhan ang ilong at lalamunan mo ng pangpamanhid, at ipapasok sa ilong mo (o bibig depende sa hilig mo) hanggang sa tiyan ang isang [`maliit na camera`](/endoscopy/olympus-endoscopy-apparatus-ikamera.jpg "Olympus endoscopy apparatus") sa dulo ng mahabang cable.
+![Olympus endoscopy apparatus](/endoscopy/olympus-endoscopy-apparatus-ikamera.jpg "Olympus endoscopy apparatus")
+{{< caption >}}*Olympus endoscopy apparatus: makikita sa kanan ang kulay itim na mahabang cable na ipapasok sa loob ng digestive tract.*{{< /caption >}}
 
-Ang tawag nila dito ay *upper* endoscopy.
+Mas gusto ko pang pumunta sa dentista kaysa gawin ang procedure na ito. Papainumin ka ng nakakasukang mala-sopas na likido, iisprayhan ang ilong at lalamunan mo ng pangpamanhid, at ipapasok sa ilong mo (o bibig depende sa hilig mo) hanggang sa tiyan ang isang maliit na camera sa dulo ng mahabang cable.
 
-Habang naghihintay ako sa harap ng information counter pagkatapos (kailangan maghintay ng 40 minutes pagkatapos) ay nabasa ako na gumagawa din sila ng *lower* endoscopy, kung saan sa puwit naman pinapasok ang camera para siyasatin ang bituka (colon). Tapos naisip ko, teka, may iba naman sigurong camera na ginagamit para...?
+Ang tawag nila dito ay *upper endoscopy* (o ang mas kumplikadong esophagogastroduodenoscopy).
 
-Pero ang mga tanong na alam mo na ang sagot ay hindi mo na dapat pinag-iisipan ng husto.
+Habang hinihintay ang duktor ay nararamraman kong umiepekto ang pangpamanhid ng trachea, at parang hindi ako makalulon, at nagkaroon ako ng slight panic na baka hindi ako makahinga. Ang totoo ay hindi naman naaapektuhan ang daanan ng hangin papunta sa baga pero dahil sa epekto ng gamot, parang may pakiramdam ka na wala ka nang control sa sarili mong lalamunan, na nagbibigay ng panic lalo na kung naiwan kang mag-isa sa kwarto.
+
+Nang bumalik yung nurse sabi ko, "Wala naman sigurong namamatay sa procedure na ito, ano?" Ngumiti sya nang konti at sabi nya, "Huwag kang mag-alala, walang posibilidad na hindi ka makakahinga." Mabait ang mga nurse sa clinic na ito kaya nakalma ako (nang konti).
+
+Habang naghihintay ako sa harap ng information counter pagkatapos (kailangan maghintay ng 40 minutes pagkatapos) ay nabasa ako na gumagawa din sila ng *lower endoscopy*, kung saan sa puwit naman pinapasok ang camera para siyasatin ang bituka (colon). Tapos naisip ko, teka, may iba naman sigurong camera na ginagamit para dyan...?
+
+Pero ang mga tanong na alam mo na ang sagot ay hindi mo na dapat pinag-iisipan nang husto.

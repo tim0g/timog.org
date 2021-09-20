@@ -10,9 +10,7 @@ tags:
 - noise
 - eco-friendly bags
 ---
-Aksidente, napunta ako sa [Beth in Japan](https://tinkerbethy.com) at sa kanyang *[How Living in Japan Has Inluenced Me as A Person](https://tinkerbethy.com/2021/03/29/how-living-in-japan-influences-me-as-a-person/)* blog post.
-
-Interesting observations, at naalala ko tuloy ang aking experience sa matagal nang pagtira sa Japan:
+Aksidente, napunta ako sa [Beth in Japan](https://tinkerbethy.com) at sa kanyang *[How Living in Japan Has Inluenced Me as A Person](https://tinkerbethy.com/2021/03/29/how-living-in-japan-influences-me-as-a-person/)* blog post. Interesting observations, at naalala ko tuloy ang aking experience sa matagal nang pagtira sa Japan:
 
 ## Bath culture
 
@@ -29,6 +27,10 @@ Masarap matulog nang ganito.
 Sabi naman ng mga Hapon na nakausap ko, natural lang na maligo sa gabi dahil madumi ka pagdating mo sa bahay. Sa umaga ay malinis ka pa, kaya kailangan na lang ng kaunting hilamos sa mukha, at iba pang personal hygiene.
 
 Kapag summer naman ay either dawalang beses ako naliligo (gabi at umaga) o kaya ay umaga lang.
+
+![Tonari no Totoro bath scene](/how-living-in-japan-influenced-me-as-a-person/tonari-no-totoro-bath-ofuro-scene.jpg "Tonari no Tororo bath scene")
+{{< caption >}}*[Tonari no Totoro](https://en.wikipedia.org/wiki/My_Neighbor_Totoro) bath scene, kung saan naliligo nang sabay ang tatay kasama ang kanyang dawalang anak na babae habang lumilipad sa labas ang [Catbus](https://en.wikipedia.org/wiki/Catbus).*{{< /caption >}}
+
 
 Bukod sa paliligo sa gabi ay mas malaki ang impression sa akin nang paliligo na kasama ang mga anak. Hindi kasi ginagawa ito sa Pilipinas pero napakanatural lang na gawin ito sa Japan. Kung napanood ninyo ang Tonari no Totoro, may scene doon na naliligo ang tatlong mag-ama (tatay at dalawang anak na babae) nang sabay. Para sa akin, ang paliligo ay magandang bonding ng magulang at maliliit na anak. Kapag umabot na sila sa tamang edad (usually early elementary school age) ay natural na hindi na sila sasabay sa magulang kahit yayaing maligo.
 
@@ -55,9 +57,12 @@ Pero pinakaimportante para sa magandang relasyon sa kapitbahay (at pagiging maga
 
 ## Not being noisy
 
-Maraming taon na ang nakakalipas ay nagdala ako ng electric guitar sa bahay namin sa Fairview.
+Maraming taon na ang nakakalipas ay nagdala ako ng electric guitar sa bahay namin sa Quezon City.
 
-Natatandaan ko ay isang lumang [Fender Telecaster](https://en.wikipedia.org/wiki/Fender_Telecaster) ito na nabakbak na ang pintura na napulot ng isang kaibigan sa basura at binigay sa akin, tapos kinaskas ko naman ang lahat ng pintura ng katawan. (Ito yung panahon sa Japan na may nagtatapon pa ng mga household appliance na kagaya ng TV at ref sa basura.)
+Natatandaan ko ay isang lumang [Fender Telecaster](https://en.wikipedia.org/wiki/Fender_Telecaster) ito na nabakbak na ang pintura na napulot ng kaibigan ko sa basura at binigay sa akin, tapos kinaskas ko naman ang lahat ng pintura ng katawan. Ito yung panahon sa Japan noong late 1990's kung kailan may nagtatapon pa ng mga malalaking bagay na kagaya ng TV at ref sa basurahan. 
+
+![Old worn-out Fender Telecaster](/how-living-in-japan-influenced-me-as-a-person/old-worn-out-fender-telecaster.jpg "Old worn-out Fender Telecaster")
+{{< caption >}}*Fender Custom Shop 52 Telecaster by [guitarguitar](https://www.guitarguitar.co.uk/product/12040516512047--fender-custom-shop-52-telecaster-heavy-relic-with-neck-humbucker).*{{< /caption >}}
 
 Pagkadating ko sa bahay ay nilabas ng kapatid ko yung Telecaster, sinaksak sa amplifier ang cable at tinesting yung distortion ng kasamang effector. Sabi ko, "Pre, hindi ba maingay?" Sabi nya, "Hindi mo ba naririnig sa sarap may mga tricycle, sa likod may nagkakaraoke, tapos sasabihin mo hindi ba maingay?" Oo nga naman.
 

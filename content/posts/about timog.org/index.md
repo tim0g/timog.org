@@ -40,13 +40,15 @@ I wanted to build a simple site in plain html files without the need for a CMS s
 <td><a href="https://www.netlify.com/">Netlify</a></td>
 </tr>
 <tr>
-<td>Markdown editor</td>
-<td><a href="https://code.visualstudio.com/">Visual Studio Code</a></td>
+<td>Markdown editors</td>
+<td><a href="https://notepad-plus-plus.org/">Notepad++</a>, <a href="https://code.visualstudio.com/">VSC</a></td>
 </tr>
 </table>
 {{< /html >}}
 
 I originally made this site with the [Docsy](https://www.docsy.dev/) theme, but I finally moved to Hugo Flex. I like the simplicity of Hugo Flex: minimalist design, lightweight, no framework, no Javascript.
+
+For editing markdown files, I use Notepad++ and Visual Studio Code, whichever is present on the machine I'm using. Although I feel N++ is faster than VSC, I find changing color themes in N++ harder than necessary so I find myself using VSC if I want a dark color theme and N++ for a light theme.
 
 I want to make the index page as lightweight and responsive as possible so images are not displayed on the homepage. Clicking on the post title will take you to the individual post's permalink, where images are displayed.
 

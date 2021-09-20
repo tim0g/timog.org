@@ -10,6 +10,10 @@ body {
   padding: 0;
 }
 
+p {
+  margin: 0 0 1rem 0;
+}
+
 h1, h2, h3, h4, h5, h6 {
   letter-spacing: -0.014em;
 }
@@ -157,9 +161,11 @@ code {
 }
 
 table, th, td {
+  font-size: 1.07rem;
   border: 1px solid #ccc;
   border-collapse: collapse;
   padding: 0.2rem 0.5rem;
+  margin: 0 0 1rem;
 }
 
 th {
@@ -177,6 +183,7 @@ a:hover {
 
 .alert {
   position: relative;
+  font-size: 1.07rem;
   padding: 0.4rem .8rem;
   margin: 1rem 0;
   border: 1px solid transparent;
@@ -225,6 +232,13 @@ a:hover {
 }
 
 .postmeta {
-  font-size: 1rem;
+  font-size: 0.9rem;
   color:#666;
+}
+
+figcaption {
+  font-size: 0.9rem;
+  color: #666;
+  line-height: 1.4;
+  margin: -1rem 0 0 0;
 }
