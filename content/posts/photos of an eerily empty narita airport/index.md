@@ -73,11 +73,11 @@ Social distancing is the least of your worries inside this almost abandoned airp
 
 ### Cancelled flights
 
-All these cancelled flights make me wonder: isn't international travel really overrated? In this era of Internet and virtual reality, do we really need to fly thousands of miles to *enjoy* a place or *talk* to a client?
+All these cancelled flights make me wonder: isn't international travel overrated? In this era of Internet and virtual reality, do we really need to fly thousands of miles to *enjoy* a place or *talk* to a client?
 
 It has long been established that [flying is bad](https://www.theguardian.com/environment/ng-interactive/2019/jul/19/carbon-calculator-how-taking-one-flight-emits-as-much-as-many-people-do-in-a-year) for the planet (aviation accounts for [almost 2%](https://ourworldindata.org/co2-emissions-from-aviation) of greenhouse gas emissions).
 
-Maybe a good consequence of the pandemic is putting a break on unnecessary travel and reducing the overall carbon footprint of humans on the planet.
+Maybe a good effect of the pandemic is putting a brake on unnecessary travel and reducing the overall carbon footprint of humans on the planet.
 
 [Not that it would matter](https://www.commondreams.org/news/2020/11/12/humans-may-have-passed-point-no-return-climate-crisis-says-study-doesnt-mean-all) in the long run, anyway.
 
