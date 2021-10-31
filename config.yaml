@@ -27,8 +27,7 @@ params:
   description: "TIMOG: Guide, Wiki, Blog"
   footer: <small>©2021 Leon Timog + 
     <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">
-    CC BY 4.0</a></br><em>Please link back when you reuse our content.</em></br>
-    <a href="#top"> Back to top</a></small>
+    CC BY 4.0</a></br><a href="#top"> Back to top</a></small>
   rss: >-
     To subscribe to this RSS feed, copy the address in the address bar and paste
     it into your favorite feed reader.
