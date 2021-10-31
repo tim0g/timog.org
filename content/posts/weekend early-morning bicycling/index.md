@@ -57,6 +57,6 @@ May mga lumang libro sa labas na tig-20 yen ang isa. Madaming libro sa Japan (at
 
 ![Old books outside a second-hand shop](/weekend-early-morning-bicycling/second-hand-books.jpg "Old books outside a second-hand shop")
 
-Ito ang binili ko: Diary of a Yound Girl ni Anne Frank. Bumibili ako ng Nihongo version ng isang libro para puwede kong pagkumparahin ang English at Nihongo version. Pero mahilig din naman akong bumili ng libro na hindi ko naman binabasa.
+Ito ang binili ko: Diary of a Young Girl ni Anne Frank. Bumibili ako ng Nihongo version ng isang libro para puwede kong pagkumparahin ang English at Nihongo version. Pero mahilig din naman akong bumili ng libro na hindi ko naman binabasa.
 
 ![Diary of a young girl by Anne Frank in Japanese](/weekend-early-morning-bicycling/diary-of-young-girl-anne-frank-japanese.jpg "Diary of a young girl by Anne Frank in Japanese")

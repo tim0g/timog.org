@@ -72,7 +72,7 @@ Mahilig ang mga Pilipino na magtipon-tipon, at kapag magtipon-tipon ay hindi mai
 
 Sensitive ang mga Hapon sa ingay (dapat lang) kaya kahit sa publiko o pribado, kung maiiwasan nating mag-ingay ay malaki ang ikagaganda ng image ng mga Pilipino sa Japan.
 
-Minsan ay naiwanan naming bukas ang bintana sa bahay nang nanood kami ng movie at nakiskubre ko lang nung natapos na yung pinanood namin. Kinaumagahan noong nakita ko yung kapitbahay namin ay nag-*gomennasai* ako dahil sa ingay. Sabi naman nya ay wala daw silang narinig, pero dahil siyempre hindi ko alam kung talagang wala silang narinig o ayaw lang niyang sabihin ng direkta. Kaya tsinitsek ko palagi ang mga bintana kung manonood ng movie para maganda ang relasyon sa kapitbahay.
+Minsan ay naiwanan naming bukas ang bintana sa bahay nang nanood kami ng movie at nakiskubre ko lang nung natapos na yung pinanood namin. Kinaumagahan noong nakita ko yung kapitbahay namin ay nag-*gomennasai* ako dahil sa ingay. Sabi naman nya ay wala daw silang narinig, pero siyempre hindi ko alam kung talagang wala silang narinig o ayaw lang niyang sabihin ng direkta. Kaya tsinitsek ko palagi ang mga bintana kung manonood ng movie para maganda ang relasyon sa kapitbahay.
 
 ## Eco-friendly bags
 
