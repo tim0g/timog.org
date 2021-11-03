@@ -50,8 +50,10 @@ I originally made this site with the [Docsy](https://www.docsy.dev/) theme, but 
 
 For editing markdown files, I use Notepad++ and Visual Studio Code, whichever is present on the machine I'm using. Although I feel N++ is faster than VSC, I find changing color themes in N++ harder than necessary so I find myself using VSC if I want a dark color theme and N++ for a light theme.
 
-### Creative Commons license
+### License and terms of use
 
-All content in Timog.org are under [Creative Commons Attribution Share-alike](https://creativecommons.org/licenses/by-sa/4.0/) license and may be reused as long as a link back to Timog.org is provided.
+All content (text, images and other media) in Timog.org is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license.
+
+You may use them in your website as long as you provide a link to [Timog.org](https://timog.org) on each page that our content is reused.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>

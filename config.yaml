@@ -25,7 +25,7 @@ params:
   color: "#1C86EE"
   width: 45rem
   description: "TIMOG: Guide, Wiki, Blog"
-  footer: <small>©Timog.org. All text and images under <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons License</a>.</br><a href="#top"> Back to top</a></small>
+  footer: <small>All content ©Timog.org under <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons</a> license.</br><a href="#top"> Back to top</a></small>
   rss: >-
     To subscribe to this RSS feed, copy the address in the address bar and paste
     it into your favorite feed reader.
