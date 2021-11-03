@@ -14,4 +14,7 @@ Whenever Lucifer, our cat, gets bored, his instincts are numbed and his guard go
 
 Here he is getting mauled by [Pyton](https://www.ikea.com/au/en/p/djungelskog-glove-puppet-snake-burmese-python-40402849/endemi), a constrictor native of Swedish rainforests, who managed to sneak up on him from behind the sofa pillows.
 
+{{< html >}}<div>{{< /html >}}
 ![House cat mauled by Swedish python](/lucifer-the-house-cat-mauled-by-pyton-the-constrictor/cat-mauled-by-swedish-python.jpg "House cat mauled by Swedish python")
+{{< html >}}<figcaption><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons CC BY 4.0</a></figcaption>
+</div>{{< /html >}}
