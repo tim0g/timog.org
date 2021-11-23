@@ -52,7 +52,7 @@ For editing markdown files, I use Notepad++ and Visual Studio Code, whichever is
 
 ### License and terms of use
 
-All content (text, images and other media) in Timog.org is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license.
+All content (text, images and other media) in Timog.org is licensed under a [Creative Commons Attribution ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
 You may use them in your website as long as you provide a link to [Timog.org](https://timog.org) on each page that our content is reused.
 
