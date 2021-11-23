@@ -99,9 +99,9 @@ code {
 }
 
 .Tags-item {
-  border-radius: 0.2rem;
+  border-radius: 0.3rem;
   margin: 0.2rem;
-  padding: 0 .5rem .1rem;
+  padding: 0 .5rem;
 }
 
 .Tags-link {
