@@ -8,7 +8,7 @@ tags:
 - narita airport
 - japan
 - coronavirus
-- covid19
+- covid
 - travel
 ---
 Fetched a friend from Narita Airport last spring and took pictures of a strangely quiet airport devoid of travellers.
