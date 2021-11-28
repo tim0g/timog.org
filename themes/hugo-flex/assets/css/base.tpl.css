@@ -1,6 +1,6 @@
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-  font-size: 1.14rem;
+  font-family: Open Sans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-size: 1.23rem;
   color: #222;
   line-height: 1.6;
   display: flex;
@@ -10,13 +10,30 @@ body {
   padding: 0;
 }
 
+p {
+  margin: 0 0 1rem 0;
+}
+
+p a {
+  font-weight: 700;
+}
+
+a {
+  color: #2b6fd2;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #555;
+}
+
 h1, h2, h3, h4, h5, h6 {
   letter-spacing: -0.014em;
 }
 
 h1 {font-size: 2.25rem; line-height: 1.1; padding: 0 0 5px 0;}
-h2 {font-size: 1.80rem; line-height: 1.2;}
-h3 {font-size: 1.44rem; line-height: 1.3;}
+h2 {font-size: 1.80rem; line-height: 1.2; color:#606}
+h3 {font-size: 1.57rem; line-height: 1.3; color:#606}
 h4 {font-size: 1.15rem; line-height: 1.4;}
 
 main {
@@ -81,7 +98,7 @@ code {
 }
 
 .Heading-link {
-  color: #222;
+  color: #808;
 }
 
 .Tags {
@@ -95,14 +112,13 @@ code {
 }
 
 .Tags-item {
-  border-radius: 0.2rem;
+  border-radius: 0.3rem;
   margin: 0.2rem;
-  padding: 0 0.3rem;
-  border: 1px solid #ccc;
+  padding: 0 .5rem;
 }
 
 .Tags-link {
-  color: #333;
+  color: #fff;
 }
 
 {{ with site.Params.divider }}
@@ -147,7 +163,7 @@ code {
 }
 
 .u-background {
-  background: #fff;
+  background: #e83e3e;
 }
 
 .u-clickable {
@@ -157,26 +173,20 @@ code {
 }
 
 table, th, td {
+  font-size: 1.07rem;
   border: 1px solid #ccc;
   border-collapse: collapse;
   padding: 0.2rem 0.5rem;
+  margin: 0 0 1rem;
 }
 
 th {
   background-color: #f0f0f0;
 }
 
-a {
-  color: #2b6fd2;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #555;
-}
-
 .alert {
   position: relative;
+  font-size: 1.07rem;
   padding: 0.4rem .8rem;
   margin: 1rem 0;
   border: 1px solid transparent;
@@ -225,6 +235,12 @@ a:hover {
 }
 
 .postmeta {
-  font-size: 1rem;
+  font-size: 0.9rem;
   color:#666;
+}
+
+figcaption {
+  font-size: 0.9rem;
+  color: #666;
+  line-height: 1.4;
 }

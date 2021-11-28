@@ -9,7 +9,9 @@ tags:
 - gun control
 - firearm and sword possession control law
 ---
-Paminsan-minsan, kung mapapadaan ka sa medyo probisyang lugar ng Japan, may mapapansin kang mga Gun-Hunting Prohibited [`sign`](/how-to-get-a-gun-in-japan/ibaraki-hunting-prohibited-area.jpg "Gun-Hunting Prohibited Area sign").
+Paminsan-minsan, kung mapapadaan ka sa medyo probisyang lugar ng Japan, may mapapansin kang mga Gun-Hunting Prohibited Area na sign.
+
+![Gun-Hunting Prohibited Area](/how-to-get-a-gun-in-japan/ibaraki-hunting-prohibited-area.jpg "Gun-Hunting Prohibited Area sign")
 
 Para sa mga taong nasanay na na hindi makakita ng baril sa Japan (bawal humawak ng baril pati mga security guard), baka nakakabiglang malaman na *pwedeng* makakuha ng baril sa Japan.
 

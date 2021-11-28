@@ -9,11 +9,17 @@ tags:
 - melodica
 - recorder
 ---
-Wala akong dalang pampalit na [`sapatos`](/visit-to-elementary-school-classroom/shoes-school-entrance.jpg "Shoes in school entrance") o slippers kaya naglakad ako sa corridor nang nakamedyas lang.
+![Shoes in school entrance in Japan](/visit-to-elementary-school-classroom/shoes-school-entrance.jpg "Shoes in school entrance in Japan")
 
-Sa classroom ay may usual na [`randoseru`](/visit-to-elementary-school-classroom/randoseru-melodica-recorder.jpg "Randoseru, melodica at recorder"), melodica at recorder ng mga bata. Dati ay puro itim (lalaki) at pula (babae) lang ang mga randoseru; ngayon may iba't-ibang kulay na. 
+Wala akong dalang pampalit na sapatos o slippers kaya naglakad ako sa corridor nang nakamedyas lang.
 
-Selection ng ba't-ibang [`libro`](/visit-to-elementary-school-classroom/classroom-books-on-shelf.jpg "Books on classroom shelf") sa shelves ng classroom.
+![Randoser, melodica, recorder](/visit-to-elementary-school-classroom/randoseru-melodica-recorder.jpg "Randoseru, melodica and recorder")
+
+Sa classroom ay may usual na *randoseru*, melodica at recorder ng mga bata. Dati ay puro itim (lalaki) at pula (babae) lang ang mga randoseru; ngayon may iba't-ibang kulay na. 
+
+![Books on classroom shelf in Japan`](/visit-to-elementary-school-classroom/classroom-books-on-shelf.jpg "Books on classroom shelf in Japan")
+
+Selection ng ba't-ibang libro sa shelves ng classroom.
 
 - なぜなに大語源 (The Why-What Big Book of Word Origins)
 - 校庭にうかんだ墓地 (Graveyard That Rose on the School Grounds)

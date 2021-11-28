@@ -1,6 +1,6 @@
 <header class="Heading">
   <h1 class="Heading-title">
-    <a class="Heading-link u-clickable" href="{{ .RelPermalink }}" rel="bookmark">{{ .Title }}</a>
+    <a class="Heading-link u-clickable" href="{{ .RelPermalink }}" rel="bookmark">{{ .Title | markdownify }}</a>
   </h1>
 	<span class="postmeta">{{ range .Param "authors" }}{{ . }},{{ end }} 
   {{ with .PublishDate | default nil }}
