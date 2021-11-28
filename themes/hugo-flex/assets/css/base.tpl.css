@@ -1,5 +1,5 @@
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-family: Open Sans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   font-size: 1.23rem;
   color: #222;
   line-height: 1.6;
@@ -14,13 +14,26 @@ p {
   margin: 0 0 1rem 0;
 }
 
+p a {
+  font-weight: 700;
+}
+
+a {
+  color: #2b6fd2;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #555;
+}
+
 h1, h2, h3, h4, h5, h6 {
   letter-spacing: -0.014em;
 }
 
 h1 {font-size: 2.25rem; line-height: 1.1; padding: 0 0 5px 0;}
 h2 {font-size: 1.80rem; line-height: 1.2; color:#606}
-h3 {font-size: 1.44rem; line-height: 1.3; color:#606}
+h3 {font-size: 1.57rem; line-height: 1.3; color:#606}
 h4 {font-size: 1.15rem; line-height: 1.4;}
 
 main {
@@ -150,7 +163,7 @@ code {
 }
 
 .u-background {
-  background: #1565c0;
+  background: #e83e3e;
 }
 
 .u-clickable {
@@ -169,15 +182,6 @@ table, th, td {
 
 th {
   background-color: #f0f0f0;
-}
-
-a {
-  color: #2b6fd2;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #555;
 }
 
 .alert {
