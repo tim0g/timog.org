@@ -23,7 +23,7 @@ permalinks:
 params:
   editURL: "https://github.com/tim0g/tim/tree/main/content"
   color: "#1C86EE"
-  width: 45rem
+  width: 50rem
   description: "TIMOG: Guide, Wiki, Blog"
   footer: <small>All content ©Timog.org under <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">Creative Commons</a> license.</br><a href="#top"> Back to top</a></small>
   rss: >-
