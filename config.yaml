@@ -17,8 +17,8 @@ outputs:
   - HTML
 
 permalinks:
-  posts: '/:filename/'
-  pages: '/:filename/'
+  posts: /:filename/
+  pages: /:filename/
 
 params:
   editURL: "https://github.com/tim0g/tim/tree/main/content"
