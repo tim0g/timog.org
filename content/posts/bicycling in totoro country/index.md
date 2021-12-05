@@ -11,11 +11,11 @@ tags:
 - renkon
 - bicycle
 ---
-![T intersection with mirror](/bicycling-in-totoro-country/t-intersection-with-mirror.jpg "T intersection with mirror")
+{{< img src="t-intersection-with-mirror.jpg" alt="T intersection with mirror" >}}
 
 Puro ulan nitong mga nakaraang araw kaya nang nagkaroon ng kaunting oras sa weekend na tumila ang ulan ay nag-bisikleta ulit kami sa paligid. Ngayon ay medyo malayo ang nabisikleta namin, isang lugar na hindi pa namin napupuntahan, sa tabi ng mga palayan.
 
-![Reeds in a rice field](/bicycling-in-totoro-country/reeds-in-a-rice-field.jpg "Reeds in a rice field")
+{{< img src="reeds-in-a-rice-field.jpg" alt="Reeds in a rice field" >}}
 
 Ito ang rainy season bago mag-summer sa Japan at saturated ang green sa buong paligid.
 
@@ -29,7 +29,7 @@ May sinabi si Phillip E. Wegner sa kanyang [review ng Tonari no Totoro](http://i
 
 🌳🌳🌳
 
-![Biking down a country road in Japan](/bicycling-in-totoro-country/biking-down-a-country-road.jpg "Biking down a country road in Japan") 
+{{< img src="biking-down-a-country-road.jpg" alt="Biking down a country road in Japan" >}} 
 
 Isa sa mga magandang bagay sa pagbibisikleta ay madaling makadiskubre ng mga lugar na hindi napupuntahan o nahihintuan kapag nakakotse.
 
@@ -37,20 +37,20 @@ Kagaya nitong tindahan ng mga locally made na gulay at pagkain at halaman.
 
 May mga water lily (*[renkon](https://en.wikipedia.org/wiki/Nelumbo_nucifera)*) sa tabi at mga cactus at iba't-ibang tropical plants na kagaya nitong pitcher plant sa loob.
 
-![Landscape with water lilies](/bicycling-in-totoro-country/landscape-with-water-lilies-renkon.jpg "Landscape with water lilies")
+{{< img src="landscape-with-water-lilies-renkon.jpg" alt="Landscape with water lilies" >}}
 
-![Different kinds of cacti](/bicycling-in-totoro-country/different-kinds-of-cacti.jpg "Different kinds of cacti")
+{{< img src="different-kinds-of-cacti.jpg" alt="Different kinds of cacti" >}}
 
-![Pitcher plants](/bicycling-in-totoro-country/pitcher-plants.jpg "Pitcher plants")
+{{< img src="pitcher-plants.jpg" alt="Pitcher plants" >}}
 
 Pauwi ay sa mga palayan din kami ulit dumaan, makulimlim pa rin ang langit at kailangan makauwi bago umulan ulit.
 
-![Violet flowers near rice fields](/bicycling-in-totoro-country/violet-flowers-green-rice-fields.jpg "Violet flowers near rice fields")
+{{< img src="violet-flowers-green-rice-fields.jpg" alt="Violet flowers near rice fields" >}}
 
 Pero may nadanaan kaming Buddhist temple sa tabi ng sementeryo kaya huminto mula kami para tumingin sa paligid.
 
-![Statue in Buddhist temple](/bicycling-in-totoro-country/statue-in-buddhist-temple.jpg "Statue in Buddhist temple")
+{{< img src="statue-in-buddhist-temple.jpg" alt="Statue in Buddhist temple" >}}
 
 Maliit lang ang temple na ito at walang tao (kagaya ng maraming mga temple na ganito). Tahimik--at malamok dahil summer, kaya umalis kaagad kami pagkatapos kumuha ng mga picture.
 
-![Rice fields framed by trees and stone lanterns](/bicycling-in-totoro-country/rice-fields-framed-by-trees-and-stone-lanterns.jpg "Rice fields framed by trees and stone lanterns")
+{{< img src="rice-fields-framed-by-trees-and-stone-lanterns.jpg" alt="Rice fields framed by trees and stone lanterns" >}}

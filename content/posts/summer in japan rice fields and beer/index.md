@@ -18,7 +18,7 @@ Ano ba ang scenery ng summer sa Japan? Camping sa tabi ng ilog... ligo sa beach.
 
 At siyempre, ang berdeng-berdeng palayan.
 
-![Summer rice fields and Mount Tsukuba](/summer-in-japan-rice-fields-and-beer/summer-rice-fields-mount-tsukuba.jpg "Summer rice fields and Mount Tsukuba")
+{{< img src="summer-rice-fields-mount-tsukuba.jpg" alt="Summer rice fields and Mount Tsukuba" >}}
 {{< caption >}}*Summer rice fields with Mount Tsukuba in the background.*{{< /caption >}}
 
 Kapag nakikita ko ang malawak na palayan sa summer ay naaalala ko ang mga palayan sa aking kilalakihang maliit na bayan sa Pilipinas.
@@ -41,7 +41,7 @@ Nakasulat sa label ng iniinom kong Pale Ale:
 
 Kung umiinom ka dahil gusto mo ang lasa ng beer at hindi para malasing lang, ok itong Nest Beer, medyo mahal nga lang (halos doble ng presyo ng Asahi Super Dry).
 
-![Hitachino Nest Beer Pale Ale](/summer-in-japan-rice-fields-and-beer/hitachino-nest-beer.jpg "Hitachino Nest Beer Pale Ale")
+{{< img src="hitachino-nest-beer.jpg" alt="Hitachino Nest Beer Pale Ale" >}}
 {{< caption >}}*Hitachino Nest Beer Pale Ale*{{< /caption >}}
 
 Sa pinupuntahan kong maliit na grocery shop ay Pale Ale, White Ale at Weizen lang ang meron. Pero mukhang magandang tikman ang iba pa nilang beer na kagaya ng Espresso Stout ("Please enjoy the balance of its rich taste and coffee flavor") at Extra High (XH) ("Please enjoy the rich taste, developed by a long maturation period").

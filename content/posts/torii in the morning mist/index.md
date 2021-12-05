@@ -10,7 +10,7 @@ tags:
 ---
 Ang torii ay isa sa mga natatanging tanawin sa Japan at karamihang nagpapahiwatig ng pasukan sa isang Shinto shrine. Ito ang naghihiwalay sa pangkaraniwan at sagrado, material at spiritual.
 
-![Torii](/torii-in-the-morning-mist/irrigation-controller-as-torii.jpg "Irrigation controller as Torii") 
+{{< img src="irrigation-controller-as-torii.jpg" alt="Irrigation controller as Torii" >}}
 
 Karamihan ng mga *barangay* sa Japan ay may sari-sariling Shinto shrine at may ganitong torii sa harapan. Kung pupunta ang mga bata sa mga shrine na ganito ay iniiwan nila ang bisikleta sa labas ng torii, isang tanda ng respeto sa pagpasok sa shrine. Maari sigurong isipin na ang torii ay parang pintuan ng simbahan kumbaga.
 

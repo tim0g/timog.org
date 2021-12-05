@@ -12,7 +12,7 @@ Unang araw ng mahabang *obon yasumi* at nasa clinic ako para sa isang endoscopy.
 
 Mas gusto ko ang mas simpleng *ikamera*: 胃カメラ (camera sa tiyan).
 
-![Olympus endoscopy apparatus](/endoscopy/olympus-endoscopy-apparatus-ikamera.jpg "Olympus endoscopy apparatus")
+{{< img src="olympus-endoscopy-apparatus-ikamera.jpg" alt="Olympus endoscopy apparatus" >}}
 {{< caption >}}*Olympus endoscopy apparatus: makikita sa kanan ang kulay itim na mahabang cable na ipapasok sa loob ng digestive tract.*{{< /caption >}}
 
 Mas gusto ko pang pumunta sa dentista kaysa gawin ang procedure na ito. Papainumin ka ng nakakasukang mala-sopas na likido, iisprayhan ang ilong at lalamunan mo ng pangpamanhid, at ipapasok sa ilong mo (o bibig depende sa hilig mo) hanggang sa tiyan ang isang maliit na camera sa dulo ng mahabang cable.

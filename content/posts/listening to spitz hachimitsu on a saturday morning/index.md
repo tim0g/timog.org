@@ -20,4 +20,4 @@ The first Hachimitsu CD I had was lost when I moved all my music to digital, but
 
 So to break the monotony of jazz and classical music, whenever I want to listen to pop music--Japanese pop music--I put Hachimitsu on. The music takes me to a simpler, more carefree time.
 
-![Pink ball, Spitz Hachimitsu CD, house plants, snake](/listening-to-spitz-hachimitsu-on-a-saturday-morning/pink-ball-spitz-hachimitsu-house-plants-snake.jpg "Pink ball, Spitz Hachimitsu CD, house plants, snake")
+{{< img src="pink-ball-spitz-hachimitsu-house-plants-snake.jpg" alt="Pink ball, Spitz Hachimitsu CD, house plants, snake" >}}

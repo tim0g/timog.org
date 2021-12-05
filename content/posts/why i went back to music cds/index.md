@@ -13,7 +13,7 @@ Si Chelo yata ang nagsabi sa akin may 10 years na ang nakakalipas, "Digital na t
 
 Hindi ko yata napakinggan ang mga mp3 na ito pero isa-isang nawala ang mga CD ko, pati yung [Peel Slowly and See](https://en.wikipedia.org/wiki/Peel_Slowly_and_See) boxed set ng Velvet Underground, hanggang ang natira na lang ay ilang kawawang Dire Straits at Counting Crows na CD na nawala na ang mga case at booklet at nakalagay na lang sa isang CD jacket na nasa loob compartment ng kotse.
 
-![Old Victor stereo amplifier](/why-i-went-back-to-music-cds/victor-stereo-amplifier.jpg "Old Victor stereo amplifier")
+{{< img src="victor-stereo-amplifier.jpg" alt="Old Victor stereo amplifier" >}}
 
 Ang karamihan ng music ay napunta na sa PC, iPod at cellphone at naging background music na lang kapag nag-i-internet o nagmamaneho ng kotse. O pinapakinggan mula sa Amazon Prime Music na napakahirap i-navigate at nawawala ang ilang album pagkatapos mong pakinggan at ilagay sa iyong "My Music" collection.
 
@@ -25,7 +25,7 @@ Gusto kong nahahawakan ang aking music, yung may ritwal na bubuksan mo ang case,
 
 Kaya nang nagkaroon ako ng extra na pera ay bumili ako ng second-hand na amplifier (na sira ang phono input) at CD player, at mura lang na bagong speakers. Tapos bumili ako ng mga second-hand na CD mula sa [Mercari](https://www.mercari.com/jp/).
 
-![Naxos 30th Anniversary Boxed Set](/why-i-went-back-to-music-cds/naxos-30th-anniversary-boxed-set-classical.jpg "Naxos 30th Anniversary Boxed Set")
+{{< img src="naxos-30th-anniversary-boxed-set-classical.jpg" alt="Naxos 30th Anniversary Boxed Set" >}}
 
 Isa sa mga una kong binili ay itong boxed set ng classical music na binili ko nang mahigit 3,000 yen; and isang disc ay halos kasing mahal lang ng isang can coffee sa vending machine.
 

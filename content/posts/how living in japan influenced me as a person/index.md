@@ -28,7 +28,7 @@ Sabi naman ng mga Hapon na nakausap ko, natural lang na maligo sa gabi dahil mad
 
 Kapag summer naman ay either dawalang beses ako naliligo (gabi at umaga) o kaya ay umaga lang.
 
-![Tonari no Totoro bath scene](/how-living-in-japan-influenced-me-as-a-person/tonari-no-totoro-bath-ofuro-scene.jpg "Tonari no Tororo bath scene")
+{{< img src="tonari-no-totoro-bath-ofuro-scene.jpg" alt="Tonari no Tororo bath scene" >}}
 {{< caption >}}*[Tonari no Totoro](https://en.wikipedia.org/wiki/My_Neighbor_Totoro) bath scene, kung saan naliligo nang sabay ang tatay kasama ang kanyang dawalang anak na babae habang lumilipad sa labas ang [Catbus](https://en.wikipedia.org/wiki/Catbus).*{{< /caption >}}
 
 
@@ -61,7 +61,7 @@ Maraming taon na ang nakakalipas ay nagdala ako ng electric guitar sa bahay nami
 
 Natatandaan ko ay isang lumang [Fender Telecaster](https://en.wikipedia.org/wiki/Fender_Telecaster) ito na nabakbak na ang pintura na napulot ng kaibigan ko sa basura at binigay sa akin, tapos kinaskas ko naman ang lahat ng pintura ng katawan. Ito yung panahon sa Japan noong late 1990's kung kailan may nagtatapon pa ng mga malalaking bagay na kagaya ng TV at ref sa basurahan. 
 
-![Old worn-out Fender Telecaster](/how-living-in-japan-influenced-me-as-a-person/old-worn-out-fender-telecaster.jpg "Old worn-out Fender Telecaster")
+{{< img src="old-worn-out-fender-telecaster.jpg" alt="Old worn-out Fender Telecaster" >}}
 {{< caption >}}*Fender Custom Shop 52 Telecaster by [guitarguitar](https://www.guitarguitar.co.uk/product/12040516512047--fender-custom-shop-52-telecaster-heavy-relic-with-neck-humbucker).*{{< /caption >}}
 
 Pagkadating ko sa bahay ay nilabas ng kapatid ko yung Telecaster, sinaksak sa amplifier ang cable at tinesting yung distortion ng kasamang effector. Sabi ko, "Pre, hindi ba maingay?" Sabi nya, "Hindi mo ba naririnig sa sarap may mga tricycle, sa likod may nagkakaraoke, tapos sasabihin mo hindi ba maingay?" Oo nga naman.
