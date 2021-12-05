@@ -41,8 +41,8 @@
     {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
   {{ end }}'
   {{ if .Get (print $medium) }}
-    loading="lazy" src="{{ $medium.RelPermalink }}" 
+    src="{{ $medium.RelPermalink }}" 
   {{ else }}
-    loading="lazy" src="{{ $src.RelPermalink }}" 
+    src="{{ $src.RelPermalink }}" 
   {{ end }}
   {{ with .Get "alt" }}alt="{{.}}"{{ else }}alt=""{{ end }}>

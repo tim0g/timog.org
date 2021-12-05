@@ -10,7 +10,7 @@ tags:
 - egret
 - heron
 ---
- ![Egret and heron on the rice fields in Tsukuba, Ibaraki](/taking-out-the-trash-in-the-morning/egret-heron-rice-fields.jpg "Egret and heron on the rice fields in Tsukuba, Ibaraki")
+ {{< img src="egret-heron-rice-fields.jpg" alt="Egret and heron on the rice fields in Tsukuba, Ibaraki" >}}
  {{< caption >}}*Tagak at iba't-ibang ibon sa palagay sa umaga sa Tsukuba, Ibaraki.*{{< /caption >}}
 
 Kapag nilalabas ko ang basura sa umaga, tinitignan ko ang mga puting ibon sa bagong tanim na palayan (karamihan ay egret pero merong ding grey heron at ibang maliliit na ibon).
