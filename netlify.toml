@@ -7,6 +7,6 @@
 
 # "production" environment specific build settings
 [build.environment]
-  HUGO_VERSION = "0.82.0"
+  HUGO_VERSION = "0.81.0"
   HUGO_THEME = "hugo-flex"
   HUGO_ENV = "production"
