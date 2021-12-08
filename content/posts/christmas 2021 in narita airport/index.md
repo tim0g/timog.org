@@ -13,6 +13,8 @@ tags:
 - 2021
 - 成田空港
 - クリスマス
+aliases:
+- /christmas-2011-in-narita-airport/
 ---
 I visited Narita Airport again recently pre-Omicron and it was so much vibrant than [before](https://timog.org/photos-of-an-eerily-empty-narita-airport/), with a new, cheerful Christmas motif to boot. Covid infections in Japan were near record lows, entry restrictions were scrapped and everyone was looking forward to a happy ending to a dreadful year.
 
