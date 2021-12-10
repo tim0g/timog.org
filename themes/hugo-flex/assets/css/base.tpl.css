@@ -186,8 +186,8 @@ th {
 
 .alert {
   position: relative;
-  font-size: 1.07rem;
-  padding: 0.4rem .8rem;
+  font-size: 1.17rem;
+  padding: 0.4rem .8rem 0;
   margin: 1rem 0;
   border: 1px solid transparent;
   border-radius: 8px;
