@@ -10,3 +10,4 @@
   HUGO_VERSION = "0.81.0"
   HUGO_THEME = "hugo-flex"
   HUGO_ENV = "production"
+  timeout = 60000
