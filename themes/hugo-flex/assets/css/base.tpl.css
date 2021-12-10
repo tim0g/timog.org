@@ -173,7 +173,7 @@ code {
 }
 
 table, th, td {
-  font-size: 1.07rem;
+  font-size: 1.23rem;
   border: 1px solid #ccc;
   border-collapse: collapse;
   padding: 0.2rem 0.5rem;
@@ -186,7 +186,7 @@ th {
 
 .alert {
   position: relative;
-  font-size: 1.17rem;
+  font-size: 1.23rem;
   padding: 0.4rem .8rem 0;
   margin: 1rem 0;
   border: 1px solid transparent;
