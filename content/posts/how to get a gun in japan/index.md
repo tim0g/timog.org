@@ -1,7 +1,8 @@
 ---
 title: "How to get a gun in Japan"
 date: 2021-07-11
-authors: ["Leon Timog"]
+author: "Leon Timog"
+author_url: "/profile/leon-timog"
 description: "It's really hard to get a gun in Japan"
 tags:
 - blog

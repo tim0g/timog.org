@@ -1,7 +1,8 @@
 ---
 title: "A foggy morning in Tsukuba"
 date: 2021-10-04
-authors: ["Leon Timog"]
+author: "Leon Timog"
+author_url: "/profile/leon-timog"
 description: A foggy morning in Tsukuba
 tags:
 - blog

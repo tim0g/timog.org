@@ -1,7 +1,8 @@
 ---
 title: "Tsukuba Matsumi Park tower with pigeons"
 date: 2021-12-01
-authors: ["Leon Timog"]
+author: "Leon Timog"
+author_url: "profile/leon-timog"
 description: "Tsukuba Matsumi Park tower with pigeons"
 tags:
 - blog

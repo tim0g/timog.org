@@ -1,18 +1,17 @@
 ---
 title: "Christmas 2021 at Narita Airport"
 date: 2021-12-02
-authors: ["Leon Timog"]
 author: "Leon Timog"
+author_url: "profile/leon-timog"
 description: "Photos of Christmas-themed Narita Airport taken on November 2021"
-featured_image: "christmas-2021-narita-airport-01.jpg"
-featured_image_caption: "Christmas-themed Narita Airport"
+featured_image: "christmas-2021-in-narita-airport/christmas-2021-narita-airport-01.jpg"
 tags:
 - blog
 - narita airport
 - christmas
 - coronavirus
 - pandemic
-- coivd
+- covid
 - 2021
 - 成田空港
 - クリスマス

@@ -1,7 +1,8 @@
 ---
 title: "Cleaning my Topre Realforce JustSystems Japanese keyboard"
 date: 2021-06-06
-authors: ["Leon Timog"]
+author: "Leon Timog"
+author_url: "/profile/leon-timog"
 description: "Cleaning the Topre Realforce JustSystems Japanese keyboard"
 tags:
 - blog

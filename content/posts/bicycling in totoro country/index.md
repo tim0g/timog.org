@@ -1,7 +1,8 @@
 ---
 title: "Bicycling in Totoro country"
 date: 2021-07-03
-authors: ["Leon Timog"]
+author: "Leon Timog"
+author_url: "profile/leon-timog"
 description: Riding the bicycle through Japan's rural area
 tags:
 - blog

@@ -1,7 +1,8 @@
 ---
 title: "Goya chanpuru: sauteed bitter gourd with tofu"
 date: 2021-07-18
-authors: ["Leon Timog"]
+author: "Leon Timog"
+author_url: "/profile/leon-timog"
 description: "How to make goya chanpuru with bitter gourd, tomatoes and tofu"
 tags:
 - blog

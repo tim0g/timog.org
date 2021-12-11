@@ -1,7 +1,8 @@
 ---
 title: "Torii in the morning mist"
 date: 2021-03-28
-authors: ["Leon Timog"]
+author: "Leon Timog"
+author_url: "/profile/leon-timog"
 description: "Irrigation controller looks like a torii in the morning mist"
 tags:
 - blog

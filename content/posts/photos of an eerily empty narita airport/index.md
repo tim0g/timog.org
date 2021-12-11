@@ -1,7 +1,8 @@
 ---
 title: "Photos of an eerily empty Narita Airport"
 date: 2021-10-30
-authors: ["Leon Timog"]
+author: "Leon Timog"
+author_url: "/profile/leon-timog"
 description: Pictures of Narita Airport devoid of travellers
 tags:
 - blog

@@ -1,7 +1,8 @@
 ---
 title: "Taking out the trash in the morning"
 date: 2021-06-09
-authors: ["Leon Timog"]
+author: "Leon Timog"
+author_url: "/profile/leon-timog"
 description: "I took out the trash in the morning and looked at the rice fields with white birds"
 tags:
 - blog

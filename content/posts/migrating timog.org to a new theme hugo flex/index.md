@@ -1,7 +1,8 @@
 ---
 title: "Migrating Timog.org to a new theme: Hugo Flex"
 date: 2021-08-16
-authors: ["Leon Timog"]
+author: "Leon Timog"
+author_url: "/profile/leon-timog"
 description: I'm in the middle of migrating Timog.org to Hugo Flex theme
 tags:
 - hugo static site generator

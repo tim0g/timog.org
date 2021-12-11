@@ -1,7 +1,8 @@
 ---
 title: "Lucifer the house cat mauled by Pyton the constrictor"
 date: 2021-10-11
-authors: ["Leon Timog"]
+author: "Leon Timog"
+author_url: "profile/leon-timog"
 description: "House cat mauled by Swedish python"
 tags:
 - blog

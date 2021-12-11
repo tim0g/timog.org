@@ -5,11 +5,13 @@
       "@type": "BlogPosting",
       "headline": {{ .Title }},
       "image": {{ .Params.featured_image | absURL }},
+      "license": {{ .Site.Params.license }}
       "datePublished": {{ .PublishDate }},
       "dateModified": {{ .Lastmod }},
       "author": {
         "@type": "Person",
-        "name": {{ .Site.Params.author }}
+        "name": {{ .Params.author }}
+        "url": {{ .Params.author_url | absURL }}
       },
       "mainEntityOfPage": { "@type": "WebPage" },
        "publisher": {
@@ -20,7 +22,7 @@
           "url": {{ .Site.Params.logo }}
         }
       },
-      "description": {{ .Summary | plainify | safeHTML }},
+      "description": {{ .Params.description }},
       "keywords": [{{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}]
     }
     {{ end }}

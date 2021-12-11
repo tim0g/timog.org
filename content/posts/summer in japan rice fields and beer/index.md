@@ -1,7 +1,8 @@
 ---
 title: "Summer in Japan: rice fields and beer"
 date: 2021-07-24
-authors: ["Leon Timog"]
+author: "Leon Timog"
+author_url: "/profile/leon-timog"
 description: "Summer in Japan is green fields of rice and drinking beer in the evening"
 tags:
 - blog

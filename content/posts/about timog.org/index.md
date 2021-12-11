@@ -1,7 +1,8 @@
 ---
 title: "About Timog.org"
 date: 2021-05-22
-authors: ["Leon Timog"]
+author: "Leon Timog"
+author_url: "/profile/leon-timog"
 description: About Timog.org
 tags:
 - blog
