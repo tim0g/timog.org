@@ -2,7 +2,7 @@
 title: How to renew your passport at the Philippine Embassy in Tokyo, Japan
 author: Leon Timog
 author_url: "profile/leon-timog"
-content_type: howto
+content_type: "howto"
 date: 2021-12-11
 description: How to renew your Philippine passport in Tokyo, Japan
 ---
