@@ -1,9 +1,11 @@
 ---
 title: How to renew your passport at the Philippine Embassy in Tokyo
 author: Leon Timog
-description: Procedure for passport application at the Philippine Embassy in Tokyo
+description: How to renew your Philippine passport in Tokyo, Japan in 2022
 ---
-Is your passport going to expire soon? Follow these simple steps to a stress-free passport renewal. (It's recommended that you renew your passport at least 8 months before its expiration date.)
+{{< bluebox >}}This guide is accurate as of December, 2021.{{< /bluebox >}}
+
+If your passport is going to expire within the next 12 months, it's time to get a new one. Follow these simple steps to a stress-free passport renewal. (It's recommended that you renew your passport at least 8 months before its expiration date.)
 
 ### 1. Make an appointment online
 
@@ -16,27 +18,27 @@ Head over to DFA's [Global Online Application System](https://www.passport.gov.p
 Make sure that your details (especially your name and date of birth) are correct before you finalize your appointment.
 
 {{< pinkbox >}}
-**Note:** Check your mailbox immediately after finishing the passport appointment and click on the `Click here to CONFIRM your booking` link to confirm your appointment. Not clicking on this link within 1 hour will invalidate your appointment.
+**Note:** Check your email immediately after finishing the passport appointment and click on the **Click here to CONFIRM your booking** link to confirm your appointment. Not clicking on this link within 1 hour will invalidate your appointment.
 
 Check your spam folder if you don't get the confirmation email.
 
-There are many instances where the confirmation email is not sent when booking a group appointment. Avoid group appointments and book individual appointments instead.
+There are cases where the confirmation email is not sent when booking group appointments. Avoid them and book individual appointments instead.
 {{< /pinkbox >}}
 
-After confirming your appointment, you will get a second email with your `Passport Application Form` (in PDF) attached. If your name and date of birth in the application form is not correct, your will need to [cancel this application](https://www.passport.gov.ph/appointment/view) and make a new one.
+After confirming your appointment, you will get a second email with your **Passport Application Form** (in PDF) attached. If your name and date of birth in the application form is not correct, your will need to [cancel this application](https://www.passport.gov.ph/appointment/view) and make a new one.
 
-Print the Passport Application Form on an A4 paper.
+**Print the Passport Application Form** on an A4 paper.
 
 ### 2. Prepare the necessary documents
 
 The list below are the things you need for your passport appointment at the embassy.
 
-- 1 Passport Application Form printed on A4 paper
-- 1 [Photocopy of data page](philippine-passport-data-page-photocopy-xerox.jpg) of current passport on A4 paper
-- 1 self-addressed 520-yen Letter Pack Plus (the red one). Read [how to prepare the Letterpack](../how-to-prepare-the-letterpack-plus-postcard/).
-- 1 self-addressed postcard or *hagaki* (see note below). Read [how to prepare the postcard](../how-to-prepare-the-letterpack-plus-postcard/).
-- Current passport
-- [Residence card](../../visa-immigration/residence-card/residence-card-front.jpg)
+- 1 **Passport Application Form** printed on A4 paper
+- 1 **[photocopy of data page](timog-philippine-passport-data-page-photocopy-xerox.jpg)** of current passport on A4 paper ([you forgot?](../photocopy-machine-2nd-floor-azabu-district-minato-ward-office/))
+- 1 self-addressed 520-yen **Letterpack Plus** (the red one). Read [how to prepare the Letterpack](../how-to-prepare-the-letterpack-plus-postcard/).
+- 1 self-addressed **postcard** or *hagaki* (see note below). Read [how to prepare the postcard](../how-to-prepare-the-letterpack-plus-postcard/).
+- **Current passport**
+- **[Residence card](../../visa-immigration/residence-card/residence-card-front.jpg)**
 - JPN 7,800 processing fee (cash)
 
 You don't need to bring a photo; your photo will be taken at the embassy.
@@ -49,14 +51,14 @@ When your new passport is ready, the Consular Section will send you the postcard
 
 ### 3. Go to the Embassy for your appointment
 
-The address of the Embassy is: `5-15-5 Roppongi, Minato City, Tokyo 106-8537`. Searching "`Philippine Embassy`" in your map application might take you there faster.
+The address of the Embassy is: **5-15-5 Roppongi, Minato-ku, Tokyo 106-8537**. Searching "Philippine Embassy" in your map application might take you there faster.
 
-Read the [detailed instructions here](../philippine-embassy-tokyo/access/).
+Read [detailed instructions here](../philippine-embassy-tokyo/access/).
 
-Go to the Consular Section of the Embassy and submit your documents, pay the processing fee and have your photo and biometrics taken.
+Go to the Consular Section of the Embassy (if you go to the entrance on the opposite side you might meet the Ambassador and you don't want that) and submit your documents, pay the processing fee and have your photo and biometrics taken.
 
 ### 4. Wait for your passport in the mail
 
-Passport processing usually takes about 2 months or less. If you wish, you can [track the status](https://tracker.passport.gov.ph/) of your passport at the DFA's site. You can also check if it has been mailed by the Consular Section by entering the Letter Pack Plus tracking number at the [Japan Post website](https://www.post.japanpost.jp/index_en.html).
+Passport processing usually takes about 2 months or less. If you wish, you can [track the status](https://tracker.passport.gov.ph/) of your passport at the DFA's site. You can also check if it has been mailed by the Consular Section by entering the Letterpack Plus tracking number at the [Japan Post website](https://www.post.japanpost.jp/index_en.html).
 
 If the passport has not arrived within 2 months, you can email the Consular Section (passport@philembassy.net) to inquire.

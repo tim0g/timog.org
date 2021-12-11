@@ -1,6 +1,6 @@
 baseURL: 'https://timog.org/'
 title: TIMOG
-author: Leon Timog
+author: 'Leon Timog'
 languageCode: en-us
 pygmentsCodeFences: false
 enableRobotsTXT: true
@@ -22,6 +22,7 @@ permalinks:
   pages: /:filename/
 
 params:
+  author: 'Leon Timog'
   editURL: "https://github.com/tim0g/tim/tree/main/content"
   color: "#1C86EE"
   width: 50rem
@@ -31,7 +32,7 @@ params:
     To subscribe to this RSS feed, copy the address in the address bar and paste
     it into your favorite feed reader.
   divider: false # Set to false to remove divider below posts on homepage
-  schema: true
+  schema: false
   opengraph: true
   twittercards: true
   summaries: false

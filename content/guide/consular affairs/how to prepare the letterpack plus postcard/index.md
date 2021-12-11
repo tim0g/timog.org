@@ -16,16 +16,23 @@ See the note on the [how to renew your passport](../how-to-renew-passport-philip
 
 Write the numbers and letters clearly. Japanese mailmen are not so familiar reading addresses in Romaji so you might want to make their work easier by writing in big, clear characters.
 
-Write the following:
+## Write your name and address
 
 - Postal code
 - Complete address down to the **apartment number**
 - Your name (last name and first name is enough)
 - Phone number (only on the Letterpack Plus)
 
-{{< img src="letterpack-plus-name-address.gif" alt="Write name and address on Letterpack envelope" >}}
+{{< img src="timog-letterpack-plus-name-address.gif" alt="Write name and address on Letterpack envelope" >}}
 
-{{< img src="postcard-hagaki-name-address.gif" alt="Write name and address on postcard hagaki" >}}
+{{< img src="timog-postcard-hagaki-name-address.gif" alt="Write name and address on postcard hagaki" >}}
 
 Actually, you write your address and name *vertically* on postcards but it might not be practical with Romaji, having lots of letters.
 
+## Take a picture of the Letterpack tracking number
+
+This is important.
+
+Knowing the tracking number of the Letterpack Plus will let you know if it has already been mailed from the Embassy, and where is it at the present.
+
+You can input the number at the [Japan Post website](https://www.post.japanpost.jp/index_en.html) to track your passport.
