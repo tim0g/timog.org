@@ -55,7 +55,9 @@ tags:
         <li>1 self-addressed <strong>postcard</strong> or <em>hagaki</em> (see note below). Read <a href="../how-to-prepare-the-letterpack-plus-postcard/">how to prepare the postcard</a>.</li>
         <li><strong>Current passport</strong></li>
         <li><strong><a href="../../visa-immigration/residence-card/residence-card-front.jpg">Residence card</a></strong></li>
-        <li>JPN 7,800 processing fee (cash)</li>
+        <li><span itemprop="estimatedCost" itemscope itemtype="https://schema.org/MonetaryAmount">
+    <meta itemprop="currency" content="JPY"/>
+    <meta itemprop="value" content="7800"/>JPY 7,800 processing fee (cash)</span></li>
         </ul>
         <p>You don&rsquo;t need to bring a photo; your photo will be taken at the embassy.</p>
         <div class="alert pinkbox">
