@@ -41,7 +41,7 @@ tags:
 
 <hr>
 
-<p><strong>Jocelyn O. Celero</strong> is currently Assistant Professor and Coordinator of the Japan Studies Program at the <a href="https://ac.upd.edu.ph/index.php/faculty-and-staff/regular-faculty/955-jocelyn-celero-assistant-professor" target="_blank">Asian Center</a>, University of the Philippines-Diliman. She obtained her PhD in International Studies at Waseda University, Tokyo, Japan in 2016.</p>
+<p><strong>Jocelyn O. Celero</strong> is Assistant Professor and Coordinator of the Japan Studies Program at the <a href="https://ac.upd.edu.ph/index.php/faculty-and-staff/regular-faculty/955-jocelyn-celero-assistant-professor" target="_blank">Asian Center</a>, University of the Philippines-Diliman.</p>
 
 <p>This article was originally published in <a href="https://www.routedmagazine.com/sinigang-japanese-filipino-families">Routed Magazine</a> under a <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons</a> license.
 
