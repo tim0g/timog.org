@@ -3,10 +3,10 @@ title: "Kaoru Ueda, Auguste Rodin, Ossip Zadkine"
 date: 2021-12-12
 author: "Leon Timog"
 author_url: "profile/leon-timog"
-description: "Kauru Ueda's hyper-realist paintings, Auguste Rodin's Three Shades, Ossip Zadkine's Tree of Grace"
+description: "Kaoru Ueda's hyper-realist paintings, Auguste Rodin's Three Shades, Ossip Zadkine's Tree of Grace"
 content_type: blog
 tags:
-- Kauru Ueda
+- Kaoru Ueda
 - Auguste Rodin
 - Ossip Zadkine
 - Ibaraki Museum of Modern Art
