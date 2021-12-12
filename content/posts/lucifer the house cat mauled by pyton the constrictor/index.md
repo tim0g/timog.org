@@ -4,6 +4,7 @@ date: 2021-10-11
 author: "Leon Timog"
 author_url: "profile/leon-timog"
 description: "House cat mauled by Swedish python"
+content_type: blog
 tags:
 - blog
 - japan

@@ -1,10 +1,16 @@
 ---
 title: "Why are there so many Filipinos in Japan?"
 author: Leon Timog
+author_url: "/profile/leon-timog"
 date: 2021-07-17
 description: Demographics of Filipinos in Japan from the Immigration Services Agency
+content_type: article
 weight: 5
+tags:
+ - Filipinos in Japan
+ - demographics
 aliases:
+ - /guide/overview/filipinos-in-japan-statistics/why-are-there-so-many-filipinos-in-japan/
 ---
 Recently I came upon this [question-and-answer](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1231164437) at Yahoo Japan [Chiebukuro](https://chiebukuro.yahoo.co.jp/):
 

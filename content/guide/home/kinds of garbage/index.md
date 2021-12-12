@@ -2,6 +2,8 @@
 title: "Kinds of garbage"
 description: Kinds of garbage for disposal in Japan
 author: Leon Timog
+date: 2020-10-27
+content_type: article
 weight: 45
 type: page
 ---

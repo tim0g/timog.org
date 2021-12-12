@@ -4,6 +4,7 @@ date: 2021-05-22
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
 description: About Timog.org
+content_type: blog
 tags:
 - blog
 - hugo static site generator

@@ -4,6 +4,7 @@ date: 2021-07-10
 author: "Leon Timog"
 author_url: "profile/leon-timog"
 description: "I visited a Japanese elementary school classroom"
+content_type: blog
 tags:
 - blog
 - randoseru

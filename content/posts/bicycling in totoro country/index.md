@@ -4,6 +4,7 @@ date: 2021-07-03
 author: "Leon Timog"
 author_url: "profile/leon-timog"
 description: Riding the bicycle through Japan's rural area
+content_type: blog
 tags:
 - blog
 - tonari no totoro

@@ -4,6 +4,7 @@ date: 2021-12-01
 author: "Leon Timog"
 author_url: "profile/leon-timog"
 description: "Tsukuba Matsumi Park tower with pigeons"
+content_type: blog
 tags:
 - blog
 - tower

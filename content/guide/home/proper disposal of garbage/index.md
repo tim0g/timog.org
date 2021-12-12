@@ -2,6 +2,8 @@
 title: Time and day of garbage disposal
 description: Time and day of garbage disposal in Japan
 author: Leon Timog
+date: 2020-10-19
+content_type: article
 weight: 40
 type: page
 ---

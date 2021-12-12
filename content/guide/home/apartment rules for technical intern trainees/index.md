@@ -1,6 +1,8 @@
 ---
 title: Apartment rules for technical intern trainees (sample)
 author: Leon Timog
+author_url: "/profile/leon-timog"
+date: 2020-09-12
 description: Sample apartment rules, especially for Technical Intern Trainees in Japan
 weight: 90
 type: page

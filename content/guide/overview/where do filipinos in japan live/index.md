@@ -1,9 +1,17 @@
 ---
 title: Where do Filipinos in Japan live?
 author: Leon Timog
+author_url: "/profile/leon-timog"
 date: 2021-07-17
 description: Where do Filipinos in Japan live?
+content_type: article
 weight: 15
+tags:
+ - Filipinos in Japan
+ - demographics
+ - Immigration Services Agency
+aliases:
+ - /guide/overview/filipinos-in-japan-statistics/where-do-filipinos-in-japan-live/
 ---
 The population of Filipinos in Japan is concentrated in metropolitan areas like Tokyo and Osaka, and centers of industrial production like Nagoya in Aichi Prefecture and Hamamatsu in Shizuoka.
 

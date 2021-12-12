@@ -4,6 +4,7 @@ date: 2021-06-13
 author: "Leon Timog"
 author_url: "profile/leon-timog"
 description: "I rode my bicycle around the neighborhood one early morning"
+content_type: blog
 tags:
 - blog
 - bicycle

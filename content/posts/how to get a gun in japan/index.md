@@ -4,6 +4,7 @@ date: 2021-07-11
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
 description: "It's really hard to get a gun in Japan"
+content_type: blog
 tags:
 - blog
 - japan

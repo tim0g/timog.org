@@ -4,6 +4,7 @@ date: 2021-06-09
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
 description: "I took out the trash in the morning and looked at the rice fields with white birds"
+content_type: blog
 tags:
 - blog
 - summer

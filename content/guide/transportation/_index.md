@@ -1,7 +1,6 @@
 
 ---
 title: Transportation
-author: Leon Timog
 weight: 20
 description: Different kind of transportation in Japan
 ---

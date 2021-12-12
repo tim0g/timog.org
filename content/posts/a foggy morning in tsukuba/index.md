@@ -4,6 +4,7 @@ date: 2021-10-04
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
 description: A foggy morning in Tsukuba
+content_type: blog
 tags:
 - blog
 - japan

@@ -4,6 +4,7 @@ date: 2021-03-28
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
 description: "Irrigation controller looks like a torii in the morning mist"
+content_type: blog
 tags:
 - blog
 - torii

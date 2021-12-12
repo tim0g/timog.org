@@ -1,12 +1,24 @@
 ---
 title: "Filipinos in Japan: 2020 demographics"
 author: Leon Timog
+author_url: "/profile/leon-timog"
 date: 2021-07-17
+lastmod: 2021-12-11
 description: Demographics of Filipinos in Japan from the Immigration Services Agency
+content_type: article
 weight: 10
+tags:
+ - Filipinos in Japan
+ - demographics
+ - visa
+ - status of residence
+ - permanent resident
+ - longterm resident
+ - Immigration Services Agency
 aliases:
-    - /fij/filipinos-in-japan/
-    - /fij/filipinos-in-japan-latest-demographics/
+ - /fij/filipinos-in-japan/
+ - /fij/filipinos-in-japan-latest-demographics/
+ - /guide/overview/filipinos-in-japan-statistics/filipinos-in-japan-2020-demographics/
 ---
 According to the [latest figures](http://www.moj.go.jp/isa/policies/statistics/toukei_ichiran_touroku.html) from the [Immigration Services Agency](http://www.moj.go.jp/isa/) of Japan, there are now **282,023 Filipino citizens** residing in the country. They comprise the fourth largest foreign group, behind China (786,830), South Korea (435,459) and Vietnam (420,415).
 

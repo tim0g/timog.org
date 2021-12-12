@@ -4,6 +4,7 @@ date: 2020-12-06
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
 description: "We went to a Buddhist temple at the foor of Mount Tsukuba"
+content_type: blog
 tags:
 - blog
 - buddhist temple

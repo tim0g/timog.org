@@ -4,6 +4,7 @@ date: 2021-08-01
 author: "Leon Timog"
 author_url: "profile/leon-timog"
 description: "Why I went back to listening to music CDs from mp3 and streaming"
+content_type: blog
 tags:
 - blog
 - compact disc

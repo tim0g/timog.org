@@ -4,6 +4,7 @@ date: 2021-10-30
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
 description: Pictures of Narita Airport devoid of travellers
+content_type: blog
 tags:
 - blog
 - narita airport

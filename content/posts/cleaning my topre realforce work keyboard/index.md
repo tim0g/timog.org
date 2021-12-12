@@ -4,6 +4,7 @@ date: 2021-06-06
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
 description: "Cleaning the Topre Realforce JustSystems Japanese keyboard"
+content_type: blog
 tags:
 - blog
 - topre

@@ -4,6 +4,7 @@ date: 2021-08-22
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
 description: How living in Japan influenced me as a person
+content_type: blog
 tags:
 - japan
 - segregation of garbage

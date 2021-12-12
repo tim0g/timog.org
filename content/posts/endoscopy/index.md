@@ -4,6 +4,7 @@ date: 2021-08-15
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
 description: I got an endoscopy at the local clinic
+content_type: blog
 tags:
 - endoscopy
 - ikamera

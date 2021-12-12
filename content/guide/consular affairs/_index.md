@@ -1,6 +1,5 @@
 ---
 title: Consular affairs
-author: Leon Timog
 weight: 60
 description: Consular services at the Philippine Embassy in Tokyo and Philippine Consulate in Osaka
 ---

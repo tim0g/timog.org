@@ -4,11 +4,17 @@ author: Leon Timog
 author_url: "profile/leon-timog"
 content_type: "howto"
 date: 2021-12-11
+lastmod: 2021-12-11
 description: How to renew your Philippine passport in Tokyo, Japan
+tags:
+ - how-to
+ - passport renewal
+ - Philippine Embassy in Tokyo, Japan
+ - letterpack
 ---
 {{< html >}}
 <div itemscope itemtype="https://schema.org/HowTo">
-<p>This guide outlines <span itemprop="name">how to renew your Philippine passport in Tokyo, Japan</span>.
+<p>This guide outlines <span itemprop="name">how to renew your Philippine passport in Tokyo, Japan</span>. 
 <p>If your passport is going to expire within the next 12 months, it’s time to get a new one. Follow these simple steps to a stress-free passport renewal. (It’s recommended that you renew your passport at least 8 months before its expiration date.)</p>
 
 <div id="step1" itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
@@ -79,7 +85,7 @@ description: How to renew your Philippine passport in Tokyo, Japan
          srcset='/guide/consular-affairs/how-to-renew-passport-philippine-embassy-tokyo/timog-postbox-500.jpg 500w , /guide/consular-affairs/how-to-renew-passport-philippine-embassy-tokyo/timog-postbox.jpg 800w'
          src="/guide/consular-affairs/how-to-renew-passport-philippine-embassy-tokyo/timog-postbox.jpg"/>
     <div itemprop="itemListElement" itemscope itemtype="https://schema.org/HowToDirection">
-         <div itemprop="text"><p>Passport processing usually takes about 2 months or less. If you wish, you can <a href="https://tracker.passport.gov.ph/">track the status</a> of your passport at the DFA&rsquo;s site. You can also check if it has been mailed by the Consular Section by entering the Letterpack Plus tracking number at the <a href="https://www.post.japanpost.jp/index_en.html">Japan Post website</a>.</p><p>If you didn't cancel your current passport, you will get the postcard in the mail first. When you get the postcard, mail your current passport to the Embassy inside a 520-yen Letterpack Plus. They will cancel that passport and mail it to you together with the new one.</p><p>If the passport has not arrived within 2 months, you can email the Consular Section (<a href="mailto:passport@philembassy.net">passport@philembassy.net</a>) to inquire.</p>
+         <div itemprop="text"><p>Passport processing usually takes about 2 months or less. If you wish, you can <a href="https://tracker.passport.gov.ph/">track the status</a> of your passport at the DFA&rsquo;s site. You can also check if it has been mailed by the Consular Section by entering the Letterpack Plus tracking number at the <a href="https://www.post.japanpost.jp/index_en.html">Japan Post website</a>.</p><p>If you didn't cancel your current passport, you will get the postcard in the mail first. When you get the postcard, mail your current passport to the Embassy inside a 520-yen Letterpack Plus envelope. They will cancel that passport and mail it to you together with the new one.</p><p>If the passport has not arrived within 2 months, you can email the Consular Section (<a href="mailto:passport@philembassy.net">passport@philembassy.net</a>) to inquire.</p>
         </div>
     </div>
 </div>

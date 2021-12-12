@@ -1,6 +1,7 @@
 ---
 title: How to prepare the Letterpack Plus and postcard (hagaki) for passport renewal
 author: Leon Timog
+date: 2021-12-11
 description: 
 ---
 {{< pinkbox >}}

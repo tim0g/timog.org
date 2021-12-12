@@ -4,6 +4,7 @@ date: 2021-09-17
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
 description: Listening to Spitz's Hachimitsu on a Saturday morning
+content_type: blog
 tags:
 - blog
 - japan
