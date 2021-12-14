@@ -52,12 +52,12 @@ params:
 
 menu:
   nav:
-    - name: About
-      url: about-timog.org/
-      weight: 1
-    - name: Blog
+#    - name: About
+#      url: about-timog.org/
+#      weight: 1
+    - name: Posts
       url: posts/
       weight: 2
-    - name: Guide
-      url: guide/
-      weight: 3
+#    - name: Guide
+#      url: guide/
+#      weight: 3
