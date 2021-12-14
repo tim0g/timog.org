@@ -1,6 +1,6 @@
-<header class="Heading">
-  {{ if eq .Params.content_type "howto" }}
+{{ if eq .Params.content_type "howto" }}
   <div itemscope itemtype="https://schema.org/HowTo">{{ end }}
+  <header class="Heading">
   <h1 class="Heading-title">
   <a class="Heading-link u-clickable" href="{{ .RelPermalink }}" rel="bookmark"><span itemprop="name">{{ .Title | markdownify }}</span></a>
   </h1>
@@ -10,6 +10,4 @@
       {{- .Format "Jan 2, 2006" -}}
     </time>
   {{ end }}</span>
-  {{ if eq .Params.content_type "howto" }}
-  </div>{{ end }}
 </header>

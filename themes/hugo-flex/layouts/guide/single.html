@@ -3,6 +3,7 @@
   <article>
     {{ partial "heading.html" . }}
     {{ .Content }}
+	{{ if eq .Params.content_type "howto" }}</div>{{ end }}
     {{ partial "tags.html" . }}
     {{ partial "comments.html" . }}
   </article>
