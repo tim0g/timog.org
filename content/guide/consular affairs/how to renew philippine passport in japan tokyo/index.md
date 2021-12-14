@@ -7,7 +7,7 @@ date: 2021-12-11
 lastmod: 2021-12-14
 description: How to renew your Philippine passport in Tokyo, Japan
 aliases:
- - /guide/consular-affairs/how-to-renew-philippine-passport-in-japan-tokyo
+ - /guide/consular-affairs/how-to-renew-passport-philippine-embassy-tokyo/
 tags:
  - how-to
  - passport renewal
