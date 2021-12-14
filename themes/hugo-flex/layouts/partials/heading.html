@@ -1,11 +1,15 @@
 <header class="Heading">
-  <h1 class="Heading-title">
+  {{ if eq .Params.content_type "howto" }}
+  <div itemscope itemtype="https://schema.org/HowTo">{{ end }}
+  <h1 class="Heading-title"><span itemprop="name">
     <a class="Heading-link u-clickable" href="{{ .RelPermalink }}" rel="bookmark">{{ .Title | markdownify }}</a>
-  </h1>
+  </span></h1>
 	<span class="postmeta">{{ .Params.author }}{{ if .PublishDate }}, {{ end }}
   {{ with .PublishDate | default nil }}
     <time datetime="{{ .Format "2006-01-02T15:04:05Z07:00" }}">
       {{- .Format "Jan 2, 2006" -}}
     </time>
   {{ end }}</span>
+  {{ if eq .Params.content_type "howto" }}
+  </div>{{ end }}
 </header>
