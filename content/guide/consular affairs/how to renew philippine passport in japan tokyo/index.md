@@ -7,7 +7,7 @@ date: 2021-12-11
 lastmod: 2021-12-14
 description: How to renew your Philippine passport in Tokyo, Japan
 aliases:
- - /guide/consular-affairs/how-to-renew-passport-philippine-embassy-tokyo
+ - /guide/consular-affairs/how-to-renew-philippine-passport-in-japan-tokyo
 tags:
  - how-to
  - passport renewal
@@ -19,11 +19,11 @@ tags:
 <p>If your passport is going to expire within the next 12 months, it’s time to get a new one. Follow these simple steps to a stress-free passport renewal. (It’s recommended that you renew your passport at least 8 months before its expiration date.)</p>
 
 <div id="step1" itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
-   <link itemprop="url" href="/guide/consular-affairs/how-to-renew-passport-philippine-embassy-tokyo#make-an-appointment-online" />
+   <link itemprop="url" href="/guide/consular-affairs/how-to-renew-philippine-passport-in-japan-tokyo#make-an-appointment-online" />
      <h3 itemprop="name">Make an appointment online</h3>
      <img itemprop="image" alt="DFA online passport appointment website" loading="lazy" sizes="(min-width: 35em) 800px, 100vw"
-         srcset='/guide/consular-affairs/how-to-renew-passport-philippine-embassy-tokyo/timog-dfa-online-passport-appointment-website-500.gif 500w , /guide/consular-affairs/how-to-renew-passport-philippine-embassy-tokyo/timog-dfa-online-passport-appointment-website.gif 800w'
-         src="/guide/consular-affairs/how-to-renew-passport-philippine-embassy-tokyo/timog-dfa-online-passport-appointment-website.gif"/>
+         srcset='/guide/consular-affairs/how-to-renew-philippine-passport-in-japan-tokyo/timog-dfa-online-passport-appointment-website-500.gif 500w , /guide/consular-affairs/how-to-renew-philippine-passport-in-japan-tokyo/timog-dfa-online-passport-appointment-website.gif 800w'
+         src="/guide/consular-affairs/how-to-renew-philippine-passport-in-japan-tokyo/timog-dfa-online-passport-appointment-website.gif"/>
     <div itemprop="itemListElement" itemscope itemtype="https://schema.org/HowToDirection">
         <div itemprop="text"><p>Head over to DFA&rsquo;s <a href="https://www.passport.gov.ph/appointment">Global Online Application System</a> and book an appointment. You need an email address to do this. You will need to provide:</p>
         <ul>
@@ -45,8 +45,8 @@ tags:
     <link itemprop="url" href="https://example.com/example#step2" />
       <h3 itemprop="name">Prepare the necessary documents</h3>
         <img itemprop="image" alt="Letterpack Plus envelope" loading="lazy" sizes="(min-width: 35em) 800px, 100vw"
-         srcset='/guide/consular-affairs/how-to-renew-passport-philippine-embassy-tokyo/timog-letterpack-plus-500.jpg 500w , /guide/consular-affairs/how-to-renew-passport-philippine-embassy-tokyo/timog-letterpack-plus.jpg 800w'
-           src="/guide/consular-affairs/how-to-renew-passport-philippine-embassy-tokyo/timog-letterpack-plus.jpg"/>
+         srcset='/guide/consular-affairs/how-to-renew-philippine-passport-in-japan-tokyo/timog-letterpack-plus-500.jpg 500w , /guide/consular-affairs/how-to-renew-philippine-passport-in-japan-tokyo/timog-letterpack-plus.jpg 800w'
+           src="/guide/consular-affairs/how-to-renew-philippine-passport-in-japan-tokyo/timog-letterpack-plus.jpg"/>
     <div itemprop="itemListElement" itemscope itemtype="https://schema.org/HowToDirection">
         <div itemprop="text"><p>The list below are the things you need for your passport appointment at the embassy.</p>
         <ul>
@@ -72,8 +72,8 @@ tags:
     <link itemprop="url" href="https://example.com/example#step3" />
     <h3 itemprop="name">Go to the Embassy for your appointment</h3>
     <img itemprop="image" alt="Philippine Embassy Tokyo Consular Section entrance" loading="lazy" sizes="(min-width: 35em) 800px, 100vw"
-         srcset='/guide/consular-affairs/how-to-renew-passport-philippine-embassy-tokyo/timog-philippine-embassy-tokyo-consular-section-500.jpg 500w , /guide/consular-affairs/how-to-renew-passport-philippine-embassy-tokyo/timog-philippine-embassy-tokyo-consular-section.jpg 800w'
-         src="/guide/consular-affairs/how-to-renew-passport-philippine-embassy-tokyo/timog-philippine-embassy-tokyo-consular-section.jpg"/>
+         srcset='/guide/consular-affairs/how-to-renew-philippine-passport-in-japan-tokyo/timog-philippine-embassy-tokyo-consular-section-500.jpg 500w , /guide/consular-affairs/how-to-renew-philippine-passport-in-japan-tokyo/timog-philippine-embassy-tokyo-consular-section.jpg 800w'
+         src="/guide/consular-affairs/how-to-renew-philippine-passport-in-japan-tokyo/timog-philippine-embassy-tokyo-consular-section.jpg"/>
     <div itemprop="itemListElement" itemscope itemtype="https://schema.org/HowToDirection">
         <div itemprop="text">
         <p>The address of the Embassy is: <strong>5-15-5 Roppongi, Minato-ku, Tokyo 106-8537</strong>. Searching &ldquo;Philippine Embassy&rdquo; in your map application might take you there faster.</p><p>Read <a href="../philippine-embassy-tokyo/access/">detailed instructions here</a>.</p><p>Go to the <strong>Consular Section</strong> of the Embassy (if you go to the entrance on the opposite side you might meet the Ambassador and you don&rsquo;t want that) and submit your documents, pay the processing fee and have your photo and biometrics taken.</p>
@@ -82,11 +82,11 @@ tags:
 </div>
 
 <div id="step4" itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
-    <link itemprop="url" href="/guide/consular-affairs/how-to-renew-passport-philippine-embassy-tokyo#wait-for-your-passport-in-the-mail" />
+    <link itemprop="url" href="/guide/consular-affairs/how-to-renew-philippine-passport-in-japan-tokyo#wait-for-your-passport-in-the-mail" />
     <h3 itemprop="name">Wait for your passport in the mail</h3>
     <img itemprop="image" alt="Wait for your passport in the mail" loading="lazy" sizes="(min-width: 35em) 800px, 100vw"
-         srcset='/guide/consular-affairs/how-to-renew-passport-philippine-embassy-tokyo/timog-postbox-500.jpg 500w , /guide/consular-affairs/how-to-renew-passport-philippine-embassy-tokyo/timog-postbox.jpg 800w'
-         src="/guide/consular-affairs/how-to-renew-passport-philippine-embassy-tokyo/timog-postbox.jpg"/>
+         srcset='/guide/consular-affairs/how-to-renew-philippine-passport-in-japan-tokyo/timog-postbox-500.jpg 500w , /guide/consular-affairs/how-to-renew-philippine-passport-in-japan-tokyo/timog-postbox.jpg 800w'
+         src="/guide/consular-affairs/how-to-renew-philippine-passport-in-japan-tokyo/timog-postbox.jpg"/>
     <div itemprop="itemListElement" itemscope itemtype="https://schema.org/HowToDirection">
          <div itemprop="text"><p>Passport processing usually takes about 2 months or less. If you wish, you can <a href="https://tracker.passport.gov.ph/">track the status</a> of your passport at the DFA&rsquo;s site. You can also check if it has been mailed by the Consular Section by entering the Letterpack Plus tracking number at the <a href="https://www.post.japanpost.jp/index_en.html">Japan Post website</a>.</p><p>If you didn't cancel your current passport, you will get the postcard in the mail first. When you get the postcard, mail your current passport to the Embassy inside a 520-yen Letterpack Plus envelope. They will cancel that passport and mail it to you together with the new one.</p><p>If the passport has not arrived within 2 months, you can email the Consular Section (<a href="mailto:passport@philembassy.net">passport@philembassy.net</a>) to inquire.</p>
         </div>
