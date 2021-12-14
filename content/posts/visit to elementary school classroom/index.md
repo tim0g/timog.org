@@ -5,6 +5,7 @@ author: "Leon Timog"
 author_url: "profile/leon-timog"
 description: "I visited a Japanese elementary school classroom"
 content_type: blog
+featured_image: "/a-visit-to-an-elementary-school-classroom/randoseru-melodica-recorder.jpg"
 tags:
 - blog
 - randoseru

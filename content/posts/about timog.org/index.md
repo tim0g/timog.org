@@ -6,7 +6,6 @@ author_url: "/profile/leon-timog"
 description: About Timog.org
 content_type: blog
 tags:
-- blog
 - hugo static site generator
 - docsy theme
 - hugo flex theme

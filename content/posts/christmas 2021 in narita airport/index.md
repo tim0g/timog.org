@@ -4,7 +4,7 @@ date: 2021-12-02
 author: "Leon Timog"
 author_url: "profile/leon-timog"
 description: "Photos of Christmas-themed Narita Airport taken on November 2021"
-featured_image: "christmas-2021-in-narita-airport/christmas-2021-narita-airport-01.jpg"
+featured_image: "/christmas-2021-in-narita-airport/christmas-2021-narita-airport-01.jpg"
 content_type: blog
 tags:
 - blog

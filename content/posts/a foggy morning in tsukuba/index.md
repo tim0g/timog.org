@@ -4,12 +4,14 @@ date: 2021-10-04
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
 description: A foggy morning in Tsukuba
+featured_image: "/a-foggy-morning-in-tsukuba/foggy-morning-in-tsukuba-street.jpg"
 content_type: blog
 tags:
-- blog
 - japan
 - fog
 - tsukuba
+- osmanthus
+- kinmokusei
 ---
 Especially on autumn and winter days, when cold, moist, dense air settles near the low-lying rice fields, a fog might form and we get these surreal images in the morning.
 

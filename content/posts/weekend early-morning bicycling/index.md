@@ -5,6 +5,7 @@ author: "Leon Timog"
 author_url: "profile/leon-timog"
 description: "I rode my bicycle around the neighborhood one early morning"
 content_type: blog
+featured_image: "/weekend-early-morning-bicycling/red-post-box-gios-bicycle.jpg"
 tags:
 - blog
 - bicycle
@@ -41,7 +42,7 @@ Masisikip ang daan sa lugar na ito kaya tamang-tama ang bisikleta. 6:40 pa lang 
 
 Maraming pulang post box na makikita sa iba't-ibang lugar sa Japan. Sa panahon ngayon ng Internet at instant communication ay bumaba na ang paggamit ng mga post box pero magandang isipin na regular at efficient pa rin ang pagkolekta at pag-deliver ng sulat.
 
-{{< img src="red-post-box-bicycle.jpg" alt="Red post box and Gios bicycle in Arakawaoki, Tsuchiura" >}}
+{{< img src="red-post-box-gios-bicycle.jpg" alt="Red post box and Gios bicycle in Arakawaoki, Tsuchiura" >}}
 
 Dito sa isang bahay ay maraming *bonsai* at naalala ko itong [tanong](https://www.reddit.com/r/japan/comments/64mojh/is_this_normal/) sa Reddit kung normal ang magbigay sa ibang tao ng bonsai para sa magpasalamat. Puwede siguro: "Salamat nang marami, ito para sa iyo, bonsai."
 

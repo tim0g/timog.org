@@ -5,8 +5,8 @@ author: "Leon Timog"
 author_url: "profile/leon-timog"
 description: Riding the bicycle through Japan's rural area
 content_type: blog
+featured_image: "/bicycling-in-totoro-country/biking-down-a-country-road.jpg"
 tags:
-- blog
 - tonari no totoro
 - japan
 - buddhist temple

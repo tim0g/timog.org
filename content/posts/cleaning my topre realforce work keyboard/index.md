@@ -5,6 +5,7 @@ author: "Leon Timog"
 author_url: "/profile/leon-timog"
 description: "Cleaning the Topre Realforce JustSystems Japanese keyboard"
 content_type: blog
+featured_image: "/cleaning-my-topre-realforce-justsystems-japanese-keyboard/topre-realforce-jp-keyboard-top-view.jpg"
 tags:
 - blog
 - topre

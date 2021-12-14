@@ -4,12 +4,13 @@ date: 2020-12-06
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
 description: "We went to a Buddhist temple at the foor of Mount Tsukuba"
+featured_image: "/buddhist-temple-autumn-at-the-foot-of-mount-tsukuba/buddhist-temple-water-plants.jpg"
 content_type: blog
 tags:
-- blog
 - buddhist temple
 - mount tsukuba
 - autumn
+- bodhisattva
 ---
 By accident, ay may nadaanan kaming Buddhist temple sa baba ng Tsukuba-san kaya nang nagkaroon ng oras ay binalikan namin.
 

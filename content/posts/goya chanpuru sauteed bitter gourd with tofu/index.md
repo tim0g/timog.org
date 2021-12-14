@@ -4,6 +4,7 @@ date: 2021-07-18
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
 description: "How to make goya chanpuru with bitter gourd, tomatoes and tofu"
+featured_image: "goya-chanpuru-sauteed-bitter-gourd-with-tofu/goya-chanpuru-okinawan-dish.jpg"
 content_type: blog
 tags:
 - blog

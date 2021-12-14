@@ -5,6 +5,7 @@ author: "Leon Timog"
 author_url: "profile/leon-timog"
 description: "Why I went back to listening to music CDs from mp3 and streaming"
 content_type: blog
+featured_image: "/why-i-went-back-to-music-cds/naxos-30th-anniversary-boxed-set-classical.jpg"
 tags:
 - blog
 - compact disc

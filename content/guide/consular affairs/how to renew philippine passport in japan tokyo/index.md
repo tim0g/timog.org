@@ -5,6 +5,7 @@ author_url: "profile/leon-timog"
 content_type: "howto"
 date: 2021-12-11
 lastmod: 2021-12-14
+featured_image: "/how-to-renew-philippine-passport-in-japan-tokyo/timog-dfa-online-passport-appointment-website.gif"
 description: How to renew your Philippine passport in Tokyo, Japan
 aliases:
  - /guide/consular-affairs/how-to-renew-passport-philippine-embassy-tokyo/
