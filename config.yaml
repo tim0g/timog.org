@@ -25,6 +25,7 @@ params:
   header: 'Timog'
   license: 'https://creativecommons.org/licenses/by-sa/4.0/'
   editURL: "https://github.com/tim0g/tim/tree/main/content"
+  facebook: "timogjapan"
   color: "#1C86EE"
   width: 50rem
   description: "TIMOG: Guide, Wiki, Blog"

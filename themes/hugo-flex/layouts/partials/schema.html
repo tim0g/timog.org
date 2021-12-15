@@ -1,5 +1,5 @@
+{{ if eq .Params.content_type "blog" }}
 <script type="application/ld+json">
-    {{ if eq .Params.content_type "blog" }}
     {
       "@context": "https://schema.org",
       "@type": "BlogPosting",
@@ -32,14 +32,13 @@
       "name": {{ .Site.Params.header }},
       "url": {{ .Site.BaseURL }},
       "sameAs": [
-        "https://www.facebook.com/{{ .Site.Params.facebook }}",
-        "https://www.instagram.com/{{ .Site.Params.instagram }}",
-        "https://twitter.com/{{ .Site.Params.twitter }}",
-        "https://github.com/{{ .Site.Params.github }}"
+        "https://www.facebook.com/{{ .Site.Params.facebook }}"
       ]
-    }{{ end }}
+    }
+</script>{{ end }}
 	
-	{{ if eq .Params.content_type "howto" }}
+{{ if eq .Params.content_type "howto" }}
+<script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "HowTo",
@@ -72,14 +71,13 @@
       "name": {{ .Site.Params.header }},
       "url": {{ .Site.BaseURL }},
       "sameAs": [
-        "https://www.facebook.com/{{ .Site.Params.facebook }}",
-        "https://www.instagram.com/{{ .Site.Params.instagram }}",
-        "https://twitter.com/{{ .Site.Params.twitter }}",
-        "https://github.com/{{ .Site.Params.github }}"
+        "https://www.facebook.com/{{ .Site.Params.facebook }}"
       ]
-    }{{ end }}	  
+    }
+</script>{{ end }}	  
 	
-    {{ if eq .Params.content_type "article" }}
+{{ if eq .Params.content_type "article" }}
+<script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "Article",
@@ -112,15 +110,7 @@
       "name": {{ .Site.Params.header }},
       "url": {{ .Site.BaseURL }},
       "sameAs": [
-        "https://www.facebook.com/{{ .Site.Params.facebook }}",
-        "https://www.instagram.com/{{ .Site.Params.instagram }}",
-        "https://twitter.com/{{ .Site.Params.twitter }}",
-        "https://github.com/{{ .Site.Params.github }}"
+        "https://www.facebook.com/{{ .Site.Params.facebook }}"
       ]
-    }{{ end }}
-	
-	
-	
-	
-	
-</script>
+    }
+</script>{{ end }}
