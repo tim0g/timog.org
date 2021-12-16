@@ -8,6 +8,7 @@ lastmod: 2021-12-14
 featured_image: "/how-to-renew-philippine-passport-in-japan-tokyo/timog-dfa-online-passport-appointment-website.gif"
 description: How to renew your Philippine passport in Tokyo, Japan
 aliases:
+ - /guide/consular-affairs/passport-application/procedure/
  - /guide/consular-affairs/how-to-renew-passport-philippine-embassy-tokyo/
 tags:
  - how-to
@@ -16,6 +17,7 @@ tags:
  - letterpack
 ---
 {{< html >}}
+
 <p>This guide outlines how to renew your passport at the Philippine Embassy in Tokyo, Japan.</p> 
 <p>If your passport is going to expire within the next 12 months, it’s time to get a new one. Follow these simple steps to a stress-free passport renewal. (It’s recommended that you renew your passport at least 8 months before its expiration date.)</p>
 

@@ -6,9 +6,9 @@ author_url: "/profile/leon-timog"
 description: About Timog.org
 content_type: blog
 tags:
-- hugo static site generator
+- hugo
 - docsy theme
-- hugo flex theme
+- hugo flex
 - github
 - netlify
 ---
@@ -39,10 +39,6 @@ I wanted to build a simple site in plain html files without the need for a CMS s
 <tr>
 <td>Hosting</td>
 <td><a href="https://www.netlify.com/">Netlify</a></td>
-</tr>
-<tr>
-<td>Markdown editors</td>
-<td><a href="https://notepad-plus-plus.org/">Notepad++</a>, <a href="https://code.visualstudio.com/">VSC</a></td>
 </tr>
 </table>
 {{< /html >}}
