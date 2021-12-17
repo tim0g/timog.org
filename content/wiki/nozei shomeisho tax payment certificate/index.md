@@ -1,6 +1,7 @@
 ---
 title: Nōzei Shōmeisho (納税証明書) Tax Payment Certificate
 author:
+content_type: wiki
 description: What is Nōzei Shōmeisho (納税証明書) Tax Payment Certificate?
 ---
 Dokumentong iniisyu ng city hall kung saan nakalagay ang binayaran o hindi pa binabayarang tax.

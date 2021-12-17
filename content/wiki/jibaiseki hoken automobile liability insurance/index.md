@@ -1,6 +1,7 @@
 ---
 title: Jibaiseki Hoken (自賠責保険) Automobile Liability Insurance
 author:
+content_type: wiki
 description: What is Jibaiseki Hoken (自賠責保険) Automobile Liability Insurance?
 ---
 Isang compulsary na liability insurance kung saan kailangang nakapasok ang lahat ng nagmamaneho ng sasakyan. Ang totoong pangalan ay Jidōsha Songai Baishō Sekinin Hoken (自動車損害賠償責任保険). 

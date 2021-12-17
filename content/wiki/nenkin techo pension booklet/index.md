@@ -1,6 +1,7 @@
 ---
 title: Nenkin Techō (年金手帳) Pension Booklet
 author:
+content_type: wiki
 description: What is Nenkin Techō (年金手帳) Pension Booklet?
 ---
 Dokumentong iniisyu ng city hall kung saan nakalagay ang binayaran o hindi pa binabayarang tax.

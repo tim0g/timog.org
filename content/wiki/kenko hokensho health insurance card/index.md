@@ -1,6 +1,7 @@
 ---
 title: Kenkō Hokenshō (健康保険証) Health Insurance Card
 author:
+content_type: wiki
 description: What is Kenkō Hokenshō (健康保険証) Health Insurance Card?
 ---
 Card na nagpapatunay na mayroon kang health insurance. Karamihang tinatawag nang mas maikling Hokenshō (保険証) Insurance Card.

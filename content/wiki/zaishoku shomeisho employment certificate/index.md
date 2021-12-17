@@ -1,6 +1,7 @@
 ---
 title: Zaishoku Shōmeisho (在職証明書) Employment Certificate
 author:
+content_type: wiki
 description: What is Zaishoku Shōmeisho (在職証明書) Employment Certificate?
 ---
 Dokumentong iniisyu ng kumpanyang pinagtatrabahuhan, upang ipaalam na ikaw ay nagtatrabaho.

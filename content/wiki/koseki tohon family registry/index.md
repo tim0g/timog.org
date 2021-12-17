@@ -1,6 +1,7 @@
 ---
 title: Koseki Tōhon (戸籍謄本) Family Registry)
 author:
+content_type: wiki
 description: What is Koseki Tōhon (戸籍謄本) Family Registry)?
 ---
 Ang family registry ay dokumento na nagpapakita ng impormasyong tungkol sa pamilya ng isang Hapon at ang kanyang "permanent domicile."

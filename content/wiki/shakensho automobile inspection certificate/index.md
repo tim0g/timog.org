@@ -1,6 +1,7 @@
 ---
 title: Shakenshō (車検証) Automobile Inspection Certificate
 author:
+content_type: wiki
 description: What is  Shakenshō (車検証) Automobile Inspection Certificate?
 ---
 Dokumento kung saan nakasulat ang pangalan ng may-ari at pangalan ng gumagamit ng isang sasakyan at nagpapatunay na ang sasakyan ay nabigyan ng inspection at pumasa sa safety standard para masakyan sa pampublikong daan.

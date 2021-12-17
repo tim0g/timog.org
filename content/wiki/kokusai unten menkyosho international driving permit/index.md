@@ -1,6 +1,7 @@
 ---
 title: Kokusai Unten Menkyoshō (国際運転免許証) International Driving Permit
 author:
+content_type: wiki
 description: What is Kokusai Unten Menkyoshō (国際運転免許証) International Driving Permit?
    国際運転免許証 (Kokusai Unten Menkyoshō) [🖼](/static/img/kokusai-menkyo-international-driving-permit.jpg)
 ---
