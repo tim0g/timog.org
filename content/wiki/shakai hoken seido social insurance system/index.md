@@ -1,6 +1,6 @@
 ---
 title: Shakai Hoken Seido (社会保険制度) Social Insurance System
-author: Leon Timog
+author:
 description: What is Shakai Hoken Seido (社会保険制度) Social Insurance System?
 ---
 Sistema ng social insurance sa Japan na kasama ang pension plan, health insurance, nursing care insurance, employment insurance at labor insurance, para mapaghandaan ang pagtanda, pagkakasakit, at pagkatanggal o aksidente sa trabaho.

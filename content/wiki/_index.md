@@ -1,6 +1,6 @@
 ---
 title: Wiki
-author: Leon Timog
+author:
 description: Wiki section of the guide to Japan
 ---
 Guide to living in Japan wiki items. Impormasyon tungkol sa iba't-ibang aspeto ng pamumuhay sa Japan.

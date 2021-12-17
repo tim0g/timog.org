@@ -1,6 +1,6 @@
 ---
 title: Zairyū Kādo (在留カード) Residence Card
-author: Leon Timog
+author:
 description: What is Zairyū Kādo (在留カード) Residence Card?
 ---
 Identification Card na iniisyu ng Ministry of Justic sa dayuhang mid-term o long-term na residente ng Japan, sa oras ng pagpasok sa bansa (sa airport).

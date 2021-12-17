@@ -1,6 +1,6 @@
 ---
 title: Zairyū Shikaku Nintei Shōmeisho (在留資格認定証明書) Certificate of Eligibility
-author: Leon Timog
+author:
 description: What is Zairyū Shikaku Nintei Shōmeisho (在留資格認定証明書) Certificate of Eligibility?
 ---
 Dokumentong iniisyu ng isang immigration office sa Japan upang sabihin sa Japanese Embassy sa Pilipinas na ang taong nasa dokumentong ito ay pasado sa mga requirements para makapasok sa bansa.

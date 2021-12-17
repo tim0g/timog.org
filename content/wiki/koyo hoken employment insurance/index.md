@@ -1,6 +1,6 @@
 ---
 title: Koyō Hoken (雇用保険) Employment Insurance
-author: Leon Timog
+author:
 description: What is Koyō Hoken (雇用保険) (Employment Insurance)?
 ---
 Insurance na nagbibigay ng compensation katumbas ng ilang porsiyento ng buwanang suweldo kapag nawalan ng trabaho at hindi makakuha ng panibago kahit naghahanap. Kasama ito sa package ng Shakai Hoken (Social Insurance) na kasama ang Pension Plan at Health Insurance.

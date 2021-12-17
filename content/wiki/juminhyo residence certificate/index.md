@@ -1,6 +1,6 @@
 ---
 title: Jūminhyō (住民票) Residence Certificate
-author: Leon Timog
+author:
 description: What is Jūminhyō (住民票) Residence Certificate?
 ---
 Dokumentong iniisyu ng city o municipal hall na may kinalaman sa mga nakarehistrong impormasyon tungkol sa isang residente.

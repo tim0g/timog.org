@@ -1,6 +1,6 @@
 ---
 title: Zaishoku Shōmeisho (在職証明書) Employment Certificate
-author: Leon Timog
+author:
 description: What is Zaishoku Shōmeisho (在職証明書) Employment Certificate?
 ---
 Dokumentong iniisyu ng kumpanyang pinagtatrabahuhan, upang ipaalam na ikaw ay nagtatrabaho.

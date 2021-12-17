@@ -1,6 +1,6 @@
 ---
 title: Kazei Shōmeisho (課税証明書) Tax Certificate
-author: Leon Timog
+author:
 description: What is Kazei Shōmeisho (課税証明書) Tax Certificate?
 ---
 Dokumentong iniisyu ng city hall kung saan nakalagay ang babayarang residence tax.

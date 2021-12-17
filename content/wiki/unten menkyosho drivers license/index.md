@@ -1,6 +1,6 @@
 ---
 title: Unten Menkyoshō (運転免許証) Driver's License
-author: Leon Timog
+author:
 description: What is Unten Menkyoshō (運転免許証) Driver's License?
 ---
 Isang maliit na notebook na binibigay sa prospective na nanay. Tinatawag din nang Maternity Booklet.

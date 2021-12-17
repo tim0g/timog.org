@@ -1,6 +1,6 @@
 ---
 title: Nenkin Techō (年金手帳) Pension Booklet
-author: Leon Timog
+author:
 description: What is Nenkin Techō (年金手帳) Pension Booklet?
 ---
 Dokumentong iniisyu ng city hall kung saan nakalagay ang binayaran o hindi pa binabayarang tax.
