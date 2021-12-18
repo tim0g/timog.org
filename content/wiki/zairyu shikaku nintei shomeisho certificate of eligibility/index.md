@@ -16,13 +16,13 @@ Ang pormal na translation ay “Certificate of Recognition of Status of Residenc
 
 Kasama ang dokumentong ito na ipinapasa sa Japanese Embassy para sa application ng visa. Kahit na mayroon nito ay may posibilidad pa ring hindi mabigyan ng visa, base sa desisyon ng Japanese Embassy sa Pilipinas.
 
-### Sino ang may kailangan?
+## Sino ang may kailangan?
 
 Kailangan ito para sa application ng mga "mid- at long-term" visa ng kagaya ng student, dependent, employee, o technical intern trainee.
 
 Hindi ito kailangan ng mga short-term visitor na kagaya ng turista.
 
-### Sino ang maglalakad?
+## Sino ang maglalakad?
 
 Para sa student visa, ang maglalakad nito sa Japan ay ang school na pag-aaralan; kung dependent visa, ang maglalakad nito ay ang asawa (o magulang); kung working visa ay kumpanya na papasukan; kung technical intern trainee ay ang supervising organisation (*kumiai*).
 
