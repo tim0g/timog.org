@@ -51,6 +51,12 @@ params:
   #   - js/foo.js
   #   - bar.js
 
+markup:
+    goldmark:
+        renderer:
+            ## Set to true if you have HTML content inside Markdown
+            unsafe: false
+
 menu:
   nav:
 #    - name: About
