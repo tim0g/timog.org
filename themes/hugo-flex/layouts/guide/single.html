@@ -1,7 +1,7 @@
 {{ define "main" }}
 
   <article>
-    {{ partial "heading.html" . }}
+    {{ partial "heading-single.html" . }}
     {{ .Content }}
 	{{ if eq .Params.content_type "howto" }}</div>{{ end }}
     {{ partial "tags.html" . }}
