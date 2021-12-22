@@ -122,7 +122,13 @@ code {
 
 
 .Heading-title {
-  margin: 3rem 0.5rem 0 0;
+  margin: 3rem 0 0 0;
+}
+
+@media screen and (max-width:600px){
+  .Heading-title {
+  margin: 2rem 0 0 0;
+  }  
 }
 
 .Heading-link {
