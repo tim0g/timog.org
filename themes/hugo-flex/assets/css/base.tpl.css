@@ -113,6 +113,14 @@ code {
   margin: 0 0 1.5rem 0;
 }
 
+
+@media screen and (max-width:600px){
+  .Heading {
+  margin: 0 0 1rem 0;
+  }  
+}
+
+
 .Heading-title {
   margin: 2rem 0.5rem 0 0;
 }
@@ -263,7 +271,7 @@ figcaption {
   font-size: 0.9rem;
   color: #666;
   line-height: 1.4;
-  margin: -1rem 0 0 0;
+  margin: -25px 0 0 0;
 }
 
 hr {
