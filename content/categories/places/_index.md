@@ -2,5 +2,5 @@
 title: Places
 description:
 ---
-{{< img src="tokyo-backstreet.jpg" alt="Woman Walking Through a Tokyo Backstreet" >}}
-{{< caption >}}Walking Through a Tokyo Backstreet by [thepoorphotographer](https://pixabay.com/photos/tokyo-woman-market-city-people-4436914/).{{< /caption >}}
+{{< img src="shinagawa-station-japan-blur.jpg" alt="Inside Shinagawa Station in Japan" >}}
+{{< caption >}}Inside Shinagawa Station in Japan by [Karen Lau](https://unsplash.com/photos/z_S5m-dqADA).{{< /caption >}}
