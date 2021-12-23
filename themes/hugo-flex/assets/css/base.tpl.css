@@ -271,6 +271,14 @@ figcaption {
   margin: -25px 0 0 0;
 }
 
+@media screen and (max-width:600px){
+  figcaption {
+  font-size: 0.7rem;
+  }  
+}
+
+
+
 hr {
   border-top: 1px;
 }
