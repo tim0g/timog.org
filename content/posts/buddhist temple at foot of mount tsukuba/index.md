@@ -6,6 +6,9 @@ author_url: "/profile/leon-timog"
 description: "We went to a Buddhist temple at the foor of Mount Tsukuba"
 featured_image: "/buddhist-temple-autumn-at-the-foot-of-mount-tsukuba/buddhist-temple-water-plants.jpg"
 content_type: blog
+categories:
+- Places
+- Slice of Life
 tags:
 - buddhist temple
 - mount tsukuba

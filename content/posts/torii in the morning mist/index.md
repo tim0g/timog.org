@@ -6,6 +6,9 @@ author_url: "/profile/leon-timog"
 description: "Irrigation controller looks like a torii in the morning mist"
 content_type: blog
 featured_image: "/torii-in-the-morning-mist/irrigation-controller-as-torii.jpg"
+categories:
+- Culture
+- Slice of Life
 tags:
 - blog
 - torii

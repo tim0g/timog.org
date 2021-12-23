@@ -6,6 +6,9 @@ author_url: "/profile/leon-timog"
 description: "Summer in Japan is green fields of rice and drinking beer in the evening"
 content_type: blog
 featured_image: "/summer-in-japan-rice-fields-and-beer/summer-rice-fields-mount-tsukuba.jpg"
+categories:
+- Culture
+- Slice of Life
 tags:
 - summer
 - japan

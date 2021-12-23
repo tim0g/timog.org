@@ -6,6 +6,9 @@ author_url: "/profile/leon-timog"
 description: How living in Japan influenced me as a person
 content_type: blog
 featured_image: "/how-living-in-japan-influenced-me-as-a-person/tonari-no-totoro-bath-ofuro-scene.jpg"
+categories:
+- Culture
+- Filipinos in Japan
 tags:
 - japan
 - segregation of garbage

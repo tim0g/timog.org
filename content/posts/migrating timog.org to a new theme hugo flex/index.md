@@ -5,6 +5,8 @@ author: "Leon Timog"
 author_url: "/profile/leon-timog"
 description: I'm in the middle of migrating Timog.org to Hugo Flex theme
 content_type: blog
+categories:
+- Tech
 tags:
 - hugo static site generator
 - hugo flex theme

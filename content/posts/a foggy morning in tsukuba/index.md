@@ -6,6 +6,9 @@ author_url: "/profile/leon-timog"
 description: A foggy morning in Tsukuba
 featured_image: "/a-foggy-morning-in-tsukuba/foggy-morning-in-tsukuba-street.jpg"
 content_type: blog
+categories:
+- Slice of Life
+- Places
 tags:
 - japan
 - fog

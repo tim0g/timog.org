@@ -6,6 +6,9 @@ author_url: "/profile/leon-timog"
 description: Listening to Spitz's Hachimitsu on a Saturday morning
 content_type: blog
 featured_image: "/listening-to-spitz-hachimitsu-on-a-saturday-morning/pink-ball-spitz-hachimitsu-house-plants-snake.jpg"
+categories:
+- Music
+- Slice of Life
 tags:
 - blog
 - japan

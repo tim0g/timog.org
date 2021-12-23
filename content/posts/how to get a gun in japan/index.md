@@ -6,8 +6,9 @@ author_url: "/profile/leon-timog"
 description: "How to get a gun in Japan"
 content_type: blog
 featured_image: "/how-to-get-a-gun-in-japan/ibaraki-hunting-prohibited-area.jpg"
+categories:
+- Culture
 tags:
-- blog
 - japan
 - gun control
 - firearm and sword possession control law
