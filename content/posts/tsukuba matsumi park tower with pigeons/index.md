@@ -7,7 +7,7 @@ description: "Tsukuba Matsumi Park tower with pigeons"
 featured_image: /tsukuba-matsumi-park-tower-with-pigeons/tsukuba-matsumi-park-tower-with-pigeons.jpg"
 content_type: blog
 categories:
-- "Slice of Life"
+- Slice of Life
 - Places
 tags:
 - blog
