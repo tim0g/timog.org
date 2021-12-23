@@ -5,12 +5,16 @@ author: "Leon Timog"
 author_url: "/profile/leon-timog"
 description: I'm in the middle of migrating Timog.org to Hugo Flex theme
 content_type: blog
+featured_image: "/migrating-timog.org-to-a-new-theme-hugo-flex/computer-code.jpg"
 categories:
 - Tech
 tags:
 - hugo static site generator
 - hugo flex theme
 ---
+{{< img src="computer-code.jpg" alt="Hugo static site generator" >}}
+{{< caption >}}Computer Code by [Chris Ried](https://unsplash.com/photos/ieic5Tq8YMk){{< /caption >}}
+
 Isa sa mga ginawa ko sa siyam na araw na *obon yasumi* ay nilipat ko ang Timog.org sa bagong [Hugo](https://gohugo.io/) theme: [Hugo Flex](https://github.com/de-souza/hugo-flex), mas simpleng design, lightweight, walang masyadong abubot ang resultang html file.
 
 Ang gusto kong gawin sa Timog ay walang distracting na design, walang ads, walang database, gawing lightweight ang mga page hangga't maaari. Kaya napili ko itong Hugo Flex na theme, pero may mga dinagdag akong design para ma-highlight ang importanteng parte ng ibang content.

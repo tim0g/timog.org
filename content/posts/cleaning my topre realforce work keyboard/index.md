@@ -16,11 +16,11 @@ tags:
 - keyboard
 - justsystems
 ---
+{{< img src="topre-realforce-jp-keyboard-top-view.jpg" alt="Topre Realforce JustSystems Japanese keyboard" >}}
+
 Isa sa mga kailangang gawin na hindi magawa-gawa ay ang paglilinis ng keyboard ko sa trabaho. Pero dahil sa corona, hindi makalabas masyado sa bahay kaya may oras sa mga ganitong gawain.
 
 Ito ang paborito kong keyboard sa trabaho: Topre Realforce JustSystems Japanese-layout keyboard.
-
-{{< img src="topre-realforce-jp-keyboard-top-view.jpg" alt="Topre Realforce JustSystems Japanese keyboard" >}}
 
 Hindi kami makapili ng computer na gagamitin pero pinalitan ko ang keyboard ng nabili ko ilang taon na ang nakakaraan mula sa online store ng [JustSystems](https://www.justmyshop.com/). Simpleng puti at grey, at may ilang extra na pulang keys.
 

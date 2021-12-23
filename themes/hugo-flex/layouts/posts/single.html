@@ -1,9 +1,8 @@
 {{ define "main" }}
 
   <article>
-    {{ partial "heading.html" . }}
+    {{ partial "heading-single.html" . }}
     {{ .Content }}
-    {{ partial "tags.html" . }}
     {{ partial "comments.html" . }}
   </article>
 

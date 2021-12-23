@@ -63,6 +63,7 @@ main {
 img {
   max-width: 100%;
   margin: 0 0 .5rem;
+  border-radius: 3px;
 }
 
 pre {
@@ -287,4 +288,14 @@ hr {
     letter-spacing: .02em;
     margin: 0 .3rem 0 0;
     color: #ff1a75;
+}
+
+article {
+  margin: 0 0 3rem 0;
+}
+
+@media screen and (max-width:600px){
+  article {
+    margin: 0 0 2rem 0;
+  }
 }

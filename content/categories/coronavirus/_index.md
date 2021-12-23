@@ -2,5 +2,5 @@
 title: Coronavirus
 description:
 ---
-{{< img src="flying-in-the-time-of-covid.jpg" alt="Flying in the Time of Covid" >}}
-{{< caption >}}Flying in the Time of Covid by [Lucrezia De Agrò](https://unsplash.com/photos/2IPlJIRh3iY).{{< /caption >}}
+{{< img src="living-with-covid.jpg" alt="Sisters with Face Masks" >}}
+{{< caption >}}Sisters with Face Masks by [Atoms](https://unsplash.com/photos/7e11Tfl2yxI){{< /caption >}}

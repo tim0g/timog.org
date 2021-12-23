@@ -17,14 +17,14 @@ tags:
 - heartland beer
 - mount tsukuba
 ---
+{{< img src="summer-rice-fields-mount-tsukuba.jpg" alt="Summer rice fields and Mount Tsukuba" >}}
+{{< caption >}}Summer rice fields with Mount Tsukuba in the background.{{< /caption >}}
+
 Pagkatapos ng ilang linggong ulan ay summer na naman.
 
 Ano ba ang scenery ng summer sa Japan? Camping sa tabi ng ilog... ligo sa beach... huni ng kuliglig... tunog ng wind chime... hanabi sa gabi...
 
 At siyempre, ang berdeng-berdeng palayan.
-
-{{< img src="summer-rice-fields-mount-tsukuba.jpg" alt="Summer rice fields and Mount Tsukuba" >}}
-{{< caption >}}*Summer rice fields with Mount Tsukuba in the background.*{{< /caption >}}
 
 Kapag nakikita ko ang malawak na palayan sa summer ay naaalala ko ang mga palayan sa aking kilalakihang maliit na bayan sa Pilipinas.
 

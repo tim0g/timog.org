@@ -1,6 +1,6 @@
 ---
-title: Blog
+title: Posts
 description:
 ---
-{{< img src="hermes-typewriter.jpg" alt="Hermes Typewriter" >}}
-{{< caption >}}Hermes Typewriter by [Bernard Hermant](https://unsplash.com/photos/qTpc0Vj4YoE).{{< /caption >}}
+{{< img src="mechanical-keyboard.jpg" alt="Mechanical Keyboard with Pastel Keys" >}}
+{{< caption >}}Mechanical Keyboard with Pastel Keys by [bady abbas](https://unsplash.com/photos/jOmBUCtflWA){{< /caption >}}
