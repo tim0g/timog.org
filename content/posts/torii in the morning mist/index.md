@@ -8,7 +8,7 @@ content_type: blog
 featured_image: "/torii-in-the-morning-mist/irrigation-controller-as-torii.jpg"
 categories:
 - Culture
-- Slice of Life
+- "Slice of Life"
 tags:
 - blog
 - torii

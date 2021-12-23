@@ -7,7 +7,7 @@ description: "House cat mauled by Swedish python"
 content_type: blog
 featured_image: "/lucifer-the-house-cat-mauled-by-pyton-the-constrictor/cat-mauled-by-python.jpg"
 categories:
-- Slice of Life
+- "Slice of Life"
 tags:
 - blog
 - japan

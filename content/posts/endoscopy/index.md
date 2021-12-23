@@ -7,7 +7,7 @@ description: I got an endoscopy at the local clinic
 content_type: blog
 featured_image: "/endoscopy/olympus-endoscopy-apparatus-ikamera.jpg"
 categories:
-- Slice of Life
+- "Slice of Life"
 - Health
 tags:
 - endoscopy

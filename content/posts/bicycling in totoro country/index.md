@@ -7,7 +7,7 @@ description: Riding the bicycle through Japan's rural area
 content_type: blog
 featured_image: "/bicycling-in-totoro-country/biking-down-a-country-road.jpg"
 categories:
-- Slice of Life
+- "Slice of Life"
 tags:
 - tonari no totoro
 - japan

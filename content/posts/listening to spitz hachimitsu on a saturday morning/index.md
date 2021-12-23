@@ -8,7 +8,7 @@ content_type: blog
 featured_image: "/listening-to-spitz-hachimitsu-on-a-saturday-morning/pink-ball-spitz-hachimitsu-house-plants-snake.jpg"
 categories:
 - Music
-- Slice of Life
+- "Slice of Life"
 tags:
 - blog
 - japan

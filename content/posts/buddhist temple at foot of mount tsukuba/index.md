@@ -8,7 +8,7 @@ featured_image: "/buddhist-temple-autumn-at-the-foot-of-mount-tsukuba/buddhist-t
 content_type: blog
 categories:
 - Places
-- Slice of Life
+- "Slice of Life"
 tags:
 - buddhist temple
 - mount tsukuba

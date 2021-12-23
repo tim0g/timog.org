@@ -7,7 +7,7 @@ description: "I rode my bicycle around the neighborhood one early morning"
 content_type: blog
 featured_image: "/weekend-early-morning-bicycling/red-post-box-gios-bicycle.jpg"
 categories:
-- Slice of Life
+- "Slice of Life"
 tags:
 - blog
 - bicycle

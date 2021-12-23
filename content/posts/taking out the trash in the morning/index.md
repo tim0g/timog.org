@@ -7,7 +7,7 @@ description: "I took out the trash in the morning and looked at the rice fields 
 content_type: blog
 featured_image: "/taking-out-the-trash-in-the-morning/egret-heron-rice-fields.jpg"
 categories:
-- Slice of Life
+- "Slice of Life"
 tags:
 - blog
 - summer
