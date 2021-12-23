@@ -1,9 +1,12 @@
 {{ if eq .Params.content_type "howto" }}
   <div itemscope itemtype="https://schema.org/HowTo">{{ end }}
   <header class="Heading">
+                {{ if .Params.categories }}
+                {{ range (.GetTerms "categories") }}<span class="article-category"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></span>
+                {{ end }}
+                {{ end }}	
   <h1 class="Heading-title"><span itemprop="name">{{ .Title | markdownify }}</span>
-  </h1>
-	<span class="postmeta">{{ .Params.author }}{{ if .PublishDate }}, {{ end }}
+  </h1><span class="postmeta">{{ .Params.author }}{{ if .PublishDate }}, {{ end }}
   {{ with .PublishDate | default nil }}
     <time datetime="{{ .Format "2006-01-02T15:04:05Z07:00" }}">
       {{- .Format "Jan 2, 2006" -}}

@@ -6,6 +6,9 @@ author_url: "profile/leon-timog"
 description: "Kaoru Ueda's hyper-realist paintings, Auguste Rodin's Three Shades, Ossip Zadkine's Tree of Grace"
 content_type: blog
 featured_image: "/kaoru-ueda-auguste-rodin-ossip-zadkine/kaoru-ueda-spoon-on-egg.jpg"
+categories:
+- Places
+- Art
 tags:
 - Kaoru Ueda
 - Auguste Rodin

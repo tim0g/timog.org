@@ -6,6 +6,9 @@ author_url: "profile/leon-timog"
 description: "Photos of Christmas-themed Narita Airport taken on November 2021"
 featured_image: "/christmas-2021-in-narita-airport/christmas-2021-narita-airport-01.jpg"
 content_type: blog
+categories:
+- Places
+- Coronavirus
 tags:
 - blog
 - narita airport
