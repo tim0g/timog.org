@@ -24,7 +24,7 @@ p {
 }
 
 p a {
-  color: #FF1A75;
+  color: #ff1a75;
   text-decoration: underline;
 }
 
@@ -179,7 +179,7 @@ code {
 }
 
 .nav-background {
-  background: #FF1A75;
+  background: #ff1a75;
 }
 
 .u-padding {
@@ -277,8 +277,6 @@ figcaption {
   }  
 }
 
-
-
 hr {
   border-top: 1px;
 }
@@ -288,5 +286,5 @@ hr {
     font-size: .8rem;
     letter-spacing: .02em;
     margin: 0 .3rem 0 0;
-    color: #3eb0ef;
+    color: #ff1a75;
 }
