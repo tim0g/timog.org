@@ -1,6 +1,6 @@
 ---
 title: Gradations by Daihei Shibata
-date: 2021-12-24
+date: 2021-12-24 21:00:00
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
 description: 
@@ -27,6 +27,6 @@ As Shibata explained further on his [own blog](https://note.com/daiheishibata/n/
 
 >Focusing on information that would otherwise be stripped away from the normal design process, I used trial-and-error to find richness and new value, and came up with the idea of making simple things complicated. 
 
-Gradations are generally soothing, except for the one about the curry rice. There people who like to mix their curry with their rice and those that like a hard boundary between the white rice and the brown stew.
+Gradations are generally soothing, except for the one about the curry rice. There are people who mix their curry with their rice and those that like a hard boundary between the white rice and the brown stew.
 
 I'm on the latter camp; I *want* hard boundaries when curry rice is concerned.
