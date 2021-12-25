@@ -138,13 +138,14 @@ code {
 }
 
 .Tags-item {
-  border-radius: 0.3rem;
+  border-radius: 2px;
   margin: 0.2rem;
   padding: 0 .5rem;
 }
 
-.Tags-link {
-  color: #fff;
+.Tags-item a {
+  color: #555;
+  font-weight: 400;
 }
 
 {{ with site.Params.divider }}
@@ -188,7 +189,8 @@ code {
 }
 
 .u-background {
-  background: #e83e3e;
+  background: #e1e1e1;
+  font-weight: 400;
 }
 
 .u-clickable {
