@@ -1,7 +1,6 @@
 ---
 title: Wiki
-description: Wiki section of the guide to Japan
+description:
 ---
-Guide to living in Japan wiki items. Impormasyon tungkol sa iba't-ibang aspeto ng pamumuhay sa Japan.
-
-{{< yellowbox >}}Kahit sino ay maaaring [mag-edit o magsulat](https://www.github.com/link-to-repo) ng wiki entries.{{< /yellowbox >}}
+{{< img src="pile-of-books.jpg" alt="Shelf-full of Antique Books" >}}
+{{< caption >}}Shelf-full of Antique Books by [Gabriella Clare Marino](https://unsplash.com/photos/Hx8HaI4ERkA){{< /caption >}}

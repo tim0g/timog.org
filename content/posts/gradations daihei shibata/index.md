@@ -23,7 +23,7 @@ This video was featured in [Dezain-ah](http://www.nhk.or.jp/design-ah/), an NHK 
 
 As Shibata explained further on his [own blog](https://note.com/daiheishibata/n/nedd4417f58ac):
 
->Behind the theme of "blurring boundaries," it started with the curiosity of trying to do the exact opposite of the original function of design such as abstraction and simplification of information (for example, making complicated things easier to use and complicated concepts easier to understand). It's also a little antithesis to my own act of "design."
+>Behind the theme of "blurring boundaries," it started with the curiosity of trying to do the exact opposite of the original function of design such as abstraction and simplification of information (for example, making complicated things easier to use and complex concepts easier to understand). It's also a little antithesis to my own act of "design."
 
 >Focusing on information that would otherwise be stripped away from the normal design process, I used trial-and-error to find richness and new value, and came up with the idea of making simple things complicated. 
 

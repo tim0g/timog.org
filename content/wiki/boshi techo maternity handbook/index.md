@@ -1,5 +1,5 @@
 ---
-title: Boshi Techō (母子手帳) Maternal and Child Health Handbook
+title: Boshi Techō 母子手帳 Maternal and Child Health Handbook
 author:
 content_type: wiki
 description: What is Boshi Techō (母子手帳) Maternity Handbook (母子保険手帳)?

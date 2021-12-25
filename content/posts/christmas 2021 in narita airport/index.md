@@ -4,7 +4,7 @@ date: 2021-12-02
 author: "Leon Timog"
 author_url: "profile/leon-timog"
 description: "Photos of Christmas-themed Narita Airport taken on November 2021"
-featured_image: "/christmas-2021-in-narita-airport/christmas-2021-narita-airport-01.jpg"
+featured_image: "/christmas-2021-in-narita-airport/christmas-2021-narita-airport-10.jpg"
 content_type: blog
 categories:
 - Places
@@ -22,6 +22,8 @@ tags:
 aliases:
 - /christmas-2011-in-narita-airport/
 ---
+{{< img src="christmas-2021-narita-airport-10.jpg" alt="Christmas 2021 in Narita Airport" >}}
+
 I visited Narita Airport again recently pre-Omicron and it was so much vibrant than [before](https://timog.org/photos-of-an-eerily-empty-narita-airport/), with a new, cheerful Christmas motif to boot. Covid infections in Japan were near record lows, entry restrictions were scrapped and everyone was looking forward to a happy ending to a dreadful year.
 
 And then [Omicron happened](https://edition.cnn.com/2021/12/02/world/south-africa-omicron-origins-covid-cmd-intl/index.html).
@@ -51,8 +53,6 @@ Inventions associated with flying are prominently featured together with Christm
 "I hope things get back to normal soon." For a while, things *were* getting back to normal. 
 
 {{< img src="christmas-2021-narita-airport-09.jpg" alt="Christmas 2021 in Narita Airport" >}}
-
-{{< img src="christmas-2021-narita-airport-10.jpg" alt="Christmas 2021 in Narita Airport" >}}
 
 The airport was brighter and had so much more people than [before](https://timog.org/photos-of-an-eerily-empty-narita-airport/). Things were looking good--[until they weren't](https://www.japantimes.co.jp/news/2021/11/29/national/japan-omicron-entry-restrictions/).
 
