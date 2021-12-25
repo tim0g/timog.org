@@ -5,9 +5,10 @@ author: "Leon Timog"
 author_url: "/profile/leon-timog"
 description: 
 content_type: blog
+featured_image: "/how-to-make-natto-toast/natto-toast-3.jpg"
 categories:
 - Food
-- How-to
+- Howto
 tags:
 - natto
 - toast
