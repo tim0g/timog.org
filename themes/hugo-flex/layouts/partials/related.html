@@ -1,0 +1,37 @@
+<div class="related-content">
+{{ $.Scratch.Set "count" 0 }}
+{{ $currentPagePermalink := .Permalink }}
+{{ $tags := .Params.categories }}
+{{/* range (where .Site.Pages "Section" "tutorials") */}}
+{{ range .Site.Pages }}
+{{ $isMatchTags := intersect $tags .Params.categories | len | lt 1 }}
+{{ if and $isMatchTags (ne .Permalink $currentPagePermalink) }}
+<article class="card">
+  {{ if .Params.categories }}
+  {{ range (.GetTerms "categories") }}<span class="article-category"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></span>
+  {{ end }}
+  {{ end }}
+  <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+  <p>{{ .Summary }}</p></article>
+  {{ $.Scratch.Add "count" 1 }}
+{{ end }}
+{{ end }}</div>
+
+<div class="related-content">
+{{ if eq ($.Scratch.Get "count") 0 }}
+  {{ $.Scratch.Set "limit" 0 }}
+  {{/* range (where .Site.Pages "Section" "tutorials") */}}
+  {{ range .Site.Pages }}
+  {{ $isMatchTags := intersect $tags .Params.categories | len | lt 0 }}
+  {{ if and $isMatchTags (ne .Permalink $currentPagePermalink) (lt ($.Scratch.Get "limit") 2) }}
+  <article class="card">
+  {{ if .Params.categories }}
+  {{ range (.GetTerms "categories") }}<span class="article-category"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></span>
+  {{ end }}
+  {{ end }}
+  <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+    <p>{{ .Summary }}</p></article>
+    {{ $.Scratch.Add "limit" 1 }}
+  {{ end }}
+  {{ end }}
+{{ end }}</div>

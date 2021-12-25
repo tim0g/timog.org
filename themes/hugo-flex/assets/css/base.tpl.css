@@ -324,3 +324,37 @@ article {
 blockquote {
   color: #60757e;
 }
+
+.related-content {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  position: relative;
+  flex: 1 1 300px;
+  margin: 0 0 20px;
+  padding: 10px 20px;
+  background: #f6f6fb;
+  max-height: 280px;
+  overflow: hidden;
+  border-radius: 3px;
+}
+
+@media screen and (max-width:600px){
+  .card   {margin: 0 0 20px;}
+  .card p {font-size: 1rem;}
+}
+
+.card h3 {
+  margin: 0 0 .5rem;
+}
+
+.card h3 a {
+  color: #000;
+}
+
+.card p {
+  color: #39484f;
+  font-size: 16px;
+}

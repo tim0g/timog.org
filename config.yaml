@@ -7,6 +7,7 @@ theme: hugo-flex
 publishDir: public
 rssLimit: 10
 timeout: 60000
+summaryLength: 30
 
 outputs:
   taxonomyTerm:
