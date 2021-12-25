@@ -29,4 +29,4 @@ As Shibata explained further on his [own blog](https://note.com/daiheishibata/n/
 
 Gradations are generally soothing, except for the one about the curry rice. There are people who mix their curry with their rice and those that like a hard boundary between the white rice and the brown stew.
 
-I'm on the latter camp; I *want* hard boundaries when curry rice is concerned.
+I'm on the latter camp; I *want* hard boundaries on my plate of curry rice.

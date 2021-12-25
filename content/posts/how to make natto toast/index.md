@@ -13,7 +13,7 @@ tags:
 - natto
 - toast
 ---
-I sometimes need to scavenge inside the refrigerator for a quick bite and for some reason there's always left-over bread and nattō lying around somewhere.
+I sometimes need to scavenge inside the ref for a quick bite and for some reason there's always left-over bread and nattō lying around somewhere.
 
 Here's how to make a protein-rich, tasty toast using this traditional Japanese food made from fermented soybeans.
 
