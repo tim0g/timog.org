@@ -1,5 +1,6 @@
 ---
 title: How To
+linktitle: How-To
 description:
 ---
 {{< img src="tools-for-project.jpg" alt="Tools for a Project" >}}
