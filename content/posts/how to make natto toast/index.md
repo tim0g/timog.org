@@ -14,7 +14,9 @@ tags:
 ---
 I sometimes need to scavenge the inside of the refrigerator for a quick bite and for some reason, there's always left-over bread and nattō lying around somewhere.
 
-Here's how to make a protein-rich, tasty toast using this traditional Japanese food made from fermented soybeans. The flavor vaguely reminds me of [vegemite](https://en.wikipedia.org/wiki/Vegemite) sandwich.
+Here's how to make a protein-rich, tasty toast using this traditional Japanese food made from fermented soybeans.
+
+I don't think it tastes anywhere near it, but the flavor vaguely reminds me of [vegemite](https://en.wikipedia.org/wiki/Vegemite) sandwich.
 
 ### 1. Toast a slice of raisin bread
 
