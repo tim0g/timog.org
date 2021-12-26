@@ -213,11 +213,15 @@ th {
 
 .alert {
   position: relative;
-  font-size: 1.23rem;
+  font-size: 1.2rem;
   padding: 0.4rem .8rem 0;
   margin: 1rem 0;
   border: 1px solid transparent;
   border-radius: 8px;
+}
+
+@media screen and (max-width:600px){
+  .alert {font-size: 16px;}  
 }
 
 .bluebox {

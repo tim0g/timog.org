@@ -21,7 +21,7 @@ tags:
 - 2 Letterpack Plus envelopes (1 self-addressed envelope that you will submit during the application, and 1 to send your current passport to the Consular Section when your new passport is ready)
 - 1 self-addressed postcard to submit during application
 
-See the note on the [how to renew your passport](../how-to-renew-passport-philippine-embassy-tokyo/#2-prepare-the-necessary-documents).
+See the note on the [how to renew your passport](../how-to-renew-philippine-passport-in-japan-tokyo/#2-prepare-the-necessary-documents).
 {{< /pinkbox >}}
 
 520-yen Letterpack Plus (red) envelopes and postcards (hagaki) are sold in Post Offices and convenience stores, although some branches might not have them. 
