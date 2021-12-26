@@ -7,9 +7,8 @@ description: A foggy morning in Tsukuba
 featured_image: "/leisurely-hike-to-mount-hokyosan/mount-hokyosan-hike-1.jpg"
 content_type: blog
 categories:
-- Mountain
-- Covid
 - Hiking
+- Covid
 tags:
 - Japan
 - tsukuba

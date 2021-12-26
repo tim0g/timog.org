@@ -175,9 +175,6 @@ code {
   background: #edf0f7;
 }
 
-.Footer a {
-  color: #000;
-}
 .u-wrapper {
   {{ with site.Params.width }}max-width: {{ . }};{{ end }}
   margin: auto;
