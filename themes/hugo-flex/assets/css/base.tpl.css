@@ -171,7 +171,8 @@ code {
 
 .Footer {
   text-align: center;
-  margin: 1rem 0;
+  padding: 1rem 0;
+  background: #f1f1f7;
 }
 
 .u-wrapper {
@@ -325,24 +326,33 @@ blockquote {
   color: #60757e;
 }
 
+.u-wrapper2 {
+  background: #f1f1f7;
+}
+
 .related-content {
   display: flex;
   flex-wrap: wrap;
 }
 
+.related-content {
+  {{ with site.Params.width }}max-width: {{ . }};{{ end }}
+  margin: auto;
+}
+
+
 .card {
   position: relative;
   flex: 1 1 300px;
-  margin: 0 0 20px;
+  margin: 25px 15px;
   padding: 10px 20px;
-  background: #f1f1f7;
-  max-height: 280px;
+  background: #fff;
   overflow: hidden;
   border-radius: 3px;
 }
 
 @media screen and (max-width:600px){
-  .card   {margin: 0 0 20px;}
+  .card   {margin: 15px 15px 0;}
   .card p {font-size: 1rem;}
 }
 
@@ -357,4 +367,20 @@ blockquote {
 .card p {
   color: #39484f;
   font-size: 16px;
+  margin: 0 0 .5rem;
+}
+
+nav {
+  margin: 0 0 2rem;
+}
+
+small {
+  font-size: .9rem;
+  color: #666;
+}
+
+@media screen and (max-width:600px){
+  small {
+    font-size: .7rem;
+  }
 }

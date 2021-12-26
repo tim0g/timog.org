@@ -21,7 +21,13 @@
         {{ block "main" . }}{{ end }}
       </div>
     </div>
+    <div class="u-wrapper2">
+      {{ partial "related.html" . }}
+    </div>
+
+
   </main>
+
   {{ partialCached "footer.html" . }}
 </body>
 
