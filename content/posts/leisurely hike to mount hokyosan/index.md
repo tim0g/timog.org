@@ -23,7 +23,7 @@ Hiking is the perfect activity for the Covid pandemic. The hiking trails give yo
 
 It's also a great option if you just need to get out after being continously holed up inside your room because of the pandemic.
 
-So recently we hiked to the top of Hōkyōsan (or Mount Hōkyō 宝篋山), a 461-meter mountain on the Tsukuba mountainous region. The name derives from Hōkyōintō (宝篋印塔), a type of Japanese pagoda that was erected on its peak.
+So recently we hiked to the top of Hōkyōsan (or Mount Hōkyō 宝篋山), a 461-meter mountain in the Tsukuba mountainous region. The name derives from Hōkyōintō (宝篋印塔), a type of Japanese pagoda that was erected on its peak.
 
 It's a low mountain that offers an alternative to people who have climbed the more famous Mount Tsukuba, or those who want a more leisurely hike than that offered by its taller neighbor.
 
