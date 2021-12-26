@@ -1,5 +1,5 @@
 ---
-title: Coronavirus
+title: Covid
 description:
 ---
 {{< img src="living-with-covid.jpg" alt="Sisters with Face Masks" >}}

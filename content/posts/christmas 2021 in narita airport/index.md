@@ -8,7 +8,7 @@ featured_image: "/christmas-2021-in-narita-airport/christmas-2021-narita-airport
 content_type: blog
 categories:
 - Places
-- Coronavirus
+- Covid
 tags:
 - blog
 - narita airport

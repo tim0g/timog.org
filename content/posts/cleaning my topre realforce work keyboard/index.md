@@ -8,7 +8,8 @@ content_type: blog
 featured_image: "/cleaning-my-topre-realforce-work-keyboard/topre-realforce-jp-keyboard-top-view.jpg"
 categories:
 - Tech
-- "Slice of Life"
+- Slice of Life
+- Covid
 tags:
 - blog
 - topre

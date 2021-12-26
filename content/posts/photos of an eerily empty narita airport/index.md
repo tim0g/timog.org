@@ -7,7 +7,7 @@ description: Pictures of Narita Airport devoid of travellers
 content_type: blog
 featured_image: "/photos-of-an-eerily-empty-narita-airport/eerily-empty-narita-airport-terminal-1.jpg"
 categories:
-- Coronavirus
+- Covid
 - Places
 tags:
 - blog
