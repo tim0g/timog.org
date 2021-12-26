@@ -8,8 +8,8 @@ featured_image: "/leisurely-hike-to-mount-hokyosan/mount-hokyosan-hike-1.jpg"
 content_type: blog
 categories:
 - Mountain
-- Hiking
 - Covid
+- Hiking
 tags:
 - Japan
 - tsukuba
@@ -31,7 +31,7 @@ The hike starts at the [Hōkyōsan Oda Rest Area](https://www.google.com/maps/pl
 
 The city of Tsukuba has [a page](https://www.city.tsukuba.lg.jp/kankobunka/kankojoho/spot/1001454.html) about the hiking course. You can also download a PDF of the trekking map [here](https://www.city.tsukuba.lg.jp/_res/projects/default_project/_page_/001/001/454/R02_12_houkyousan_trekking_map.pdf).
 
-Below are some photos I took on a recent hike.
+Below are some photos I took.
 
 {{< img src="mount-hokyosan-children-hiking.jpg" alt="A group of children accompanied by their Kindergarten teachers" >}}
 {{< caption >}}A group of children accompanied by their Kindergarten teachers{{< /caption >}}
