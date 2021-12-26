@@ -15,9 +15,9 @@
   <p>{{ .Summary }}</p></article>
   {{ $.Scratch.Add "count" 1 }}
 {{ end }}
-{{ end }}</div>
+{{ end }}
 
-<div class="related-content">
+
 {{ if eq ($.Scratch.Get "count") 0 }}
   {{ $.Scratch.Set "limit" 0 }}
   {{/* range (where .Site.Pages "Section" "tutorials") */}}

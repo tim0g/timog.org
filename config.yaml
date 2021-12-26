@@ -19,7 +19,7 @@ outputs:
 
 permalinks:
   posts: /:filename/
-  pages: /:filename/
+  pages: /page/:filename/
 
 params:
   author: 'Leon Timog'
@@ -66,6 +66,6 @@ menu:
     - name: Posts
       url: posts/
       weight: 2
-#    - name: Guide
-#      url: guide/
-#      weight: 3
+    - name: Wiki
+      url: wiki/
+      weight: 3

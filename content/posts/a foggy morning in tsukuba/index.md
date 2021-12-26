@@ -16,11 +16,9 @@ tags:
 - osmanthus
 - kinmokusei
 ---
-Especially on autumn and winter days, when cold, moist, dense air settles near the low-lying rice fields, a fog might form and we get these surreal images in the morning.
-
-The road disappears into the foggy haze.
-
 {{< img src="foggy-morning-in-tsukuba-street.jpg" alt="Foggy street in Tsukuba" >}}
+
+Especially on autumn and winter days, when cold, moist, dense air settles near the low-lying rice fields, a fog might form and we get these surreal images in the morning.
 
 Fog envelops the sleeping neighborhood and the fallow fields. The fog will clear as the morning gets warmer, but for now everything blurs into the gray background.
 
