@@ -1,6 +1,6 @@
 ---
 title: Learning polite Japanese from a chair
-date: 2021-12-30 21:00:00
+date: 2021-01-30 21:00:00
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
 description: 

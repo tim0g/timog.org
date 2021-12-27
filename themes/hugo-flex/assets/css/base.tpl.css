@@ -204,7 +204,7 @@ table, th, td {
   border: 1px solid #ccc;
   border-collapse: collapse;
   padding: 0.2rem 0.5rem;
-  margin: 0 0 1rem;
+  margin: 0 0 2rem;
 }
 
 th {
@@ -248,6 +248,7 @@ th {
   position: relative;
   overflow: hidden;
   width: 100%;
+  border: 1px solid #ddd;
   margin-bottom: 1em;
 }
 
