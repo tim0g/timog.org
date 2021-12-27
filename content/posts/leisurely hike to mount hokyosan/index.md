@@ -3,7 +3,7 @@ title: "A leisurely hike to Hōkyōsan"
 date: 2021-12-25
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
-description: A foggy morning in Tsukuba
+description: Hiking Mount Tsukuba's little neighbor
 featured_image: "/leisurely-hike-to-mount-hokyosan/mount-hokyosan-hike-1.jpg"
 content_type: blog
 categories:
