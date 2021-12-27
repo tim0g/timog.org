@@ -1,8 +1,10 @@
 ---
 title: Photocopy machine on the 2nd floor of Azabu District Minato Ward Office
 author: Leon Timog
+author_url: "/profile/leon-timog"
 date: 2021-12-11
-description:
+description: Photocopy machine on the 2nd floor of Azabu District Minato Ward Office
+content_type: blog
 categories:
 - Passport
 tags:

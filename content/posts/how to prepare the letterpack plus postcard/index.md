@@ -1,12 +1,13 @@
 ---
 title: How to prepare the Letterpack Plus and postcard (hagaki) for Philippine passport renewal
 author: Leon Timog
+author_url: "/profile/leon-timog"
 date: 2021-12-11 21:00:00
 lastmod: 2021-12-24
 author: Leon Timog
-author_url: "/profile/leon-timog"
 featured_image: "/how-to-prepare-the-letterpack-plus-postcard/timog-letterpack-plus-name-address.gif"
 description: How to prepare the Letterpack Plus and postcard (hagaki) for passport renewal
+content_type: blog
 categories:
 - Passport
 - How-to
