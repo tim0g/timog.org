@@ -24,6 +24,6 @@ Which is not to say that the sea in Japan during summer is a warm as those we ha
 
 {{< img src="oarai-beach-2005-2.jpg" alt="Ōarai Beach circa 2005" >}}
 
-Ōarai (大洗), by the way, is a small seaside town in Ibaraki Prefecture which in recent times has become a mecca for fans of the highly popular *[Girls und Panzer](https://en.wikipedia.org/wiki/Girls_und_Panzer)* anime franchise, whose characters study in a huge ship archored off the coast of the town.
+[Ōarai](http://www.town.oarai.lg.jp/) (大洗), by the way, is a small seaside town in Ibaraki Prefecture which in recent times has become a mecca for fans of the highly popular *[Girls und Panzer](https://en.wikipedia.org/wiki/Girls_und_Panzer)* anime franchise, whose characters study in a huge ship archored off the coast of the town.
 
 {{< img src="oarai-beach-2005-3.jpg" alt="Ōarai Beach circa 2005" >}}
