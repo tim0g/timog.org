@@ -188,6 +188,11 @@ code {
   padding: 0 1rem 2rem;
 }
 
+@media screen and (max-width:600px){
+  .u-padding {padding: 0 1rem 1rem;}
+}
+
+
 .u-background {
   background: #e1e1e1;
   font-weight: 400;
