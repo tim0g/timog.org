@@ -15,6 +15,8 @@ tags:
 - letterpack
 - tracking number
 - passport renewal
+aliases:
+- /guide/consular-affairs/how-to-prepare-the-letterpack-plus-postcard/
 ---
 {{< pinkbox >}}
 **Note:** If you decide not to cancel your current passport at the time of application, you will need to buy:

@@ -13,6 +13,7 @@ categories:
 aliases:
  - /passport-application/procedure/
  - /how-to-renew-passport-philippine-embassy-tokyo/
+ - /guide/consular-affairs/how-to-renew-philippine-passport-in-japan-tokyo/
 tags:
  - how-to
  - passport renewal
