@@ -32,9 +32,9 @@ If you guessed "Okinawa," you wouldn't be far off the mark. But even Okinawa's d
 
 For people living in the Greater Tokyo Area, Chiba Prefecture (千葉県) is mostly associated with [Tokyo Disney Resort](https://www.tokyodisneyresort.jp/top.html) located in Urayasu City and [Narita International Airport](https://timog.org/christmas-2021-in-narita-airport/) located in the Narita City.
 
-It borders Ibaraki Prefecture (茨城県) to the north by the Tone River and from Saitama Prefecture (埼玉県) and Tokyo to the west by the smaller Edo River.
+It borders Ibaraki Prefecture (茨城県) to the north by the Tone River and Saitama Prefecture (埼玉県) and Tokyo to the west by the smaller Edo River. That's as flat a boundary as you can get.
 
-It is also part of the great Kantō Plain, the largest flat land in Japan.
+It is also part of the great Kantō Plain, the widest flat land in the whole of Japan.
 
 {{< img src="chiba-prefecture-relief-map.jpg" alt="Chiba Prefecture relief map" >}}
 {{< caption >}}Relief map of Chiba Prefecture and surrounding areas of the Kantō region from [Google Maps](https://www.google.com/maps).{{< /caption >}}
