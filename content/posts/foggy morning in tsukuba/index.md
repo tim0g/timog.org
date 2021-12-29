@@ -4,7 +4,7 @@ date: 2021-10-04
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
 description: A foggy morning in Tsukuba
-featured_image: "/a-foggy-morning-in-tsukuba/foggy-morning-in-tsukuba-street.jpg"
+featured_image: "/foggy-morning-in-tsukuba/foggy-morning-in-tsukuba-street.jpg"
 content_type: blog
 categories:
 - "Slice of Life"
@@ -15,6 +15,8 @@ tags:
 - tsukuba
 - osmanthus
 - kinmokusei
+aliases:
+- /a-foggy-morning-in-tsukuba/
 ---
 {{< img src="foggy-morning-in-tsukuba-street.jpg" alt="Foggy street in Tsukuba" >}}
 

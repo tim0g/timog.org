@@ -206,19 +206,35 @@ code {
 
 table, th, td {
   font-size: 1.23rem;
-  border: 1px solid #ccc;
+  border: thin solid #ccc;
   border-collapse: collapse;
   padding: 0.2rem 0.5rem;
   margin: 0 0 2rem;
 }
 
-@media screen and (max-width:600px){
-  table, th, td {font-size:16px;}  
+th {
+  background-color: #f3faff;
+}
+
+.orange-table, .orange-table th, .orange-table td {
+  border: thin solid #fff;
+}
+
+.orange-table th {
+  background-color: #FF9AA2;
+}
+
+.orange-table tbody tr:nth-of-type(odd) {
+  background-color: #ffebde;
+}
+
+.orange-table tbody tr:nth-of-type(even) {
+  background-color: #ffe6e4;
 }
 
 
-th {
-  background-color: #f0f0f0;
+@media screen and (max-width:600px){
+  table, th, td {font-size:16px;}  
 }
 
 .alert {
