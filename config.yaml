@@ -60,12 +60,12 @@ markup:
 
 menu:
   nav:
-#    - name: About
-#      url: about-timog.org/
-#      weight: 1
     - name: Posts
       url: posts/
-      weight: 2
+      weight: 1
     - name: Wiki
       url: wiki/
+      weight: 2
+    - name: FB
+      url: https://www.facebook.com/timogjapan/
       weight: 3
