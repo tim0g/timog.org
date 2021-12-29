@@ -221,15 +221,15 @@ th {
 }
 
 .orange-table th {
-  background-color: #FF9AA2;
+  background-color: #ffcbcf;
 }
 
 .orange-table tbody tr:nth-of-type(odd) {
-  background-color: #ffebde;
+  background-color: #fdf0e7;
 }
 
 .orange-table tbody tr:nth-of-type(even) {
-  background-color: #ffe6e4;
+  background-color: #ffebde;
 }
 
 
