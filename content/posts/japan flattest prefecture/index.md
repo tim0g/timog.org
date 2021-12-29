@@ -25,10 +25,10 @@ In a country where prefectures and regions are bounded by mountain ranges, Japan
 
 *So which prefecture is it?*
 
-If you guessed "Okinawa," you wouldn't be far off the mark. But even Okinawa's 526-meter [Mount Omoto](https://en.wikipedia.org/wiki/Mount_Omoto) is just a little bit taller than [Mount Atago](https://en.wikipedia.org/wiki/Mount_Atago_(Minamib%C5%8Ds%C5%8D,_Chiba)) of Chiba Prefecture, which claims the title of Japan's "flattest prefecture." (See the list of [highest mountains by prefecture](#highest-mountains-in-each-prefecture-in-japan) below.)
+If you guessed "Okinawa," you wouldn't be far off the mark. But even Okinawa's diminutive 526-meter [Mount Omoto](https://en.wikipedia.org/wiki/Mount_Omoto) is just a little bit taller than [Mount Atago](https://en.wikipedia.org/wiki/Mount_Atago_(Minamib%C5%8Ds%C5%8D,_Chiba)) of Chiba Prefecture, which claims the title of Japan's "flattest prefecture." (See the list of [highest mountains by prefecture](#highest-mountains-in-each-prefecture-in-japan) below.)
 
 
-## Chiba, Japan's flattest prefecture
+## Chiba, the land of a thousand leaves and Japan's flattest prefecture
 
 For people living in the Greater Tokyo Area, Chiba Prefecture (千葉県) is mostly associated with [Tokyo Disney Resort](https://www.tokyodisneyresort.jp/top.html) located in Urayasu City and [Narita International Airport](https://timog.org/christmas-2021-in-narita-airport/) located in the Narita City.
 
@@ -39,9 +39,9 @@ It is also part of the great Kantō Plain, the largest flat land in Japan.
 {{< img src="chiba-prefecture-relief-map.jpg" alt="Chiba Prefecture relief map" >}}
 {{< caption >}}Relief map of Chiba Prefecture and surrounding areas of the Kantō region from [Google Maps](https://www.google.com/maps).{{< /caption >}}
 
-On the map above, Tokyo and Saitama appear flatter, but are actually quite mountanous on their westernmost parts, while Chiba is uniformly flat with some hilly areas.
+On the map above, Tokyo and Saitama appear flatter, but are actually quite mountanous on their westernmost parts, while Chiba is uniformly flat with some hilly areas on the lower part of the peninsula.
 
-Airplanes landing on Narita International Airport need not worry about accidentally bumping into mountains.
+No worries about accidentally bumping into mountains for airplanes landing on Narita International Airport.
 
 
 ## Highest mountains in each prefecture in Japan
