@@ -25,14 +25,14 @@ In a country where prefectures and regions are bounded by mountain ranges, Japan
 
 *So which prefecture is it?*
 
-If you guessed "Okinawa," you wouldn't be far off the mark. But Okinawa's highest point, 526-meter Mount Otomo, is just a little bit taller than [Mount Atago](https://en.wikipedia.org/wiki/Mount_Atago_(Minamib%C5%8Ds%C5%8D,_Chiba)) of Chiba Prefecture, which claims the title of Japan's "flattest prefecture." (See the list of [highest mountains by prefecture](#highest-mountains-in-each-prefecture-in-japan) below.)
+If you guessed "Okinawa," you wouldn't be far off the mark. But even Okinawa's 526-meter [Mount Omoto](https://en.wikipedia.org/wiki/Mount_Omoto) is just a little bit taller than [Mount Atago](https://en.wikipedia.org/wiki/Mount_Atago_(Minamib%C5%8Ds%C5%8D,_Chiba)) of Chiba Prefecture, which claims the title of Japan's "flattest prefecture." (See the list of [highest mountains by prefecture](#highest-mountains-in-each-prefecture-in-japan) below.)
 
 
 ## Chiba, Japan's flattest prefecture
 
-For people living in the Greater Tokyo Area, Chiba Prefecture is mostly associated with [Tokyo Disney Resort](https://www.tokyodisneyresort.jp/top.html) located in Urayasu City and [Narita International Airport](https://timog.org/christmas-2021-in-narita-airport/) located in the Narita City.
+For people living in the Greater Tokyo Area, Chiba Prefecture (千葉県) is mostly associated with [Tokyo Disney Resort](https://www.tokyodisneyresort.jp/top.html) located in Urayasu City and [Narita International Airport](https://timog.org/christmas-2021-in-narita-airport/) located in the Narita City.
 
-It borders Ibaraki Prefecture to the north by the Tone River and from Saitama Prefecture and Tokyo to the west by the smaller Edo River.
+It borders Ibaraki Prefecture (茨城県) to the north by the Tone River and from Saitama Prefecture (埼玉県) and Tokyo to the west by the smaller Edo River.
 
 It is also part of the great Kantō Plain, the largest flat land in Japan.
 
