@@ -24,7 +24,7 @@ It's also a great option if you just need to get out after being continously hol
 
 So recently we hiked to the top of Hōkyōsan (or Mount Hōkyō 宝篋山), a 461-meter mountain in the Tsukuba mountainous region. The name derives from Hōkyōintō (宝篋印塔), a type of Japanese pagoda that was erected on its peak.
 
-It's a low mountain that offers an alternative to people who have climbed the more famous Mount Tsukuba, or those who want a more leisurely hike than that offered by its taller neighbor.
+It's a low mountain that offers an alternative to people who have climbed the more famous [Mount Tsukuba](../winter-climb-of-snow-covered-mount-tsukuba/), or those who want a more leisurely hike than that offered by its taller neighbor.
 
 The hike starts at the [Hōkyōsan Oda Rest Area](https://www.google.com/maps/place/4544+Oda,+Tsukuba,+Ibaraki+300-4223/@36.1525974,140.1163855,17z/data=!3m1!4b1!4m5!3m4!1s0x60220ede83bfd031:0x37835471ddd70e75!8m2!3d36.1525931!4d140.1185742), where a nearby parking area can accomodate about 70 cars. It can also be reached by bus from TX Tsukuba Station or JR Tsuchiura Station.
 

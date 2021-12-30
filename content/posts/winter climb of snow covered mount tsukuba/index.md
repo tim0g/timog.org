@@ -4,15 +4,15 @@ date: 2021-12-30
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
 description: Hiking Mount Tsukuba's little neighbor
-featured_image: "/leisurely-hike-to-mount-hokyosan/mount-tsukuba-winter-hike-snow-on-branches.jpg"
+featured_image: "/winter-climb-of-snow-covered-mount-tsukuba/mount-tsukuba-winter-hike-snow-on-branches.jpg"
 content_type: blog
 categories:
 - Hiking
 tags:
 - Japan
 - Tsukuba
-- Hokyosan
 - hiking
+- winter
 chōon: Ō ō Ū ū
 ---
 ![Mount Tsukuba winter hike: snow on branches](mount-tsukuba-winter-hike-snow-on-branches.jpg "Deciduous trees near the peak, with their leafless branches covered in snow.")
