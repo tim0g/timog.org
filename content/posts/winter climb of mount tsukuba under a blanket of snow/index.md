@@ -8,7 +8,6 @@ featured_image: "/leisurely-hike-to-mount-hokyosan/mount-tsukuba-winter-hike-sno
 content_type: blog
 categories:
 - Hiking
-- Covid
 tags:
 - Japan
 - Tsukuba
@@ -22,7 +21,7 @@ chōon: Ō ō Ū ū
 
 Hiking Mount Tsukuba is a regular activity for us residents of Tsukuba City year after year after year. Sometimes when we want something different, we climb its nearby cousins like Mount Kaba (加波山) or [Mount Hōkyō](../leisurely-hike-to-mount-hokyosan/) (宝篋山). But it's always Mount Tsukuba that we come back to.
 
-I've climbed Mount Tsukuba countless times, but one of the most memorable was when my friend Ali came to visit from Tokyo. A blanket of snow has just covered the mountain the previous day and although it was past noon, we decided to go for it.
+I've climbed Mount Tsukuba countless times, but one of the most memorable was when my friend Ali came to visit from Tokyo one winter. A blanket of snow has just covered the mountain the previous day and although it was past noon, we decided to go for it.
 
 ![Mount Tsukuba winter hike: inside the woods](mount-tsukuba-winter-hike-inside-the-woods.jpg "Inside the woods, the rocks were not as slippery as we thought. It was especially cold under the shade of these big cedars.")
 
