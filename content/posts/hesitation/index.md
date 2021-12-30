@@ -5,7 +5,7 @@ author: "Leon Timog"
 author_url: "/profile/leon-timog"
 description: Learned a new word at a laundry shop
 content_type: blog
-featured_image: "/hesitation/"man-with-headphones-laundry-shop.jpg"
+featured_image: "/hesitation/man-with-headphones-laundry-shop.jpg"
 categories:
 - Nihongo
 - Slice of Life
