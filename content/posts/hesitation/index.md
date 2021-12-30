@@ -29,7 +29,7 @@ The rest of the sign read:
 
 <p style="text-align:center;line-height:3;font-family:sans-serif;"><span style="font-size:1.2rem; color:#000;border:1px solid #666;padding:10px">不審者を見かけたら躊躇なく警察に通報してください。</span></p>
 
-<p style="text-align:center">Fushinsha wo mikaketara, chūchonaku keisatsu ni tsūhō shite kudasai.</p>
+<p style="text-align:center;font-style:italic">Fushinsha wo mikaketara, chūchonaku keisatsu ni tsūhō shite kudasai.</p>
 
 Even seeing the word for the first time it's not hard to guess what it means: "If you see a suspicious-looking person, do not _______ to call the police."
 
