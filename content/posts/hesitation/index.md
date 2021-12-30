@@ -23,7 +23,7 @@ It's probably [frequency bias](https://www.healthline.com/health/baader-meinhof-
 <p style="text-align:center;line-height:.5"><span style="font-size:6rem; color:#000">躊躇</span></p>
 <p style="text-align:center;line-height:.5"><span style="color:#fff">chūcho</span></p>
 
-I saw this word for the first time years ago at a laundry shop, on a sign telling customers to get their clothes out as soon as they're finished because theft of clothes are being reported more than usual all over the country. (I suspect this is just a ploy to scare people who leave their clothes inside the dryer for a long time, inconveniencing other customers.)
+I saw this word for the first time at a laundry shop, on a sign telling customers to get their clothes out as soon as they're finished because theft of clothes are being reported more than usual all over the country. (I suspect this is just a ploy to scare people who leave their clothes inside the dryer for a long time, inconveniencing other customers.)
 
 The rest of the sign read:
 
@@ -39,4 +39,4 @@ Well, actually that's not quite true. If you put う at the end, you get 躊躇�
 
 I took a photo of the sign, and took out my kanji practice sheet as soon as I got home and resolved to learn these two. (I don't think I've really *learned* a kanji unless I know how to *write* it.)
 
-Learning Nihongo is a continous process.
+You learn little bits of Nihongo from the most mundane of places.

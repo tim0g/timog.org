@@ -19,6 +19,7 @@
 {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
 {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
 
+<figure>
 <img 
   {{ with .Get "sizes" }}sizes='{{.}}'{{ else }}sizes="(min-width: 35em) 800px, 100vw"{{ end }}
   srcset='
@@ -34,3 +35,4 @@
     src="{{ $src.RelPermalink }}" 
   {{ end }}
   {{ with .Get "alt" }}alt="{{.}}" loading="lazy"{{ else }}alt="" loading="lazy"{{ end }}>
+ </figure>
