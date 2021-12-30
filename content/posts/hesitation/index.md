@@ -1,6 +1,6 @@
 ---
 title: Hesitation
-date: 2021-12-28
+date: 2021-12-29
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
 description: Learned two new kanji at a laundry shop
