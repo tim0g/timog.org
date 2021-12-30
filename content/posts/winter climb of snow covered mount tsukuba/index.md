@@ -3,7 +3,7 @@ title: "Winter climb of snow-covered Mount Tsukuba"
 date: 2021-12-30
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
-description: Hiking Mount Tsukuba's little neighbor
+description: Climbing Mount Tsukuba in the winter, after a snowfall
 featured_image: "/winter-climb-of-snow-covered-mount-tsukuba/mount-tsukuba-winter-hike-snow-on-branches.jpg"
 content_type: blog
 categories:
@@ -37,7 +37,6 @@ I've climbed Mount Tsukuba countless times, but one of the most memorable was wh
 
 ![Mount Tsukuba winter hike: almost dark](mount-tsukuba-winter-hike-almost-dark.jpg "The last photo before heading back down. It was getting dark fast.")
 
-On our way down, with the sun fast setting, we met another couple on their way up from the cable car station. They seemed ill-prepared for the climb--they were wearing light clothing and the woman was on high-heels.
+On our way down, with the sun fast setting, we met another couple on their way up from the cable car station. I remember them clearly because they seemed ill-prepared for the climb--they were wearing light clothing and the woman was on high-heels.
 
-I always feel uneasy meeting people who seem not to take mountains seriously. I've climbed enough mountains to regard them with the respect they deserve and to know that climbing unprepared might easily end up in disaster, especially when climbing in cold weather.
-
+I always feel uneasy meeting people on the way up who seem not to take mountains seriously. I've climbed enough mountains to regard them with the respect they deserve and to know that climbing unprepared might easily end up in disaster, especially when climbing in cold weather.
