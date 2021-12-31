@@ -68,7 +68,7 @@ The [Japanese Alps](https://www.kamikochi.org/), containing the highest mountain
 
 ![Kiyozumi Temple, Kyoto](kiyozumi-temple-kyoto-japan.jpg "Kiyozumi Temple, Kyoto by [Su San Lee](https://unsplash.com/photos/E_eWwM29wfU)")
 
-The Kansai (関西) region includes the prefectures of Aichi, Fukui, Gifu, Ishikawa, Nagano, Niigata, Shizuoka, Toyama and Yamanashi, in the area that represents Old Japan.
+The Kansai (関西) region includes the prefectures of Hyōgo, Kyōto, Mie, Nara, Ōsaka, Shiga and Wakayama, in the area that represents Old Japan.
 
 Kansai literally means "West of the Barrier," the direct opposite of Kantō, and the two regions have a rivalry the goes back many centuries.
 
