@@ -68,11 +68,11 @@ The [Japanese Alps](https://www.kamikochi.org/), containing the highest mountain
 
 ![Kiyozumi Temple, Kyoto](kiyozumi-temple-kyoto-japan.jpg "Kiyozumi Temple, Kyoto by [Su San Lee](https://unsplash.com/photos/E_eWwM29wfU)")
 
-The Kansai (関西) region includes the prefectures of Hyōgo, Kyōto, Mie, Nara, Ōsaka, Shiga and Wakayama, in the area that represents Old Japan.
+The Kansai (関西) region includes the prefectures of Kyoto, Osaka, Hyogo, Nara, Wakayama, Mie, Shiga and Fukui, in the area that represents Old Japan.
 
 Kansai literally means "West of the Barrier," the direct opposite of Kantō, and the two regions have a rivalry the goes back many centuries.
 
-Another name for this region is [Kinki](https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E5%9C%B0%E6%96%B9) (近畿) and in fact its entry on the Japanese Wikipedia is named "Kinki" not "Kansai." This name has recently fallen out of favor in English because of its *quirky* connotations.
+Another name for this region is [Kinki](https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E5%9C%B0%E6%96%B9) (近畿) and in fact its entry on the Japanese Wikipedia is named "Kinki" not "Kansai." This name has recently fallen out of favor in English because of its, well, *kinky* connotations.
 
 [Kansai International Airport](https://www.kansai-airport.or.jp/en) in Ōsaka is serves the region.
 
@@ -94,7 +94,7 @@ The Shikoku (四国) (literally "Four Countries") Region groups the four prefect
 
 Shikoku is the smallest of the four main islands of Japan and it is also the smallest region in the country. Incidentally, it also has the smallest prefecture by land area in Japan: Kagawa.
 
-## Kyūshū (and Okinawa) Region
+## Kyūshū Region
 
 ![Kitakyushu, Fukuoka, Japan](kitakyushu-fukuoka-japan.jpg "Kitakyushu, Fukuoka by [JCS Chen](https://unsplash.com/photos/Y3dBDvv-2KU)")
 
@@ -113,7 +113,7 @@ So there you have it.
 
 The next time you hear on the news that a typhoon is approaching the Chūbu region of Japan, you know it will likely hit Nagoya in Aichi Prefecture. Or if someone tells you the most beautiful women in the country come from the Tōhoku area, you know that's nowhere near Saitama.
 
-## Regions of Japan quick facts
+## Regions of Japan in table
 
 <table class="orange-table">
     <thead>
