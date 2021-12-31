@@ -35,8 +35,8 @@ I've climbed Mount Tsukuba countless times, but one of the most memorable was wh
 
 ![Mount Tsukuba winter hike: communication towers in afternoon glow](mount-tsukuba-winter-hike-communication-towers.jpg "Communication towers on the other peak bathed in the glow of the setting sun.")
 
-![Mount Tsukuba winter hike: almost dark](mount-tsukuba-winter-hike-almost-dark.jpg "The last photo before heading back down. It was getting dark fast.")
+![Mount Tsukuba winter hike: almost dark](mount-tsukuba-winter-hike-almost-dark.jpg "One last photo before heading back down. It was getting dark fast.")
 
-On our way down, with the sun fast setting, we met another couple on their way up from the cable car station. I remember them clearly because they seemed ill-prepared for the climb--they were wearing light clothing and the woman was on high-heels.
+On our way down, with the sun fast sinking, we met another couple on their way up from the cable car station. I remember them clearly because they seemed ill-prepared for the climb--they were wearing light clothing and the woman was on high-heels.
 
 I always feel uneasy meeting people on the way up who seem not to take mountains seriously. I've climbed enough mountains to regard them with the respect they deserve and to know that climbing unprepared might easily end up in disaster, especially when climbing in cold weather.
