@@ -1,6 +1,6 @@
 ---
 title: What are the eight regions of Japan?
-date: 2021-12-30
+date: 2021-12-31
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
 description: Your know your prefecture, now learn your region
@@ -100,7 +100,7 @@ Shikoku is the smallest of the four main islands of Japan and it is also the sma
 
 Like Hokkaidō and Shikoku, the region of Kyūshū (九州) is named after the island of the same name, which literally means "Nine Countries."
 
-The Kyūshū Region traditinally includes the Okinawa archipelago, although some people treat Okinawa as a separate region.
+The Kyūshū Region traditionally includes the Okinawa archipelago, although some people treat Okinawa as separate.
 
 Without Okinawa, the prefectures of Kyūshū Region are Fukuoka, Kagoshima, Kumamoto,
 Miyazaki, Nagasaki, Ōita, Okinawa and Saga.
