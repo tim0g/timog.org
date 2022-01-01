@@ -15,7 +15,7 @@ tags:
 - hatsumode
 chōon: Ō ō Ū ū
 ---
-![Bonfire just below the summit](mount-tsukuba-new-year-climb-02.jpg "Giant bonfire just before the trail to the summit where people could warm themselves up before freezing at the top waiting for the sunrise.")
+![Bonfire just below the summit of Mount Tsukuba](mount-tsukuba-new-year-climb-02.jpg "A large bonfire just before the trail to the summit where people could warm themselves up.")
 
 Today being New Year's day, I thought I might post another memorable climb of Mount Tsukuba that I did with my friend Chelo some years back.
 
