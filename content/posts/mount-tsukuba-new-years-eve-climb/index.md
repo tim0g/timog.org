@@ -17,7 +17,7 @@ chōon: Ō ō Ū ū
 ---
 ![Bonfire just below the summit](mount-tsukuba-new-year-climb-02.jpg "Giant bonfire just before the trail to the summit where people could warm themselves up before freezing at the top waiting for the sunrise.")
 
-Being that it's New Year's day, I thought I might post another memorable climb of Mount Tsukuba that I did with my friend Chelo some years back.
+Today being New Year's day, I thought I might post another memorable climb of Mount Tsukuba that I did with my friend Chelo some years back.
 
 I had done the same night-climb "solo" a few years before this. One New Year's day around 2AM, I drove to the parking lot of Mount Tsukuba halfway to the top thinking what a lonely thing it would be climbing a mountain at that ungodly hour. I shouldn't have worried, because there were so many people there was a 30-minute traffic on the way to the parking lot.
 
