@@ -1,6 +1,6 @@
 ---
 title: Hatsumōde
-date: 2022-01-01
+date: 2022-01-01 01:00:00
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
 description: "Hatsumōde: the year's first visit to the shrine"
@@ -10,7 +10,9 @@ categories:
 - Japan
 - Culture
 tags:
-- 
+- hatsumode
+- jinja
+- otera
 chōon: Ō ō Ū ū
 ---
 ![Torii at Yasaka Jinja](torii-yasaka-jinja.jpg "Torii at Yasaka Jinja")
