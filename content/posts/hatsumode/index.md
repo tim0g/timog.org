@@ -23,7 +23,7 @@ Despite the sunny weather, it was freezing cold outside and the wind was literal
 
 At the shrine, we respectfully summoned the deities and prayed for a good year.
 
-Before we left, someone who looked like he was connected with the local residents' association offered us one *mikan* each, after we disinfect our hands with alcohol of course. And then we headed back home, before we freeze to death.
+Before we left, someone who looked like he was connected with the local residents' association offered us one *mikan* each, after we disinfect our hands with alcohol of course. And then we headed back home before we freeze to death.
 
 Let's hope 2022 will be a good year.
 
