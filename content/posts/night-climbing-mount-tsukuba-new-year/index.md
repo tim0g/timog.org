@@ -3,9 +3,9 @@ title: Night-climbing Mount Tsukuba on New Year's day
 date: 2022-01-01 02:00:00
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
-description: "Night-climbing Mount Tsukuba on New Year's day"
+description: "Climbing Mount Tsukuba before the sunrise on New Year's day"
 content_type: blog
-featured_image: "/mount-tsukuba-new-years-eve-climb/torii-yasaka-jinja.jpg"
+featured_image: "/mount-tsukuba-new-years-eve-climb/mount-tsukuba-new-year-climb-01.jpg"
 categories:
 - Hiking
 - Culture
