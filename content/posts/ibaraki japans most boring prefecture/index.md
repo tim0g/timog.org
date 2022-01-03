@@ -40,7 +40,7 @@ We also have train lines and an [airport](https://www.ibaraki-airport.net/en/), 
 
 Nevertheless, for some residents of Ibaraki, there's a certain charm and perverse sense of pride in consistently barrel-scraping this attractiveness ranking. In fact, in 2020 when it lost its crown to Tochigi, another consistently--if not overwhelmingly--boring prefecture to survey responders, there were expressions of alarm from its netizens that it was losing its whole raison-d'etre.
 
-Thankfully, in 2021 it made it back to the top (or the bottom depending on your point of view) where it belongs.
+Thankfully, in 2021 we made it back to the top (or the bottom depending on your point of view) where we belong.
 
 (Lastly, I have to ask, *what's there in Gunma*?)
 
@@ -112,7 +112,7 @@ It's remarkable that four prefectures of [Kantō Area](/what-are-the-eight-regio
 
 ## The most attractive prefectures in 2021
 
-On the other hand, the "most attractive" prefectures have name recognition the "least attractive" prefectures do not: Hokkaidō, Kyōto, Okinawa, Tokyo, Ōsaka and Kanagawa seem to have a lock on the top places.
+On the other hand, the "most attractive" prefectures have name recognition the "least attractive" ones do not: Hokkaidō, Kyōto, Okinawa, Tokyo, Ōsaka and Kanagawa seem to have a lock on the top places.
 
 <table class="orange-table">
 <tbody>
