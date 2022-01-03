@@ -8,7 +8,7 @@ content_type: blog
 featured_image: "/ibaraki-japans-most-boring-prefecture/mount-tsukuba-from-chikusei.jpg"
 categories:
 - Japan
-- Ranking
+- Geography
 tags:
 - Ibaraki
 - Tochigi
