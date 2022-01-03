@@ -28,21 +28,21 @@ Every year, Tokyo-based Brand Research Institute conducts an online survey to ga
 
 From 2009 to 2021, excluding brief spells in 2012 and 2020 when it slipped to 46th and 42nd respectively, Ibaraki has occupied the bottom of this attractiveness ranking (Japan has 47 prefectures).
 
-Based on this consistent performance, we can safely claim that Ibaraki is Japan's Most Boring Prefecture™, ever.
+Based on this consistently mediocre performance, we can safely claim that Ibaraki is Japan's Most Boring Prefecture™, ever.
 
-To celebrate regaining the crown in 2021, the prefectural government actually published a [booklet](https://www.pref.ibaraki.jp/eigyo/proteam/documents/miryokudosaikainosugoshikata-1004.pdf) (PDF 6MB) on their [website](https://www.pref.ibaraki.jp/eigyo/proteam/sugoshikata20211004.html) called “How to live with the bottom in the attractiveness ranking” (魅力度最下位の過ごし方).
+To celebrate regaining the crown in 2021, the prefectural government gamely published a [booklet](https://www.pref.ibaraki.jp/eigyo/proteam/documents/miryokudosaikainosugoshikata-1004.pdf) (PDF 6MB) on their [website](https://www.pref.ibaraki.jp/eigyo/proteam/sugoshikata20211004.html) called *How to Live with the Bottom in the Attractiveness Ranking* (魅力度最下位の過ごし方).
 
-Actually, being a long-time resident of Ibaraki, I don't believe it's boring here at all. We have [beaches](/oarai-beach-circa-2005/) and [mountains](/winter-climb-of-snow-covered-mount-tsukuba/), [museums](/kaoru-ueda-auguste-rodin-ossip-zadkine/) and parks, and [shrines](/hatsumode/) and [temples](/buddhist-temple-at-foot-of-mount-tsukuba/) just like everywhere else.
+Actually, as a long-time resident of Ibaraki, I don't believe it's boring here at all. We have [beaches](/oarai-beach-circa-2005/) and [mountains](/winter-climb-of-snow-covered-mount-tsukuba/), [museums](/kaoru-ueda-auguste-rodin-ossip-zadkine/) and parks, and [shrines](/hatsumode/) and [temples](/buddhist-temple-at-foot-of-mount-tsukuba/) just like everywhere else.
 
 We also have train lines and an [airport](https://www.ibaraki-airport.net/en/), the [Kashima Antlers](https://www.antlers.co.jp/en/), the [Ushiku Daibutsu](https://daibutu.net/), and the city of [Shimotsuma](https://www.city.shimotsuma.lg.jp/), setting of the movie Kamikaze Girls (下妻物語). What more could you ask for?
 
 (Michelin-starred restaurants is probably asking too much.)
 
-Nevertheless, for some residents of Ibaraki, there's a certain charm and perverse sense of pride in consistently barrel-scraping this attractiveness ranking. In fact, in 2020 when it lost its crown to Tochigi, another consistently--if not overwhelmingly--boring prefecture to survey responders, there were expressions of alarm from its netizens that it was losing its whole raison-d'etre.
+Nevertheless, for some residents of Ibaraki, there's a certain charm and curious sense of pride in consistently barrel-scraping this attractiveness ranking. In fact, in 2020 when it lost its crown to next-door neighbor Tochigi, another consistently--if not overwhelmingly--boring prefecture, there were expressions of alarm from its netizens that it was losing its whole raison-d'etre.
 
 Thankfully, in 2021 we made it back to the top (or the bottom depending on your point of view) where we belong.
 
-(Lastly, I have to ask, *what's there in Gunma*?)
+Incidentally, while Tochigi has [Nikkō](https://www.japan.travel/en/destinations/kanto/tochigi/nikko-area/), *what's there in Gunma*? Maybe I have to go and find out.
 
 ## The least attractive prefectures in 2021
 
