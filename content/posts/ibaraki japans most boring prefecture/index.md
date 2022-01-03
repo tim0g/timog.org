@@ -143,7 +143,7 @@ On the other hand, the "most attractive" prefectures have name recognition the "
 </tr>
 <tr>
 <td>5 (6)</td>
-<td>Osaka</td>
+<td>Ōsaka</td>
 
 </tr>
 <tr>
