@@ -216,6 +216,7 @@ table, th, td {
   border-collapse: collapse;
   padding: 0.2rem 0.5rem;
   margin: 0 0 2rem;
+  width: fit-content;
 }
 
 th {

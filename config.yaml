@@ -5,6 +5,7 @@ pygmentsCodeFences: false
 enableRobotsTXT: true
 theme: hugo-flex
 publishDir: public
+paginate: 5
 rssLimit: 10
 timeout: 60000
 summaryLength: 20

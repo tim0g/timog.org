@@ -3,6 +3,7 @@ title: Where do Filipinos in Japan live?
 author: Leon Timog
 author_url: "/profile/leon-timog"
 date: 2021-07-17 21:00:00
+lastmod: 2022-01-02
 description: Where do Filipinos in Japan live?
 content_type: blog
 featured_image: /where-do-filipinos-in-japan-live/filipinos-in-japan-by-prefecture-2019.png
@@ -20,7 +21,7 @@ The population of Filipinos in Japan is concentrated in metropolitan areas like 
 
 ### Filipinos in Japan by prefecture
 
-![Filipinos in Japan by prefecture](filipinos-in-japan-by-prefecture-2019.png "Filipinos in Japan by prefecture")
+<img src="/where-do-filipinos-in-japan-live/filipinos-in-japan-by-prefecture-2019.png" alt="Filipinos in Japan by prefecture">
 
 **Aichi** (capital Nagoya City) takes the number one spot for the prefecture with the largest population of Filipinos. This area in central Japan is a manufacturing powerhouse, number one in the country in shipment value of manufactured goods (2018).
 

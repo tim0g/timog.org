@@ -34,7 +34,7 @@ For people living in the Greater Tokyo Area, Chiba Prefecture (千葉県) is mos
 
 It borders Ibaraki Prefecture (茨城県) to the north by the Tone River and Saitama Prefecture (埼玉県) and Tokyo to the west by the smaller Edo River. That's as flat a boundary as you can get.
 
-It is also part of the great Kantō Plain, the widest flat land in the whole of Japan.
+It is also part of the great [Kantō Plane](/what-are-the-eight-regions-of-japan/#kantō-region), the widest flat land in the whole of Japan.
 
 {{< img src="chiba-prefecture-relief-map.jpg" alt="Chiba Prefecture relief map" >}}
 {{< caption >}}Relief map of Chiba Prefecture and surrounding areas of the Kantō region from [Google Maps](https://www.google.com/maps).{{< /caption >}}

@@ -3,7 +3,7 @@ title: "Filipinos in Japan: 2020 demographics"
 author: Leon Timog
 author_url: "/profile/leon-timog"
 date: 2021-07-17 20:00:00
-lastmod: 2021-12-11
+lastmod: 2022-01-02
 description: Demographics of Filipinos in Japan from the Immigration Services Agency
 content_type: blog
 featured_image: /filipinos-in-japan-2020-demographics/filipinos-in-japan-by-visa-status-of-residence-2019.png
@@ -27,7 +27,7 @@ According to the [latest figures](http://www.moj.go.jp/isa/policies/statistics/t
 
 #### The largest groups of foreign residents in Japan
 
-![Filipinos in Japan compared to other nationalities](filipinos-in-japan-compared-to-others-2020.png "Filipinos in Japan compared to other nationalities")
+<img src="/filipinos-in-japan-2020-demographics/filipinos-in-japan-compared-to-others-2020.png" alt="Filipinos in Japan compared to other nationalities">
 
 **China** and **South Korea**, partly due to their proximity and historical ties to Japan, have always been the largest groups of foreigners in the country.
 
@@ -39,7 +39,7 @@ As can be seen on the graph below, China has a significant lead over other forei
 
 #### Population of select groups of foreigners in Japan over time
 
-![Population of Filipinos in Japan over time](filipinos-in-japan-population-over-time.png "Population of Filipinos in Japan over time")
+<img src="/filipinos-in-japan-2020-demographics/filipinos-in-japan-population-over-time.png" alt="Population of Filipinos in Japan over time">
 
 Vietnam comes from out of nowhere in the middle of the last decade and overtakes Brazil (2016) and the Philippines (2017) and is on course to bump South Korea from second place if stays on its present trajectory.
 
@@ -53,7 +53,7 @@ Of the more than 280,000 Filipinos in Japan, almost half (131,000) are **permane
 
 #### The largest groups of Filipinos in Japan
 
-![Filipinos in Japan by visa](filipinos-in-japan-by-visa-status-of-residence-2019.png "Filipinos in Japan by visa")
+<img src="/filipinos-in-japan-2020-demographics/filipinos-in-japan-by-visa-status-of-residence-2019.png" alt="Filipinos in Japan by visa">
 
 **Long-term residents** (53,000), the second group, are overwhelmingly made up of *Nikkeijin*, descendants of Japanese who immigrated to the Philippines during the first half of the last century. A sizable portion of this group have become permanent residents.
 
@@ -71,7 +71,7 @@ In 2020, almost 30 percent of Japanese are aged 65 and above, and the rapidly ag
 
 Not surprisingly, of the 282,000 Filipinos in Japan, 237,000 or 84% are in prime working age from 21 to 60. The age groups of 21-30 (60,600), 31-40 (66,500), and 41-50 (64,100) share almost equal portions of the population pie, while the 51-60 bracket (45,800) is not so far behind.
 
-![Filipinos in Japan by age group](filipinos-in-japan-by-age-2020.png "Filipinos in Japan by age group")
+<img src="/filipinos-in-japan-2020-demographics/filipinos-in-japan-by-age-2020.png" alt="Filipinos in Japan by age group">
 
 ## Filipinos in Japan by gender
 
@@ -79,14 +79,15 @@ Not surprisingly, of the 282,000 Filipinos in Japan, 237,000 or 84% are in prime
 
 #### Filipinos in Japan by gender
 
-![Filipinos in Japan by gender](filipinos-in-japan-by-gender-2020.png "Filipinos in Japan by gender")
+<img src="/filipinos-in-japan-2020-demographics/filipinos-in-japan-by-gender-2020.png" alt="Filipinos in Japan by gender">
 
 Looking at the graph below, female and male residents are both equal in numbers up to 33 years old (female:male ratio of 1.05). From 34 years of age, we notice a significant change (1.15).
 
 By 37, there are more than 2 women for every 1 man; at 39 more than 3 women for every 1 man; at 41 more than 4 women for every 1 man, and so on, peaking at almost 11 women for every 1 man by the age of 52.
 
 #### Female-to-Male ratio of Filipinos in Japan by age
-![Female-to-Male ratio of Filipinos in Japan by age](filipinos-in-japan-gender-ratio-by-age.png "Female-to-Male ratio of Filipinos in Japan by age")
+
+<img src="/filipinos-in-japan-2020-demographics/filipinos-in-japan-gender-ratio-by-age.png" alt="Female-to-Male ratio of Filipinos in Japan by age">
 
 From there, the ratio falls as steeply as it climbed, down to 3.67 at 64 years. From this point the graph goes through several ups and downs and reaches another peak at age 80, when there are 8.5 women for every 1 man.
 
