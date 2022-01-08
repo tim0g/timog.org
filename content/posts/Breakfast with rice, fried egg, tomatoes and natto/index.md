@@ -1,5 +1,5 @@
 ---
-title: Breakfast with rice, friend egg, tomatoes and nattō
+title: Breakfast with rice, fried egg, tomatoes and nattō
 date: 2022-01-08
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
