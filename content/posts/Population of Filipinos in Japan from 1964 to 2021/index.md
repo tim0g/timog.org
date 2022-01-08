@@ -13,7 +13,7 @@ tags:
 - statistics
 chōon: Ō ō Ū ū
 ---
-![Filipino athletes in Tokyo, Japan](filipino-athletes-in-tokyo-japan.jpg "Filipino athletes in Tokyo, Japan for the 1930 Far Eastern Championship Games. Photo by [John Tewell](https://www.flickr.com/photos/johntewell/6518825007); photo info by [Paul Eric Darvin](https://www.flickr.com/photos/darvader78/).")
+![Filipino athletes in Tokyo, Japan](filipino-athletes-in-tokyo-japan.jpg "Filipino athletes in Tokyo, Japan for the 1930 Far Eastern Championship Games. US Library of Congress photo provided by [John Tewell](https://www.flickr.com/photos/johntewell/6518825007); photo info by [Paul Eric Darvin](https://www.flickr.com/photos/darvader78/).")
 
 Digging through the [numbers](https://www.moj.go.jp/isa/policies/statistics/toukei_ichiran_touroku.html) available from the [Immigration Services Agency](https://www.moj.go.jp/isa/), there are interesting insights we can learn about the rise of the Filipino population in Japan.
 
