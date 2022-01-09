@@ -29,8 +29,8 @@ The 80s is also the decade when female entertainers entered Japan in large numbe
 
 From the 80s, the Filipino population would increase until it surpassed 300,000 in 2018 and reached its greatest extent (329,465) in 2019, the year coronavirus was first detected in China and spread around the globe producing the ongoing Covid pandemic. By this time, technical intern trainees have surpassed entertainers as the main group of Filipinos entering Japan.
 
-In response to the pandemic, Japan closed its borders to most foreigners, including technical intern trainees. Most ttrainees return home after their contract expires in three years, which would explain the population decline in 2020 and 2021.
+In response to the pandemic, Japan closed its borders to most foreigners, including technical intern trainees. Most trainees return home after their contract expires in three years, which would explain the population decline in 2020 and 2021.
 
-In the short term, Filipino (and overall foreigner) numbers in Japan would largely depend on when (or whether) the global pandemic would be controlled, and in the long term, how many workers Japan needs to support its graying population.
+In the short term, Filipino (and overall foreigner) numbers in Japan would largely depend on when (or whether) the global pandemic could be controlled, and in the long term, how many workers Japan needs to support its graying population.
 
 ![Population of Filipinos in Japan from 1964 to 2021](population-filipinos-in-japan-1964-2021.png "Population of Filipinos in Japan from 1964 to 2021, with figures from the Immigration Services Agency of Japan.")
