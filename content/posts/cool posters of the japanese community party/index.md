@@ -16,13 +16,15 @@ chōon: Ō ō Ū ū
 ---
 ![Japanese Communist Party raised fist poster](japanese-communist-party-poster-raised-fist.jpg "Japanese Communist Party poster advocating compensation for people (and business establishments) exercising self-restraint regarding the Covid pandemic")
 
+Nice logo *kanji*, too.
+
 I'm no communist<span style="color:red">*</span> --I prefer European socialism with Japanese characteristics--but I must admit the [Japanese Communist Party](http://jcp.or.jp/) (JCP) has some really cool posters, especially when compared with the bland ones put out by the ruling parties.
 
 I've been wanting to take photos of these posters that I always see on the way to work but only recently have I been able to do so. Must of these posters can be [downloaded as PDFs](http://jcp.or.jp/web_download/cat/) from JCP's website, by the way.
 
 ![Japanese Communist Party poster collage](japanese-communist-party-poster-collage-s.jpg "Japanese Communist Party poster collage")
 
-Clockwise from upper-left: 1. Kazuo Shii, the face of the JCP; 2. “Don't turn off the lights of *izakaya*”; 3. “Scrap the Tōkai No.2 Power Station” (JCP is anti-nuclear energy); 4. “Let's protect Article 9”
+Clockwise from upper-left: 1. Kazuo Shii, the face of the JCP; 2. “Don't turn off the lights of *izakaya*”; 3. “Scrap the Tōkai No.2 Power Station” (JCP is anti-nuclear energy); 4. “Let's protect Article 9” (JCP advocates pacifism)
 
 The famous Article 9 of the Japanese Constitution states:
 
