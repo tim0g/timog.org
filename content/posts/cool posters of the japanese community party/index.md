@@ -18,7 +18,7 @@ chōon: Ō ō Ū ū
 
 Nice logo *kanji*, too.
 
-I'm no communist<span style="color:red">*</span> --I prefer European socialism with Japanese characteristics--but I must admit the [Japanese Communist Party](http://jcp.or.jp/) (JCP) has some really cool posters, especially when compared with the bland ones put out by the ruling parties.
+I'm no communist (but what does *not* [being a communist](https://sandratrappen.com/2013/10/09/fascism-communism-or-socialism/) even mean?)--I prefer European socialism with Japanese characteristics--but I must admit the [Japanese Communist Party](http://jcp.or.jp/) (JCP) has some really cool posters, especially when compared with the bland ones put out by the ruling parties.
 
 I've been wanting to take photos of these posters that I always see on the way to work but only recently have I been able to do so. Must of these posters can be [downloaded as PDFs](http://jcp.or.jp/web_download/cat/) from JCP's website, by the way.
 
@@ -33,7 +33,3 @@ The famous Article 9 of the Japanese Constitution states:
 >(2) In order to accomplish the aim of the preceding paragraph, land, sea, and air forces, as well as other war potential, will never be maintained. The right of belligerency of the state will not be recognized.
 
 Despite this, however, Japan actually maintains the world's 5th [most powerful military](https://www.newsweek.com/most-powerful-military-forces-world-america-china-russia-1621130).
-
-<hr>
-
-<span style="color:red">*</span>*But what does that even mean, actually? [Labeling people as communist](https://sandratrappen.com/2013/10/09/fascism-communism-or-socialism/), socialist or capitalist is as superficial as saying someone is "racist" or "anti-Semite." Most of the time, it serves no purpose than to denigrate without understanding others’ beliefs or shut down civil discourse by resorting to name-calling.*
