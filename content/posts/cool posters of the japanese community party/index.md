@@ -34,4 +34,4 @@ Despite this, however, Japan actually maintains the world's 5th [most powerful m
 
 <hr>
 
-<span style="color:red">*</span>*But what does that even mean? Labeling people as communist, socialist or capitalist is as superficial as saying someone is "racist" or "anti-Semite." Most of the time, it serves no purpose than to denigrate someone without really understanding their beliefs or shut down civil discourse by resorting to name-calling.*
+<span style="color:red">*</span>*But what does that even mean, actually? [Labeling people as communist](https://sandratrappen.com/2013/10/09/fascism-communism-or-socialism/), socialist or capitalist is as superficial as saying someone is "racist" or "anti-Semite." Most of the time, it serves no purpose than to denigrate without understanding others’ beliefs or shut down civil discourse by resorting to name-calling.*
