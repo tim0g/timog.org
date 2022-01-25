@@ -3,7 +3,7 @@ title: Breakfast with rice, fried egg, tomatoes and nattō
 date: 2022-01-08
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
-description: "Unusually heavy snow over Kantō area"
+description: "A normal Philippine breakfast except for the nattō"
 content_type: blog
 featured_image: "/breakfast-with-rice-fried-egg-tomatoes-and-natto/breakfast-rice-fried-egg-tomatoes-natto.jpg"
 categories:
