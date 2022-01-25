@@ -1,4 +1,4 @@
-Paid leave. Ang tawag dito sa Nihongo ay ang pinaikling yuukyuu (有休), o ang normal pero mas mahabang yuukyuu kyuuka (有給休暇), o ang pormal pero mas lalong mahaba pang nenji yuukyuu kyuuka (年次有給休暇 "yearly paid leave"). 
+Paid leave. Ang tawag dito sa Nihongo ay ang pinaikling yuukyuu (有休), galing sa mas mahabang yuukyuu kyuuka (<span style="color:red">有</span>給<span style="color:red">休<span>暇), o ang pormal pero mas lalong mahaba pang nenji yuukyuu kyuuka (年次有給休暇 "yearly paid leave"). 
 
 Marami tayong tanong tungkol sa paid leave. Kailan ba ako makakakuha ng paid leave? Ilang araw ba ang makukuha ko? Kailangan ba itong i-schedule?
 
@@ -6,9 +6,9 @@ Dito ay susubukan natin sagutin ang mga katanungan ninyo tungkol sa paid leave.
 
 ## Ano ba ang paid leave?
 
-Sa madaling salita, ito ang araw na nag-absent ang empleyado ng kumpanya sa trabaho na may suweldo pa ring matatanggap. Batas ito sa Japan upang makapag-pahinga nang mabuti ang mga empleyado mula sa trabaho.
+Sa madaling salita, ito ang araw na nag-absent ang empleyado ng kumpanya na may suweldo pa ring matatanggap. Batas ito sa Japan upang makapag-pahinga nang mabuti ang mga empleyado mula sa trabaho.
 
-## Makakatanggap ba ako ng paid leave?
+## Sino ang puwedeng makatanggap ng paid leave?
 
 Kung may 6 na buwan ka nang nagtatrabaho sa isang kumpanya at pumasok ka sa 80% ng lahat ng araw ng trabaho ay makakatanggap kang paid leave.
 
@@ -22,17 +22,17 @@ Tignan natin ang table sa ibaba para mas madaling maintindihan.
 
 
 | Tagal ng pagtatrabaho | Dami ng paid leave na matatanggap |
-| ----------------------| ------------------------------ |
-| 6 na buwan              | 10 araw |
-| 1 taon at 6 na buwan    | 11 araw |
-| 2 taon at 6 na buwan    | 12 araw |
-| 3 taon at 6 na buwan    | 14 araw |
-| 4 na taon at 6 na buwan | 16 araw |
-| 5 taon at 6 na buwan    | 18 araw |
-| 6 na taon at 6 na buwan | 20 araw |
-| 7 taon at 6 na buwan    | 20 araw |
-| 8 taon at 6 na buwan    | 20 araw |
-| 9 na taon at 6 na buwan | 20 araw |
+|-----------------------|-----------------------------------|
+| 6 months             | 10 days |
+| 1 year and 6 months  | 11 araw |
+| 2 years and 6 months | 12 araw |
+| 3 years and 6 months | 14 araw |
+| 4 years and 6 months | 16 araw |
+| 5 years and 6 months | 18 araw |
+| 6 years and 6 months | 20 araw |
+| 7 years and 6 months | 20 araw |
+| 8 years and 6 months | 20 araw |
+| 9 years and 6 months | 20 araw |
 
 Mapapansing sa table sa itaas na walang binibigay na 13, 15, 17 o 19 na araw, at hindi na lalampas sa 20 araw ang dagdag sa paid leave kahit na gaano ka katagal na nagtatrabaho sa isang kumpanya.
 
