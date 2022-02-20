@@ -23,7 +23,7 @@ So opens *The Gangster*, one of the many fascinating stories of ordinary people 
 
 During one of the most exhausting period at my job a few weeks ago, I managed take a small break to stop by a nearby Book-Off and went home with this little gem of a book. And what do you know--it's about the stories of residents of Tsuchiura, Ibaraki Prefecture, next-door neighbor of Tsukuba where I live and just five minutes away by car.
 
-I have never read a more fascinating book about Japan.
+I have never read a more engrossing book about Japan.
 
 The book's author, Junichi Saga, is a doctor who shares his father's passion of recreating how Tsuchiura, his birthplace, looked and how its residents lived during the early decades of the 20th century. But while the older Saga did it with his paintings, the doctor did so through his countless interviews with people who actually lived in the area during those times.
 
