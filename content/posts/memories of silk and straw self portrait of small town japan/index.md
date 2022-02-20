@@ -35,7 +35,7 @@ Saga writes in the Introduction:
 
 Indeed, besides the fact that the stories happened not far from where I am living now, the thing that fascinates me about this book is that I have also experienced living in a small town (in the Philippines) when I was young. So the stories these elderly people narrate are both familiar and easily relatable, although separated from my own experiences by spans of time and culture.
 
-The stories in the book can sometimes be brutally shocking, like this passage:
+The stories in the book can sometimes be brutally shocking, like this passage from *The Village Blacksmith*:
 
 >Because everyone was so hard up around here, "thinning out" the newborn was quite widely practiced. The number of children killed just depended, I'm told, on how strict the local policeman was. The situation was so bad that the number of kids in each grade of the primary school varied a good deal, depending on who'd been the local constable at the time they were born.
 
@@ -45,7 +45,7 @@ The stories in the book can sometimes be brutally shocking, like this passage:
 
 There are many stories of grinding poverty, like one related in *The Midwife*:
 
->I remember one house I went to in Tsuchiura to deliver a baby where they had no *tatami* at all and the woman was lying on an old straw mat spread out on the bare wood floor. They didn't even have a bucket or washtub I could use. "What to you normally do your washing in?" I asked, and the husband told me they used an old fish tub they'd been given. "Well, I suppose we'll just have to make do with that. Wash the tub out thoroughly with hot water. Then boil up fresh water and pour it it." While they were doing this, the baby was born and the poor thing had to have its first bath in a fish tub; we then had to wrap it up in rags because that was all they could find for it to wear.
+>I remember one house I went to in Tsuchiura to deliver a baby where they had no *tatami* at all and the woman was lying on an old straw mat spread out on the bare wood floor. They didn't even have a bucket or washtub I could use. "What to you normally do your washing in?" I asked, and the husband told me they used an old fish tub they'd been given. "Well, I suppose we'll just have to make do with that. Wash the tub out thoroughly with hot water. Then boil up fresh water and pour it in." While they were doing this, the baby was born and the poor thing had to have its first bath in a fish tub; we then had to wrap it up in rags because that was all they could find for it to wear.
 
 But through adversities big and small, the narrators themselves are the living proof of their endless will to survive and even thrive.
 
