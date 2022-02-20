@@ -29,11 +29,11 @@ The book's author, Junichi Saga, is a doctor who shares his father's passion of 
 
 Saga writes in the Introduction:
 
->Every day, after finishing work in my clinic, I would go out on foot around town visiting one elderly person after another, a portable tape recorder in my medical bag. The people I talked to came from all walks of life: day laborers, tradesmen, farmers, fishermen, *yakuza* (gansters), and geisha. Both in their attitudes and in the experiences they had undergone, they provided the sole surviving links with the feudal period which ended with the overthrow of the last shogun in 1868.
+>Every day, after finishing work in my clinic, I would go out on foot around town visiting one elderly person after another, a portable tape recorder in my medical bag. The people I talked to came from all walks of life: day laborers, tradesmen, farmers, fishermen, *yakuza* (gangsters), and geisha. Both in their attitudes and in the experiences they had undergone, they provided the sole surviving links with the feudal period which ended with the overthrow of the last shogun in 1868.
 
 >Only forty or fifty years ago, poverty was a real and widespread fact of life here. In the memories of the old people in this book lies the story of the hardships Japan had to go through to reach its present position as an economic superpower. But amid all the poverty and unhappiness of those days, there also existed a strange kind of serenity which today seems to have been lost entirely.
 
-Indeed, besides the fact that the stories happened not far from where I am living now, the thing that fascinates me about this book is that I have also experienced living in a small town (in the Philippines) when I was young. So the stories these elderly people narrate are both familiar and easily relatable, although separated from my own experiences by spans of time and culture.
+Indeed, besides the fact that the stories happened not far from where I am living now, the thing that fascinates me about this book is that I have also experienced living in a small town (in the Philippines) when I was young and also enjoyed listening to stories of older people about times long past. So the stories in this book are both familiar and easily relatable, although separated from my own experiences by spans of time and culture.
 
 The stories in the book can sometimes be brutally shocking, like this passage from *The Village Blacksmith*:
 
