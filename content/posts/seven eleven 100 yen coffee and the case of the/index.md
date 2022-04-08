@@ -18,19 +18,19 @@ chōon: Ō ō Ū ū
 
 Seven Eleven's coffee is not bad--not to mention cheap and convenient--and I usually go there when I need to get my caffeine fix. I prefer their 120-yen Kilimanjaro blend which I always drink black, but for some reason some stores don't have it, and even stores which offer it don't always have it throughout the year.
 
-But the regular coffee is just 100 yen, including the 8% tax. You hand over your 100-yen coin and get your cup. When you  buy two, you pay two 100-yen coins and get your two cups. There's no change so it's fast and convenient (it's even more convenient if you use Eddy card or some other electronic money).
+But the regular coffee is just 100 yen, including the 8% tax. You hand over your 100-yen coin and get your cup. Or pay two 100-yen coins and get your two cups. It's simple--there's no change so it's fast and convenient (it's even more convenient if you use Eddy card or some other electronic money).
 
 But there's that one time when I bought three cups and got confused as hell.
 
-About a year ago, just before entering the Ken-Ō Expressway in Hachiōji in Tokyo, we stopped by a store and I went in and bought three cups. I gave the cashier a 1,000-yen bill, got my change and went out.
+Some time ago, just before entering the Ken-Ō Expressway in Hachiōji in Tokyo, we stopped by a store and I went in and bought three cups. I gave the cashier a 1,000-yen bill, got my change and went out.
 
-It wasn't until I was handing out the cups outside when I realised there was something not quite right about the change. Because 3 cups was 300 yen, I was supposed to get 500-yen and 100-yen coins in change, nothing else. But what I got instead was a combination of 500-, 100-, 50-, 10-, 5- and 1-yen coins.
+It wasn't until I was handing out the cups outside to my friends when I realised there was something not quite right about the change. Because 3 cups was 300 yen, I was supposed to get 500-yen and 100-yen coins in change, nothing else. But what I got instead was a combination of 500-, 100-, 50-, 10-, 5- and 1-yen coins.
 
 Something's not right.
 
 I handed back the receipt to the cashier (I didn't even check it first) and asked him to check if it was correct. He took a look at it, told me that yes, it looks right, handed it back, and preceeded to attend to another customer waiting in line.
 
-I'm not one to argue over loose change, so I just threw away the receipt and drank my coffee outside with my friends. But I was still confused as ever. How did that happen?
+I'm not one to argue over loose change, so I just threw away the receipt and went outside to drink my coffee. But I was still confused as ever. How did that happen?
 
 I processed the whole thing in my head, between sips of cheap, freshly brewed 7-11 regular coffee.
 
@@ -49,7 +49,7 @@ Now the problem lies in thinking that the price of the coffee is 100 yen. It's n
 | 5    | 93 x 5 = 465| 37.20  | 502.20 | 502          |
 
 
-So there you go, 3 cups is not 300 yen afterall; it's 300 plus 1 yen, and that explains the bunch of coins I got from the cashier.
+So there you go, 3 cups is not 300 yen after all; it's 300 plus 1 yen, and that explains the bunch of coins I got from the cashier.
 
 Conventional wisdom says that buying more should cost less per unit, but in this case it's the opposite: the more you buy, the higher it goes.
 
