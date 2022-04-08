@@ -18,18 +18,18 @@ tags:
 - Yamanote Line
 chōon: Ō ō Ū ū
 ---
-See the related [How to renew your Philippine passport in Japan (Tokyo)](https://timog.org/how-to-renew-philippine-passport-in-japan-tokyo/).
+Related: [How to renew your Philippine passport in Japan (Tokyo)](https://timog.org/how-to-renew-philippine-passport-in-japan-tokyo/)
 
 1. Get on the train at Tsuchiura or Arakawaoki Station (Jōban Line) going to Ueno or Shinagawa; or Tsukuba Station (Tsukuba Express Line) going to Akihabara.
-2. Get off at Kitasenju Station.
+2. Get off at Kitasenjū Station.
 3. Ride the train on the Hibiya Line going to Nakameguro Station.
 4. Get off at Roppongi Station and out through the No.3 exit.
 5. Walk to the Philippine Embassy (Consular Section).
 
-![Jōban Line or the Tsukuba Express Line to Hibiya Line](joban-tsukuba-express-hibiya-yamanote-line-to-philippine-embassy-tokyo.png "From either Jōban or Tsukuba Express Line, get off at Kitasenju and change to the Hibiya Line going to Nakameguro.")
+![Jōban Line or the Tsukuba Express Line to Hibiya Line](joban-tsukuba-express-hibiya-yamanote-line-to-philippine-embassy-tokyo.png "From either Jōban or Tsukuba Express Line, get off at Kitasenjū and change to the Hibiya Line going to Nakameguro.")
 
 1. Sumakay sa tren sa Tsuchiura o Arakawaoki Station (Jōban Line) papuntang Ueno o Shinagawa; o sa Tsukuba Station (Tsukuba Express Line) papuntang Akihabara.
-2. Bumaba sa Kitasenju Station.
+2. Bumaba sa Kitasenjū Station.
 3. Sumakay sa tren sa Hibiya Line papuntang Nakameguro Station.
 4. Bumaba sa Roppongi Station at lumabas mula sa No.3 exit.
 5. Maglakad papunta sa Philippine Embassy (Consular Section).
