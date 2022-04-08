@@ -5,7 +5,7 @@ author: "Leon Timog"
 author_url: "/profile/leon-timog"
 description: "How to go to Philippine Embassy in Tokyo from Tsuchiura or Tsukuba using the Jōban Line or the Tsukuba Express Line"
 content_type: blog
-featured_image: "/joban-tsukuba-express-hibiya-yamanote-line-to-philippine-embassy-tokyo.png"
+featured_image: "/joban-tsukuba-express-hibiya-yamanote-line-philippine-embassy-tokyo.png"
 categories:
 - Passport
 - Places
@@ -26,7 +26,7 @@ Related: [How to renew your Philippine passport in Japan (Tokyo)](https://timog.
 4. Get off at Roppongi Station and out through the No.3 exit.
 5. Walk to the Philippine Embassy (Consular Section).
 
-![Jōban Line or the Tsukuba Express Line to Hibiya Line](joban-tsukuba-express-hibiya-yamanote-line-to-philippine-embassy-tokyo.png "From either Jōban or Tsukuba Express Line, get off at Kitasenjū and change to the Hibiya Line going to Nakameguro.")
+![Jōban Line or the Tsukuba Express Line to Hibiya Line](joban-tsukuba-express-hibiya-yamanote-line-philippine-embassy-tokyo.png "From either Jōban or Tsukuba Express Line, get off at Kitasenjū and change to the Hibiya Line going to Nakameguro.")
 
 1. Sumakay sa tren sa Tsuchiura o Arakawaoki Station (Jōban Line) papuntang Ueno o Shinagawa; o sa Tsukuba Station (Tsukuba Express Line) papuntang Akihabara.
 2. Bumaba sa Kitasenjū Station.
