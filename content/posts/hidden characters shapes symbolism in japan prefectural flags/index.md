@@ -20,7 +20,9 @@ I recently collected all the prefectural flags of Japan for a project, and here 
 
 Most are formed by stylized hiragana and katakana (and even kanji) and shapes of prominent geographical features and symbols, which may not be obvious on first observation. 
 
-Embarrassingly, I didn't even realise until recently that the emblem of [Ibaraki](#ibaraki-茨城) (where I live) is a stylized rose bud. Besides Ibaraki, my other favorites are [Fukuoka](#fukuoka-福岡), [Hokkaidō](#hokkaidō-北海道), [Kyōto](#kyōto-京都), [Nagasaki](#nagasaki-長崎), [Saga](#saga-佐賀), and [Shizuoka](#shizuoka-静岡).
+Embarrassingly, I didn't even realise until recently that the emblem of [Ibaraki](#ibaraki-茨城) (where I live) is a stylized rose bud.
+
+I like simple, uncluttered design. Besides Ibaraki, my other favorites are [Fukuoka](#fukuoka-福岡), [Hokkaidō](#hokkaidō-北海道), [Kyōto](#kyōto-京都), [Nagasaki](#nagasaki-長崎), [Saga](#saga-佐賀), and [Shizuoka](#shizuoka-静岡).
 
 ## Aichi 愛知
 Aichi's flag combines あ (a), い (i), and　ち (chi) to form a design representing the overseas development of the prefecture facing the Pacific Ocean and the hopeful Rising Sun Wave Crest.
