@@ -1,9 +1,9 @@
 ---
-title: Hidden letters, shapes and symbolism in Japan's prefectural flags
+title: Hidden characters, shapes and symbolism in Japan's prefectural flags
 date: 2022-04-17 01:00:00
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
-description: "Hidden letters, shapes and symbolism in Japan's prefectural flags"
+description: "Hidden characters, shapes and symbolism in Japan's prefectural flags"
 content_type: blog
 featured_image: "/prefectural-flags-of-japan.png"
 categories:
