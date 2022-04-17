@@ -12,7 +12,7 @@ categories:
 tags:
 - flags
 - Japan
-chōon: Ō ō Ū ū
+chōon: Ō ō Ū ū ’
 ---
 ![Prefectural flags of Japan collage](prefectural-flags-of-japan.png "Prefectural flags of Japan by [The_Irish_Jet](https://www.reddit.com/r/vexillology/comments/i7qqpl/flags_of_all_japanese_prefectures/).")
 
@@ -92,7 +92,7 @@ The red of the star symbolizes the indomitable spirit of the people, the white r
 ![Hokkaidō prefecture flag](hokkaido-prefecture-flag.png "Hokkaidō prefectural flag")
 
 ## Hyōgo 兵庫
-Hyōgo's prefectural flag features a stylized 兵 in the shape of a wave, symbolizing the prefectures position between the Sea of Japan in the north and the Seto Inland Sea in the south. The cerulean blue represents youth while the white expresses brightness and honesty.
+Hyōgo's prefectural flag features a stylized 兵 in the shape of a wave, symbolizing the prefecture's position between the Sea of Japan in the north and the Seto Inland Sea in the south. The cerulean blue represents youth while the white expresses brightness and honesty.
 
 ![Hyōgo prefecture flag](hyogo-prefecture-flag.png "Hyōgo prefectural flag")
 
@@ -123,7 +123,7 @@ Olive is the prefectural tree and has been cultivated in the prefecture for over
 
 ## Kagoshima 鹿児島
 
-The design is a highly stylized redition of the prefecture's Satsuma and Ōsumi Peninsula and the part where Shibushi Bay is located is dented. The active volcano Sakurajima, symbol of the prefecture, is represented by the red circle in the middle.
+The design is a highly stylized rendition of the prefecture's Satsuma and Ōsumi Peninsula and the part where Shibushi Bay is located is dented. The active volcano Sakurajima, symbol of the prefecture, is represented by the red circle in the middle.
 
 ![Kagoshima prefecture flag](kagoshima-prefecture-flag.png "Kagoshima prefectural flag")
 
@@ -165,7 +165,7 @@ Miyazaki's flag features its symbols: nature (green) and the sun (yellow). At th
 ![Miyazaki prefecture flag](miyazaki-prefecture-flag.png "Miyazaki prefectural flag")
 
 ## Nagano 長野
-The katakana ナ (na) is stylized into a bird in flight inside a circle, where the shape of a mountain is reflected like on a lake. The design imagines the progress and development of the prefecture through its nature, and the citizens' friendship and unity.
+The katakana ナ (na) is stylized into a bird in flight inside a circle, where the shape of a mountain is reflected like on a lake. The design imagines the progress and development of the prefecture through its nature, and the citizen’ friendship and unity.
 
 ![Nagano prefecture flag](nagano-prefecture-flag.png "Nagano prefectural flag")
 
@@ -216,7 +216,7 @@ In Shiga's flag, the katakana シ (shi) and ガ (ga) are imaginatively combined 
 ![Shiga prefecture flag](shiga-prefecture-flag.png "Shiga prefectural flag")
 
 ## Shimane 島根
-Four (read as "shi") stylized katakana マ (ma) are arranged in a cloud-shaped circle to represent the citizens' unity and the prefecture's harmonious development and progress.
+Four (read as "shi") stylized katakana マ (ma) are arranged in a cloud-shaped circle to represent the citizens’ unity and the prefecture's harmonious development and progress.
 
 ![Shimane prefecture flag](shimane-prefecture-flag.png "Shimane prefectural flag")
 
@@ -273,7 +273,7 @@ Yamaguchi prefecure's 山 (mountain) and 口 (mouth) are designed into a cycle t
 
 ## Yamanashi 山梨
 
-Yamanashi's flag combines three kanji 人 (meaning "person") to form a 山 (meaning "mountain"),expressing harmony and cooperation of its citizens, enclosed by the image of Mount Fuji, which lies on Yamanashi's border with Shizuoka.
+Yamanashi's flag combines three kanji 人 (meaning "person") to form a 山 (meaning "mountain"), expressing harmony and cooperation of its citizens, enclosed by the image of Mount Fuji, which lies on Yamanashi's border with Shizuoka.
 
 The design is based on the familiy crest of the Takeda clan, who ruled the Kii Province (the old Yamanashi). 
 
