@@ -41,7 +41,7 @@ Akita's flag shows the topographic contour of the prefecture--the green color re
 ![Aomori prefecture flag](aomori-prefecture-flag.png "Aomori prefectural flag")
 
 ## Chiba 千葉
-Chiba's emblem, the oldest of all prefectural emblems, is a combination of katakana チ and ハ to form the shape of nanohana, the prefectural flower. The blue backgruond represents hope and development.
+[Chiba](https://timog.org/japan-flattest-prefecture/)'s emblem, the oldest of all prefectural emblems, is a combination of katakana チ and ハ to form the shape of *[nanohana](https://en.wikipedia.org/wiki/Nanohana)*, the prefectural flower. The blue background represents hope and development.
 
 ![Chiba prefecture flag](chiba-prefecture-flag.png "Chiba prefectural flag")
 
@@ -98,7 +98,7 @@ Hyōgo's prefectural flag features a stylized 兵 in the shape of a wave, symbol
 
 ## Ibaraki 茨城
 
-Ibaraki's flag, created by famed illustrator Kazumasa Nagai, shows a stylized rose bud, the prefectural flower. The swirls of the rose suggest advancement, creativity, dynamics and development.
+[Ibaraki](https://timog.org/ibaraki-japans-most-boring-prefecture/)'s flag, created by famed illustrator Kazumasa Nagai, shows a stylized rose bud, the prefectural flower. The swirls of the rose suggest advancement, creativity, dynamics and development.
 
 ![Ibaraki prefecture flag](ibaraki-prefecture-flag.png "Ibaraki prefectural flag")
 
