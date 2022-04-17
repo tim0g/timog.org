@@ -18,11 +18,11 @@ chōon: Ō ō Ū ū ’
 
 I recently collected all the prefectural flags of Japan for a project, and here they are below in rasterized form, alphabetically arranged.
 
-Most are formed by stylized hiragana and katakana (and even kanji) and shapes of prominent geographical features and symbols, which may not be obvious on first observation. 
+Most are formed by stylized hiragana and katakana (and even kanji and alphabet) and shapes of prominent geographical features and symbols, which may not be obvious on first observation. 
 
-Embarrassingly, I didn't even realise until recently that the emblem of [Ibaraki](#ibaraki-茨城) (where I live) is a stylized rose bud.
+Embarrassingly, I didn't even realise until recently that the emblem of [Ibaraki](#ibaraki-茨城) (where I live) is a stylized rose bud. I have often wondered how it came to be and now I know.
 
-I like simple, uncluttered design. Besides Ibaraki, my other favorites are [Fukuoka](#fukuoka-福岡), [Hokkaidō](#hokkaidō-北海道), [Kyōto](#kyōto-京都), [Nagasaki](#nagasaki-長崎), [Saga](#saga-佐賀), and [Shizuoka](#shizuoka-静岡).
+I like simple, uncluttered design, like Ibaraki's rose emblem. Besides that, my other favorites are [Fukuoka](#fukuoka-福岡), [Hokkaidō](#hokkaidō-北海道), [Kyōto](#kyōto-京都), [Nagasaki](#nagasaki-長崎), [Saga](#saga-佐賀), and [Shizuoka](#shizuoka-静岡).
 
 ## Aichi 愛知
 Aichi's flag combines あ (a), い (i), and　ち (chi) to form a design representing the overseas development of the prefecture facing the Pacific Ocean and the hopeful Rising Sun Wave Crest.
@@ -170,7 +170,7 @@ The katakana ナ (na) is stylized into a bird in flight inside a circle, where t
 ![Nagano prefecture flag](nagano-prefecture-flag.png "Nagano prefectural flag")
 
 ## Nagasaki 長崎
-One of the only two prefectures to feature an alphabet on its flag, Nagasaki's international outlook is represented by a stylized N transformed into a dove, symbol of peace, the light blue color suggesting the bright sea and sky.
+One of the only three prefectures to feature an alphabet on its flag, Nagasaki's international outlook is represented by a stylized N transformed into a dove, symbol of peace, the light blue color suggesting the bright sea and sky.
 
 ![Nagasaki prefecture flag](nagasaki-prefecture-flag.png "Nagasaki prefectural flag")
 
@@ -194,6 +194,12 @@ Niigata's emblem in its flag is formed by a stylized kanji 新 at its upper-midd
 The kanji 岡 is transformed into a circle design, representing the unity of its citizens and the progress and development of the prefecture.
 
 ![Okayama prefecture flag](okayama-prefecture-flag.png "Okayama prefectural flag")
+
+## Okinawa 沖縄
+
+The prefectural emblem consists of three circles. The outermost red circle represents the sea around Okinawa, the white circle inside is the alphabet "O" for Okinawa and the "circle of people" (suggesting peace and harmony), and the innermost red circle represents the prefecture's potential for development.
+
+![Okinawa prefecture flag](okinawa-prefecture-flag.png "Okinawa prefectural flag")
 
 ## Ōsaka 大阪
 Ōsaka's emblem is said to have its roots in Toyotomi Hideyoshi's battle standard, the Sennari gourd. The three branched O's (from Ōsaka) represent hope, prosperity and harmony.
