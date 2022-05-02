@@ -8,6 +8,7 @@ content_type: blog
 featured_image: "/lagevrio-mo​lnupiravir-covid-treatment-drug.jpg"
 categories:
 - Slice of Life
+- Covid
 tags:
 - coronavirus
 - Covid
