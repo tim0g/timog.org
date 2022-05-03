@@ -20,7 +20,7 @@ So my luck ran out, and even our [coronavirus omamori](https://timog.org/our-hom
 
 Besides the usual medicines for cough and fever, I got this bottle of Lagevrio ラゲブリオ (generic name: molnupiravir), an experimental treatment of mild to moderate Covid for adults (18 years and older). Apparently, Lagevrio is the first oral antiviral drug against Covid-19, first approved in the UK.
 
-One bottle contains forty 200mg-capsules of molnopiravir that should be taken for 5 days, 4 capsules per doze, twice a day, separated by more than 8 (although most websites say "12") hours of interval.
+This one bottle contains forty 200mg-capsules of molnopiravir that should be taken for 5 days (no more no less), 4 capsules per doze, twice a day, separated by more than 8 (although most websites say "12") hours of interval.
 
 On its label is a notice that Lagevrio is a *specially approved medicine* (特例承認医薬品) in Japan, approved by the relevant government ministry by relaxing the usual requirements for drug approval.
 
@@ -30,4 +30,4 @@ According to [Kotobank](https://kotobank.jp/word/%E7%89%B9%E4%BE%8B%E6%89%BF%E8%
 
 >In January 2010, the regulation was applied for the first time, for the special approval of imported vaccine for novel influenza.
 
-Lagevrio should not be taken by people less than 18 years of age, pregnant women, or those who have serious liver disease. It may also induce a number of uncommon side effects like diarrhea, dizziness, headache, skin rash, nausea, redness of skin and vomiting.
+Lagevrio, I was told, should not be taken by people less than 18 years of age, pregnant women, or those who have serious liver disease. It may also induce a number of uncommon side effects like diarrhea, dizziness, headache, skin rash, nausea, redness of skin and vomiting, all of which did not occur to me.
