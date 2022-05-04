@@ -5,7 +5,7 @@ author: "Leon Timog"
 author_url: "/profile/leon-timog"
 description: "Macrophotography with iPhone"
 content_type: blog
-featured_image: "/apple-iphone-macro--jirasak-panpiansin.jpg"
+featured_image: "/apple-iphone-macro-jirasak-panpiansin.jpg"
 categories:
 - Tech
 tags:
@@ -13,7 +13,7 @@ tags:
 - iphone
 chōon: Ō ō Ū ū ’
 ---
-![“Hidden Gem” by Jirasak Panpiansin (@joez19). Shot on iPhone 13 Pro Max.](apple-iphone-macro--jirasak-panpiansin.jpg "“Hidden Gem” (water bead in leaf) by Jirasak Panpiansin (@joez19). Shot on iPhone 13 Pro Max.")
+![“Hidden Gem” by Jirasak Panpiansin (@joez19). Shot on iPhone 13 Pro Max.](apple-iphone-macro-jirasak-panpiansin.jpg "“Hidden Gem” (water bead in leaf) by Jirasak Panpiansin (@joez19). Shot on iPhone 13 Pro Max.")
 
 I have had a number of SLR macro lenses from Contax, Tamron and Olympus throughout the years but doing macrophotography with something like my current iPhone SE is a little tricky, if not impossible.
 
