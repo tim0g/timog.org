@@ -12,7 +12,7 @@ tags:
 - birdwatching
 chōon: Ō ō Ū ū ’
 ---
-![The great white egret](egret-wading-bird.jpg "The great white egret by [TheOtherKev](https://pixabay.com/photos/great-white-egret-wading-bird-4778216/)")
+![Little egret](egret-wading-bird-green.jpg "Little egret by [OrnaW](https://pixabay.com/photos/bird-little-egret-wildlife-nature-4052359/)")
 
 Hindi ko dati maintindihan ang gawaing ito. Hindi man lang bird photography. Okay, nakakita ka ng ibon. E ano ngayon?
 
@@ -26,7 +26,7 @@ Nakakatuwang pagmasdan ang mga ibon sa palayan habang nanghuhuli sila ng pagkain
 
 (Hindi yata aabot ang [70-200/f2.8](https://www.nikonusa.com/en/Nikon-Products/Product/Camera-Lenses/AF-S-NIKKOR-70-200mm-f%252F2.8G-ED-VR-II.html) dahil mailap ang mga ibon at biglang lilipad kapag napansin ka).
 
-![Little egret](egret-wading-bird-green.jpg "Little egret by [OrnaW](https://pixabay.com/photos/bird-little-egret-wildlife-nature-4052359/)")
+![The great white egret](egret-wading-bird.jpg "The great white egret by [TheOtherKev](https://pixabay.com/photos/great-white-egret-wading-bird-4778216/)")
 
 Pero naisip ko rin na magiging kumplikado ang isang simpleng hobby na kagaya ng birdwatching--bukod pa sa mamahal (ang isang disenteng lens para sa birdwatching ay hindi siguro bababa sa 100,000 yen).
 
@@ -40,12 +40,12 @@ Wala akong nakitang tagak na nakahuli ng palaka, puro maliliit na isda na parang
 
 ![Little egret catches fish](egret-wading-bird-with-fish.jpg "Little egret catches fish by [andreiprodan_](https://pixabay.com/photos/little-egret-bird-fish-swamp-lake-5812215/)")
 
-Pero mapunta tayo sa original na tanong: e ano ngayon?
+Pero mapunta tayo sa original na tanong: e ano ngayon? Ano ang maganda sa birdwatching?
 
 Una, kahit na anong outdoor activity ay maganda para sa ating mental at physical health, kaysa nasa bahay lang tayo naglalaro ng video games o nanunood ng Netflix o nakaharap sa computer.
 
 Pangalawa, bihira na tayong makakita ng mga wild animals sa kanilang natural habitat at ang birdwatching ay isang activity na hindi kailangan ng maraming pera para obserbahan ang mga hayop na ito. Ang totoo ay natutuwa ako at lalakad lang ako ng ilang metro sa labas ng bahay ay magagawa ko na ito.
 
-Pangatlo, sa ganitong activity ay nagkakaroon (ulit) tayo ng koneksyon sa kalikasan at nagiging mas aware sa kahalagahan ng nito sa ating buhay--kaya kailangan natin itong pangalagaan.
+Pangatlo, sa ganitong activity ay nagkakaroon (ulit) tayo ng koneksyon sa kalikasan at nagiging mas aware tayo sa kahalagahan nito sa ating buhay--kaya siyempre kailangan natin itong pangalagaan.
 
 Importante ito lalo na ngayong maraming uri ng hayop at halaman ang tuluyan nang namamatay dahil sa pagkawasak ng kanilang tirahan--bukod pa sa tuloy-tuloy na pag-init ng mundo dahil sa gawain ng mga tao.
