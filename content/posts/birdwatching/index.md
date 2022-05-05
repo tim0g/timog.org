@@ -26,7 +26,7 @@ Nakakatuwang pagmasdan ang mga ibon sa palayan habang nanghuhuli sila ng pagkain
 
 (Hindi yata aabot ang [70-200/f2.8](https://www.nikonusa.com/en/Nikon-Products/Product/Camera-Lenses/AF-S-NIKKOR-70-200mm-f%252F2.8G-ED-VR-II.html) dahil mailap ang mga ibon at biglang lilipad kapag napansin ka).
 
-![The great white egret](egret-wading-bird.jpg "The great white egret by [TheOtherKev](https://pixabay.com/photos/great-white-egret-wading-bird-4778216/)")
+![Common crow hunting](common-crow-hunting.jpg "Common crow hunting by [jggrz](https://pixabay.com/photos/crow-carrion-crow-park-lake-bird-7145673/)")
 
 Pero naisip ko rin na magiging kumplikado ang isang simpleng hobby na kagaya ng birdwatching--bukod pa sa mamahal (ang isang disenteng lens para sa birdwatching ay hindi siguro bababa sa 100,000 yen).
 
