@@ -1,5 +1,5 @@
 ---
-title: "The Way of the Tank: Girls und Panzer Original Soundtrack"
+title: "The Way of the Tank: Girls und Panzer Original Soundtrack!"
 date: 2022-05-04 04:00:00
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
@@ -21,16 +21,41 @@ Seriously, *kawaii* high school girls practicing *senshadō*, the way of the tan
 
 In our house, we have no less than four 2-CD albums of the original soundtrack of Girls und Panzer and although I haven't heard all 8 CDs, I very much enjoy the Girls und Panzer der Film soundtrack, playing it almost nonstop lately (it's Golden Week and I'm holed up inside the house with Covid), marching music interspersed with quiet melodies, much like in the film.
 
+![Girls und Panzer der Film Original Soundtrack back](girls-und-panzer-der-film-ost-cd-back.jpg "Girls und Panzer der Film Original Soundtrack CD back.")
+
 What I like is the unbridled energy and enthusiasm of these battle-hardened girls, as these song titles show, all punctuated by exclamation marks:
 
-- Enter Enter MISSIONです！
-- 少しだけ疲れちゃいました！
-- みんなの想いはひとつです！
-- なんとなくの日常です！
-- 準備は怠りません！
-- ジェロニモです！
-
-![Girls und Panzer der Film Original Soundtrack back](girls-und-panzer-der-film-ost-cd-back.jpg "Girls und Panzer der Film Original Soundtrack CD back.")
+1. 劇場版・戦車道行進曲！パンツァーフォー！ The Way of the Tank March! Panzer vor!
+2. Enter Enter MISSIONです！
+3. 劇場版・大洗女子学園チーム前進します！ Ōarai Girls Academy Team forward!
+4. 大洗・知波単連合チームで勝利を目指します！ Unified Ōarai/Chibatan Team aims for victory!
+5. 知波単学園、戦車前進！ Chibatan Academy, tanks forward!
+6. 孤高の戦車乗りです！ Unusual tank-riding!
+7. 島田流です！ Shimada School!
+8. 夕暮れです！ It's evening!
+9. 少しだけ疲れちゃいました！ We're a little bit tired!
+10. みんなの想いはひとつです！ Our heart is one!
+11. なんとなくの日常です！ 
+12. 準備は怠りません！ We don't neglect our preparations!
+13. 西住流です！ Nishizumi School!
+14. Ⅱ号戦車が好きです！ We like the Panzerkampfwagen II!
+15. 会長もたまには働きます！ Even the director has to work too sometimes!
+16. 希望の光は絶対に消えません！ The light of hope will never be extinguished!
+17. 学園十色です！ Gakuen Toiro!
+18. アンコウ干しいもハマグリ作戦です！ Anglerfish-Dried Sweet Potato-Clam strategy!
+19. まるで西部戦線みたいだと優花里さんが言ってます！ Yukari-san says it looks almost like the northern front!
+20. ジェロニモです！ Geronimo desu!
+21. 待ち伏せします！ We lie in ambush!
+22. 知波単、新たなる戦いです！ Chibatan, this is a new fight!
+23. 好敵手です！ A worthy opponent!
+24. 長距離砲です！ Long-range gun!
+25. 挟まりそうです！ We're gonna get crushed!
+26. 無双です！ We're peerless!
+27. 決断します！ We'll make a decision!
+28. 劇場版・緊迫する戦況です！ It's a tense battle situation!
+29. 冷静に落ち着いて！ Calm down!
+30. ヴォイテク！ Wojtek!
+31. 劇場版・乙女のたしなみ戦車道マーチ！ 
 
 ![Four Girls und Panzer original soundtrack CDs](girls-und-panzer-ost-4-cd.jpg "Four Girls und Panzer original soundtrack CDs: Girls und Panzer der Film, Girls un Panzer Herbst Musikfest 2015, Girls und Panzer das Finale, Girls und Panzer.")
 

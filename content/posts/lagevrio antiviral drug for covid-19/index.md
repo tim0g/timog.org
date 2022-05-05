@@ -30,4 +30,4 @@ According to [Kotobank](https://kotobank.jp/word/%E7%89%B9%E4%BE%8B%E6%89%BF%E8%
 
 >In January 2010, the regulation was applied for the first time, for the special approval of imported vaccine for novel influenza.
 
-Lagevrio, I was told, should not be taken by people less than 18 years of age, pregnant women, or those who have serious liver disease. It may also induce a number of uncommon side effects like diarrhea, dizziness, headache, skin rash, nausea, redness of skin and vomiting--none of which happened to me.
+Lagevrio, I was told, should not be taken by people less than 18 years of age, pregnant women, or those who have serious liver disease. It may also induce a number of uncommon side effects like diarrhea, dizziness, headache, skin rash, nausea, redness of skin and vomiting--none of which happened to mew.
