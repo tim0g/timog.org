@@ -36,7 +36,7 @@ Nung maliit ako natutuwa akong panoorin ang lolo kong ekspertong gumawa ng malal
 
 Parang ganoon siguro ang tuwa kapag pinapanuod ang mga ibon habang palakad-lakad at nanghuhuli ng maliliit na isda (tagak) at mga ulang (uwak) o nagmumumog lang ng putik (itik).
 
-Wala akong nakitang tagak na nakahuli ng palaka, puro maliliit na isda na parang hito. Yung mga uwak naman ay sa paghuli ng ulang eskperto, binabali nila yung sipit bago bago kainin ang malambot na parte ng katawan.
+Wala akong nakitang tagak na nakahuli ng palaka, puro maliliit na isda na parang hito. Yung mga uwak naman ay sa paghuli ng ulang eskperto, binabali nila yung sipit bago kainin ang malambot na parte ng katawan sa may tiyan.
 
 ![Little egret catches fish](egret-wading-bird-with-fish.jpg "Little egret catches fish by [andreiprodan_](https://pixabay.com/photos/little-egret-bird-fish-swamp-lake-5812215/)")
 
