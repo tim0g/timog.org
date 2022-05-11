@@ -26,8 +26,6 @@ Taking photos with this set-up is simple: I set the iPhone's camera to half-way 
 
 Here are some photos that I took using this smartphone-loupe combination.
 
-![Macrophotoraphy with iPhone SE and Nikon Pro-Loupe](iphone-se-nikon-loupe-macrophotogaphy-01.jpg "[3,024 x 3,024 pixel version](/macrophotography-with-iphone-se-and-nikon-pro-loupe/iphone-se-nikon-loupe-macrophotogaphy-hi-res-01.jpg)")
-
 ![Macrophotoraphy with iPhone SE and Nikon Pro-Loupe](iphone-se-nikon-loupe-macrophotogaphy-07.jpg "[3,024 x 3,024 pixel version](/macrophotography-with-iphone-se-and-nikon-pro-loupe/iphone-se-nikon-loupe-macrophotogaphy-hi-res-07.jpg)")
 
 ![Macrophotoraphy with iPhone SE and Nikon Pro-Loupe](iphone-se-nikon-loupe-macrophotogaphy-05.jpg "[3,024 x 3,024 pixel version](/macrophotography-with-iphone-se-and-nikon-pro-loupe/iphone-se-nikon-loupe-macrophotogaphy-hi-res-05.jpg)")
