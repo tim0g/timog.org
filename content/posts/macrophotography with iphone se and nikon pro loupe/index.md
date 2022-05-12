@@ -1,9 +1,9 @@
 ---
-title: "Macrophotography with iPhone SE and Nikon Pro-Loupe"
+title: "Macro photography with iPhone SE and Nikon Pro-Loupe"
 date: 2022-05-11 00:00:00
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
-description: "Macrophotography with iPhone SE and Nikon Pro-Loupe"
+description: "Macro photography with iPhone SE and Nikon Pro-Loupe"
 content_type: blog
 featured_image: "/iphone-se-nikon-loupe-macrophotogaphy-04.jpg"
 categories:

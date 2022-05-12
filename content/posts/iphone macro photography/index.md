@@ -1,9 +1,9 @@
 ---
-title: Macrophotography with iPhone
+title: Macro photography with iPhone
 date: 2022-05-03 03:00:00
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
-description: "Macrophotography with iPhone"
+description: "Macro photography with iPhone"
 content_type: blog
 featured_image: "/apple-iphone-macro-jirasak-panpiansin.jpg"
 categories:
