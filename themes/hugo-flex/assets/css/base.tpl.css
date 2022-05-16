@@ -436,3 +436,22 @@ small {
   top: 0.15rem;
   position: relative;
 }
+
+.kanji-g1 {
+    padding: 0;
+    border: 10px solid #ec5cad;
+    border-radius: 15px;
+    margin: 0 15px 0 0;
+}
+
+.kanji-head {
+  display: flex;
+  margin: 30px 0;
+}
+
+.kanji-info {
+}
+
+.kanji-meaning {
+  font-weight: 700;
+}
