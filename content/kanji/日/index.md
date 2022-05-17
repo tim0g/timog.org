@@ -13,7 +13,7 @@ tags:
 chōon: "Ō ō Ū ū ’"
 ---
 <span class="kanji-head">
-<img class="kanji-g1" alt="山" src="日.png" width="150px" height="150px">
+<img class="kanji-g1" alt="山" src="日.gif" width="150px" height="150px">
 
 <table class="kanji-info"><tr>
     <td class="kanji-meaning">ARAW, JAPAN, LINGGO</td>
