@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {font-size: 2.8rem; line-height: 1.15; padding: 0 0 5px 0;}
 h2 {font-size: 1.63rem; line-height: 1.2; color:#000}
 h3 {font-size: 1.47rem; line-height: 1.2; color:#000}
-h4 {font-size: 1.26rem; line-height: 1.4; margin: 0 0 .3rem;}
+h4 {font-size: 1.26rem; line-height: 1.4; margin: 0 0 .3rem; font-weight: 400;}
 
 @media screen and (max-width:600px){
   h1 {font-size:28px; padding: 0;} 
@@ -435,14 +435,15 @@ small {
   position: relative;
 }
 
-.kanji-g1 {
+.kanji {
     padding: 0;
-    border: 10px solid #ec5cad;
+    border: 10px solid #5cbdec;
     border-radius: 15px;
     margin: 0 15px 0 0;
+	float: left;
 }
 
-#compounds, #kun, #mnemonic, #special-readings, #origin {
+#compounds, #kun, #mnemonic, #special-reading, #special-readings, #origin, #related {
   padding: 3px 10px;
   background-color: mistyrose;
   display: table;
@@ -452,4 +453,5 @@ small {
 ul {
   list-style: none;
   margin: 0 0 1rem;
+  padding: 0 0 0 1.5rem;
 }
