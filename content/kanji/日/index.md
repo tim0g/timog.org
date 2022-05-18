@@ -28,21 +28,21 @@ Ang tawag sa 1,026 na kanji na pinag-aaralan mula Grade 1 hanggange Grade 6 ay K
 
 ### COMPOUNDS
 
-#### ❶ **ARAW**, mga **ARAW** ng buwan
+#### ● **ARAW**, mga **ARAW** ng buwan
   - [一](https://timog.org/kanji/一)[月](https://timog.org/kanji/月)[一](https://timog.org/kanji/一)[五](https://timog.org/kanji/五)[日](https://timog.org/kanji/日)　***ichigatsu jūgonichi***　Enero 15
   - [日](https://timog.org/kanji/日)[夜](https://timog.org/kanji/夜)　***nichiya***　araw at gabi
   - [日](https://timog.org/kanji/日)[中](https://timog.org/kanji/中)　***nitchū***　sa araw
   - [九](https://timog.org/kanji/九)[月](https://timog.org/kanji/月)[四](https://timog.org/kanji/四)[日](https://timog.org/kanji/日)　***kugatsu yokka***　Setyembre 4
 
-#### ❷ **ARAW** (bituin)
+#### ● **ARAW** (bituin)
   - [日](https://timog.org/kanji/日)[食](https://timog.org/kanji/食)　***nisshoku***　solar eclipse
   - [日](https://timog.org/kanji/日)[光](https://timog.org/kanji/光)　***nikkō***　liwanag ng araw
 
-#### ❸ **ARAW** ng Linggo
+#### ● **ARAW** ng Linggo
   - [日](https://timog.org/kanji/日)[曜](https://timog.org/kanji/曜)[日](https://timog.org/kanji/日)　***nichiyōbi***　Linggo
   - [土](https://timog.org/kanji/土)[日](https://timog.org/kanji/日)　***donichi***　Sabado at Linggo
 
-#### ❹ **JAPAN**
+#### ● **JAPAN**
   - [日](https://timog.org/kanji/日)[本](https://timog.org/kanji/本)　***nihon (nippon)***　Japan
   - [日](https://timog.org/kanji/日)[米](https://timog.org/kanji/米)　***nichibei***　Japan at Amerika
   - [日](https://timog.org/kanji/日)[銀](https://timog.org/kanji/銀)　***nichigin***　Bank of Japan
