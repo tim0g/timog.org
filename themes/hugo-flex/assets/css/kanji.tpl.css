@@ -443,7 +443,7 @@ small {
 	float: left;
 }
 
-#compounds, #kun, #mnemonic, #special-reading, #special-readings, #origin, #related {
+#reading, #frequency--reading, #compounds, #meaning--compounds, #kun, #mnemonic, #special-reading, #special-readings, #origin, #related, #pagbasa, #kahulugan {
   padding: 3px 10px;
   background-color: mistyrose;
   display: table;
@@ -454,4 +454,12 @@ ul {
   list-style: none;
   margin: 0 0 1rem;
   padding: 0 0 0 1.5rem;
+}
+
+.kanji-footer {
+  background-color: #f1f9ff;
+  margin: 3rem 0 0;
+  padding: .5rem;
+  font-size: .9rem;
+  border-radius: 5px;
 }
