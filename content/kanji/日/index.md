@@ -5,7 +5,7 @@ author:
 author_url:
 description: 
 content_type: kanji
-featured_image:
+featured_image: 
 categories:
 - 日
 - hi
@@ -20,40 +20,46 @@ tags:
 - 
 chōon: "Ō ō Ū ū ’"
 ---
-<img class="kanji-g1" alt="日" src="日.gif" width="150px" height="150px">
+<img class="kanji-g1" alt="日 kanji" src="日.gif" width="150px" height="150px">
 
 Ang pag-aaral ng kanji ay ginagawa simula sa Grade 1 sa mga paaralan sa Japan.
 
 Ang tawag sa 1,026 na kanji na pinag-aaralan mula Grade 1 hanggange Grade 6 ay Kyōiku Kanji 教育漢字 (Education Kanji) at subset ito ng mas maraming (2,136) Joyo Kanji 常陽漢字 (Regular-use Kanji).
 
-## COMPOUNDS
+### COMPOUNDS
 
-#### ❶ **ARAW** (hindi gabi), mga **ARAW** ng buwan
-  - 1月15日　***ichigatsu jūgonichi*** January 15
-  - 日夜　***nichiya***　araw at gabi
-  - 日中　***nitchū***　sa araw
-  - 12月4日　***jūnigatsu yokka***　December 4
+#### ❶ **ARAW**, mga **ARAW** ng buwan
+  - [一](https://timog.org/kanji/一)[月](https://timog.org/kanji/月)[一](https://timog.org/kanji/一)[五](https://timog.org/kanji/五)[日](https://timog.org/kanji/日)　***ichigatsu jūgonichi***　Enero 15
+  - [日](https://timog.org/kanji/日)[夜](https://timog.org/kanji/夜)　***nichiya***　araw at gabi
+  - [日](https://timog.org/kanji/日)[中](https://timog.org/kanji/中)　***nitchū***　sa araw
+  - [九](https://timog.org/kanji/九)[月](https://timog.org/kanji/月)[四](https://timog.org/kanji/四)[日](https://timog.org/kanji/日)　***kugatsu yokka***　Setyembre 4
 
 #### ❷ **ARAW** (bituin)
-  - 日食　***nisshoku***　solar eclipse
-  - 日光　***nikkō***　liwanag ng araw
+  - [日](https://timog.org/kanji/日)[食](https://timog.org/kanji/食)　***nisshoku***　solar eclipse
+  - [日](https://timog.org/kanji/日)[光](https://timog.org/kanji/光)　***nikkō***　liwanag ng araw
 
 #### ❸ **ARAW** ng Linggo
-  - 日曜日　***nichiyōbi***　Linggo
-  - 土日　***donichi***　Sabado at Linggo
+  - [日](https://timog.org/kanji/日)[曜](https://timog.org/kanji/曜)[日](https://timog.org/kanji/日)　***nichiyōbi***　Linggo
+  - [土](https://timog.org/kanji/土)[日](https://timog.org/kanji/日)　***donichi***　Sabado at Linggo
 
 #### ❹ **JAPAN**
-  - 日本　***nihon (nippon)***　Japan
-  - 日米　***nichibei***　Japan at Amerika
-  - 日銀　***nichigin***　Bank of Japan
+  - [日](https://timog.org/kanji/日)[本](https://timog.org/kanji/本)　***nihon (nippon)***　Japan
+  - [日](https://timog.org/kanji/日)[米](https://timog.org/kanji/米)　***nichibei***　Japan at Amerika
+  - [日](https://timog.org/kanji/日)[銀](https://timog.org/kanji/銀)　***nichigin***　Bank of Japan
   
-## MNEMONIC
+### SPECIAL READINGS
+  - [今](https://timog.org/kanji/今)[日](https://timog.org/kanji/日)　***kyō***　ngayong araw
+  - [明](https://timog.org/kanji/明)[日](https://timog.org/kanji/日)　***ashita***　bukas
+  - [昨](https://timog.org/kanji/昨)[日](https://timog.org/kanji/日)　***kinō***　kahapon
+  - [一](https://timog.org/kanji/一)[日](https://timog.org/kanji/日)　***tsuitachi***　unang araw ng buwan
+  
+### MNEMONIC
 
 Para sa maraming tao, ang kanji ng 日 ay mukhang bintana, kaya ang pangsaulo nito ay:
 
 >Araw sa may bintana.
 
-## ORIGIN
+### ORIGIN
 
 Sinaunang hugis ng 日:
 

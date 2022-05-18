@@ -455,3 +455,10 @@ small {
 .kanji-meaning {
   font-weight: 700;
 }
+
+#compounds, #kun, #mnemonic, #special-readings, #origin {
+  padding: 3px 10px;
+  background-color: mistyrose;
+  display: table;
+  border-radius: 5px;
+}
