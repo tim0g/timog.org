@@ -443,7 +443,7 @@ small {
   	float: left;
 }
 
-#reading, #readings, #compounds, #meaning, #kun, #mnemonic, #special-reading, #special-readings, #origin, #related, #related-kanji, #pagbasa, #kahulugan {
+#reading, #readings, #compounds, #meaning, #kun, #mnemonic, #special-reading, #special-readings, #origin, #related, #related-kanji, #pagbasa, #kahulugan, #additional-info {
   padding: 3px 10px;
   background-color: mistyrose;
   display: table;

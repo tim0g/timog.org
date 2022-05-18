@@ -16,7 +16,7 @@ tags:
 - JITSU
 - hi
 - ka
-attribution: "Kanji GIF animations from [Kanji.gif](https://github.com/jcsirot/kanji.gif) by Jean-Christophe Sirot, originally from the [KanjiVG](https://kanjivg.tagaini.net/) project by Ulrich Apel. Kanji illustrations from [Wiktionary](https://en.wiktionary.org/wiki/日). All under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license. Edit this page at [Github](https://github.com/tim0g/tim/blob/main/content/kanji/character/日/index.md)."
+attribution: "Kanji GIF animations from [Kanji.gif](https://github.com/jcsirot/kanji.gif) by Jean-Christophe Sirot, originally from the [KanjiVG](https://kanjivg.tagaini.net/) project by Ulrich Apel. Kanji illustrations from [Wiktionary](https://en.wiktionary.org/). All under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license. Edit this page at [Github](https://github.com/tim0g/tim/blob/main/content/kanji/character/日/index.md)."
 chōon: "Ō ō Ū ū ’"
 ---
 <img class="kanji" alt="日 kanji" src="日.gif" width="150px" height="150px">
@@ -69,11 +69,22 @@ Ang pinakamadalas na ginagamit na kanji, ang 日 ay "araw" ang ibig sabihin. Ito
   - [昨](https://timog.org/kanji/昨)[日](https://timog.org/kanji/日)　***kinō***　kahapon
   - [一](https://timog.org/kanji/一)[日](https://timog.org/kanji/日)　***tsuitachi***　unang araw ng buwan
   
-### MNEMONIC
+### ADDITIONAL INFO
 
-Para sa maraming tao, ang kanji ng 日 ay mukhang bintana, kaya ang pangsaulo nito ay:
-
->May araw sa labas ng bintana.
+Special reading ng mga araw ng buwan:
+  - [一](https://timog.org/kanji/一)[日](https://timog.org/kanji/日)　***tsuitachi***　ika-1
+  - [二](https://timog.org/kanji/二)[日](https://timog.org/kanji/日)　***futsuka***　ika-2
+  - [三](https://timog.org/kanji/三)[日](https://timog.org/kanji/日)　***mikka***　ika-3
+  - [四](https://timog.org/kanji/四)[日](https://timog.org/kanji/日)　***yokka***　ika-4
+  - [五](https://timog.org/kanji/五)[日](https://timog.org/kanji/日)　***itsuka***　ika-5
+  - [六](https://timog.org/kanji/六)[日](https://timog.org/kanji/日)　***muika***　ika-6
+  - [七](https://timog.org/kanji/七)[日](https://timog.org/kanji/日)　***nanoka***　ika-7
+  - [八](https://timog.org/kanji/八)[日](https://timog.org/kanji/日)　***yōka***　ika-8
+  - [九](https://timog.org/kanji/九)[日](https://timog.org/kanji/日)　***kokonoka***　ika-9
+  - [十](https://timog.org/kanji/十)[日](https://timog.org/kanji/日)　***tōka***　ika-10
+  - [十](https://timog.org/kanji/十)[四](https://timog.org/kanji/四)[日](https://timog.org/kanji/日)　***jūyokka***　ika-14
+  - [二](https://timog.org/kanji/二)[十](https://timog.org/kanji/十)[日](https://timog.org/kanji/日)　***hatsuka***　ika-20
+  - [二](https://timog.org/kanji/二)[十](https://timog.org/kanji/十)[四](https://timog.org/kanji/四)[日](https://timog.org/kanji/日)　***nijūyokka***　ika-24
 
 ### ORIGIN
 
