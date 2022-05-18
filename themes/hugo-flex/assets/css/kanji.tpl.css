@@ -440,10 +440,10 @@ small {
     border: 10px solid #5cbdec;
     border-radius: 15px;
     margin: 0 15px 0 0;
-	float: left;
+  	float: left;
 }
 
-#reading, #frequency--reading, #compounds, #meaning--compounds, #kun, #mnemonic, #special-reading, #special-readings, #origin, #related, #pagbasa, #kahulugan {
+#reading, #readings, #compounds, #meaning, #kun, #mnemonic, #special-reading, #special-readings, #origin, #related, #related-kanji, #pagbasa, #kahulugan {
   padding: 3px 10px;
   background-color: mistyrose;
   display: table;
@@ -462,4 +462,18 @@ ul {
   padding: .5rem;
   font-size: .9rem;
   border-radius: 5px;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  float: left;
+  margin: 0 15px 0 0;
+}
+
+.text-block {
+  position: absolute;
+  bottom: -20px;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }

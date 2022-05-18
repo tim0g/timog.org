@@ -5,6 +5,7 @@
                 {{ range (.GetTerms "categories") }}<span class="article-category"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></span>
                 {{ end }}
                 {{ end }}
+{{ with .Params.frequency }}<span class="article-category"><a href="http://timog.org/kanji/frequency/">{{ . }}</a></span>{{ end }}
   <h1 class="Heading-title"><span itemprop="name">{{ .Title | markdownify }}</span>
   </h1><span class="postmeta">{{ .Params.author }}{{ if .PublishDate }}, {{ end }}
   {{ with .PublishDate | default nil }}

@@ -4,12 +4,13 @@ description: 日 kanji
 content_type: kanji
 featured_image:
 weight: 1
+frequency: Freq1
 categories:
 - 日
 - 4-Strokes
-- Grade-1
+- Grade1
 - Jōyō
-- JLPT-N4
+- N4
 tags:
 - NICHI
 - JITSU
@@ -22,11 +23,11 @@ chōon: "Ō ō Ū ū ’"
 
 Ang pinakamadalas na ginagamit na kanji, ang 日 ay "araw" ang ibig sabihin. Ito ang unang kanji sa 日本 (Japan). Ito rin ang ginagamit para sa mga araw sa petsa, kagaya ng 2011年3月11日 (March 11, 2011).
 
-### FREQUENCY & READING
+### READINGS
 
-- [FREQ:1](https://timog.org/kanji/frequency) [NICHI](https://timog.org/tags/nichi) [JITSU](https://timog.org/tags/jitsu) [hi](https://timog.org/tags/hi) [ka](https://timog.org/tags/ka)
+- [NICHI](https://timog.org/tags/nichi) [JITSU](https://timog.org/tags/jitsu) [hi](https://timog.org/tags/hi) [ka](https://timog.org/tags/ka)
 
-### MEANING & COMPOUNDS
+### MEANING
 
 #### ➊ **ARAW** (ng isang buwan)
   - [一](https://timog.org/kanji/一)[日](https://timog.org/kanji/日)　***ichinichi***　isang araw
@@ -80,8 +81,8 @@ Sinaunang hugis ng 日:
 
 <img src="60px-日-bronze.svg.png"><img src="60px-日-oracle.svg.png">
 
-### RELATED
+### RELATED KANJI
 
 - Mga araw ng linggo: [月](https://timog.org/kanji/月) [火](https://timog.org/kanji/火) [水](https://timog.org/kanji/水) [木](https://timog.org/kanji/木) [金](https://timog.org/kanji/金) [土](https://timog.org/kanji/土)
-- Magkatulad ang hitsura: [白](https://timog.org/kanji/白) [百](https://timog.org/kanji/百) [旧](https://timog.org/kanji/旧)
+- Magkatulad ng hitsura: [白](https://timog.org/kanji/白) [百](https://timog.org/kanji/百) [旧](https://timog.org/kanji/旧)
 - Magkatulad ng ibig sabihin: [陽](https://timog.org/kanji/陽)
