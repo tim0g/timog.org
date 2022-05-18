@@ -21,9 +21,13 @@ chōon: "Ō ō Ū ū ’"
 ---
 <img class="kanji" alt="日 kanji" src="日.gif" width="150px" height="150px">
 
-Ang pinakamadalas na ginagamit na kanji, ang 日 ay "araw" ang ibig sabihin. Ito ang unang kanji sa 日本 (Japan). Ito rin ang ginagamit para sa mga araw sa petsa, kagaya ng 2011年3月11日 (March 11, 2011).
+Ang unang kanji ng 日本 (Japan) at ginagamit sa pagsusulat ng araw sa petsa, ito ang pinakamadalas na gamiting kanji sa lahat.
 
-### READINGS
+May nagsasabi na kamukha daw ito ng bintana 🪟, pero huwag itong isulat na tuwid na tuwid na kagaya ng isang bintana. Isulat ito nang medyo nabingi ang mga pahalang na linya, parang bintana na natabingi ng lindol.
+
+Mnemonic: "Ang araw ay makikita sa labas ng bintana."
+
+### ON-KUN READINGS
 
 - [NICHI](https://timog.org/tags/nichi) [JITSU](https://timog.org/tags/jitsu) [hi](https://timog.org/tags/hi) [ka](https://timog.org/tags/ka)
 
