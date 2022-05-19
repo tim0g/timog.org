@@ -18,6 +18,17 @@ outputs:
   section:
   - HTML
 
+taxonomies:
+  category: categories
+  tag: tags
+  kanji-radical: kanji-radical
+  kanji-grade: kanji-grade
+  kanji-strokes: kanji-strokes
+  kanji-class: kanji-class
+  kanji-reading: kanji-reading
+  kanji-meaning: kanji-meaning
+  kanji-jlpt: kanji-jlpt
+
 permalinks:
   posts: /:filename/
   pages: /page/:filename/

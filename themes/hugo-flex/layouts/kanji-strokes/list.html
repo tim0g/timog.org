@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+  {{ partial "heading-single.html" . }}
+
+  {{ .Content }}
+
+    <ul>
+      {{ range .Pages.ByWeight }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Title | markdownify }} {{ .Param "kanji-meaning" }}</a>
+        </li>
+      {{ end }}
+    </ul>
+
+
+{{ end }}

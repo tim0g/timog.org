@@ -3,8 +3,7 @@
   <article>
     {{ partial "heading-single-kanji.html" . }}
     {{ .Content }}
-    {{ partial "tags.html" . }}<div class="kanji-footer">{{ with .Params.attribution }}{{ . | markdownify }}{{ end }}</div>
-    {{ partial "comments.html" . }}
+    {{ partial "edit_this_page.html" . }}
   </article>
 
 {{ end }}

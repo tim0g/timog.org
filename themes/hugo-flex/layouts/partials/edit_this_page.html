@@ -1,0 +1,7 @@
+ <div class="kanji-footer">Kanji GIF animations from <a href="https://github.com/jcsirot/kanji.gif">Kanji.gif</a> by Jean-Christophe Sirot and the <a href="https://kanjivg.tagaini.net/">KanjiVG</a> project by Ulrich Apel. Kanji illustrations from <a href="https://en.wiktionary.org/">Wiktionary</a>. All under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> license.
+{{ if $.Site.Params.editURL }}
+  {{- $filepath := replace .File.Path "\\" "/" -}}
+  {{- $url := printf "%s/%s" $.Site.Params.editURL $filepath -}}
+  <a href="{{ $url }}">Edit this page at Github.</a>
+{{- end }}
+</div>
