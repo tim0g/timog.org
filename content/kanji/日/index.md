@@ -19,15 +19,15 @@ tags:
 attribution: "Kanji GIF animations from [Kanji.gif](https://github.com/jcsirot/kanji.gif) by Jean-Christophe Sirot, originally from the [KanjiVG](https://kanjivg.tagaini.net/) project by Ulrich Apel. Kanji illustrations from [Wiktionary](https://en.wiktionary.org/). All under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license. Edit this page at [Github](https://github.com/tim0g/tim/blob/main/content/kanji/日/index.md)."
 chōon: "Ō ō Ū ū ’"
 ---
-<img class="kanji" alt="日 kanji" src="日.gif" width="150px" height="150px">
+<img class="kanji" alt="日 kanji" src="日.gif">
 
 Ang unang kanji ng 日本 (Japan) at ginagamit sa pagsusulat ng araw sa petsa, ito ang pinakamadalas na gamiting kanji sa lahat.
 
 May nagsasabi na kamukha daw ito ng bintana 🪟, pero huwag itong isulat na tuwid na tuwid na kagaya ng isang bintana. Isulat ito nang medyo tabingi ang mga pahalang na linya, parang bintana na natabingi ng lindol.
 
-**Mnemonic**: "Ang araw ay makikita sa labas ng bintana."
+**Pagsaulo**: "Ang araw ay makikita sa labas ng bintana."
 
-### ON-KUN READINGS
+### ON-KUN READING
 
 - [NICHI](../../tags/nichi) [JITSU](../../tags/jitsu) [hi](../../tags/hi) [ka](../../tags/ka)
 
@@ -72,8 +72,18 @@ May nagsasabi na kamukha daw ito ng bintana 🪟, pero huwag itong isulat na tuw
   - [明](../明)[日](../日)　***asu***　bukas
   - [昨](../昨)[日](../日)　***kinō***　kahapon
   - [一](../一)[日](../日)　***tsuitachi***　unang araw ng buwan
+
+### ORIGIN
+
+<table class="kanji-table"><tr>
+<td><img src="60px-日-bronze.svg.png"></td>
+<td>▶</td>
+<td><img src="60px-日-oracle.svg.png"></td>
+<td>▶</td>
+<td class="origin">日</td>
+</tr></table>
   
-### ADDITIONAL INFO
+### OTHER
 
 Special reading ng mga araw ng buwan:
   - [一](../一)[日](../日)　***tsuitachi***　ika-1
@@ -89,16 +99,6 @@ Special reading ng mga araw ng buwan:
   - [十](../十)[四](../四)[日](../日)　***jūyokka***　ika-14
   - [二](../二)[十](../十)[日](../日)　***hatsuka***　ika-20
   - [二](../二)[十](../十)[四](../四)[日](../日)　***nijūyokka***　ika-24
-
-### ORIGIN
-
-<table class="kanji-table"><tr>
-<td><img src="60px-日-bronze.svg.png"></td>
-<td>▶</td>
-<td><img src="60px-日-oracle.svg.png"></td>
-<td>▶</td>
-<td class="origin">日</td>
-</tr></table>
 
 ### RELATED KANJI
 

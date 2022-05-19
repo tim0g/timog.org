@@ -441,9 +441,11 @@ small {
     border-radius: 15px;
     margin: 0 15px 0 0;
   	float: left;
+    width:150px;
+    height:150px;
 }
 
-#reading, #readings, #on-kun-readings,#compounds, #meaning, #kun, #mnemonic, #special-reading, #special-readings, #origin, #related, #related-kanji, #pagbasa, #kahulugan, #additional-info {
+#on-kun-reading, #meaning, #special-reading, #origin, #related, #related-kanji, #other {
   padding: 3px 10px;
   background-color: mistyrose;
   display: table;
