@@ -29,7 +29,7 @@ May nagsasabi na kamukha daw ito ng bintana 🪟, pero huwag itong isulat na tuw
 
 ### ON-KUN READINGS
 
-- [NICHI](../tags/nichi) [JITSU](../tags/jitsu) [hi](../tags/hi) [ka](../tags/ka)
+- [NICHI](../../tags/nichi) [JITSU](../../tags/jitsu) [hi](../../tags/hi) [ka](../../tags/ka)
 
 ### MEANING
 
@@ -92,9 +92,13 @@ Special reading ng mga araw ng buwan:
 
 ### ORIGIN
 
-Sinaunang hugis ng 日:
-
-<img src="60px-日-bronze.svg.png"><img src="60px-日-oracle.svg.png">
+<table class="kanji-table"><tr>
+<td><img src="60px-日-bronze.svg.png"></td>
+<td>▶</td>
+<td><img src="60px-日-oracle.svg.png"></td>
+<td>▶</td>
+<td class="origin">日</td>
+</tr></table>
 
 ### RELATED KANJI
 
