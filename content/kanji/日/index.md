@@ -1,8 +1,8 @@
 ---
 title: 日
-description: 日 kanji
+description: "日 kanji: meaning, on-kun reading, sample words"
 content_type: kanji
-featured_image:
+featured_image: "/日.gif"
 weight: 1
 frequency: Freq1
 kanji-radical: 日
@@ -24,9 +24,9 @@ chōon: "Ō ō Ū ū ’"
 
 Ang unang kanji ng 日本 (Japan) at ginagamit sa pagsusulat ng araw sa petsa, ito ang pinakamadalas na gamiting kanji sa lahat.
 
-May nagsasabi na kamukha daw ito ng bintana 🪟, pero huwag itong isulat na tuwid na tuwid na kagaya ng isang bintana. Isulat ito nang medyo tabingi ang mga pahalang na linya, parang bintana na natabingi ng lindol.
+May nagsasabi na kamukha daw ito ng bintana 🪟, pero huwag itong isulat nang tuwid na tuwid na kagaya ng isang bintana. Isulat ito nang medyo tabingi ang mga pahalang na linya, parang bintana na natabingi ng lindol.
 
-**[Mnemonic](../../kanji/mnemonic):** "Araw sa labas ng bintana."
+**Mnemonic:** "Araw sa labas ng bintana."
 
 ### ON-KUN READING
 
@@ -41,7 +41,7 @@ May nagsasabi na kamukha daw ito ng bintana 🪟, pero huwag itong isulat na tuw
   - [本](../本)[日](../日)　***honjitsu***　ngayong araw 
   - [日](../日)[日](../日)　***hinichi***　petsa
   - [日](../日)[付](../付)　***hizuke***　petsa
-  - [日](../日)[替](../替)わり　***higawari***　nagbabago araw-araw
+  - [日](../日)[替](../替わり)　***higawari***　nagbabago araw-araw
   - [九](../九)[月](../月)[四](../四)[日](../日)　***kugatsu yokka***　Setyembre 4
   
 
@@ -52,7 +52,7 @@ May nagsasabi na kamukha daw ito ng bintana 🪟, pero huwag itong isulat na tuw
 #### ➌ **ARAW** (bituin)
   - [日](../日)[食](../食)　***nisshoku***　solar eclipse
   - [日](../日)[光](../光)　***nikkō***　liwanag ng araw
-  - [日](../日)[焼](../焼)け　***hiyake***　sunburn
+  - [日](../日)[焼](../焼け)　***hiyake***　sunburn
   - [日](../日)の[丸](../丸)　***hinomaru***　Rising Sun flag
   - [日](../日)の[出](../出)　***hinode***　pagsikat ng araw
   - [朝](../朝)[日](../日)　***asahi***　umagang araw
@@ -81,7 +81,7 @@ May nagsasabi na kamukha daw ito ng bintana 🪟, pero huwag itong isulat na tuw
 </td><td>▶</td><td>
 <img src="60px-日-oracle.svg.png">
 </td><td>▶</td>
-<td class="origin">日</td>
+<td class="kanji-origin">日</td>
 </tr></table>
   
 ### OTHER
