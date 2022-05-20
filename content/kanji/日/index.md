@@ -1,6 +1,7 @@
 ---
 title: 日
-description: "日 kanji: meaning, on-kun reading, sample words"
+character: 日
+description: "Kanji dictionary entry 日: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/日.gif"
 weight: 1
@@ -9,7 +10,7 @@ kanji-radical: 日
 kanji-grade: Grade1
 kanji-strokes: 4-Strokes
 kanji-class: Jōyō
-kanji-jlpt: N4
+kanji-jlpt: N5
 kanji-reading:
 - NICHI
 - JITSU
@@ -20,7 +21,8 @@ kanji-meaning:
 - Japan
 chōon: "Ō ō Ū ū ’"
 ---
-<img class="kanji" alt="日 kanji" src="日.gif">
+[//]: # (Don't edit the line below.)
+<img class="kanji" alt="{{< param title >}} kanji" src="{{< param title >}}.gif">
 
 Ang unang kanji ng 日本 (Japan) at ginagamit sa pagsusulat ng araw sa petsa, ito ang pinakamadalas na gamiting kanji sa lahat.
 
@@ -30,9 +32,10 @@ May nagsasabi na kamukha daw ito ng bintana 🪟, pero huwag itong isulat nang t
 
 ### ON-KUN READING
 
+[//]: # (Don't edit the line below. ON-KUN READING code is automatically generated.)
 - [NICHI](../../kanji-reading/nichi) [JITSU](../../kanji-reading/jitsu) [hi](../../kanji-reading/hi) [ka](../../kanji-reading/ka)
 
-### MEANING
+### COMPOUNDS
 
 #### ➊ **ARAW** (ng isang buwan)
   - [一](../一)[日](../日)　***ichinichi***　isang araw
@@ -41,7 +44,7 @@ May nagsasabi na kamukha daw ito ng bintana 🪟, pero huwag itong isulat nang t
   - [本](../本)[日](../日)　***honjitsu***　ngayong araw 
   - [日](../日)[日](../日)　***hinichi***　petsa
   - [日](../日)[付](../付)　***hizuke***　petsa
-  - [日](../日)[替](../替わり)　***higawari***　nagbabago araw-araw
+  - [日](../日)[替わり](../替)　***higawari***　nagbabago araw-araw
   - [九](../九)[月](../月)[四](../四)[日](../日)　***kugatsu yokka***　Setyembre 4
   
 
@@ -52,7 +55,7 @@ May nagsasabi na kamukha daw ito ng bintana 🪟, pero huwag itong isulat nang t
 #### ➌ **ARAW** (bituin)
   - [日](../日)[食](../食)　***nisshoku***　solar eclipse
   - [日](../日)[光](../光)　***nikkō***　liwanag ng araw
-  - [日](../日)[焼](../焼け)　***hiyake***　sunburn
+  - [日](../日)[焼け](../焼)　***hiyake***　sunburn
   - [日](../日)の[丸](../丸)　***hinomaru***　Rising Sun flag
   - [日](../日)の[出](../出)　***hinode***　pagsikat ng araw
   - [朝](../朝)[日](../日)　***asahi***　umagang araw
