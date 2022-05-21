@@ -3,15 +3,15 @@
   <header class="Heading">
                
   <span class="article-category">
-  {{ range (.GetTerms "kanji-radical") }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
-  {{ range (.GetTerms "kanji-strokes") }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
-  {{ range (.GetTerms "kanji-grade") }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
-  {{ range (.GetTerms "kanji-class") }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
-  {{ range (.GetTerms "kanji-jlpt") }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}  
+  {{ range (.GetTerms "kanji_radical") }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
+  {{ range (.GetTerms "kanji_strokes") }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
+  {{ range (.GetTerms "kanji_grade") }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
+  {{ range (.GetTerms "kanji_class") }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
+  {{ range (.GetTerms "kanji_jlpt") }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}  
   </span>
                 
 {{ with .Params.frequency }}<span class="article-category"><a href="http://timog.org/kanji/frequency/">FREQ{{ . }}</a></span>{{ end }}
-  <h1 class="Heading-title"><span itemprop="name">{{ .Title }} {{ .Param "kanji-meaning" }}</span>
+  <h1 class="Heading-title"><span itemprop="name">{{ .Title }} {{ range .Page.Params.kanji_meaning }}{{ . }} {{ end }}</span>
   </h1><span class="postmeta">{{ .Params.author }}{{ if .PublishDate }}, {{ end }}
   {{ with .PublishDate | default nil }}
     <time datetime="{{ .Format "2006-01-02T15:04:05Z07:00" }}">

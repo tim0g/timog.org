@@ -6,17 +6,17 @@ content_type: kanji
 featured_image: "/日.gif"
 weight: 1
 frequency: 1
-kanji-grade: 1
-kanji-strokes: 4
-kanji-class: Jōyō
-kanji-jlpt: N5
-kanji-radical: 日
-kanji-reading:
+kanji_grade: 1
+kanji_strokes: 4
+kanji_class: Jōyō
+kanji_jlpt: N5
+kanji_radical: 日
+kanji_reading:
 - NICHI
 - JITSU
 - hi
 - ka
-kanji-meaning:
+kanji_meaning:
 - araw
 - Japan
 chōon: "Ō ō Ū ū ’"

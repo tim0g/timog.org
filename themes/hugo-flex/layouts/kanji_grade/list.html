@@ -7,7 +7,7 @@
     <ul>
       {{ range .Pages.ByWeight }}
         <li>
-          <a href="{{ .RelPermalink }}">{{ .Title | markdownify }} {{ .Param "kanji-meaning" }}</a>
+          <a href="{{ .RelPermalink }}">{{ .Title | markdownify }} {{ .Param "kanji_meaning" }}</a>
         </li>
       {{ end }}
     </ul>

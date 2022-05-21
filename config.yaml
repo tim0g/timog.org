@@ -21,13 +21,13 @@ outputs:
 taxonomies:
   category: categories
   tag: tags
-  kanji-radical: kanji-radical
-  kanji-grade: kanji-grade
-  kanji-strokes: kanji-strokes
-  kanji-class: kanji-class
-  kanji-reading: kanji-reading
-  kanji-meaning: kanji-meaning
-  kanji-jlpt: kanji-jlpt
+  kanji_radical: kanji_radical
+  kanji_grade: kanji_grade
+  kanji_strokes: kanji_strokes
+  kanji_class: kanji_class
+  kanji_reading: kanji_reading
+  kanji_meaning: kanji_meaning
+  kanji_jlpt: kanji_jlpt
 
 permalinks:
   posts: /:filename/

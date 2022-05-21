@@ -6,16 +6,16 @@ content_type: kanji
 featured_image: "/鬱.gif"
 weight: 2633
 frequency: 2633
-kanji-radical: 鬱
-kanji-grade:
-kanji-strokes: 29
-kanji-class: Jōyō
-kanji-jlpt:
-kanji-reading:
+kanji_radical: 鬱
+kanji_grade:
+kanji_strokes: 29
+kanji_class: Jōyō
+kanji_jlpt:
+kanji_reading:
 - UTSU
 - fusa(gu)
 
-kanji-meaning:
+kanji_meaning:
 - mapanglaw
 chōon: "Ō ō Ū ū ’"
 ---

@@ -6,20 +6,20 @@ content_type: kanji
 featured_image: "/山.gif"
 weight: 69
 frequency: 69
-kanji-grade: 1
-kanji-strokes: 3
-kanji-class: Jōyō
-kanji-jlpt: N5
-kanji-radical: 山
-kanji-reading:
+kanji_grade: 1
+kanji_strokes: 3
+kanji_class: Jōyō
+kanji_jlpt: N5
+kanji_radical: 山
+kanji_reading:
 - SAN
 - yama
-kanji-meaning:
+kanji_meaning:
 - bundok
 chōon: "Ō ō Ū ū ’"
 ---
-[//]: # (Don't edit the line below.)
-<img class="kanji" alt="{{< param title >}} kanji" src="{{< param title >}}.gif">
+[//]: # (Don't edit the line below. Code to insert kanji animation.)
+{{< kanji-gif >}}
 
 Ang unang kanji ng 山本 (Japan) at ginagamit sa pagsusulat ng araw sa petsa, ito ang pinakamadalas na gamiting kanji sa lahat.
 
@@ -31,6 +31,9 @@ Huwag isulat nang tuwid na tuwid na parang bintana 🪟. Isulat ito nang medyo t
 
 [//]: # (Don't edit the line below. ON-KUN READING code is automatically generated.)
 - [SAN](../../kanji-reading/san) [yama](../../kanji-reading/yama)
+
+
+{{< kanji-reading >}}
 
 ### COMPOUNDS
 

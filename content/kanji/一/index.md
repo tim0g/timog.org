@@ -6,18 +6,18 @@ content_type: kanji
 featured_image: "/一.gif"
 weight: 2
 frequency: 2
-kanji-radical: 一
-kanji-grade: 1
-kanji-strokes: 1
-kanji-class: Jōyō
-kanji-jlpt: N5
-kanji-reading:
+kanji_radical: 一
+kanji_grade: 1
+kanji_strokes: 1
+kanji_class: Jōyō
+kanji_jlpt: N5
+kanji_reading:
 - ICHI
 - ITSU
 - hito
 - hito(tsu)
 - kazu
-kanji-meaning:
+kanji_meaning:
 - isa
 chōon: "Ō ō Ū ū ’"
 ---
