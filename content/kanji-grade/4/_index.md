@@ -1,5 +1,5 @@
 ---
 title: "Grade4"
-description: "List of 220 kanji studied in 4th Grade in elementary schools in Japan"
+description: "Listahan ng Grade 4 kanji"
 ---
-Listahan ng 220 na kanji na pinag-aaralan sa Grade 4 sa mababang paaralan sa Japan.
+Listahan ng 220 na kanji na pinag-aaralan sa Grade 4 sa mababang paaralan sa Japan, nakaayos ayon sa kadalasan ng gamit.

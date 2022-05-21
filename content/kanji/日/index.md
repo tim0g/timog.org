@@ -26,7 +26,7 @@ chōon: "Ō ō Ū ū ’"
 
 Ang unang kanji ng 日本 (Japan) at ginagamit sa pagsusulat ng araw sa petsa, ito ang pinakamadalas na gamiting kanji sa lahat.
 
-May nagsasabi na kamukha daw ito ng bintana 🪟, pero huwag itong isulat nang tuwid na tuwid na kagaya ng isang bintana. Isulat ito nang medyo tabingi ang mga pahalang na linya, parang bintana na natabingi ng lindol.
+Huwag isulat nang tuwid na tuwid na parang bintana 🪟. Isulat ito nang medyo tabingi ang mga pahalang na linya, parang bintana na natabingi ng lindol (marami sa Japan).
 
 **Mnemonic:** "Araw sa labas ng bintana."
 

@@ -4,7 +4,7 @@ character: 一
 description: "Kanji dictionary entry 一: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/一.gif"
-weight: 1
+weight: 2
 frequency: 2
 kanji-radical: 一
 kanji-grade: 1
@@ -26,7 +26,7 @@ chōon: "Ō ō Ū ū ’"
 
 Ang pinakasimpleng kanji sa lahat, pumapangalawa lang ito sa [日](../日) sa pinakamadalas na gamiting kanji.
 
-Huwag ito isusulat nang tuwid na tuwid na parang dash (―). Bigyan na kaunting angat habang sinusulat nang pahalang.
+Huwag isusulat nang tuwid na tuwid na parang dash (―). Bigyan na kaunting angat habang sinusulat nang pahalang.
 
 **Mnemonic:** "Isang guhit."
 
@@ -35,7 +35,7 @@ Huwag ito isusulat nang tuwid na tuwid na parang dash (―). Bigyan na kaunting 
 [//]: # (Don't edit the line below. ON-KUN READING code is automatically generated.)
 - [ICHI](../../kanji-reading/ichi) [ITSU](../../kanji-reading/itsu) [hito](../../kanji-reading/hito) [hito(tsu)](../../kanji-reading/hito(tsu))
 
-#### COMPOUNDS
+### COMPOUNDS
 
 #### ➊ **ARAW** (ng isang buwan)
   - [一](../一)[一](../一)　***ichinichi***　isang araw

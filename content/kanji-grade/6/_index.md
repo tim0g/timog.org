@@ -1,5 +1,5 @@
 ---
 title: "Grade6"
-description: "List of 181 kanji studied in 6th Grade in elementary schools in Japan"
+description: "Listahan ng Grade 6 kanji"
 ---
-Listahan ng 181 na kanji na pinag-aaralan sa Grade 6 sa mababang paaralan sa Japan.
+Listahan ng 181 na kanji na pinag-aaralan sa Grade 6 sa mababang paaralan sa Japan, nakaayos ayon sa kadalasan ng gamit.
