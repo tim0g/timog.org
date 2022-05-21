@@ -7,7 +7,7 @@ featured_image: "/鬱.gif"
 weight: 2633
 frequency: 2633
 kanji_radical: 鬱
-kanji_grade:
+kanji_grade: S
 kanji_strokes: 29
 kanji_class: Jōyō
 kanji_jlpt:
@@ -38,8 +38,6 @@ Ang kumplikadong radical na 鬯 ay "ceremonial wine" ang ibig sabihin. Kaya kung
 #### ➊ **DEPRESYON**
   - [鬱](../鬱)[病](../病)　***utsubyō***　depresyon
   - [抗](../抗)[鬱](../鬱)　***kōutsu***　antidepressant
-
-
 
 ### KUN
 

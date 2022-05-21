@@ -439,12 +439,42 @@ small {
 
 .kanji {
     padding: 0;
-    border: 10px solid #5cbdec;
+    border: 10px solid #a6a6a6;
     border-radius: 15px;
     margin: 0 15px 0 0;
   	float: left;
     width:150px;
     height:150px;
+}
+
+.kanji-g1 {
+  padding: 0;
+  border: 10px solid #5cbdec;
+  border-radius: 15px;
+  margin: 0 15px 0 0;
+  float: left;
+  width:150px;
+  height:150px;
+}
+
+.kanji-g2 {
+  padding: 0;
+  border: 10px solid #ec5cbb;
+  border-radius: 15px;
+  margin: 0 15px 0 0;
+  float: left;
+  width:150px;
+  height:150px;
+}
+
+.kanji-g3 {
+  padding: 0;
+  border: 10px solid #ec995c;
+  border-radius: 15px;
+  margin: 0 15px 0 0;
+  float: left;
+  width:150px;
+  height:150px;
 }
 
 #on-kun-reading, #compounds, #kun, #special-reading, #special-readings, #origin, #related, #related-kanji, #other {

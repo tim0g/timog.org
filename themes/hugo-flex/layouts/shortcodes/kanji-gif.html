@@ -1,1 +1,1 @@
-{{ with .Page.Params.title }}<img class="kanji" alt="{{ . }} kanji" src="{{ . }}.gif">{{end}}
+<img class="kanji{{ with .Page.Params.kanji_grade }}-g{{ . }}{{ end}}" alt="{{ . }} kanji" src="{{ with .Page.Params.title }}{{ . }}{{end}}.gif">

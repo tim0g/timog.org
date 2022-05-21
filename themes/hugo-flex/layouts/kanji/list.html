@@ -4,15 +4,16 @@
 
   {{ .Content }}
 
-  {{ range .Pages.GroupByPublishDate "2006" }}
-    <h3>{{ .Key }}</h3>
-    <ul>
-      {{ range .Pages }}
-        <li>
-          <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
-        </li>
-      {{ end }}
-    </ul>
-  {{ end }}
+  
+    {{ range $key, $taxonomy := .Site.Taxonomies.kanji_grade }}
+    <h2>GRADE {{ $key }}</h2>
+    <p>
+        {{ range $taxonomy.Pages }}
+        <a href="{{ .Permalink}}">{{ .LinkTitle }}  </a>
+        {{ end }}
+    </p>
+    {{ end }}
+
+
 
 {{ end }}
