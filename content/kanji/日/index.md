@@ -21,8 +21,8 @@ kanji_meaning:
 - Japan
 chōon: "Ō ō Ū ū ’"
 ---
-[//]: # (Don't edit the line below.)
-<img class="kanji" alt="{{< param title >}} kanji" src="{{< param title >}}.gif">
+[//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
+{{< kanji-gif >}}
 
 Ang unang kanji ng 日本 (Japan) at ginagamit sa pagsusulat ng araw sa petsa, ito ang pinakamadalas na gamiting kanji sa lahat.
 
@@ -33,7 +33,7 @@ Huwag isulat nang tuwid na tuwid na parang bintana 🪟. Isulat ito nang medyo t
 ### ON-KUN READING
 
 [//]: # (Don't edit the line below. ON-KUN READING code is automatically generated.)
-- [NICHI](../../kanji-reading/nichi) [JITSU](../../kanji-reading/jitsu) [hi](../../kanji-reading/hi) [ka](../../kanji-reading/ka)
+{{< kanji-reading >}}
 
 ### COMPOUNDS
 

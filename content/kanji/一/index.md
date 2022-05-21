@@ -21,8 +21,8 @@ kanji_meaning:
 - isa
 chōon: "Ō ō Ū ū ’"
 ---
-[//]: # (Don't edit the line below.)
-<img class="kanji" alt="{{< param title >}} kanji" src="{{< param title >}}.gif">
+[//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
+{{< kanji-gif >}}
 
 Ang pinakasimpleng kanji sa lahat, pumapangalawa lang ito sa [日](../日) sa pinakamadalas na gamiting kanji.
 
@@ -33,7 +33,7 @@ Huwag isusulat nang tuwid na tuwid na parang dash (―). Bigyan na kaunting anga
 ### ON-KUN READING
 
 [//]: # (Don't edit the line below. ON-KUN READING code is automatically generated.)
-- [ICHI](../../kanji-reading/ichi) [ITSU](../../kanji-reading/itsu) [hito](../../kanji-reading/hito) [hito(tsu)](../../kanji-reading/hito(tsu))
+{{< kanji-reading >}}
 
 ### COMPOUNDS
 

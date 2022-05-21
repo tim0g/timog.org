@@ -1,21 +1,13 @@
-{{ if eq .Params.content_type "howto" }}
-  <div itemscope itemtype="https://schema.org/HowTo">{{ end }}
-  <header class="Heading">
+<header class="Heading">
                
-  <span class="article-category">
+<span class="article-category">
   {{ range (.GetTerms "kanji_radical") }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
-  {{ range (.GetTerms "kanji_strokes") }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
+  {{ range (.GetTerms "kanji_strokes") }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}-strokes</a>{{ end }}
   {{ range (.GetTerms "kanji_grade") }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
   {{ range (.GetTerms "kanji_class") }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
-  {{ range (.GetTerms "kanji_jlpt") }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}  
-  </span>
-                
-{{ with .Params.frequency }}<span class="article-category"><a href="http://timog.org/kanji/frequency/">FREQ{{ . }}</a></span>{{ end }}
-  <h1 class="Heading-title"><span itemprop="name">{{ .Title }} {{ range .Page.Params.kanji_meaning }}{{ . }} {{ end }}</span>
-  </h1><span class="postmeta">{{ .Params.author }}{{ if .PublishDate }}, {{ end }}
-  {{ with .PublishDate | default nil }}
-    <time datetime="{{ .Format "2006-01-02T15:04:05Z07:00" }}">
-      {{- .Format "Jan 2, 2006" -}}
-    </time>
-  {{ end }}</span>
+  {{ range (.GetTerms "kanji_jlpt") }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}               
+  {{ with .Params.frequency }}<a href="http://timog.org/kanji/frequency/">FREQ{{ . }}</a>{{ end }}</span>
+
+<h1 class="Heading-title"><span itemprop="name">{{ .Title }} {{ range .Page.Params.kanji_meaning }}{{ . }} {{ end }}</span></h1>
+
 </header>

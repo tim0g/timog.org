@@ -19,8 +19,8 @@ kanji_meaning:
 - mapanglaw
 chōon: "Ō ō Ū ū ’"
 ---
-[//]: # (Don't edit the line below.)
-<img class="kanji" alt="{{< param title >}} kanji" src="{{< param title >}}.gif">
+[//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
+{{< kanji-gif >}}
 
 Ang Jōyō kanji na may pinakamaraming strokes. Hindi ito palaging ginagamit sa mga salita dahil nadedepres ang mga tao kapag nakikita ang kumplikadong kanji na ito. Kunyari ang sakit na depresyon (utsubyō) ay karamihang sinusulat na うつ病, hindi 鬱病.
 
@@ -31,7 +31,7 @@ Ang kumplikadong radical na 鬯 ay "ceremonial wine" ang ibig sabihin. Kaya kung
 ### ON-KUN READING
 
 [//]: # (Don't edit the line below. ON-KUN READING code is automatically generated.)
-- [UTSU](../../kanji-reading/utsu) [fusa(gu)](../../kanji-reading/fusa(gu))
+{{< kanji-reading >}}
 
 ### COMPOUNDS
 
@@ -39,11 +39,15 @@ Ang kumplikadong radical na 鬯 ay "ceremonial wine" ang ibig sabihin. Kaya kung
   - [鬱](../鬱)[病](../病)　***utsubyō***　depresyon
   - [抗](../抗)[鬱](../鬱)　***kōutsu***　antidepressant
 
+
+
 ### KUN
 
   - [鬱さぐ](../鬱)　***fusagu***　malumbay
 
 ### ORIGIN
+
+[//]: # (Edit the image file names below.)
 
 <table class="kanji-table"><tr><td>
 <img src="60px-鬱-oracle.svg.png">
