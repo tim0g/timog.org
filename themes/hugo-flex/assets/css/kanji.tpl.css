@@ -447,10 +447,8 @@ small {
     height:150px;
 }
 
-#on-kun-reading, #compounds, #special-reading, #special-readings, #origin, #related, #related-kanji, #other {
-  font-weight: 700;
+#on-kun-reading, #compounds, #kun, #special-reading, #special-readings, #origin, #related, #related-kanji, #other {
   padding: 3px 10px;
-  margin: 0 0 .5rem;
   background-color: mistyrose;
   display: table;
   border-radius: 5px;

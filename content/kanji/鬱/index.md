@@ -4,47 +4,46 @@ character: 鬱
 description: "Kanji dictionary entry 鬱: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/鬱.gif"
-weight: 1
-frequency: Freq1
+weight: 2633
+frequency: 2633
 kanji-radical: 鬱
-kanji-grade: Grade1
-kanji-strokes: 4-Strokes
+kanji-grade:
+kanji-strokes: 29
 kanji-class: Jōyō
-kanji-jlpt: N5
+kanji-jlpt:
 kanji-reading:
-- NICHI
-- JITSU
-- hi
-- ka
+- UTSU
+- fusa(gu)
+
 kanji-meaning:
-- depresyon
+- mapanglaw
 chōon: "Ō ō Ū ū ’"
 ---
 [//]: # (Don't edit the line below.)
 <img class="kanji" alt="{{< param title >}} kanji" src="{{< param title >}}.gif">
 
-Ang Jōyō kanji na may pinakamaraming strokes. Ano ba ang maganda sa kanji na ito? Wala akong maisip. Iisipin ko pa lang na kailan kong isaulo ang pagsulat nito ay nadedepres na ito.
+Ang Jōyō kanji na may pinakamaraming strokes. Hindi ito palaging ginagamit sa mga salita dahil nadedepres ang mga tao kapag nakikita ang kumplikadong kanji na ito. Kunyari ang sakit na depresyon (utsubyō) ay karamihang sinusulat na うつ病 at hindi 鬱病.
 
-**Mnemonic:** "Araw sa labas ng bintana."
+Ang kumplikadong radical na 鬯 ay "ceremonial wine" ang ibig sabihin. Kaya kung matibay ka at gusto mo talagang matutunang isulat ang kanji na ito ay gamitin ang pangsaulo sa ibaba.
 
-#### ON-KUN READING
+**Mnemonic:** "Pagkatapos uminom ng alak  ay nagtapon ako ng lata sa gitna ng kakahuyan at nadepres ako nang may nakita akong tatlong hibla ng buhok."
+
+### ON-KUN READING
 
 [//]: # (Don't edit the line below. ON-KUN READING code is automatically generated.)
-- [NICHI](../../kanji-reading/nichi) [JITSU](../../kanji-reading/jitsu) [hi](../../kanji-reading/hi) [ka](../../kanji-reading/ka)
+- [UTSU](../../kanji-reading/utsu) [fusa(gu)](../../kanji-reading/fusa(gu))
 
-#### COMPOUNDS
+### COMPOUNDS
 
-#### ➊ **ARAW** (ng isang buwan)
-  - [一](../一)[鬱](../鬱)　***ichinichi***　isang araw
-  - [一](../一)[月](../月)[一](../一)[五](../五)[鬱](../鬱)　***ichigatsu jūgonichi***　Enero 15
-  - [平](../平)[鬱](../鬱)　***heijitsu***　weekday
-  - [本](../本)[鬱](../鬱)　***honjitsu***　ngayong araw 
-  - [鬱](../鬱)[鬱](../鬱)　***hinichi***　petsa
-  - [鬱](../鬱)[付](../付)　***hizuke***　petsa
-  - [鬱](../鬱)[替わり](../替)　***higawari***　nagbabago araw-araw
-  - [九](../九)[月](../月)[四](../四)[鬱](../鬱)　***kugatsu yokka***　Setyembre 4
+#### ➊ **DEPRESYON**
+  - [鬱](../鬱)[病](../病)　***utsubyō***　depresyon
+  - [抗](../抗)[鬱](../鬱)　***kōutsu***　antidepressant
 
-#### ORIGIN
+### KUN
+
+  - [鬱さぐ](../鬱)　***fusagu***　malumbay
+
+### ORIGIN
 
 <table class="kanji-table"><tr><td>
 <img src="60px-鬱-oracle.svg.png">
@@ -55,9 +54,3 @@ Ang Jōyō kanji na may pinakamaraming strokes. Ano ba ang maganda sa kanji na i
 </td><td>▶</td>
 <td class="kanji-origin">鬱</td>
 </tr></table>
-
-#### RELATED KANJI
-
-- Mga araw ng linggo: [月](../月) [火](../火) [水](../水) [木](../木) [金](../金) [土](../土)
-- Magkatulad ng hitsura: [白](../白) [百](../百) [旧](../旧)
-- Magkatulad ng ibig sabihin: [陽](../陽)

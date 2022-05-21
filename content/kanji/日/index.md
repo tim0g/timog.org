@@ -5,12 +5,12 @@ description: "Kanji dictionary entry 日: meaning, on-kun reading, compounds, or
 content_type: kanji
 featured_image: "/日.gif"
 weight: 1
-frequency: Freq1
-kanji-radical: 日
-kanji-grade: Grade1
-kanji-strokes: 4-Strokes
+frequency: 1
+kanji-grade: 1
+kanji-strokes: 4
 kanji-class: Jōyō
 kanji-jlpt: N5
+kanji-radical: 日
 kanji-reading:
 - NICHI
 - JITSU
@@ -30,12 +30,12 @@ May nagsasabi na kamukha daw ito ng bintana 🪟, pero huwag itong isulat nang t
 
 **Mnemonic:** "Araw sa labas ng bintana."
 
-#### ON-KUN READING
+### ON-KUN READING
 
 [//]: # (Don't edit the line below. ON-KUN READING code is automatically generated.)
 - [NICHI](../../kanji-reading/nichi) [JITSU](../../kanji-reading/jitsu) [hi](../../kanji-reading/hi) [ka](../../kanji-reading/ka)
 
-#### COMPOUNDS
+### COMPOUNDS
 
 #### ➊ **ARAW** (ng isang buwan)
   - [一](../一)[日](../日)　***ichinichi***　isang araw
@@ -46,7 +46,6 @@ May nagsasabi na kamukha daw ito ng bintana 🪟, pero huwag itong isulat nang t
   - [日](../日)[付](../付)　***hizuke***　petsa
   - [日](../日)[替わり](../替)　***higawari***　nagbabago araw-araw
   - [九](../九)[月](../月)[四](../四)[日](../日)　***kugatsu yokka***　Setyembre 4
-  
 
 #### ➋ **ARAW** (hindi gabi)
   - [日](../日)[夜](../夜)　***nichiya***　araw at gabi
@@ -77,7 +76,7 @@ May nagsasabi na kamukha daw ito ng bintana 🪟, pero huwag itong isulat nang t
   - [昨](../昨)[日](../日)　***kinō***　kahapon
   - [一](../一)[日](../日)　***tsuitachi***　unang araw ng buwan
 
-#### ORIGIN
+### ORIGIN
 
 <table class="kanji-table"><tr><td>
 <img src="60px-日-bronze.svg.png">
@@ -87,7 +86,7 @@ May nagsasabi na kamukha daw ito ng bintana 🪟, pero huwag itong isulat nang t
 <td class="kanji-origin">日</td>
 </tr></table>
   
-#### OTHER
+### OTHER
 
 Special reading ng mga araw ng buwan:
   - [一](../一)[日](../日)　***tsuitachi***　ika-1
@@ -104,7 +103,7 @@ Special reading ng mga araw ng buwan:
   - [二](../二)[十](../十)[日](../日)　***hatsuka***　ika-20
   - [二](../二)[十](../十)[四](../四)[日](../日)　***nijūyokka***　ika-24
 
-#### RELATED KANJI
+### RELATED KANJI
 
 - Mga araw ng linggo: [月](../月) [火](../火) [水](../水) [木](../木) [金](../金) [土](../土)
 - Magkatulad ng hitsura: [白](../白) [百](../百) [旧](../旧)

@@ -10,7 +10,7 @@
   {{ range (.GetTerms "kanji-jlpt") }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}  
   </span>
                 
-{{ with .Params.frequency }}<span class="article-category"><a href="http://timog.org/kanji/frequency/">{{ . }}</a></span>{{ end }}
+{{ with .Params.frequency }}<span class="article-category"><a href="http://timog.org/kanji/frequency/">FREQ{{ . }}</a></span>{{ end }}
   <h1 class="Heading-title"><span itemprop="name">{{ .Title }} {{ .Param "kanji-meaning" }}</span>
   </h1><span class="postmeta">{{ .Params.author }}{{ if .PublishDate }}, {{ end }}
   {{ with .PublishDate | default nil }}

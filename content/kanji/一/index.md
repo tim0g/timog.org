@@ -30,7 +30,7 @@ Huwag ito isusulat nang tuwid na tuwid na parang dash (―). Bigyan na kaunting 
 
 **Mnemonic:** "Isang guhit."
 
-#### ON-KUN READING
+### ON-KUN READING
 
 [//]: # (Don't edit the line below. ON-KUN READING code is automatically generated.)
 - [ICHI](../../kanji-reading/ichi) [ITSU](../../kanji-reading/itsu) [hito](../../kanji-reading/hito) [hito(tsu)](../../kanji-reading/hito(tsu))
@@ -71,13 +71,13 @@ Huwag ito isusulat nang tuwid na tuwid na parang dash (―). Bigyan na kaunting 
   - [一](../一)[銀](../銀)　***nichigin***　Bank of Japan
   - [来](../来)[一](../一)　***rainichi***　pagdating sa Japan
 
-#### SPECIAL READING
+### SPECIAL READING
   - [今](../今)[一](../一)　***kyō***　ngayong araw
   - [明](../明)[一](../一)　***asu***　bukas
   - [昨](../昨)[一](../一)　***kinō***　kahapon
   - [一](../一)[一](../一)　***tsuitachi***　unang araw ng buwan
 
-#### ORIGIN
+### ORIGIN
 
 Ang kanji ng 一 ay hindi masyadong nagbago mula sa mga sinaunang pagsulat:
 
@@ -89,7 +89,7 @@ Ang kanji ng 一 ay hindi masyadong nagbago mula sa mga sinaunang pagsulat:
 <td class="kanji-origin">一</td>
 </tr></table>
 
-#### RELATED KANJI
+### RELATED KANJI
 
 - Mga bilang: [二](../二) [三](../三) [四](../五) [五](../五) [六](../七) [七](../七) [八](../八) [九](../九) [十](../十) [百](../百) [千](../千) [万](../万) [億](../億)
 - Magkatulad ng ibig sabihin: [壱](../壱)
