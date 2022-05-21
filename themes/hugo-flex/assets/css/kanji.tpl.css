@@ -13,7 +13,7 @@ body {
 p {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   font-weight: 400;
-  font-size: 1.25rem;
+  font-size: 1.13rem;
   margin: 0 0 1rem 0;
 }
 
@@ -323,9 +323,12 @@ hr {
   border-top: 1px;
 }
 
+.article-category {
+  font-size: .8rem;
+}
+
 .article-category a {
     text-transform: uppercase;
-    font-size: .8rem;
     letter-spacing: .02em;
     margin: 0 .3rem 0 0;
     color: #ff1a75;
@@ -445,7 +448,9 @@ small {
 }
 
 #on-kun-reading, #compounds, #special-reading, #special-readings, #origin, #related, #related-kanji, #other {
+  font-weight: 700;
   padding: 3px 10px;
+  margin: 0 0 .5rem;
   background-color: mistyrose;
   display: table;
   border-radius: 5px;
@@ -460,7 +465,7 @@ ul {
 .kanji-footer {
   background-color: #f1f9ff;
   margin: 3rem 0 0;
-  padding: .5rem;
+  padding: .3rem .8rem;
   font-size: 1rem;
   border-radius: 5px;
 }
