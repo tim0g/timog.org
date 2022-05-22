@@ -14,7 +14,7 @@ kanji_radical:
 kanji_reading: 
 - DAI
 - TAI
-- oo(kii)
+- oo-kii
 kanji_meaning:
 - malaki
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
