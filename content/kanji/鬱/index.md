@@ -33,7 +33,7 @@ Ang kumplikadong radical na 鬯 ay "ceremonial wine" ang ibig sabihin. Kaya kung
 [//]: # (Don't edit the line below. ON-KUN READING code is automatically generated.)
 {{< kanji-reading >}}
 
-### COMPOUNDS
+### MEANING & WORDS
 
 #### ➊ **DEPRESYON**
   - [鬱](../鬱)[病](../病)　***utsubyō***　depresyon

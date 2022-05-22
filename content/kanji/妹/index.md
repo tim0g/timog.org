@@ -32,7 +32,7 @@ Ang 妹 ay binubuo ng [女](../女) (onna = babae) at [未](../未) (mada = hind
 [//]: # (Don't edit the line below. ON-KUN READING code is automatically generated.)
 {{< kanji-reading >}}
 
-### COMPOUNDS
+### MEANING & WORDS
 
 #### ➊ **Mas batang kapatid na babae**
   - [妹](../妹)[妹](../妹)　***shimai***　magkapatid na babae

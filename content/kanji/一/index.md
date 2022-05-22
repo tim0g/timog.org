@@ -35,7 +35,7 @@ Huwag isusulat nang tuwid na tuwid na parang dash (―). Bigyan na kaunting anga
 [//]: # (Don't edit the line below. ON-KUN READING code is automatically generated.)
 {{< kanji-reading >}}
 
-### COMPOUNDS
+### MEANING & WORDS
 
 #### ➊ **ARAW** (ng isang buwan)
   - [一](../一)[一](../一)　***ichinichi***　isang araw

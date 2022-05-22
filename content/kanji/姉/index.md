@@ -32,7 +32,7 @@ Ang 姉 ay binubuo ng [女](../女) (onna = babae) at [市](../市) (ichi = pale
 [//]: # (Don't edit the line below. ON-KUN READING code is automatically generated.)
 {{< kanji-reading >}}
 
-### COMPOUNDS
+### MEANING & WORDS
 
 #### ➊ **ATE**
   - [姉](../姉)[妹](../妹)　***shimai***　magkapatid na babae

@@ -477,7 +477,7 @@ small {
   height:150px;
 }
 
-#on-kun-reading, #compounds, #kun, #special-reading, #special-readings, #origin, #related, #related-kanji, #other {
+#on-kun-reading, #compounds, #meaning--words, #kun, #special-reading, #special-readings, #origin, #related, #related-kanji, #other {
   padding: 3px 10px;
   background-color: mistyrose;
   display: table;

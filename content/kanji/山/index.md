@@ -32,7 +32,7 @@ Huwag isulat nang tuwid na tuwid na parang bintana 🪟. Isulat ito nang medyo t
 [//]: # (Don't edit the line below. ON-KUN READING code is automatically generated.)
 {{< kanji-reading >}}
 
-### COMPOUNDS
+### MEANING & WORDS
 
 #### ➊ **BUNDOK**
 
