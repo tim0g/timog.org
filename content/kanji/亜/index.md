@@ -4,19 +4,17 @@ character: 亜
 description: "Kanji dictionary entry 亜: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/亜.gif"
-weight: 111
-frequency: 111
-kanji_grade: 1
-kanji_strokes: 1
+weight: 1210
+frequency: 1210
+kanji_grade: 8
+kanji_strokes: 7
 kanji_class: Jōyō
 kanji_jlpt: N1
 kanji_radical: 
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- A
 kanji_meaning:
-- malaki
+- Asya sub
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -24,13 +22,9 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/亜/index.md)**
+Ang 亜 ay karamihang ginagamit para ipahiwatig ang tunog ng ア lalo na sa mga pangalan ng banyagang lugar, kagaya ng 亜米利加 (アメリカ), 露西亜 (ロシア), o 亜細亜 (アジア).
 
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
-
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
- 
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+Siyempre katakana ang karamihang ginagamit para sa mga lugar na ganyan, at gagamit ka lang ng 亜米利加 para sa アメリカ kung may seryoso kang pantasya sa kanji o kaya ay galit ka lang sa katakana.
 
 ### ON-KUN READING
 
@@ -39,26 +33,26 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [亜](../亜)[亜](../亜)　***reading***　meaning
-  - [亜](../亜)[亜](../亜)　***reading***　meaning
-  - [亜](../亜)[亜](../亜)　***reading***　meaning
-  - [亜](../亜)[亜](../亜)　***reading***　meaning
+#### ➊ **Asya**
+  - [東](../東)[亜](../亜)　***tōa***　East Asia
+  
+#### ➊ **sub**
+  - [亜](../亜)[鉛](../鉛)　***aen***　zinc
+  - [亜](../亜)[麻](../麻)　***ama***　flax
+  - [亜](../亜)[種](../種)　***ashu***　subspecies
+  - [亜](../亜)[熱](../熱)[帯](../帯)　***anettai***　subtropics
 
-### SPECIAL READING
-  - [亜](../亜)[亜](../亜)　***reading***　meaning
 
 ### ORIGIN
 
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/亜)**
-<table class="kanji-table"><tr><td>
-<img src="60px-亜-bronze.svg.png">
-</td><td>▶</td><td>
-<img src="60px-亜-oracle.svg.png">
-</td><td>▶</td>
-<td class="kanji-origin">亜</td>
-</tr></table>
+Mula sa hindi regular na ginagamit na kanji [亞](../亞)
 
-### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [兄](../兄) [弟](../弟) [亜](../亜) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
+<table class="kanji-table"><tr><td>
+<img src="60px-亞-oracle.svg.png">
+</td><td>▶</td><td>
+<img src="60px-亞-bronze.svg.png">
+</td><td>▶</td><td>
+<img src="60px-亞-seal.svg.png">
+</td><td>▶</td>
+<td class="kanji-origin">亞</td>
+</tr></table>

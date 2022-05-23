@@ -51,10 +51,15 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 ### ORIGIN
 
 **[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/大)**
+
+Isang taong nakaunat ang mga braso, pinapakita kung gaano kalaki ang nahuli niyang isda (malaki).
+
 <table class="kanji-table"><tr><td>
-<img src="60px-大-bronze.svg.png">
+<img src="60px-大-oracle-zhouyuan.svg.png">
 </td><td>▶</td><td>
-<img src="60px-大-oracle.svg.png">
+<img src="60px-大-zhou.svg.png">
+</td><td>▶</td><td>
+<img src="60px-大-seal.svg.png">
 </td><td>▶</td>
 <td class="kanji-origin">大</td>
 </tr></table>
