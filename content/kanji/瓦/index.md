@@ -6,7 +6,7 @@ content_type: kanji
 featured_image: "/瓦.gif"
 weight: 111
 frequency: 111
-kanji_grade: 1
+kanji_grade: 0
 kanji_strokes: 1
 kanji_class: Jōyō
 kanji_jlpt: N1

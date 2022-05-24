@@ -498,20 +498,6 @@ ul {
   border-radius: 5px;
 }
 
-.container {
-  position: relative;
-  text-align: center;
-  float: left;
-  margin: 0 15px 0 0;
-}
-
-.text-block {
-  position: absolute;
-  bottom: -20px;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
 .kanji-table {
   border: 0px;
 }
@@ -522,4 +508,20 @@ ul {
 
 .kanji-origin {
   font-size: 55px;
+}
+
+.kanji-grade-main {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+}
+
+.kanji-grade-main li {
+  font-size: 1.47rem;
+  padding: 5px;
+}
+
+.kanji-grade-main li a{
+  color: #ff1a75;
 }

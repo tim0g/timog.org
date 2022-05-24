@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+  {{ partial "heading-single.html" . }}
+
+  {{ .Content }}
+
+  
+    {{ range $key, $taxonomy := .Site.Taxonomies.kanji_grade }}
+    <h2>GRADE {{ $key }}</h2>
+    <ul class="kanji-grade-main">
+        {{ range $taxonomy.Pages }}
+        <li><a href="{{ .Permalink}}">{{ .LinkTitle }}</a></li>
+        {{ end }}
+    </ul>
+    {{ end }}
+
+
+{{ end }}
