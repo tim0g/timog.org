@@ -50,7 +50,7 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### ORIGIN
 
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/愛)**
+**[Search Wiktionary. Delete this link after editing..](https://wiktionary.org/wiki/愛)**
 <table class="kanji-table"><tr><td>
 <img src="60px-愛-bronze.svg.png">
 </td><td>▶</td><td>
