@@ -519,7 +519,7 @@ ul {
 
 .kanji-grade-main li {
   font-size: 1.47rem;
-  padding: 5px;
+  padding: 0 10px 0 0;
 }
 
 .kanji-grade-main li a{
