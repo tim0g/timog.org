@@ -7,13 +7,12 @@
   
     {{ range $key, $taxonomy := .Site.Taxonomies.kanji_grade }}
     <h2>GRADE {{ $key }}</h2>
-    <p>
+    <ul class="kanji-grade-main">
         {{ range $taxonomy.Pages }}
-        <a href="{{ .Permalink}}">{{ .LinkTitle }}  </a>
+        <li><a href="{{ .Permalink}}">{{ .LinkTitle }}</a></li>
         {{ end }}
-    </p>
+    </ul>
     {{ end }}
-
 
 
 {{ end }}
