@@ -5,7 +5,10 @@ description: "Kanji Dictionary: search by meaning, reading, grade, JLPT level an
 {{< img src="tomo-kanji.jpg" alt="Tomo Kanji" >}}
 {{< caption >}}Tomo (友) Kanji by [@felipepelaquim](https://unsplash.com/photos/y6VMoH6921w){{< /caption >}}
 
-The first Tagalog Kanji Dictionary on the web!
+The first Tagalog Kanji Dictionary on the web! Search for kanji below:
+
+<input type="text" id="text" />
+<input type="button" id="btn" value="Go!" onClick="javascript: window.open('https://www.timog.org/kanji/' + document.getElementById('text').value);" />
 
 **This is work-in-progress.**
 
