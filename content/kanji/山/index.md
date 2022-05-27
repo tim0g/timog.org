@@ -21,11 +21,13 @@ chōon: "Ō ō Ū ū ’"
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
 {{< kanji-gif >}}
 
-Ang unang kanji ng 山本 (Japan) at ginagamit sa pagsusulat ng araw sa petsa, ito ang pinakamadalas na gamiting kanji sa lahat.
+Isa sa mga unang kanji na natututunan ng mga batang Hapon, isa rin ito sa mga kanji na kamukha ng kanilang ipinapahiwatig na bagay, kagaya ng [川](../川) (ilog) at [田](../田) (palayan). Karamihang ginagamit sa para sa pangalan ng mga bundok (kagaya ng Ingles na "Mount").
 
-Huwag isulat nang tuwid na tuwid na parang bintana 🪟. Isulat ito nang medyo tabingi ang mga pahalang na linya, parang bintana na natabingi ng lindol (marami sa Japan).
+Isa mga magasin sa Japan tungkol sa mountaineering ay ang Yama to Keikoku 山と渓谷 (Mountains and Valleys), mas kilala sa tawag na Yamakei ヤマケイ. Mayroon ding tinatawag na 日本百名山 (nihonhyakumeizan) o 100 Famous Mountains of Japan, listahan ng mga bundok na pinili ni Kyūya Fukada, isang sikat na mountaineer. 
 
-**Mnemonic:** "Araw sa labas ng bintana."
+Ang pinakamataas na bundok sa Japan ay ang sikat na 富士山 (fujisan), pero ang pangalawa ay ang hindi masyadong kilalang 北岳 (kitadake). Mapapansing ang Mount Fuji ay [山](../山) ang kanji sa dulo at ang Mount Kita naman ay ang magkahawig ng ibig sabihin na [岳](../岳).
+
+**Mnemonic:** "Bundok na may tatlong tuktok."
 
 ### ON-KUN READING
 
@@ -42,7 +44,8 @@ Huwag isulat nang tuwid na tuwid na parang bintana 🪟. Isulat ito nang medyo t
   - [鉱](../鉱)[山](../山)　***kōzan***　mina
   - [山](../山)[腹](../腹)　***sanpuku***　gilid ng bundok
   - [富](../富)[士](../士)[山](../山)　***fujisan***　Mount Fuji
-  - マヨン[山](../山)　***mayonsan***　Mayon Volcano
+  - [筑](../筑)[波](../波)[山](../山)　***tsukubasan***　[Mount Tsukuba](https://timog.org/winter-climb-of-snow-covered-mount-tsukuba/)
+  - [マヨン](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A8%E3%83%B3%E5%B1%B1)[山](../山)　***mayonsan***　Mayon Volcano
   - [岩](../鉱)[山](../山)　***iwayama***　mabatong bundok
   - [山](../山)を[登る](../登)　***yama wo noboru***　umakyat ng bundok
 
