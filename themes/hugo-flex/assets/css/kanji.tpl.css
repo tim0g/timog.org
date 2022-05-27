@@ -527,7 +527,8 @@ ul {
 }
 
 input[type=text] {
-  font-size: 2rem;
+  font-size: 30px;
+  width: 100px;
   border: solid thin #ccc;
   border-radius: 5px;
   background-color: white;
@@ -538,5 +539,5 @@ input[type=text] {
 }
 
 input[type=button] {
-  font-size: 2rem;
+  font-size: 30px;
 }
