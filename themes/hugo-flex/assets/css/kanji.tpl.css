@@ -527,17 +527,18 @@ ul {
 }
 
 input[type=text] {
-  font-size: 30px;
+  font-size: 1.5rem;
+  color: #a6a6a6;
   width: 100px;
   border: solid thin #ccc;
   border-radius: 5px;
   background-color: white;
-  background-image: url('/searchicon.png');
   background-position: 10px 10px;
   background-repeat: no-repeat;
-  padding-left: 40px;
+  padding-left: 8px;
+  margin: .5rem 0 1rem;
 }
 
 input[type=button] {
-  font-size: 30px;
+  font-size: 1.5rem;
 }
