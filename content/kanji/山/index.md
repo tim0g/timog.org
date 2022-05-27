@@ -23,9 +23,9 @@ chōon: "Ō ō Ū ū ’"
 
 Isa sa mga unang kanji na natututunan ng mga batang Hapon, isa rin ito sa mga kanji na kamukha ng kanilang ipinapahiwatig na bagay, kagaya ng [川](../川) (ilog) at [田](../田) (palayan). Karamihang ginagamit sa para sa pangalan ng mga bundok (kagaya ng Ingles na "Mount").
 
-Isa mga magasin sa Japan tungkol sa mountaineering ay ang Yama to Keikoku 山と渓谷 (Mountains and Valleys), mas kilala sa tawag na Yamakei ヤマケイ. Mayroon ding tinatawag na 日本百名山 (nihonhyakumeizan) o 100 Famous Mountains of Japan, listahan ng mga bundok na pinili ni Kyūya Fukada, isang sikat na mountaineer. 
+Isa sa mga magasin sa Japan tungkol sa mountaineering ay ang Yama to Keikoku (山と渓谷) Mountains and Valleys, mas kilala sa tawag na Yamakei ヤマケイ. Mayroon ding tinatawag na Nihon Hyakumeizan (日本百名山) o 100 Famous Mountains of Japan, listahan ng mga bundok na pinili ni Kyūya Fukada, isang kilalang na mountaineer. 
 
-Ang pinakamataas na bundok sa Japan ay ang sikat na 富士山 (fujisan), pero ang pangalawa ay ang hindi masyadong kilalang 北岳 (kitadake). Mapapansing ang Mount Fuji ay [山](../山) ang kanji sa dulo at ang Mount Kita naman ay ang magkahawig ng ibig sabihin na [岳](../岳).
+Ang pinakamataas na bundok sa Japan ay ang sikat na [富](../富)[士](../士)[山](../山) (fujisan), pero ang pangalawa ay ang hindi masyadong kilalang [北](../北)[岳](../岳) (kitadake). Mapapansing ang Mount Fuji ay [山](../山) ang kanji sa dulo at ang Mount Kita naman ay ang magkahawig ng ibig sabihin na [岳](../岳) (magkapatong na [丘](../丘) at [山](../山).
 
 **Mnemonic:** "Bundok na may tatlong tuktok."
 
