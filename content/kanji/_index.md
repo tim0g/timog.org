@@ -2,14 +2,15 @@
 title: Kanji Dictionary
 description: "Kanji Dictionary: search by meaning, reading, grade, JLPT level and strokes"
 ---
-{{< img src="tomo-kanji.jpg" alt="Tomo Kanji" >}}
-{{< caption >}}Tomo (友) Kanji by [@felipepelaquim](https://unsplash.com/photos/y6VMoH6921w){{< /caption >}}
-
-The first Tagalog Kanji Dictionary on the web! Search for kanji below:
+Ang **Tagalog Kanji Dictionary Project**! Para mag-search, isulat ang kanji at i-click ang Go!
 
 <input type="text" id="text" />
 <input type="button" id="btn" value="Go!" onClick="javascript: window.open('https://www.timog.org/kanji/' + document.getElementById('text').value);" />
 
+Maari ding mag-search ayon sa [`Grade`](https://timog.org/kanji_grade/), [`JLPT Level`](https://timog.org/kanji_jlpt/), [`Reading`](https://timog.org/kanji_reading/) o [`Strokes`](https://timog.org/kanji_strokes/).
+
 **This is work-in-progress.**
 
-Ang mga kanji na nasa "Grade 0" ay mga hindi pa nalalagyan ng tamang information. Puwede kang tumulong sa pang-edit at paglagay ng tamang info: pumunta sa page ng kanji at i-click ang edit link.
+Ang mga kanji na nasa "Grade 0" ay hindi pa nalalagyan ng tamang entry. Puwede kang tumulong sa pag-edit at paglagay ng tamang info: pumunta sa page ng kanji at i-click ang edit link.
+
+Ang Tagalog Kanji Dictionary Project, kagaya ng buong Timog.org, ay nasa [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/) license.
