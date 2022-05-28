@@ -22,7 +22,7 @@ chōon: "Ō ō Ū ū ’"
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
 {{< kanji-gif >}}
 
-Ang Jōyō kanji na may pinakamaraming strokes. Hindi ito palaging ginagamit sa mga salita dahil nadedepres ang mga tao kapag nakikita ang kumplikadong kanji na ito. Kunyari ang sakit na depresyon (utsubyō) ay karamihang sinusulat na うつ病, hindi 鬱病.
+Ang Jōyō kanji na may pinakamaraming guhit. Hindi ito palaging ginagamit sa mga salita dahil nadedepres ang mga tao kapag nakikita ang kumplikadong kanji na ito. Kunyari ang sakit na depresyon (utsubyō) ay karamihang sinusulat na うつ病, hindi 鬱病.
 
 Ang kumplikadong radical na 鬯 ay "ceremonial wine" ang ibig sabihin. Kaya kung matibay ka at gusto mo talagang matutunang isulat ang kanji na ito ay gamitin ang pangsaulo sa ibaba.
 

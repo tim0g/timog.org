@@ -2,7 +2,7 @@
                
 <span class="article-category">
   {{ range (.GetTerms "kanji_radical") }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
-  {{ range (.GetTerms "kanji_strokes") }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}-strokes</a>{{ end }}
+  {{ range (.GetTerms "kanji_strokes") }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}-guhit</a>{{ end }}
   {{ range (.GetTerms "kanji_grade") }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
   {{ range (.GetTerms "kanji_class") }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
   {{ range (.GetTerms "kanji_jlpt") }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}               
