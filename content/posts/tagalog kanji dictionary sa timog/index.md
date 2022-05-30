@@ -1,9 +1,9 @@
 ---
-title: "Kanji dictionary sa Timog"
+title: "Tagalog kanji dictionary sa Timog"
 date: 2022-05-29 00:00:00
 author: "Leon Timog"
 author_url: "/profile/leon-timog"
-description: "Kanji dictionary sa Timog"
+description: "Tagalog kanji dictionary in Timog"
 content_type: blog
 featured_image: "/kanji-character-miki-yoshihito.jpg"
 categories:

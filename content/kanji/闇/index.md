@@ -4,19 +4,20 @@ character: 闇
 description: "Kanji dictionary entry 闇: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/闇.gif"
-weight: 111
-frequency: 111
-kanji_grade: 0
-kanji_strokes: 1
+weight: 1969
+frequency: 1969
+kanji_grade: 8
+kanji_strokes: 17
 kanji_class: Jōyō
 kanji_jlpt: N1
 kanji_radical: 
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- AN
+- "ON"
+- yami
+- kura-i
 kanji_meaning:
-- malaki
+- dilim
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -24,13 +25,13 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/闇/index.md)**
+Katulad ng hitsura ng mas pamilyar na [暗](../暗) (dilim), at parehong may kanji ng [音](../音) (tunog).
 
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
+Nakasulat sa pangalawang pangungusap ng Genesis: "At ang lupa ay walang anyo at walang laman; at ang kadiliman ay sumasa ibabaw ng kalaliman..."
 
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
+Sa Nihongo: 地は形なく、むなしく、やみが淵のおもてにあり、(Ji wa katachi naku, munashiku, yami ga fuchi no omote ni ari...)
  
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Tunog sa dilim ng pinto."
 
 ### ON-KUN READING
 
@@ -39,26 +40,22 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [闇](../闇)[闇](../闇)　***reading***　meaning
-  - [闇](../闇)[闇](../闇)　***reading***　meaning
-  - [闇](../闇)[闇](../闇)　***reading***　meaning
-  - [闇](../闇)[闇](../闇)　***reading***　meaning
-
-### SPECIAL READING
-  - [闇](../闇)[闇](../闇)　***reading***　meaning
+#### ➊ **Dilim**
+  - [暁](../暁)[闇](../闇)　***gyōan***　dilim bago magbukangliwayway
+  - [闇](../闇)　***yami***　kadiliman
+  - [闇](../闇)[夜](../夜)　***yamiyo***　gabing walang buwan o bituin
+  - [五](../五)[月](../月)[闇](../闇)　***satsukiyami***　madilim na gabi sa tag-ulan
+  - [暗](../暗)[闇](../闇)が[怖い](../怖)　***kurayami ga kowai***　takot sa dilim
 
 ### ORIGIN
 
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/闇)**
 <table class="kanji-table"><tr><td>
-<img src="60px-闇-bronze.svg.png">
+<img src="60px-闇-seal.svg.png">
 </td><td>▶</td><td>
-<img src="60px-闇-oracle.svg.png">
+<img src="60px-闇-bigseal.svg.png">
 </td><td>▶</td>
 <td class="kanji-origin">闇</td>
 </tr></table>
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [兄](../兄) [弟](../弟) [闇](../闇) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
+- Magkatulad ang ibig sabihin: [暗](../暗)
