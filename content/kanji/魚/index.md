@@ -4,19 +4,19 @@ character: 魚
 description: "Kanji dictionary entry 魚: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/魚.gif"
-weight: 111
-frequency: 111
-kanji_grade: 0
-kanji_strokes: 1
+weight: 1208
+frequency: 1208
+kanji_grade: 2
+kanji_strokes: 11
 kanji_class: Jōyō
-kanji_jlpt: N1
+kanji_jlpt: N4
 kanji_radical: 
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- GYO
+- uo
+- sakana
 kanji_meaning:
-- malaki
+- isda
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -24,13 +24,11 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/魚/index.md)**
+Isa sa mga unang kanji na natututunan sa elementary school (Grade2), pero madalang na nakikita sa totoong gamit kumpara sa ibang kanji--marahil dahil din sa normal na sinusulat din ito nang hiragana (さかな).
 
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
-
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
+Karamihang ginagamit nang mag-isa, pero ginagamit din sa mga compound na kagaya ng [金](../金)[魚](../魚) (kingyo = goldfish) o kaya ay [魚](../魚)[介](../介)[類](../類)　(gyokairui = seafood).
  
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Isdang apat ang buntot."
 
 ### ON-KUN READING
 
@@ -39,26 +37,34 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [魚](../魚)[魚](../魚)　***reading***　meaning
-  - [魚](../魚)[魚](../魚)　***reading***　meaning
-  - [魚](../魚)[魚](../魚)　***reading***　meaning
-  - [魚](../魚)[魚](../魚)　***reading***　meaning
+#### ➊ **ISDA**
+  - [魚](../魚)[類](../類)　***gyorui***　mga isda
+  - [魚](../魚)[介](../介)[類](../類)　***gyokairui***　seafood
+  - [鮮](../鮮)[魚](../魚)　***sengyo***　sariwang isda
+  - [金](../金)[魚](../魚)　***kingyo***　goldfish
+  - [人](../人)[魚](../魚)　***ningyo***　sirena
+  - [飛び](../飛)[魚](../魚)　***tobiuo***　flying fish
+  - [川](../川)[魚](../魚)　***kawauo***　isdang ilog
+  - [魚](../魚)[市](../市)[場](../場)　***uoichiba***　palengke ng isda
+  - [魚](../魚)[屋](../屋)　***sakanaya***　tindahan ng isda
+  - [魚](../魚)[釣り](../釣)　***sakanatsuri***　pamimingwit ng isda
+  - [焼き](../焼)[魚](../魚)　***yakizakana***　inihaw na isda
+  - [干し](../干)[魚](../魚)　***hoshizakana***　daing
+  - [新](../新)[鮮](../鮮)な[魚](../魚)　***shinsenna sakana***　sariwang isda
 
 ### SPECIAL READING
-  - [魚](../魚)[魚](../魚)　***reading***　meaning
 
+  - [雑](../雑)[魚](../魚)　***zako***　maliit o hindi kaaya-ayang isda
+  
 ### ORIGIN
 
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/魚)**
 <table class="kanji-table"><tr><td>
 <img src="60px-魚-bronze.svg.png">
 </td><td>▶</td><td>
-<img src="60px-魚-oracle.svg.png">
+<img src="60px-魚-seal.svg.png">
 </td><td>▶</td>
 <td class="kanji-origin">魚</td>
 </tr></table>
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [兄](../兄) [弟](../弟) [魚](../魚) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
+- Magkatulad ng hitsura, pagbasa at ibig sabihin: [漁](../漁)
