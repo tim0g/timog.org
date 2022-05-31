@@ -17,7 +17,7 @@ chōon: Ā Ī Ū Ē Ō ā ī ū ē ō ’
 ---
 ![Kanji character artworks](kanji-character-miki-yoshihito.jpg  "Kanji character artworks by [Miki Yoshihito](https://www.flickr.com/photos/mujitra/8564010431) (CC-BY-2.0)")
 
-Marami akong kailangang gawin, pero dahil mahilig akong mag-procrastinate, noong isang araw ay naisip kong gumawa ng parang [kanji dictionary](https://timog.org/kanji) dito sa Timog, para maubos lalo ang aking oras.
+Marami akong kailangang gawin, pero dahil mahilig akong mag-procrastinate, noong isang araw ay naisip kong gumawa ng parang [kanji dictionary](/kanji) dito sa Timog, para maubos lalo ang aking oras.
 
 Siguro iniisip mo, e andami nang kanji dictionary sa internet!
 

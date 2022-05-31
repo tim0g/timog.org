@@ -4,33 +4,30 @@ character: 飢
 description: "Kanji dictionary entry 飢: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/飢.gif"
-weight: 111
-frequency: 111
-kanji_grade: 0
-kanji_strokes: 1
+weight: 1609
+frequency: 1609
+kanji_grade: 8
+kanji_strokes: 10
 kanji_class: Jōyō
 kanji_jlpt: N1
 kanji_radical: 
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- KI
+- u-eru
 kanji_meaning:
-- malaki
-chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
+- gutom
+chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’ ➊ ➋ ➌ ➍ ➎"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
 {{< kanji-gif >}}
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/飢/index.md)**
+Pinagsamang [食](../食) (kumain) at [几](../几) (mesa), ang ibig sabihin ay gutom dahil walang makain.
 
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
-
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
+Ito at ang magkapareho ng KUN reading na [餓](../餓) (ueru) ay parehong "gutom" ang ibig sabihin at pinapagsama sa compound na [飢](../飢)[餓](../餓) (kiga) na ang ibig sabihin ay kagutuman o taggutom.
  
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Gutom at walang pagkain sa tabi ng mesa."
 
 ### ON-KUN READING
 
@@ -39,26 +36,13 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [飢](../飢)[飢](../飢)　***reading***　meaning
-  - [飢](../飢)[飢](../飢)　***reading***　meaning
-  - [飢](../飢)[飢](../飢)　***reading***　meaning
-  - [飢](../飢)[飢](../飢)　***reading***　meaning
-
-### SPECIAL READING
-  - [飢](../飢)[飢](../飢)　***reading***　meaning
-
-### ORIGIN
-
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/飢)**
-<table class="kanji-table"><tr><td>
-<img src="60px-飢-bronze.svg.png">
-</td><td>▶</td><td>
-<img src="60px-飢-oracle.svg.png">
-</td><td>▶</td>
-<td class="kanji-origin">飢</td>
-</tr></table>
+#### ➊ **MAGUTOM**
+  - [飢](../飢)[餓](../餓)　***kiga***　kagutuman, taggutom
+  - [飢](../飢)[饉](../饉)　***kikin***　taggutom, kakulangan ng pagkain
+  - [飢](../飢)[民](../民)　***kimin***　nagugutom na mga tao
+  - [飢](../飢)[渇](../渇)　***kikatsu***　gutom at uhaw
+  - [飢え](../飢)に[死ぬ](../死)　***ue ni shinu***　mamatay sa gutom
+  - [愛](../愛)[情](../情)に[飢える](../飢)　***aijō ni ueru***　magutom sa pagmamahal
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [兄](../兄) [弟](../弟) [飢](../飢) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
+  - Magkatulad ng ibig sabihin: [餓](../餓)

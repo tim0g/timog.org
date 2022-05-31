@@ -50,11 +50,10 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### ORIGIN
 
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/雲)**
 <table class="kanji-table"><tr><td>
-<img src="60px-雲-bronze.svg.png">
+<img src="60px-雲-bigseal.svg.png">
 </td><td>▶</td><td>
-<img src="60px-雲-oracle.svg.png">
+<img src="60px-雲-seal.svg.png">
 </td><td>▶</td>
 <td class="kanji-origin">雲</td>
 </tr></table>

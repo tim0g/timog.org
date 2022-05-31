@@ -22,9 +22,9 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-Ang 亜 ay karamihang ginagamit para ipahiwatig ang tunog ng ア lalo na sa mga pangalan ng banyagang lugar, kagaya ng 亜米利加 (アメリカ), 露西亜 (ロシア), o 亜細亜 (アジア).
+Ang 亜 ay karamihang ginagamit para ipahiwatig ang tunog ng A (ア) lalo na sa mga pangalan ng banyagang lugar, kagaya ng 亜米利加 (アメリカ), 露西亜 (ロシア), o 亜細亜 (アジア).
 
-Siyempre katakana ang karamihang ginagamit para sa mga lugar na ganyan, at gagamit ka lang ng 亜米利加 para sa アメリカ kung may seryoso kang pantasya sa kanji o kaya ay galit ka lang sa katakana.
+Sa kasalukuyan ay katakana na ang karamihang ginagamit para sa mga ganitong lugar, kaya hindi madalas ang paglabas sa kanji na ito mga babasahin.
 
 ### ON-KUN READING
 
@@ -36,7 +36,7 @@ Siyempre katakana ang karamihang ginagamit para sa mga lugar na ganyan, at gagam
 #### ➊ **Asya**
   - [東](../東)[亜](../亜)　***tōa***　East Asia
   
-#### ➊ **sub**
+#### ➋ **sub**
   - [亜](../亜)[鉛](../鉛)　***aen***　zinc
   - [亜](../亜)[麻](../麻)　***ama***　flax
   - [亜](../亜)[種](../種)　***ashu***　subspecies

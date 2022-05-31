@@ -4,19 +4,18 @@ character: 餓
 description: "Kanji dictionary entry 餓: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/餓.gif"
-weight: 111
-frequency: 111
-kanji_grade: 0
-kanji_strokes: 1
+weight: 1842
+frequency: 1842
+kanji_grade: 8
+kanji_strokes: 15
 kanji_class: Jōyō
 kanji_jlpt: N1
 kanji_radical: 
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- GA
+- u-eru
 kanji_meaning:
-- malaki
+- gutom
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -24,41 +23,25 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/餓/index.md)**
+Pinagsamang [食](../食) (kumain) at [我](../我) (ako), ang ibig sabihin ay gutom dahil walang makain.
 
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
-
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
+Ito at ang magkapareho ng KUN reading na [飢](../飢) (ueru) ay parehong "gutom" ang ibig sabihin at pinapagsama sa compound na [飢](../飢)[餓](../餓) (kiga) na ang ibig sabihin ay kagutuman o taggutom.
  
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Gutom at walang akong makain."
 
 ### ON-KUN READING
+
+Hindi normal na ginagamit ang KUN reading sa ibaba.
 
 [//]: # (Don't edit the line below. ON-KUN READING code is automatically generated.)
 {{< kanji-reading >}}
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [餓](../餓)[餓](../餓)　***reading***　meaning
-  - [餓](../餓)[餓](../餓)　***reading***　meaning
-  - [餓](../餓)[餓](../餓)　***reading***　meaning
-  - [餓](../餓)[餓](../餓)　***reading***　meaning
-
-### SPECIAL READING
-  - [餓](../餓)[餓](../餓)　***reading***　meaning
-
-### ORIGIN
-
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/餓)**
-<table class="kanji-table"><tr><td>
-<img src="60px-餓-bronze.svg.png">
-</td><td>▶</td><td>
-<img src="60px-餓-oracle.svg.png">
-</td><td>▶</td>
-<td class="kanji-origin">餓</td>
-</tr></table>
-
+#### ➊ **MAGUTOM**
+  - [餓](../餓)[死](../餓)　***gashi***　mamatay sa gutom
+  - [餓](../餓)[鬼](../鬼)　***gaki***　gutom na multo, malikot na bata
+  - [飢](../飢)[餓](../餓)　***kiga***　kagutuman, taggutom
+  
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [兄](../兄) [弟](../弟) [餓](../餓) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
+  - Magkatulad ng ibig sabihin: [飢](../飢)

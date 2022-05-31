@@ -6,7 +6,7 @@
   {{ range (.GetTerms "kanji_grade") }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
   {{ range (.GetTerms "kanji_class") }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
   {{ range (.GetTerms "kanji_jlpt") }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}               
-  {{ with .Params.frequency }}<a href="http://timog.org/kanji/frequency/">FREQ{{ . }}</a>{{ end }}</span>
+  {{ with .Params.frequency }}<a href="/kanji_frequency/">FREQ{{ . }}</a>{{ end }}</span>
 
 <h1 class="Heading-title"><span itemprop="name">{{ .Title }} {{ range .Page.Params.kanji_meaning }}{{ . }} {{ end }}</span></h1>
 
