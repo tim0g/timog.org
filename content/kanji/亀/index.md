@@ -4,33 +4,28 @@ character: 亀
 description: "Kanji dictionary entry 亀: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/亀.gif"
-weight: 111
-frequency: 111
-kanji_grade: 0
-kanji_strokes: 1
+weight: 1297
+frequency: 1297
+kanji_grade: 8
+kanji_strokes: 11
 kanji_class: Jōyō
 kanji_jlpt: N1
 kanji_radical: 
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- KI
+- kame
 kanji_meaning:
-- malaki
+- pagong
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
 {{< kanji-gif >}}
 
-[//]: # (Edit below this line.)
+Ang pangalan ng sikat na gumagawa ng toyo (キッコーマン) ay pagbasa sa salitang [亀](../亀)[甲](../甲)[萬](../萬) (pagong + talukab + sampung libo). Makikita din sa hexagon na logo ng Kikkoman ang hugis ng talukap ng pagong na may 萬 sa gitna. (Ang 萬 ay lumang kanji para sa [万](../万).) 
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/亀/index.md)**
-
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
-
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
+Ang salitang kame (pagong) o umigame (pawikan) ay karaniwang sinusulat nang katakana ([カメ](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A1)) at ([ウミガメ](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%9F%E3%82%AC%E3%83%A1)), at bihira nang kanji.
  
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Dalawang palayan ang nilakad ng pagong."
 
 ### ON-KUN READING
 
@@ -39,26 +34,26 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [亀](../亀)[亀](../亀)　***reading***　meaning
-  - [亀](../亀)[亀](../亀)　***reading***　meaning
-  - [亀](../亀)[亀](../亀)　***reading***　meaning
-  - [亀](../亀)[亀](../亀)　***reading***　meaning
-
-### SPECIAL READING
-  - [亀](../亀)[亀](../亀)　***reading***　meaning
+#### ➊ **PAGONG**
+  - [亀](../亀)[裂](../裂)　***kiretsu***　bitak, lamat
+  - [亀](../亀)[甲](../甲)　***kikkō***　talukab ng pagong
+  - [亀](../亀)[頭](../頭)　***kitō***　ulo ng titi
+  - [亀](../亀)　***kame***　pagong
+  - [海](../海)[亀](../亀)　***umigame***　pawikan
 
 ### ORIGIN
 
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/亀)**
+Ginawang simple mula sa Chinese character na 龜.
+
 <table class="kanji-table"><tr><td>
-<img src="60px-亀-bronze.svg.png">
+<img src="60px-龜-bronze.svg.png">
 </td><td>▶</td><td>
-<img src="60px-亀-oracle.svg.png">
+<img src="60px-龜-seal.svg.png">
 </td><td>▶</td>
+<td class="kanji-origin">龜</td>
+<td>▶</td>
 <td class="kanji-origin">亀</td>
 </tr></table>
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [兄](../兄) [弟](../弟) [亀](../亀) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
+- Ahas [蛇](../蛇), dragon [竜](../竜)
