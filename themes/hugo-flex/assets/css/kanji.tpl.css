@@ -438,18 +438,11 @@ small {
 }
 
 .kanji, .kanji-g7, .kanji-g8, .kanji-g9 {
-    padding: 0;
     border: 10px solid #8a8a8a;
-    border-radius: 15px;
-    margin: 0 15px 0 0;
-  	float: left;
-    width:150px;
-    height:150px;
 }
 
-.kanji-g1 {
+.kanji, .kanji-g1, .kanji-g2, .kanji-g3, .kanji-g4, .kanji-g5, .kanji-g6, .kanji-g7, .kanji-g8, .kanji-g9 {
   padding: 0;
-  border: 10px solid #5cbdec;
   border-radius: 15px;
   margin: 0 15px 0 0;
   float: left;
@@ -457,25 +450,12 @@ small {
   height:150px;
 }
 
-.kanji-g2 {
-  padding: 0;
-  border: 10px solid #ec5cbb;
-  border-radius: 15px;
-  margin: 0 15px 0 0;
-  float: left;
-  width:150px;
-  height:150px;
-}
-
-.kanji-g3 {
-  padding: 0;
-  border: 10px solid #ec995c;
-  border-radius: 15px;
-  margin: 0 15px 0 0;
-  float: left;
-  width:150px;
-  height:150px;
-}
+.kanji-g1 {border: 10px solid #5cbdec;}
+.kanji-g2 {border: 10px solid #ec5cbb;}
+.kanji-g3 {border: 10px solid #ec995c;}
+.kanji-g4 {border: 10px solid #6dec5c;}
+.kanji-g5 {border: 10px solid #b873e8;}
+.kanji-g6 {border: 10px solid #6dd7e6;}
 
 #on-kun-reading, #compounds, #meaning--words, #kun, #special-reading, #special-readings, #origin, #related, #related-kanji, #other {
   padding: 3px 10px;

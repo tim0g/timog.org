@@ -4,19 +4,18 @@ character: 永
 description: "Kanji dictionary entry 永: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/永.gif"
-weight: 111
-frequency: 111
-kanji_grade: 0
-kanji_strokes: 1
+weight: 694
+frequency: 694
+kanji_grade: 5
+kanji_strokes: 5
 kanji_class: Jōyō
-kanji_jlpt: N1
-kanji_radical: 
+kanji_jlpt: N2
+kanji_radical: 水
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- EI
+- naga-i
 kanji_meaning:
-- malaki
+- walang hanggan
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -24,13 +23,13 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/永/index.md)**
+Magkatulad ng hitsura ng [水](../水) (tubig) at [氷](../氷) (yelo), mas may kaugnayan ito sa kanji ng [長](../長) (mahaba).
 
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
+Para sa matatagal na sa Japan, pamilyar ang salitang [永](../永)[住](../住) (eijū) o permanent residence. Kapag isinama ito sa [眠](../眠) (tulog), makakabuo ng [永](../永)[眠](../眠) (eimin), magalang na salita para sa pagkamatay.
 
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
+Pansinin na lima ang guhit nito, hindi apat.
  
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Ang tubig, sa mahabang panahon ay nagiging yelo."
 
 ### ON-KUN READING
 
@@ -39,26 +38,14 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [永](../永)[永](../永)　***reading***　meaning
-  - [永](../永)[永](../永)　***reading***　meaning
-  - [永](../永)[永](../永)　***reading***　meaning
-  - [永](../永)[永](../永)　***reading***　meaning
-
-### SPECIAL READING
-  - [永](../永)[永](../永)　***reading***　meaning
-
-### ORIGIN
-
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/永)**
-<table class="kanji-table"><tr><td>
-<img src="60px-永-bronze.svg.png">
-</td><td>▶</td><td>
-<img src="60px-永-oracle.svg.png">
-</td><td>▶</td>
-<td class="kanji-origin">永</td>
-</tr></table>
+#### ➊ **WALANG HANGGAN**
+  - [永](../永)[遠](../遠)　***eien***　walang hangganan
+  - [永](../永)[住](../住)　***eijū***　permanent residence
+  - [永](../永)[久](../久)　***eikyū***　walang katapusan
+  - [永](../永)[眠](../眠)　***eimin***　walang hanggang tulog, kamatayan
+  - [永](../永)[寿](../寿)　***eiju***　mahabang buhay
+  - [永い](../永)　***nagai***　mahaba, walang hangganan
+  - [永](../永)[年](../年)　***naganen***　mahabang panahon, maraming taon
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [兄](../兄) [弟](../弟) [永](../永) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
+- Magkatulad ng ibig sabihin at pareho ng KUN reading: [長](../長)
