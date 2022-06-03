@@ -21,7 +21,7 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
 {{< kanji-gif >}}
 
-Ang pangalan ng sikat na gumagawa ng toyo (キッコーマン) ay pagbasa sa salitang [亀](../亀)[甲](../甲)[萬](../萬) (pagong + talukab + sampung libo). Makikita din sa hexagon na logo ng Kikkoman ang hugis ng talukap ng pagong na may 萬 sa gitna. (Ang 萬 ay lumang kanji para sa [万](../万).) 
+Ang pangalan ng sikat na gumagawa ng toyo (キッコーマン) ay pagbasa sa salitang [亀](../亀)[甲](../甲)[萬](../萬) (pagong + talukab + sampung libo). Makikita din sa hexagon na [logo ng Kikkoman](https://www.kikkoman.com/en/corporate/about/group/soysauce.html) ang hugis ng talukab ng pagong na may 萬 sa gitna. (Ang 萬 ay lumang kanji para sa [万](../万).) 
 
 Ang salitang kame (pagong) o umigame (pawikan) ay karaniwang sinusulat nang katakana ([カメ](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A1)) at ([ウミガメ](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%9F%E3%82%AC%E3%83%A1)), at bihira nang kanji.
  
@@ -37,13 +37,13 @@ Ang salitang kame (pagong) o umigame (pawikan) ay karaniwang sinusulat nang kata
 #### ➊ **PAGONG**
   - [亀](../亀)[裂](../裂)　***kiretsu***　bitak, lamat
   - [亀](../亀)[甲](../甲)　***kikkō***　talukab ng pagong
-  - [亀](../亀)[頭](../頭)　***kitō***　ulo ng titi
+  - [亀](../亀)[頭](../頭)　***kitō***　ulo ng ari ng lalaki
   - [亀](../亀)　***kame***　pagong
   - [海](../海)[亀](../亀)　***umigame***　pawikan
 
 ### ORIGIN
 
-Ginawang simple mula sa Chinese character na 龜.
+Simplified na kanji mula sa Chinese character na [龜](../龜).
 
 <table class="kanji-table"><tr><td>
 <img src="60px-龜-bronze.svg.png">
