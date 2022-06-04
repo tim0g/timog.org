@@ -4,19 +4,19 @@ character: 丈
 description: "Kanji dictionary entry 丈: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/丈.gif"
-weight: 111
-frequency: 111
-kanji_grade: 0
-kanji_strokes: 1
+weight: 1251
+frequency: 1251
+kanji_grade: 8
+kanji_strokes: 3
 kanji_class: Jōyō
 kanji_jlpt: N1
 kanji_radical: 
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- JŌ
+- take
+- dake
 kanji_meaning:
-- malaki
+- matibay
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -24,13 +24,9 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/丈/index.md)**
-
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
-
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
+Pamilyar bilang pangalawang kanji ng 大丈夫 (daijōbu=ligtas), ito rin ang kanji ng だけ (dake=lang) na sa ngayon ay palaging sinusulat nang hiragana lang.
  
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Matibay ang malaking bali ang paa."
 
 ### ON-KUN READING
 
@@ -39,26 +35,26 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [丈](../丈)[丈](../丈)　***reading***　meaning
-  - [丈](../丈)[丈](../丈)　***reading***　meaning
-  - [丈](../丈)[丈](../丈)　***reading***　meaning
-  - [丈](../丈)[丈](../丈)　***reading***　meaning
+#### ➊ **MATIBAY**
+  - [丈](../丈)[夫](../夫)な　***jōbuna***　matibay, malusog
+  - [頑](../頑)[丈](../丈)な　***ganjōna***　matatag, matibay
+  - [気](../気)[丈](../丈)な　***kijōna***　matapang, malakas
+  - [大](../大)[丈](../丈)[夫](../夫)　***daijōbu***　ligtas, sigurado
+  - [偉](../偉)[丈](../丈)[丈](../丈)　***ijōfu***　dakilang tao, bayani
 
-### SPECIAL READING
-  - [丈](../丈)[丈](../丈)　***reading***　meaning
+#### ➋ **SUKAT**
+  - [丈](../丈)　***take***　tangkad, haba, sukat
+  - [丈](../丈)[比べ](../比)　***takekurabe***　paghambing ng tangkad
+  - [着](../着)[丈](../丈)　***kitake***　haba ng damit
+  - [草](../草)[丈](../丈)　***kusatake***　tangkad ng halaman
+  - [少し](../少)[丈](../丈)^ 　 ***sukoshi dake***　kaunti lang
 
 ### ORIGIN
 
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/丈)**
 <table class="kanji-table"><tr><td>
 <img src="60px-丈-bronze.svg.png">
 </td><td>▶</td><td>
-<img src="60px-丈-oracle.svg.png">
+<img src="60px-丈-seal.svg.png">
 </td><td>▶</td>
 <td class="kanji-origin">丈</td>
 </tr></table>
-
-### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [丈](../丈) [弟](../弟) [丈](../丈) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
