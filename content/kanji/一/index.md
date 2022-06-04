@@ -15,7 +15,7 @@ kanji_reading:
 - ICHI
 - ITSU
 - hito
-- hito(tsu)
+- hito-tsu
 - kazu
 kanji_meaning:
 - isa
@@ -37,45 +37,35 @@ Huwag isusulat nang tuwid na tuwid na parang dash (―). Bigyan na kaunting anga
 
 ### MEANING & WORDS
 
-#### ➊ **ARAW** (ng isang buwan)
-  - [一](../一)[一](../一)　***ichinichi***　isang araw
-  - [一](../一)[月](../月)[一](../一)[五](../五)[一](../一)　***ichigatsu jūgonichi***　Enero 15
-  - [平](../平)[一](../一)　***heijitsu***　weekday
-  - [本](../本)[一](../一)　***honjitsu***　ngayong araw 
-  - [一](../一)[一](../一)　***hinichi***　petsa
-  - [一](../一)[付](../付)　***hizuke***　petsa
-  - [一](../一)[替わり](../替)　***higawari***　nagbabago araw-araw
-  - [九](../九)[月](../月)[四](../四)[一](../一)　***kugatsu yokka***　Setyembre 4
+#### ➊ **ISA, UNA**
+  - [一](../一)[番](../番)　***ichiban***　number one, pinaka...
+  - [一](../一)[日](../日)　***ichinichi***　isang araw
+  - [一](../一)[夜](../夜)　***ichiya***　isang gabi
+  - [一](../一)[月](../月)　***ichigatsu***　January
+  - [一](../一)[時](../時)　***ichiji***　ala-una
+  - [一](../一)[千](../千)　***issen***　isang libo
+  - [第](../第)[一](../一)　***daiichi***　una
+  - [一](../一)[瞬](../瞬)　***isshun***　sandali
+  - [一](../一)[括](../活)[払い](../払)　***ikkatsubarai***　isang beses na bayaran
+  - [一](../一)[部](../部)　***ichibu***　isang bahagi
+  - [一](../一)[生](../生)[懸](../懸)[命](../命)　***ishōkenmei***　(gawin nang) lahat ng makakaya
   
+#### ➋ **PAREHO**
+  - [均](../均)[一](../一)　***kin-itsu***　pare-pareho, magkakatulad
+  - [一](../一)[致](../致)　***itchi***　magkasundo, magkaisa
+  - [一](../一)[緒](../緒)　***issho***　magkasama
 
-#### ➋ **ARAW** (hindi gabi)
-  - [一](../一)[夜](../夜)　***nichiya***　araw at gabi
-  - [一](../一)[中](../中)　***nitchū***　sa araw
-  
-#### ➌ **ARAW** (bituin)
-  - [一](../一)[食](../食)　***nisshoku***　solar eclipse
-  - [一](../一)[光](../光)　***nikkō***　liwanag ng araw
-  - [一](../一)[焼け](../焼)　***hiyake***　sunburn
-  - [一](../一)の[丸](../丸)　***hinomaru***　Rising Sun flag
-  - [一](../一)の[出](../出)　***hinode***　pagsikat ng araw
-  - [朝](../朝)[一](../一)　***asahi***　umagang araw
+#### ➌ **LAHAT, BUO**
+  - [一](../一)[切](../切)　***issai***　lahat, kabuoan
+  - [一](../一)[般](../般)　***ippai***　pangkalahatan
 
-#### ➍ **ARAW** ng Linggo
-  - [一](../一)[曜](../曜)[一](../一)　***nichiyōbi***　Linggo
-  - [土](../土)[一](../一)　***donichi***　Sabado at Linggo
+#### ➍ **KAUNTI**
+  - [一](../一)[見](../見)　***ikken***　isang tigin
+  - [一](../一)[時](../時)　***ichiji***　panandalian
 
-#### ➎ **JAPAN**
-  - [一](../一)[本](../本)　***nihon (nippon)***　Japan
-  - [一](../一)[米](../米)　***nichibei***　Japan at Amerika
-  - [一](../一)[露](../露)　***nichiro***　Japan at Rusya
-  - [一](../一)[銀](../銀)　***nichigin***　Bank of Japan
-  - [来](../来)[一](../一)　***rainichi***　pagdating sa Japan
 
 ### SPECIAL READING
-  - [今](../今)[一](../一)　***kyō***　ngayong araw
-  - [明](../明)[一](../一)　***asu***　bukas
-  - [昨](../昨)[一](../一)　***kinō***　kahapon
-  - [一](../一)[一](../一)　***tsuitachi***　unang araw ng buwan
+  - [一](../一)[人](../人)　***hitori***　isang tao
 
 ### ORIGIN
 
