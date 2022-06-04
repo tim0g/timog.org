@@ -25,6 +25,6 @@ Totoo, pero marami din sa mga ito ang puno ng ads at halos hindi magamit. Isa pa
 
 Pinakaimportante sa lahat, ito ang ultimate na time-waster para sa mga procrastinator. May nagawa na akong mga entries, at kung makakagawa ako ng isang entry sa isang linggo, ayon sa aking kalkulasyon, matatapos ito sa loob ng 40 taon! Maraming oras na pag-aksayahan ng panahon.
 
-Ang mga files ng kanji dictionary, kagaya ng buong Timog ay nasa Github, kaya para ma-edit ng kahit na sino ay gagawin kong public ang repository, inaayos ko lang ngayon ang mga files.
+Ang mga files ng kanji dictionary, kagaya ng buong Timog ay nasa [Github](https://github.com/tim0g/timog.org), kaya para ma-edit ng kahit na sino ay ~~~gagawin kong public ang repository, inaayos ko lang ngayon ang mga files~~~ ginawa kong public ang repository.
 
 Kaya kung marami kang oras o mahilig ka lang mag-procrastinate at may alam ka sa nihongo, baka gusto mong tumulong sa paggawa ng entries ng mga kanji.
