@@ -32,9 +32,9 @@ Under the following terms:
 
 ## Acknowledgments & Credits
 
-Timog.org uses [Hugo](https://gohugo.io/) and [Hugo Flex](https://github.com/de-souza/hugo-flex).
+Timog.org uses [Hugo](https://gohugo.io/) and [Hugo Flex](https://github.com/de-souza/hugo-flex) by Léo de Souza, both under [Apache License 2.0](https://github.com/de-souza/hugo-flex/blob/master/LICENSE).
 
-The Kanji section uses animations from <a href="https://github.com/jcsirot/kanji.gif">Kanji.gif</a> by Jean-Christophe Sirot and the <a href="https://kanjivg.tagaini.net/">KanjiVG</a> project by Ulrich Apel, and illustrations from <a href="https://en.wiktionary.org/">Wiktionary</a>. All under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> license.
+The [kanji dictionary](https://timog.org/kanji) uses animations from <a href="https://github.com/jcsirot/kanji.gif">Kanji.gif</a> by Jean-Christophe Sirot and the <a href="https://kanjivg.tagaini.net/">KanjiVG</a> project by Ulrich Apel, and illustrations from <a href="https://en.wiktionary.org/">Wiktionary</a>. All under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> license.
 
 
 
