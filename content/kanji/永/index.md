@@ -23,11 +23,11 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-Magkatulad ng hitsura ng [水](../水) (tubig) at [氷](../氷) (yelo), mas may kaugnayan ito sa kanji ng [長](../長) (mahaba).
+Magkatulad ng hitsura sa [水](../水) (tubig) at [氷](../氷) (yelo), pero mas may kaugnayan ito sa [長](../長) (mahaba).
 
-Para sa matatagal na sa Japan, pamilyar ang salitang [永](../永)[住](../住) (eijū) o permanent residence. Kapag isinama ito sa [眠](../眠) (tulog), makakabuo ng [永](../永)[眠](../眠) (eimin), magalang na salita para sa pagkamatay.
+Para sa matagal nang nakatira sa Japan, pamilyar ang salitang [永](../永)[住](../住) (eijū) o permanent residence. Kapag isinama ito sa [眠](../眠) (tulog), makakabuo ng [永](../永)[眠](../眠) (eimin), magalang na salita para sa pagkamatay.
 
-Pansinin na lima ang guhit nito, hindi apat.
+Pansinin na lima ang guhit ng 永, hindi apat.
  
 **Mnemonic:** "Ang tubig, sa mahabang panahon ay nagiging yelo."
 
