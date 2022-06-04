@@ -22,7 +22,7 @@ You are free to:
 
 Under the following terms:
 
-**Attribution** — You must give appropriate credit, provide a link to the license and to [Timog.org](https://timog.org) in each web page where content is used, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests Timog.org endorses you or your use.
+**Attribution** — You must give appropriate credit, provide a link to the license and to [Timog.org](https://timog.org) where content is used.
 
 **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. 
 
@@ -31,6 +31,10 @@ Under the following terms:
 **Leon Timog**
 
 ## Acknowledgments & Credits
+
+Timog.org uses [Hugo](https://gohugo.io/) and [Hugo Flex](https://github.com/de-souza/hugo-flex).
+
+The Kanji section uses animations from <a href="https://github.com/jcsirot/kanji.gif">Kanji.gif</a> by Jean-Christophe Sirot and the <a href="https://kanjivg.tagaini.net/">KanjiVG</a> project by Ulrich Apel, and illustrations from <a href="https://en.wiktionary.org/">Wiktionary</a>. All under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> license.
 
 
 

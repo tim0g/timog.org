@@ -41,7 +41,7 @@ params:
   facebook: "timogjapan"
   color: "#1C86EE"
   width: 50rem
-  description: "TIMOG: Guide, Wiki, Blog"
+  description: "TIMOG: Wiki and Blog"
   footer: <small>All content ©Timog.org under <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">Creative Commons</a> license.</small></br><a href="#top">▲</a>
   rss: >-
     To subscribe to this RSS feed, copy the address in the address bar and paste
@@ -78,6 +78,9 @@ menu:
     - name: Wiki
       url: wiki/
       weight: 2
+    - name: Kanji
+      url: kanji/
+      weight: 3
     - name: FB
       url: https://www.facebook.com/timogjapan/
-      weight: 3
+      weight: 4
