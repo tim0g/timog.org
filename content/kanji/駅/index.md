@@ -35,7 +35,7 @@ Pambihira sa mga kanji, wala itong KUN (Japanese) reading.
 
 ### MEANING & WORDS
 
-#### ➊ **Estasyon**
+#### ➊ **ESTASYON**
   - [駅](../駅)　***eki***　estasyon ng tren
   - [駅](../駅)[員](../員)　***ekiin***　empleyado sa estasyon
   - [駅](../駅)[長](../長)　***ekichō***　pinunong opisyal ng estasyon

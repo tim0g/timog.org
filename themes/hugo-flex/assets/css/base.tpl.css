@@ -436,3 +436,11 @@ small {
   top: 0.15rem;
   position: relative;
 }
+
+.attribution-edit-footer {
+  background-color: #f1f9ff;
+  margin: 3rem 0 0;
+  padding: .3rem .8rem;
+  font-size: .9rem;
+  border-radius: 5px;
+}

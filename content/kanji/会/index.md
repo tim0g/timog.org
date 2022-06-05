@@ -25,13 +25,9 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/会/index.md)**
-
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
-
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
+Ito lang ang pandiwa (action word) na nasa top 10 na pinakamadalas na ginagamit na kanji, marahil dahil mahalaga sa tao at lipunan ang pagkikita-kita lalo na para sa isang community-centric na bansa na kagaya ng Japan.
  
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Nagkita ang dalawang ilong sa ilalim ng bubong."
 
 ### ON-KUN READING
 
@@ -40,14 +36,33 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [会](../会)[会](../会)　***reading***　meaning
-  - [会](../会)[会](../会)　***reading***　meaning
-  - [会](../会)[会](../会)　***reading***　meaning
-  - [会](../会)[会](../会)　***reading***　meaning
+#### ➊ **MAGKITA**
+  - [会](../会)[話](../話)　***kaiwa***　pag-uusap
+  - [会](../会)[議](../義)　***kaigi***　pagpupulong, meeting
+  - [面](../面)[会](../会)　***menkai***　meeting, interview
+  - [大](../大)[会](../会)　***taikai***　meet, tournament
+  - [集](../集)[会](../会)　***shūkai***　pagtitipon
+  - [会](../会)[場](../場)　***kaijō***　lugar ng pagtitipon
+  - [会](../会)[館](../館)　***kaikan***　assembly hall
+  - [忘](../忘)[年](../年)[会](../会)　***bōnenkai***　year-end party
+  - [国](../国)[会](../会)　***kokkai***　national assembly
+  - [都](../都)[会](../会)　***tokai***　lungsod
+  - [立ち](../立)[会う](../会)　***tachiau***　mag-attend
+  - [出](../出)[会い](../会)　***deai***　makita, masalubong
+  - [友](../友)[達](../達)に[会う](../会)　***tomodachi ni au***　makipagkita sa kaibigan
+  - [会わせる](../会)　***awaseru***　ipagkita
 
-### SPECIAL READING
-  - [会](../会)[会](../会)　***reading***　meaning
+#### ➋ **ASOSASYON**
+  - [協](../協)[会](../会)　***kyōkai***　asosasyon
+  - [会](../会)[社](../社)　***kaisha***　kumpanya
+  - [社](../社)[会](../会)　***shakai***　lipunan
+  - [教](../教)[会](../会)　***kyōkai***　simbahan
+  - [同](../同)[好](../好)[会](../会)　***dōkōkai***　club
+
+#### ➌ **PANG-UNAWA, KUWENTA**
+  - [会](../会)[得](../得)　***etoku***　pang-unawa
+  - [機](../機)[会](../会)　***kikai***　tsansa, okasyon
+  - [会](../会)[計](../計)　***kaikei***　kuwenta, bayarin
 
 ### ORIGIN
 

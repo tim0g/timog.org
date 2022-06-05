@@ -14,13 +14,11 @@ kanji_radical:
 kanji_reading: 
 - A
 kanji_meaning:
-- Asya sub
+- Asya
+- sub
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
-[//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
 {{< kanji-gif >}}
-
-[//]: # (Edit below this line.)
 
 Ang 亜 ay karamihang ginagamit para ipahiwatig ang tunog ng A (ア) lalo na sa mga pangalan ng banyagang lugar, kagaya ng 亜米利加 (アメリカ), 露西亜 (ロシア), o 亜細亜 (アジア).
 
@@ -33,10 +31,10 @@ Sa kasalukuyan ay katakana na ang karamihang ginagamit para sa mga ganitong luga
 
 ### MEANING & WORDS
 
-#### ➊ **Asya**
+#### ➊ **ASYA**
   - [東](../東)[亜](../亜)　***tōa***　East Asia
   
-#### ➋ **sub**
+#### ➋ **SUB**
   - [亜](../亜)[鉛](../鉛)　***aen***　zinc
   - [亜](../亜)[麻](../麻)　***ama***　flax
   - [亜](../亜)[種](../種)　***ashu***　subspecies

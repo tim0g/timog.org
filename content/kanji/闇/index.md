@@ -40,7 +40,7 @@ Sa Nihongo: 地は形なく、むなしく、やみが淵のおもてにあり�
 
 ### MEANING & WORDS
 
-#### ➊ **Dilim**
+#### ➊ **DILIM**
   - [暁](../暁)[闇](../闇)　***gyōan***　dilim bago magbukangliwayway
   - [闇](../闇)　***yami***　kadiliman
   - [闇](../闇)[夜](../夜)　***yamiyo***　gabing walang buwan o bituin

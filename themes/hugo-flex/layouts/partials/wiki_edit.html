@@ -1,0 +1,7 @@
+ <div class="attribution-edit-footer">
+{{ if $.Site.Params.editURL }}
+  {{- $filepath := replace .File.Path "\\" "/" -}}
+  {{- $url := printf "%s/%s" $.Site.Params.editURL $filepath -}}
+  <a href="{{ $url }}">Edit this page</a> at Github.
+{{- end }}
+</div>

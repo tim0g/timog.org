@@ -4,19 +4,21 @@ character: 人
 description: "Kanji dictionary entry 人: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/人.gif"
-weight: 111
-frequency: 111
-kanji_grade: 0
+weight: 7
+frequency: 7
+kanji_grade: 1
 kanji_strokes: 1
 kanji_class: Jōyō
-kanji_jlpt: N1
-kanji_radical: 
+kanji_jlpt: N5
+kanji_radical: 人
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- JIN
+- NIN
+- hito
+- ri
+- to
 kanji_meaning:
-- malaki
+- tao
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -24,13 +26,11 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/人/index.md)**
+Isa sa top 10 na kanji. Mas kamukha ng tao ang kanji ng [大](../大) (malaki)--taong nakainat ang braso at binti.
 
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
-
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
+Magkahawig ang hitsura pero malayo ang ibig sabihin sa kanji ng [入](../入) (pumasok).
  
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Taong walang braso."
 
 ### ON-KUN READING
 
@@ -39,26 +39,45 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [人](../人)[人](../人)　***reading***　meaning
-  - [人](../人)[人](../人)　***reading***　meaning
-  - [人](../人)[人](../人)　***reading***　meaning
-  - [人](../人)[人](../人)　***reading***　meaning
+#### ➊ **TAO**
+  - [人](../人)[間](../間)　***ningen***　tao
+  - [人](../人)[類](../類)　***jinrui***　sangkatauhan
+  - [人](../人)[生](../生)　***jinsei***　buhay ng tao
+  - [個](../個)[人](../人)　***kojin***　indibidwal
+  - [他](../他)[人](../人)　***tanin***　ibang tao
+  - [人](../人)[数](../数)　***ninzū***　bilang ng tao
+  - [人](../人)[工](../工)　***jinkō***　gawa ng tao, artipisyal
+  - [十](../十)[人](../人)　***jūnin***　sampung tao
+  - [人](../人)[人](../人)　***hitobito***　mga tao
+  - [小](../小)[人](../人)　***kobito***　duwende
+  - [恋](../恋)[人](../人)　***koibito***　kasintahan
+  - [家](../家)の[人](../人)　***ie no hito***　tao sa bahay
+  - [人](../人)[柄](../柄)　***hitogara***　karakter ng tao
+  - [一](../一)[人](../人)　***hitori***　isang tao
+  - [二](../二)[人](../人)　***futari***　dalawang tao
+  - [素](../素)[人](../人)　***shirōto***　baguhan
+
+#### ➋ **TA0** (mula sa isang grupo)
+  - [日](../日)[本](../本)[人](../人)　***nihonjin***　Hapon
+  - [韓](../韓)[国](../国)[人](../人)　***kankokujin***　Koreano
+  - [フィリピン](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3)[人](../人)　***firipinjin***　Pilipino
+  - [アラブ](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%83%96%E4%BA%BA)[人](../人)　***arabujin***　Arabo
+  - [外](../外)[国](../国)[人](../人)　***gaikokujin***　banyaga
+  - [芸](../芸)[能](../能)[人](../人)　***geinōjin***　artista
+  - [料](../料)[理](../理)[人](../人)　***ryōrinin***　tagaluto
 
 ### SPECIAL READING
-  - [人](../人)[人](../人)　***reading***　meaning
+  - [大](../大)[人](../人)　***otona***　adult
 
 ### ORIGIN
 
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/人)**
 <table class="kanji-table"><tr><td>
-<img src="60px-人-bronze.svg.png">
+<img src="60px-人-bronze-shang.svg.png">
 </td><td>▶</td><td>
-<img src="60px-人-oracle.svg.png">
+<img src="60px-人-slip.svg.png">
 </td><td>▶</td>
 <td class="kanji-origin">人</td>
 </tr></table>
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [人](../人) [弟](../弟) [人](../人) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
+- Magkatulad nang ibig sabihin: [者](../者) [方](../方)
