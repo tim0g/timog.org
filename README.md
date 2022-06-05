@@ -2,8 +2,9 @@
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-This is the repository where files of [Timog.org](https://timog.org) are stored.
-This work is licensed under a
+[Timog.org](https://timog.org) is where I blog, edit [wiki](https://timog.org/wiki/) articles, and recently, add entries in the [Kanji Dictionary](https://timog.org/kanji/). Feel free to contribute by forking this repository.
+
+Timog.org is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]

@@ -4,19 +4,20 @@ character: 会
 description: "Kanji dictionary entry 会: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/会.gif"
-weight: 111
-frequency: 111
-kanji_grade: 0
-kanji_strokes: 1
+weight: 6
+frequency: 6
+kanji_grade: 2
+kanji_strokes: 6
 kanji_class: Jōyō
-kanji_jlpt: N1
-kanji_radical: 
+kanji_jlpt: N4
+kanji_radical: 人
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- KAI
+- E
+- a-u
+- a-waseru
 kanji_meaning:
-- malaki
+- magkita
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -50,15 +51,16 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### ORIGIN
 
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/会)**
+Mula sa Chinese character na 會.
+
 <table class="kanji-table"><tr><td>
-<img src="60px-会-bronze.svg.png">
+<img src="60px-會-bronze.svg.png">
 </td><td>▶</td><td>
-<img src="60px-会-oracle.svg.png">
+<img src="60px-會-seal.svg.png">
 </td><td>▶</td>
+<td class="kanji-origin">會</td><td>▶</td>
 <td class="kanji-origin">会</td>
 </tr></table>
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [兄](../兄) [弟](../弟) [会](../会) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
+- Magkatulad ng ibig sabihin: [合](../合) [遭](../遭) [遇](../遇) [併](../併)

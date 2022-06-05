@@ -81,6 +81,9 @@ menu:
     - name: Kanji
       url: kanji/
       weight: 3
-    - name: FB
-      url: https://www.facebook.com/timogjapan/
+    - name: Github
+      url: https://github.com/tim0g/timog.org
       weight: 4
+    - name: fb
+      url: https://www.facebook.com/timogjapan/
+      weight: 5

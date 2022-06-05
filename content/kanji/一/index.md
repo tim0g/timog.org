@@ -38,6 +38,7 @@ Huwag isusulat nang tuwid na tuwid na parang dash (―). Bigyan na kaunting anga
 ### MEANING & WORDS
 
 #### ➊ **ISA, UNA**
+  - [一](../一)　***ichi***　isa
   - [一](../一)[番](../番)　***ichiban***　number one, pinaka...
   - [一](../一)[日](../日)　***ichinichi***　isang araw
   - [一](../一)[夜](../夜)　***ichiya***　isang gabi
@@ -49,6 +50,9 @@ Huwag isusulat nang tuwid na tuwid na parang dash (―). Bigyan na kaunting anga
   - [一](../一)[括](../活)[払い](../払)　***ikkatsubarai***　isang beses na bayaran
   - [一](../一)[部](../部)　***ichibu***　isang bahagi
   - [一](../一)[生](../生)[懸](../懸)[命](../命)　***ishōkenmei***　(gawin nang) lahat ng makakaya
+  - [一つ](../一)　***hitotsu***　isa
+  - [一](../一)[人](../人)　***hitori***　isang tao
+  - [一](../一)[晩](../晩)　***hitoban***　isang gabi
   
 #### ➋ **PAREHO**
   - [均](../均)[一](../一)　***kin-itsu***　pare-pareho, magkakatulad
@@ -57,15 +61,18 @@ Huwag isusulat nang tuwid na tuwid na parang dash (―). Bigyan na kaunting anga
 
 #### ➌ **LAHAT, BUO**
   - [一](../一)[切](../切)　***issai***　lahat, kabuoan
-  - [一](../一)[般](../般)　***ippai***　pangkalahatan
+  - [一](../一)[般](../般)　***ippan***　pangkalahatan
 
 #### ➍ **KAUNTI**
   - [一](../一)[見](../見)　***ikken***　isang tigin
   - [一](../一)[時](../時)　***ichiji***　panandalian
 
+#### ➎ **PINAKA**
+  - [日](../日)[本](../本)[一](../一)　***nihon'ichi***　number one sa Japan
+  - [一](../一)[流](../流)の　***ichiryūno***　first-rate
 
 ### SPECIAL READING
-  - [一](../一)[人](../人)　***hitori***　isang tao
+  - [一](../一)[日](../日)　***tsuitachi***　ika-1 ng buwan
 
 ### ORIGIN
 
