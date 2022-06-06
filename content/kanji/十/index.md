@@ -4,19 +4,20 @@ character: 十
 description: "Kanji dictionary entry 十: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/十.gif"
-weight: 111
-frequency: 111
-kanji_grade: 0
-kanji_strokes: 1
+weight: 14
+frequency: 14
+kanji_grade: 1
+kanji_strokes: 2
 kanji_class: Jōyō
-kanji_jlpt: N1
-kanji_radical: 
+kanji_jlpt: N5
+kanji_radical: 十
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- JŪ
+- JITSU
+- tō
+- to
 kanji_meaning:
-- malaki
+- sampu
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -24,13 +25,9 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/十/index.md)**
-
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
-
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
+Huwag isulat na parang plus symbol (＋) at lagyan ng kaunting angat ang pagsulat ng pangalawang guhit na pahalang.　
  
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Sampung krus sa krosing."
 
 ### ON-KUN READING
 
@@ -39,26 +36,41 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [十](../十)[十](../十)　***reading***　meaning
-  - [十](../十)[十](../十)　***reading***　meaning
-  - [十](../十)[十](../十)　***reading***　meaning
-  - [十](../十)[十](../十)　***reading***　meaning
+#### ➊ **SAMPU**
+  - [十](../十)　***jū***　sampu
+  - [二](../二)[十](../十)　***nijū***　dalawampu
+  - [二](../二)[月](../月)　***jūgatsu***　Oktubre
+  - [十](../十)[歳](../歳)　***jussai***　sampung taon gulang
+  - [十](../十)[一](../一)[時](../時)　***jūichiji***　alas onse
+  - [十](../十)[指](../指)　***jisshi***　sampung daliri
+  - [十](../十)[回](../回)　***jikkai=jukkai***　sampung beses
+  - [十](../十)[まで](../../nihongo/まで)[数える](../数)　***jū made kazoeru***　magbilang hanggang sampu
+  - [十](../十)[日](../日)　***tōka***　ika-10 ng buwan
+
+#### ➋ **MARAMI**
+  - [十](../十)[分](../分)　***jūbun***　sapat, marami
+  - [十](../十)[全](../全)　***jūzen***　kumpleto, perpekto
+
+#### ➌ **KRUS**
+  - [十](../十)[文](../文)[字](../字)　***jūmonji***　krus, hugis krus
+  - [十](../十)[字](../字)[路](../路)　***jūjiro***　sangang daan, krosing
+  - [十](../十)[字](../字)[架](../架)　***jūjika***　krus
 
 ### SPECIAL READING
-  - [十](../十)[十](../十)　***reading***　meaning
+  - [二](../二)[十](../十)[歳](../歳)　***hatachi***　20-taong gulang
+  - [二](../二)[十](../十)[日](../日)　***hatsuka***　ika-20 ng buwan
 
 ### ORIGIN
 
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/十)**
 <table class="kanji-table"><tr><td>
-<img src="60px-十-bronze.svg.png">
-</td><td>▶</td><td>
-<img src="60px-十-oracle.svg.png">
+<img src="60px-十-bronze-spring.svg.png">
 </td><td>▶</td>
+<td><img src="60px-十-silk.svg.png"></td>
+<td>▶</td>
+<td><img src="60px-十-slip.svg.png"></td>
+<td>▶</td>
 <td class="kanji-origin">十</td>
 </tr></table>
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [十](../十) [弟](../弟) [十](../十) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
+- Mga bilang: [一](../一) [二](../二) [三](../三) [四](../五) [五](../五) [六](../七) [七](../七) [八](../八) [九](../九) [百](../百) [千](../千) [万](../万) [億](../億)
