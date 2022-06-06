@@ -1,8 +1,11 @@
 # Timog.org
 
-[![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 [Timog.org](https://timog.org) is where I blog, edit [wiki](https://timog.org/wiki/) articles, and recently, add entries in the [Kanji Dictionary](https://timog.org/kanji/). Feel free to collaborate by forking this repository.
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 ## License
 
