@@ -14,12 +14,12 @@ All content is licensed under a
 
 You are free to:
 
-**Share** — copy and redistribute the material in any medium or format.
+**Share** — copy and redistribute the material in any medium or format.  
 **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
 
 Under the following terms:
 
-**Attribution** — You must give appropriate credit, provide a link to the license and to [Timog.org](https://timog.org) where content is used.
+**Attribution** — You must give appropriate credit, provide a link to the license and to [Timog.org](https://timog.org) where content is used.  
 **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. 
 
 ## Authors
