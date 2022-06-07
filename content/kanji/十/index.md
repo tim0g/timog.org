@@ -39,7 +39,7 @@ Huwag isulat na parang plus symbol (＋) at lagyan ng kaunting angat ang pagsula
 #### ➊ **SAMPU**
   - [十](../十)　***jū***　sampu
   - [二](../二)[十](../十)　***nijū***　dalawampu
-  - [二](../二)[月](../月)　***jūgatsu***　Oktubre
+  - [十](../十)[月](../月)　***jūgatsu***　Oktubre
   - [十](../十)[歳](../歳)　***jussai***　sampung taon gulang
   - [十](../十)[一](../一)[時](../時)　***jūichiji***　alas onse
   - [十](../十)[指](../指)　***jisshi***　sampung daliri

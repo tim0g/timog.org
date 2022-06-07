@@ -42,7 +42,7 @@ Huwag isusulat nang tuwid na tuwid na parang dash (―). Bigyan na kaunting anga
   - [一](../一)[番](../番)　***ichiban***　number one, pinaka...
   - [一](../一)[日](../日)　***ichinichi***　isang araw
   - [一](../一)[夜](../夜)　***ichiya***　isang gabi
-  - [一](../一)[月](../月)　***ichigatsu***　January
+  - [一](../一)[月](../月)　***ichigatsu***　Enero
   - [一](../一)[時](../時)　***ichiji***　ala-una
   - [一](../一)[千](../千)　***issen***　isang libo
   - [第](../第)[一](../一)　***daiichi***　una

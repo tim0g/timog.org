@@ -4,19 +4,19 @@ character: 二
 description: "Kanji dictionary entry 二: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/二.gif"
-weight: 111
-frequency: 111
-kanji_grade: 0
-kanji_strokes: 1
+weight: 37
+frequency: 37
+kanji_grade: 1
+kanji_strokes: 2
 kanji_class: Jōyō
-kanji_jlpt: N1
-kanji_radical: 
+kanji_jlpt: N5
+kanji_radical: 二
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- NI
+- futa
+- futa-tsu
 kanji_meaning:
-- malaki
+- dalawa
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -24,13 +24,11 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/二/index.md)**
+Ang isa ay isang guhit, ang dalawa ay dalawang guhit, mas maiksi nga lang ang itaas na guhit kaysa sa ibaba.
 
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
-
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
+Ang dalawang piraso ay [二つ](../二) (futatsu), ang dalawang tao ay [二](../二)[人](../人) (futari), at ang kambal ay [双](../双)[子](../子) (futago)--iba pero magkatulad ang ibig sabihin na kanji.
  
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Dalawang guhit."
 
 ### ON-KUN READING
 
@@ -39,26 +37,30 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [二](../二)[二](../二)　***reading***　meaning
-  - [二](../二)[二](../二)　***reading***　meaning
-  - [二](../二)[二](../二)　***reading***　meaning
-  - [二](../二)[二](../二)　***reading***　meaning
-
+#### ➊ **DALAWA**
+  - [二](../二)[個](../個)　***niko***　dalawang piraso
+  - [二](../二)[重](../重)　***nijū***　doble
+  - [二](../二)[月](../月)　***nigatsu***　Pebrero
+  - [二](../二)[番](../番)　***niban***　pangalawa
+  - [第](../第)[二](../二)　***daini***　pangalawa
+  - リンゴ[二つ](../二)　***ringo futatsu***　dalawang mansanas
+  - [二](../二)[人](../人)　***futari***　dalawang tao
+ 
 ### SPECIAL READING
-  - [二](../二)[二](../二)　***reading***　meaning
+  - [二](../二)[日](../日)　***futsuka***　ika-2 ng buwan
+  - [二](../二)[十](../十)[歳](../歳)　***hatachi***　20-taong gulang
+  - [二](../二)[十](../十)[日](../日)　***hatsuka***　ika-20 ng buwan
 
 ### ORIGIN
 
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/二)**
 <table class="kanji-table"><tr><td>
-<img src="60px-二-bronze.svg.png">
+<img src="60px-ACC-b18623.svg.png">
 </td><td>▶</td><td>
-<img src="60px-二-oracle.svg.png">
+<img src="60px-二-silk.svg.png">
 </td><td>▶</td>
 <td class="kanji-origin">二</td>
 </tr></table>
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [二](../二) [弟](../弟) [二](../二) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
+- Mga bilang: [一](../一) [三](../三) [四](../五) [五](../五) [六](../七) [七](../七) [八](../八) [九](../九) [十](../十) [百](../百) [千](../千) [万](../万) [億](../億)
+- Magkatulad ang ibig sabihin: [双](../双)
