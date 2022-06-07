@@ -44,7 +44,7 @@ Ito rin ang radical para sa maraming parte ng katawan (mula sa siniksik na porma
   - [月](../月)[食](../食)　***gesshoku***　lunar eclipse
   - [月](../月)[が](../../nihongo/が)[見える](../見)　***tsuki ga mieru***　nakikita ang buwan
   - [三](../三)[日](../日)[月](../月)　***mikazuki***　bagong buwan
-  - [月](../月)[見](../見)[を](../../nihongo/を)[する](../../nihongo/する)　***tsukimi wo suru***　masdan at tamasin ang linawag ng buwan
+  - [月](../月)[見](../見)[を](../../nihongo/を)[する](../../nihongo/する)　***tsukimi wo suru***　masdan at tamasin ang liwanag ng buwan
   
 #### ➋ **BUWAN** (ng taon)
   - [三](../三)[月](../月)　***sangatsu***　Marso
@@ -71,5 +71,4 @@ Ito rin ang radical para sa maraming parte ng katawan (mula sa siniksik na porma
 </tr></table>
 
 ### RELATED KANJI
-- Araw: [日](../日)
-- Maliwanag: [明](../明)
+- Mga araw ng linggo: [日](../日) [火](../火) [水](../水) [木](../木) [金](../金) [土](../土)

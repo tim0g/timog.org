@@ -4,19 +4,20 @@ character: 三
 description: "Kanji dictionary entry 三: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/三.gif"
-weight: 111
-frequency: 111
-kanji_grade: 0
-kanji_strokes: 1
+weight: 19
+frequency: 19
+kanji_grade: 1
+kanji_strokes: 3
 kanji_class: Jōyō
-kanji_jlpt: N1
-kanji_radical: 
+kanji_jlpt: N5
+kanji_radical: 一
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- SAN
+- mi
+- mi-tsu
+- mit-tsu
 kanji_meaning:
-- malaki
+- tatlo
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -24,13 +25,9 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/三/index.md)**
-
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
-
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
+Isulat nang pinakamahaba ang ibabang guhit, susunod ang itaas na guhit at pinakamaiksi ang gitna.
  
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Tatlong guhit."
 
 ### ON-KUN READING
 
@@ -39,26 +36,29 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [三](../三)[三](../三)　***reading***　meaning
-  - [三](../三)[三](../三)　***reading***　meaning
-  - [三](../三)[三](../三)　***reading***　meaning
-  - [三](../三)[三](../三)　***reading***　meaning
+#### ➊ **TATLO**
+  - [三](../三)[百](../百)　***sanbyaku***　tatlong daan
+  - [三](../三)[万](../万)[円](../円)　***sanman'en***　30,000 yen
+  - [三](../三)[角](../角)　***sankaku***　tatsulok
+  - [三](../三)[脚](../脚)　***sankyaku***　tripod
+  - [三](../三)[匹](../匹)[の](../../nihongo/の)[子](../子)[豚](../豚)　***sanbiki no kobuta***　The Three Little Pigs
+  - [三つ](../三)[折り](../折)　***mitsuori***　tinupi sa tatlo
+  - [三](../三)[日](../日)　***mikka***　ika-3 ng buwan, tatlong araw
+  - [三つ](../三)[の](../../nihongo/の)[密](../密)　***mittsu no mitsu***　Three Cs (closed spaces, crowds, close contact)
+  - [三](../三)[日](../日)[月](../月)　***mikazuki***　bagong buwan
 
 ### SPECIAL READING
-  - [三](../三)[三](../三)　***reading***　meaning
+  - [三](../三)[味](../味)[線](../線)　***shamisen***　shamisen
 
 ### ORIGIN
 
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/三)**
 <table class="kanji-table"><tr><td>
-<img src="60px-三-bronze.svg.png">
-</td><td>▶</td><td>
 <img src="60px-三-oracle.svg.png">
+</td><td>▶</td><td>
+<img src="60px-三-silk.svg.png">
 </td><td>▶</td>
 <td class="kanji-origin">三</td>
 </tr></table>
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [三](../三) [弟](../弟) [三](../三) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
+- Mga bilang: [一](../一) [二](../二) [四](../四) [五](../五) [六](../六) [七](../七) [八](../八) [九](../九) [十](../十) [百](../百) [千](../千) [万](../万) [億](../億)
