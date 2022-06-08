@@ -4,19 +4,21 @@ character: 八
 description: "Kanji dictionary entry 八: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/八.gif"
-weight: 111
-frequency: 111
-kanji_grade: 9
-kanji_strokes: 1
+weight: 56
+frequency: 56
+kanji_grade: 1
+kanji_strokes: 2
 kanji_class: Jōyō
-kanji_jlpt: N1
-kanji_radical: 
+kanji_jlpt: N5
+kanji_radical: 八
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- HACHI
+- ya
+- ya-tsu
+- yat-tsu
+- yō
 kanji_meaning:
-- malaki
+- walo
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -30,7 +32,7 @@ Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, sugge
 
 Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
  
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Madaling hatiin ang walo."
 
 ### ON-KUN READING
 
@@ -39,26 +41,28 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [八](../八)[八](../八)　***reading***　meaning
-  - [八](../八)[八](../八)　***reading***　meaning
-  - [八](../八)[八](../八)　***reading***　meaning
-  - [八](../八)[八](../八)　***reading***　meaning
+#### ➊ **WALO**
+  - [八](../八)[十](../十)　***hachijū***　walumpu
+  - [八](../八)[百](../百)　***happyaku***　walong daan
+  - [尺](../尺)[八](../八)　***shakuhachi***　kawayang plauta
+  - [八](../八)[日](../日)　***yōka***　ika-8 ng buwan
+  - [八つ](../八)[切り](../切)　***yatsugiri***　nahati sa walo
 
-### SPECIAL READING
-  - [八](../八)[八](../八)　***reading***　meaning
+#### ➋ **IBA'T-IBA**
+  - [八](../八)[百](../百)[屋](../屋)　***yaoya***　tindahan ng gulay
+  - [八](../八)[重](../重)[桜](../桜)　***yaezakura***　double-flower cherry blossom
+  - [お](../../nihongo/お)[八つ](../八)　***oyatsu***　meryenda
+
 
 ### ORIGIN
 
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/八)**
 <table class="kanji-table"><tr><td>
-<img src="60px-八-bronze.svg.png">
+<img src="60px-八-bronze-shang.svg.png">
 </td><td>▶</td><td>
-<img src="60px-八-oracle.svg.png">
+<img src="60px-ACC-b00945.svg.png">
 </td><td>▶</td>
 <td class="kanji-origin">八</td>
 </tr></table>
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [八](../八) [弟](../弟) [八](../八) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
+- Mga bilang: [一](../一) [二](../二) [三](../三) [四](../四) [五](../五) [六](../六) [七](../七) [九](../九) [十](../十) [百](../百) [千](../千) [万](../万) [億](../億)

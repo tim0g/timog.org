@@ -4,19 +4,20 @@ character: 七
 description: "Kanji dictionary entry 七: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/七.gif"
-weight: 111
-frequency: 111
-kanji_grade: 9
-kanji_strokes: 1
+weight: 68
+frequency: 68
+kanji_grade: 1
+kanji_strokes: 2
 kanji_class: Jōyō
-kanji_jlpt: N1
-kanji_radical: 
+kanji_jlpt: N5
+kanji_radical: 一 
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- SHICHI
+- nana
+- nana-tsu
+- nano
 kanji_meaning:
-- malaki
+- pito
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -30,7 +31,7 @@ Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, sugge
 
 Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
  
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Ang nabaling sampu ay pito lang ang halaga."
 
 ### ON-KUN READING
 
@@ -39,26 +40,26 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [七](../七)[七](../七)　***reading***　meaning
-  - [七](../七)[七](../七)　***reading***　meaning
-  - [七](../七)[七](../七)　***reading***　meaning
-  - [七](../七)[七](../七)　***reading***　meaning
+#### ➊ **PITO**
+  - [七](../七)[月](../月)　***shichigatsu***　Hulyo
+  - [七](../七)[十](../十)　***nanajū***　pitumpu
+  - [第](../第)[七](../七)[の](../../nihongo/の)[封](../封)[印](../印)　***dainan no fūin***　[The Seventh Seal](https://en.wikipedia.org/wiki/The_Seventh_Seal)
+  - [七つ](../七)　***nanatsu***　pitong piraso, pitong taong gulang
+  - [七](../七)[日](../日)　***nanoka***　ika-7 ng buwan
 
 ### SPECIAL READING
-  - [七](../七)[七](../七)　***reading***　meaning
+  - [七](../七)[夕](../夕)　***tanabata***　[Tanabata](https://en.wikipedia.org/wiki/Tanabata) festival
 
 ### ORIGIN
 
 **[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/七)**
 <table class="kanji-table"><tr><td>
-<img src="60px-七-bronze.svg.png">
+<img src="60px-七-bronze-warring.svg.png">
 </td><td>▶</td><td>
-<img src="60px-七-oracle.svg.png">
+<img src="60px-七-bigseal.svg.png">
 </td><td>▶</td>
 <td class="kanji-origin">七</td>
 </tr></table>
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [七](../七) [弟](../弟) [七](../七) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
+- Mga bilang: [一](../一) [二](../二) [三](../三) [四](../四) [五](../五) [六](../六) [八](../八) [九](../九) [十](../十) [百](../百) [千](../千) [万](../万) [億](../億)
