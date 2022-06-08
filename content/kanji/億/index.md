@@ -4,19 +4,17 @@ character: 億
 description: "Kanji dictionary entry 億: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/億.gif"
-weight: 111
-frequency: 111
-kanji_grade: 9
-kanji_strokes: 1
+weight: 407
+frequency: 407
+kanji_grade: 4
+kanji_strokes: 15
 kanji_class: Jōyō
-kanji_jlpt: N1
-kanji_radical: 
+kanji_jlpt: N2
+kanji_radical: 人
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- OKU
 kanji_meaning:
-- malaki
+- isandaang milyon
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -24,13 +22,11 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/億/index.md)**
+Maaring hatiin ang medyo kumplikadong kanji na ito sa maliliit niyang parte: ang radical na [人](../人) (ｲ tao), [立](../立) (tumayo), [日](../日) (araw) at [心](../心) (puso). 
 
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
-
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
+Puwede ring [人](../人) at [音](../音) (tunog) at [心](../心), o [人](../人) at [立](../立) at [思](../思) (isip).
  
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Tunog ng puso ng isandaang milyong tao."
 
 ### ON-KUN READING
 
@@ -39,26 +35,20 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [億](../億)[億](../億)　***reading***　meaning
-  - [億](../億)[億](../億)　***reading***　meaning
-  - [億](../億)[億](../億)　***reading***　meaning
-  - [億](../億)[億](../億)　***reading***　meaning
-
-### SPECIAL READING
-  - [億](../億)[億](../億)　***reading***　meaning
+#### ➊ **ISANDAANG MILYON**
+  - [一](../一)[億](../億)[円](../円)　***ichioku'en***　100,000,000 yen
+  - [十](../十)[億](../億)　***jūoku***　isang bilyon
+  - [数](../数)[億](../億)[年](../年)　***sūokunen***　ilang daang milyong taon
 
 ### ORIGIN
 
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/億)**
 <table class="kanji-table"><tr><td>
-<img src="60px-億-bronze.svg.png">
+<img src="60px-意-bronze-warring.svg.png">
 </td><td>▶</td><td>
-<img src="60px-億-oracle.svg.png">
+<img src="60px-億-bigseal.svg.png">
 </td><td>▶</td>
 <td class="kanji-origin">億</td>
 </tr></table>
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [兄](../兄) [弟](../弟) [億](../億) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
+- Mga bilang: [一](../一) [二](../二) [三](../三) [四](../四) [五](../五) [六](../六) [七](../七) [八](../八) [九](../九) [十](../十) [百](../百) [千](../千) [万](../万)

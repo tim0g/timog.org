@@ -4,19 +4,18 @@ character: 万
 description: "Kanji dictionary entry 万: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/万.gif"
-weight: 111
-frequency: 111
-kanji_grade: 9
-kanji_strokes: 1
+weight: 76
+frequency: 76
+kanji_grade: 2
+kanji_strokes: 3
 kanji_class: Jōyō
-kanji_jlpt: N1
-kanji_radical: 
+kanji_jlpt: N5
+kanji_radical: 一
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- MAN
+- BAN
 kanji_meaning:
-- malaki
+- sampung libo
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -39,26 +38,30 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [万](../万)[万](../万)　***reading***　meaning
-  - [万](../万)[万](../万)　***reading***　meaning
-  - [万](../万)[万](../万)　***reading***　meaning
-  - [万](../万)[万](../万)　***reading***　meaning
+#### ➊ **SAMPUNG LIBO**
+  - [一](../一)[万](../万)[円](../円)　***ichiman'en***　10,000 yen
+  - [万](../万)[一](../一)　***man'ichi***　1 sa 10,000, kapag nagkataon
+  - [万](../万)[年](../年)　***mannen***　10,000 taon, mahabang panahon
 
-### SPECIAL READING
-  - [万](../万)[万](../万)　***reading***　meaning
+#### ➋ **MARAMI, LAHAT**
+  - [万](../万)[国](../国)　***bankoku***　lahat ng bansa
+  - [万](../万)[病](../病)　***manbyō***　lahat ng klase ng sakit
+  - [万](../万)[全](../全)　***banzen***　perpekto, kumpleto, walang kapintasan
+  - [万](../万)[能](../能)　***bannō***　makapangyarihan sa lahat
+  - [万](../万)[歳](../歳)　***banzai***　Banzai!, Mabuhay!
+
+#### ➌ **TUNOG NG *MAN***
+  - [万](../万)[引き](../引)　***manbiki***　shoplift
 
 ### ORIGIN
 
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/万)**
 <table class="kanji-table"><tr><td>
-<img src="60px-万-bronze.svg.png">
-</td><td>▶</td><td>
 <img src="60px-万-oracle.svg.png">
+</td><td>▶</td><td>
+<img src="60px-万-bronze.svg.png">
 </td><td>▶</td>
 <td class="kanji-origin">万</td>
 </tr></table>
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [万](../万) [弟](../弟) [万](../万) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
+- Mga bilang: [一](../一) [二](../二) [三](../三) [四](../四) [五](../五) [六](../六) [七](../七) [八](../八) [九](../九) [十](../十) [百](../百) [千](../千) [億](../億)

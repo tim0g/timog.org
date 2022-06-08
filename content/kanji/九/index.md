@@ -48,7 +48,6 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
   - [九](../九)[月](../月)　***kugatsu***　Setyembre
   - [九](../九)[日](../日)　***kokonoka***　ika-9 ng buwan
 
-
 ### ORIGIN
 
 <table class="kanji-table"><tr><td>
