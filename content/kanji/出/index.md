@@ -4,19 +4,21 @@ character: 出
 description: "Kanji dictionary entry 出: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/出.gif"
-weight: 111
-frequency: 111
-kanji_grade: 9
-kanji_strokes: 1
+weight: 12
+frequency: 12
+kanji_grade: 1
+kanji_strokes: 5
 kanji_class: Jōyō
 kanji_jlpt: N1
 kanji_radical: 
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- SHUTSU
+- SUI
+- de-ru
+- de
+- da-su
 kanji_meaning:
-- malaki
+- lumabas
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -39,22 +41,21 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [出](../出)[出](../出)　***reading***　meaning
-  - [出](../出)[出](../出)　***reading***　meaning
-  - [出](../出)[出](../出)　***reading***　meaning
-  - [出](../出)[出](../出)　***reading***　meaning
+#### ➊ **LUMABAS**
+  - [外](../外)[出](../出)　***gaishutsu***　lumabas
+  - [出](../出)[発](../発)　***shuppatsu***　lumiban, umalis
+  - [出](../出)[国](../国)　***shukkoku***　lumabas ng bansa
+  - [出](../出)[港](../港)　***shukkō***　umalis sa daungan
 
 ### SPECIAL READING
   - [出](../出)[出](../出)　***reading***　meaning
 
 ### ORIGIN
 
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/出)**
 <table class="kanji-table"><tr><td>
-<img src="60px-出-bronze.svg.png">
+<img src="60px-出-seal.svg.png">
 </td><td>▶</td><td>
-<img src="60px-出-oracle.svg.png">
+<img src="60px-出-bigseal.svg.png">
 </td><td>▶</td>
 <td class="kanji-origin">出</td>
 </tr></table>
