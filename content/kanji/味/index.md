@@ -1,9 +1,9 @@
 ---
-title: 漫
-character: 漫
-description: "Kanji dictionary entry 漫: meaning, on-kun reading, compounds, origin, related kanji"
+title: 味
+character: 味
+description: "Kanji dictionary entry 味: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
-featured_image: "/漫.gif"
+featured_image: "/味.gif"
 weight: 111
 frequency: 111
 kanji_grade: 9
@@ -24,7 +24,7 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/漫/index.md)**
+**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/味/index.md)**
 
 Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
 
@@ -40,25 +40,25 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 ### MEANING & WORDS
 
 #### ➊ **Ibig sabihin**
-  - [漫](../漫)[漫](../漫)　***reading***　meaning
-  - [漫](../漫)[漫](../漫)　***reading***　meaning
-  - [漫](../漫)[漫](../漫)　***reading***　meaning
-  - [漫](../漫)[漫](../漫)　***reading***　meaning
+  - [味](../味)[味](../味)　***reading***　meaning
+  - [味](../味)[味](../味)　***reading***　meaning
+  - [味](../味)[味](../味)　***reading***　meaning
+  - [味](../味)[味](../味)　***reading***　meaning
 
 ### SPECIAL READING
-  - [漫](../漫)[漫](../漫)　***reading***　meaning
+  - [味](../味)[味](../味)　***reading***　meaning
 
 ### ORIGIN
 
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/漫)**
+**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/味)**
 <table class="kanji-table"><tr><td>
-<img src="60px-漫-bronze.svg.png">
+<img src="60px-味-bronze.svg.png">
 </td><td>▶</td><td>
-<img src="60px-漫-oracle.svg.png">
+<img src="60px-味-oracle.svg.png">
 </td><td>▶</td>
-<td class="kanji-origin">漫</td>
+<td class="kanji-origin">味</td>
 </tr></table>
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [漫](../漫) [漫](../漫) [漫](../漫) [漫](../漫) [漫](../漫) [娘](../娘)
+- Miyembro ng pamilya: [味](../味) [味](../味) [味](../味) [味](../味) [味](../味) [娘](../娘)
 - Magkatulad ang ibig sabihin: [日](../日)
