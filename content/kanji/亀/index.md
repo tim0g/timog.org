@@ -6,7 +6,7 @@ content_type: kanji
 featured_image: "/亀.gif"
 weight: 1297
 frequency: 1297
-kanji_grade: 8
+kanji_grade: 7
 kanji_strokes: 11
 kanji_class: Jōyō
 kanji_jlpt: N1

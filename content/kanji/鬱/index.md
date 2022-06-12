@@ -7,7 +7,7 @@ featured_image: "/鬱.gif"
 weight: 2633
 frequency: 2633
 kanji_radical: 鬱
-kanji_grade: 8
+kanji_grade: 7
 kanji_strokes: 29
 kanji_class: Jōyō
 kanji_jlpt:

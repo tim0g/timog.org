@@ -6,7 +6,7 @@ content_type: kanji
 featured_image: "/亜.gif"
 weight: 1210
 frequency: 1210
-kanji_grade: 8
+kanji_grade: 7
 kanji_strokes: 7
 kanji_class: Jōyō
 kanji_jlpt: N1

@@ -6,7 +6,7 @@ content_type: kanji
 featured_image: "/闇.gif"
 weight: 1969
 frequency: 1969
-kanji_grade: 8
+kanji_grade: 7
 kanji_strokes: 17
 kanji_class: Jōyō
 kanji_jlpt: N1

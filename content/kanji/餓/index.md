@@ -6,7 +6,7 @@ content_type: kanji
 featured_image: "/餓.gif"
 weight: 1842
 frequency: 1842
-kanji_grade: 8
+kanji_grade: 7
 kanji_strokes: 15
 kanji_class: Jōyō
 kanji_jlpt: N1

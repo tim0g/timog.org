@@ -1,5 +1,5 @@
 baseURL: 'https://timog.org/'
-title: TIMOG
+title: "TIMOG: blog and wiki"
 languageCode: en-us
 pygmentsCodeFences: false
 enableRobotsTXT: true

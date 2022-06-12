@@ -6,7 +6,7 @@ content_type: kanji
 featured_image: "/乙.gif"
 weight: 1509
 frequency: 1509
-kanji_grade: 8
+kanji_grade: 7
 kanji_strokes: 1
 kanji_class: Jōyō
 kanji_jlpt: N1

@@ -6,7 +6,7 @@ content_type: kanji
 featured_image: "/丈.gif"
 weight: 1251
 frequency: 1251
-kanji_grade: 8
+kanji_grade: 7
 kanji_strokes: 3
 kanji_class: Jōyō
 kanji_jlpt: N1

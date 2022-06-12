@@ -6,7 +6,7 @@ content_type: kanji
 featured_image: "/鉛.gif"
 weight: 1657
 frequency: 1657
-kanji_grade: 8
+kanji_grade: 7
 kanji_strokes: 13
 kanji_class: Jōyō
 kanji_jlpt: N1
