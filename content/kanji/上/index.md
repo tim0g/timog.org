@@ -4,13 +4,13 @@ character: 上
 description: "Kanji dictionary entry 上: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/上.gif"
-weight: 111
-frequency: 111
-kanji_grade: 9
-kanji_strokes: 1
+weight: 13
+frequency: 13
+kanji_grade: 1
+kanji_strokes: 3
 kanji_class: Jōyō
-kanji_jlpt: N1
-kanji_radical: 
+kanji_jlpt: N5
+kanji_radical: 一
 kanji_reading: 
 - DAI
 - TAI
@@ -50,15 +50,14 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### ORIGIN
 
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/上)**
 <table class="kanji-table"><tr><td>
-<img src="60px-上-bronze.svg.png">
+<img src="60px-上-bronze-spring.svg.png">
 </td><td>▶</td><td>
-<img src="60px-上-oracle.svg.png">
+<img src="60px-上-ancient.svg.png">
 </td><td>▶</td>
 <td class="kanji-origin">上</td>
 </tr></table>
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [上](../上) [弟](../弟) [上](../上) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
+
+- Kabaligtaran: [下](../下)
