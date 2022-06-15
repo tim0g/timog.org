@@ -343,7 +343,7 @@ Therefore, we repeat, and we will ever repeat, while there is time, that it is b
 
 ## Rizal's Farewell Address 
 
-## Address to Some Filipinos 
+### Address to Some Filipinos 
 
 "Countrymen: On my return from Spain I learned that my name had been in use, among some who were in arms, as a war-cry. The news came as a painful surprise, but, believing it already closed, I kept silent over an incident which I considered irremediable. Now I notice indications of the disturbances continuing, and if any still, in good or bad faith, are availing themselves of my name, to stop this abuse and undeceive the unwary I hasten to address you these lines that the truth may be known. 
 
@@ -371,7 +371,7 @@ The Spanish judge-advocate-general commented upon the address:
 
 
 
-## Rizal's Defence 
+### Rizal's Defence 
 
 _These "Additions" were really Doctor Rizal's defence before the court martial which condemned him and pretended to have tried him, on the charge of having organized revolutionary societies and so being responsible for the rebellion._ 
 

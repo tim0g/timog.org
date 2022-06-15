@@ -4,19 +4,20 @@ character: 苗
 description: "Kanji dictionary entry 苗: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/苗.gif"
-weight: 111
-frequency: 111
-kanji_grade: 9
-kanji_strokes: 1
+weight: 1686
+frequency: 1686
+kanji_grade: 7
+kanji_strokes: 8
 kanji_class: Jōyō
 kanji_jlpt: N1
-kanji_radical: 
+kanji_radical: 艹
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- BYŌ
+- MYŌ
+- nae
+- nawa
 kanji_meaning:
-- malaki
+- punla
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -24,13 +25,9 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/苗/index.md)**
+Pinagpatong na [艸](../艸) (damo) at [田](../田) (palayan) para maging [苗](../苗) (punla) at makikita sa salitang gaya ng  [早](../早)[苗](../苗) (punlang palay).
 
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
-
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
- 
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Maraming punlang damo sa palayan."
 
 ### ON-KUN READING
 
@@ -39,26 +36,27 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [苗](../苗)[苗](../苗)　***reading***　meaning
-  - [苗](../苗)[苗](../苗)　***reading***　meaning
-  - [苗](../苗)[苗](../苗)　***reading***　meaning
-  - [苗](../苗)[苗](../苗)　***reading***　meaning
-
-### SPECIAL READING
-  - [苗](../苗)[苗](../苗)　***reading***　meaning
+#### ➊ **PUNLA**
+  - [種](../種)[苗](../苗)　***shubyō***　buto at punla
+  - [育](../育)[苗](../苗)　***ikubyō***　pagpalaki ng punla
+  - [苗](../苗)[圃](../圃)　***byōho***　punlaan
+  - [苗](../苗)[裔](../裔)　***byōei***　supling
+  - [痘](../痘)[苗](../苗)　***tōbyō***　bakuna
+  - [豆](../豆)[苗](../苗)　***tōmyō***　pea sprouts
+  - [苗](../苗)[木](../木)　***naegi***　punla, maliit na puno
+  - [早](../早)[苗](../苗)　***sanae***　punlang palay
+  - [花](../花)[苗](../苗)　***hananae***　punlang bulaklak
+  - [苗](../苗)[を](../../nihongo/を)[植える](../植)　***nae wo ueru***　magtanim ng punla
 
 ### ORIGIN
 
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/苗)**
 <table class="kanji-table"><tr><td>
 <img src="60px-苗-bronze.svg.png">
 </td><td>▶</td><td>
-<img src="60px-苗-oracle.svg.png">
+<img src="60px-苗-seal.svg.png">
 </td><td>▶</td>
 <td class="kanji-origin">苗</td>
 </tr></table>
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [苗](../苗) [苗](../苗) [苗](../苗) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
+- Magkahawig ng ibig sabihin: [種](../種) [芽](../芽)

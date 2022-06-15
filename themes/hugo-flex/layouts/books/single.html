@@ -1,0 +1,9 @@
+{{ define "main" }}
+
+  <article id="book">
+    {{ partial "heading-single.html" . }}
+    {{ .Content }}
+    {{ partial "comments.html" . }}
+  </article>
+
+{{ end }}

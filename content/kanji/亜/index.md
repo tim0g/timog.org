@@ -40,7 +40,6 @@ Sa kasalukuyan ay katakana na ang karamihang ginagamit para sa mga ganitong luga
   - [亜](../亜)[種](../種)　***ashu***　subspecies
   - [亜](../亜)[熱](../熱)[帯](../帯)　***anettai***　subtropics
 
-
 ### ORIGIN
 
 Mula sa hindi regular na ginagamit na kanji [亞](../亞)
