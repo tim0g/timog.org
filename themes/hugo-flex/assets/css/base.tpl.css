@@ -50,14 +50,32 @@ h4 {font-size: 1.26rem; line-height: 1.4;}
 #book h3 {font-size: 2.00rem; line-height: 1.2;}
 #book h4 {font-size: 1.47rem; line-height: 1.2;}
 
+description {
+  font-size: 1.5rem;
+  display: block;
+  margin: 0;
+  font-weight: 200;
+  line-height: 1.37;
+  letter-spacing: -0.037rem;
+}
+
 @media screen and (max-width:600px){
   h1 {font-size:28px; padding: 0;} 
   h2 {font-size:23px; padding: 0;}  
   h3 {font-size:20px; padding: 0;}  
   h4 {font-size:17px; padding: 0;}   
+  
+#book h2 {font-size: 26px; padding: 0;}
+#book h3 {font-size: 24px; padding: 0;}
+#book h4 {font-size: 22px; padding: 0;}
+
+description {
+font-size: 1.4rem;
+margin: .5rem 0 0;
+line-height: 1.2;
 }
 
-
+}
 
 main {
   flex-grow: 1;
@@ -450,7 +468,7 @@ small {
 }
 
 #toc_container {
-  background: #1c91bd;
+  background: #107399;
   color: #fff;
   border-radius: 5px;
   display: table;
