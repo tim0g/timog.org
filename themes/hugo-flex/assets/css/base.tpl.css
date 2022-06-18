@@ -504,3 +504,46 @@ small {
   padding: 0;
   margin: 0;
 }
+
+.footnote-ref {
+  font-family: sans-serif;
+  font-size: .8rem;
+  text-decoration: none;
+}
+
+#return-to-top {
+  position: sticky;
+  float: right;
+  bottom: 40px;
+  right: 40px;
+  background: #007fff;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  border-radius: 50px;
+  --offset: 300px; 
+  margin-top: calc(300vh + var(--offset));
+}
+
+@media screen and (max-width:600px){
+#return-to-top {
+  bottom: 20px;
+  right: 20px;
+}
+}
+
+
+.return-to-top{
+  width: 30px;
+  filter: invert(100%) sepia(0%) saturate(3661%) hue-rotate(353deg) brightness(118%) contrast(106%);
+}
+
+.menu-icon{
+  width: 20px;
+  filter: invert(100%) sepia(0%) saturate(3661%) hue-rotate(353deg) brightness(118%) contrast(106%);
+}
+
+.u-menu-icon{
+  padding: 0 1rem;
+}

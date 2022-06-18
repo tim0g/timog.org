@@ -5,9 +5,9 @@ description: "Kanji Dictionary: search by meaning, reading, grade, JLPT level an
 Ang **Tagalog Kanji Dictionary Project**! Para mag-search, isulat ang kanji at i-click ang Go!
 
 <input type="text" id="text" placeholder="漢字"/>
-<input type="button" id="btn" value="Go!" onClick="javascript: window.open('../kanji/' + document.getElementById('text').value);" />
+<input class="kanji-input" type="button" id="btn" value="Go!" onClick="javascript: window.open('../kanji/' + document.getElementById('text').value);" />
 
-Maari ding mag-search ayon sa [`grade`](https://timog.org/kanji_grade/), [`JLPT level`](https://timog.org/kanji_jlpt/), [`reading`](https://timog.org/kanji_reading/) o [`guhit`](https://timog.org/kanji_strokes/).
+Maari ring mag-search ayon sa [`grade`](https://timog.org/kanji_grade/), [`JLPT level`](https://timog.org/kanji_jlpt/), [`reading`](https://timog.org/kanji_reading/) o [`guhit`](https://timog.org/kanji_strokes/).
 
 **This is work-in-progress.**
 
