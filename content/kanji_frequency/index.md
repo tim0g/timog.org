@@ -1,5 +1,5 @@
 ---
-title: "Kanji arranged by Frequency"
+title: "Listahan ng kanji ayon sa dalas ng paggamit"
 description: "Tagalog kanji dictionary in Timog"
 content_type: blog
 categories:
@@ -10,7 +10,9 @@ tags:
 - nihongo
 chōon: Ā Ī Ū Ē Ō ā ī ū ē ō ’
 ---
-|Frequency|Kanji|
+Ang pagkakasunud-sunod ng kanji ayon sa dalas ng paggamit sa listahang ito ay nilakip mula sa librong よく使う順漢字2100 (*yoku tsukaujun kanji 2100*) 2100 Kanji Ayon sa Dalas ng Paggamit.
+
+|Rango|Kanji|
 |:---------:|:-----:|
 |1|[日](/kanji/日)|
 |2|[一](/kanji/一)|

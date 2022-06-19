@@ -16,7 +16,6 @@ kanji_reading:
 - naka
 kanji_meaning:
 - gitna
-- loob
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -24,7 +23,9 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-Pang-lima sa palaging ginagamit na kanji, nag-iisip ako ng magandang sabihin sa kanji na ito pero wala akong maisip, bukod sa marami itong compound at importanteng mapag-aralan.
+Pang-lima sa palaging ginagamit na kanji, bukod sa "gitna" ay may popular kahulugan na "loob." Palaging nakikita kung saan-saan at maraming compound words kaya importanteng mapag-aralan.
+
+Bilang "red dragon" 🀄, isa sa mga madaling makilala na [mahjong tiles](https://en.wikipedia.org/wiki/Mahjong_tiles).
  
 **Mnemonic:** "Palaso sa gitna ng bibig."
 
@@ -54,9 +55,9 @@ Pang-lima sa palaging ginagamit na kanji, nag-iisip ako ng magandang sabihin sa 
 #### ➋ **LOOB**
   - [水](../水)[中](../中)　***suichū***　ilalim ng tubig
   - [年](../年)[中](../中)　***nenjū***　buong taon
-  - [森](../森)の[中](../中)　***mori no naka***　loob ng gubat
-  - [雨](../雨)の[中](../中)　***ame no naka***　ilalim ng ulan
-  - [世](../世)の[中](../中)　***yo no naka***　mundo, buhay
+  - [森](../森)[の](../../nihongo/の)[中](../中)　***mori no naka***　loob ng gubat
+  - [雨](../雨)[の](../../nihongo/の)[中](../中)　***ame no naka***　ilalim ng ulan
+  - [世](../世)[の](../../nihongo/の)[中](../中)　***yo no naka***　mundo, buhay
   - [中](../中)[身](../身)　***nakami***　laman
 
 #### ➌ **MEDIUM**
@@ -66,10 +67,11 @@ Pang-lima sa palaging ginagamit na kanji, nag-iisip ako ng magandang sabihin sa 
 
 #### ➍ **KASALUKUYAN**
   - [午](../午)[前](../前)[中](../中)　***gozenchū***　sa loob ng umaga
-  - [今](../今)[月](../月)[中](../中)に　***kongetsuchūni***　bago matapos ang buwan
+  - [今](../今)[月](../月)[中](../中)[に](../../nihongo/に)　***kongetsuchūni***　bago matapos ang buwan
   - [作](../作)[業](../業)[中](../中)　***sagyōchū***　habang nagtatrabaho
   - [授](../授)[業](../業)[中](../中)　***jugyōchū***　habang nagkaklase
   - [運](../運)[転](../転)[中](../中)　***untenchū***　habang nagmamaneho
+  - [営](../営)[業](../業)[中](../中)　***eigyōchū***　bukas (gaya ng tindahan)
 
 #### ➎ **CHINA**
   - [中](../中)[国](../国)　***chūgoku***　China

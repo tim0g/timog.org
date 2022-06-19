@@ -26,13 +26,9 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/出/index.md)**
-
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
-
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
+Saan ko ba narining na kamukha daw ng kotse ang hitsura ng kanji na ito? Kotse o hindi, madaling makilala ang [出](../出) dahil sa [出](../出)[口](../口) ***deguchi*** (exit) sa mga emergency exit sign sa loob ng mga gusali at lagusan ng estasyon ng tren.
  
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Lagusan ng magkapatong na bundok."
 
 ### ON-KUN READING
 
@@ -42,13 +38,41 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 ### MEANING & WORDS
 
 #### ➊ **LUMABAS**
-  - [外](../外)[出](../出)　***gaishutsu***　lumabas
   - [出](../出)[発](../発)　***shuppatsu***　lumiban, umalis
   - [出](../出)[国](../国)　***shukkoku***　lumabas ng bansa
   - [出](../出)[港](../港)　***shukkō***　umalis sa daungan
+  - [出](../出)[席](../席)　***shusseki***　dumalo
+  - [出](../出)[勤](../勤)　***shukkin***　pumasok sa trabaho
+  - [外](../外)[出](../出)　***gaishutsu***　lumabas (ng gusali)
+  - [お](../お)[化け](../化)[が](../が)[出る](../出)　***obake ga deru***　may lumalabas na multo
+  - [出](../出)[口](../口)　***deguchi***　labasan
+  - [出](../出)[入り](../入)　***deiri***　labas-pasok
+  - [出](../出)[掛ける](../掛)　***dekakeru***　lumabas (ng bahay)
+  - [出](../出)[会う](../会)　***deau***　makita sa labas
+  - [出](../出)[張る](../張)　***depparu***　umusli
+  - [出て](../出)[来る](../来)　***detekuru***　lumabas, magpakita, dumating
+  - [出](../出)[来る](../来)　***dekiru***　magawa, matapos
+  - [思い](../思)[出](../出)　***omoide***　alaala
 
-### SPECIAL READING
-  - [出](../出)[出](../出)　***reading***　meaning
+
+#### ➋ **MAGLABAS**
+  - [出](../出)[版](../版)　***shuppan***　ilathala
+  - [出](../出)[品](../品)　***shuppin***　ipakita, ieksibit
+  - [出](../出)[産](../産)　***shussan***　ipanganak
+  - [出](../出)[荷](../版)　***shukka***　ipadala
+  - [輸](../輸)[出](../出)　***yushutsu***　iluwas
+  - [提](../提)[出](../出)　***teishutsu***　ipasa
+  - [検](../検)[出](../出)　***kenshutsu***　makita, matuklasan
+  - [持ち](../持)[出す](../出)　***mochidasu***　dalhin sa labas
+  - [飛び](../飛)[出す](../出)　***tobidasu***　tumakbo palabas, sumulpot
+  - [送り](../送)[出す](../出)　***okuridasu***　ihatid palabas
+  - [逃げ](../逃)[出す](../出)　***nigedasu***　tumakas, lumayas
+  - [思い](../思)[出す](../出)　***omoidasu***　maalala, matandaan
+  - [引き](../引)[出し](../出)　***hikidashi***　drawer, pag-withdraw ng pera
+  - ごみ[を](../../nihongo/を)[出す](../出)　***gomi wo dasu***　maglabas ng basura
+  - レポート[を](../../nihongo/を)[出す](../出)　***repōto wo dasu***　magpasa ng report
+  - [お](../../nihongo/お)[金](../金)[を](../../nihongo/を)[出す](../出)　***okane wo dasu***　gumastos ng pera
+  - 60キロ[を](../../nihongo/を)[出す](../出)　***rokujukkiro wo dasu***　magpatakbo nang 60kph
 
 ### ORIGIN
 
@@ -61,5 +85,4 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 </tr></table>
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [出](../出) [弟](../弟) [出](../出) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
+- Kabaligtaran ng ibig sabihin: [入](../入)

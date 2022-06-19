@@ -73,13 +73,13 @@ markup:
 menu:
   nav:
     - name: Posts
-      url: posts/
+      url: /posts/
       weight: 1
     - name: Wiki
-      url: wiki/
+      url: /wiki/
       weight: 2
     - name: Kanji
-      url: kanji/
+      url: /kanji/
       weight: 3
     - name: Github
       url: https://github.com/tim0g/timog.org

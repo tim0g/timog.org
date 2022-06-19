@@ -15,7 +15,7 @@ kanji_reading:
 - HON
 - moto
 kanji_meaning:
-- basehan
+- pinagmulan
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -23,13 +23,11 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/本/index.md)**
+Sa nakakatuwang libro na *[Dave Barry Does Japan](https://archive.org/details/davebarrydoesjap00dave/)*, maaaring itong [本](../本) ang tinutukoy ng awtor nang sinulat niya kung paano pilit na ipinapaliwanag sa kaniya ng isang kaibigan ang kahulugan ng isang kanji:
 
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
-
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
+>"Tignan mo 'tong linya na ito"--*dito tinuro nya ang isang linya na kamukha ng lahat ng iba pang linya*--"parang ugat ng puno, diba? At ang libro ang *ugat* ng karunungan, diba? Kuha mo? At itong linya na ito"--*may tinuro siyang isa pang random na linya*--"parang balbas ng daga, diba? Magkahawig ng hitsura, diba? DIBA?"
  
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Puno na may isang pahalang na ugat."
 
 ### ON-KUN READING
 
@@ -67,14 +65,14 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
   - [本](../本)[店](../店)　***honten***　main store
 
 #### ➍ **PAMBILANG** ng mahabang bagay
-  - [二](../二)[本](../本)[の](../../nihongo/の)[鉛](../鉛)[筆](../筆)　***sanbon no enpitsu***　dalawang lapis
+  - [四](../四)[本](../本)[の](../../nihongo/の)[鉛](../鉛)[筆](../筆)　***yonhon no enpitsu***　dalawang lapis
   - ペン[三](../三)[本](../本)　***pen sanbon***　tatlong ballpen
   - [電](../電)[話](../話)[一](../一)[本](../本)　***denwa ippon***　isang tawag sa telepono
   - [六](../六)[本](../本)[木](../木)　***roppongi***　[Roppongi](https://en.wikipedia.org/wiki/Roppongi) (literal: anim na puno)
 
 ### ORIGIN
 
-Image na pinapakita ang ugat ng puno.
+Imahen na pinapakita ang ugat ng puno.
 
 <table class="kanji-table"><tr><td>
 <img src="60px-本-seal.svg.png">

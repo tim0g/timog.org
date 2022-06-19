@@ -25,11 +25,9 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/七/index.md)**
+Dalawang sikat na pelikula ng world cinema ay ang [七](../七)[人](../人)[の](../../nihongo/の)[侍](../侍) (*[shichinin no samurai](https://en.wikipedia.org/wiki/Seven_Samurai)*) ni Akira Kurosawa at [第](../第)[七](../七)[の](../../nihongo/の)[封](../封)[印](../印) (*[dainana no fūin](https://en.wikipedia.org/wiki/The_Seventh_Seal)*) ni Ingmar Bergman.
 
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
-
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
+Bukod dito, karamihang ginagamit ang [七](../七) para sa mga salitang kagaya ng [七](../七)[五](../五)[三](../三) (*[shichigosan](https://en.wikipedia.org/wiki/Shichi-Go-San)*) at [七](../七)[夕](../夕) (*[tanabata](https://en.wikipedia.org/wiki/Tanabata)*), dalawang tradisyonal na festival sa Japan.
  
 **Mnemonic:** "Ang nabaling sampu ay pito lang ang halaga."
 
@@ -43,9 +41,8 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 #### ➊ **PITO**
   - [七](../七)[月](../月)　***shichigatsu***　Hulyo
   - [七](../七)[十](../十)　***nanajū***　pitumpu
-  - [第](../第)[七](../七)[の](../../nihongo/の)[封](../封)[印](../印)　***dainan no fūin***　[The Seventh Seal](https://en.wikipedia.org/wiki/The_Seventh_Seal)
   - [七つ](../七)　***nanatsu***　pitong piraso, pitong taong gulang
-  - [七](../七)[日](../日)　***nanoka***　ika-7 ng buwan
+  - [七](../七)[日](../日)　***nanoka***　ika-7 ng buwan, pitong araw
 
 ### SPECIAL READING
   - [七](../七)[夕](../夕)　***tanabata***　[Tanabata](https://en.wikipedia.org/wiki/Tanabata) festival
