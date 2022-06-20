@@ -4,19 +4,18 @@ character: 扶
 description: "Kanji dictionary entry 扶: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/扶.gif"
-weight: 111
-frequency: 111
-kanji_grade: 9
-kanji_strokes: 1
+weight: 1912
+frequency: 1912
+kanji_grade: 7
+kanji_strokes: 7
 kanji_class: Jōyō
 kanji_jlpt: N1
-kanji_radical: 
+kanji_radical: 手
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- FU
+- tasu-keru
 kanji_meaning:
-- malaki
+- suporta
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -24,13 +23,9 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/扶/index.md)**
-
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
-
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
+Binuo ng radical ng [手](../手) (扌 kamay) at [夫](../夫) (asawang lalaki), nagpapahiwatig ng suporta o tulong para sa nangangailangan nito. Karaniwang nakikita sa tax declaration form tungkol sa mga dependent ([扶](../扶)[養](../養)[家](../家)[族](../族)) na miyembro ng pamilya.
  
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Suporta ng kamay ng asawang lalaki."
 
 ### ON-KUN READING
 
@@ -39,26 +34,11 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [扶](../扶)[扶](../扶)　***reading***　meaning
-  - [扶](../扶)[扶](../扶)　***reading***　meaning
-  - [扶](../扶)[扶](../扶)　***reading***　meaning
-  - [扶](../扶)[扶](../扶)　***reading***　meaning
-
-### SPECIAL READING
-  - [扶](../扶)[扶](../扶)　***reading***　meaning
-
-### ORIGIN
-
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/扶)**
-<table class="kanji-table"><tr><td>
-<img src="60px-扶-bronze.svg.png">
-</td><td>▶</td><td>
-<img src="60px-扶-oracle.svg.png">
-</td><td>▶</td>
-<td class="kanji-origin">扶</td>
-</tr></table>
+#### ➊ **SUPORTA**
+  - [扶](../扶)[助](../助)　***fujo***　suporta, tulong
+  - [扶](../扶)[育](../育)　***fuiku***　magpalaki, mag-alaga ng bata
+  - [扶](../扶)[養](../養)　***fuyō***　suporta
+  - [扶](../扶)[養](../養)[家](../家)[族](../族)　***fuyō kazoku***　dependent
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [扶](../扶) [扶](../扶) [扶](../扶) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
+- Magkatulad ng ibig sabihin: [助](../助)
