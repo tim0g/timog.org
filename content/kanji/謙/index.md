@@ -4,19 +4,17 @@ character: 謙
 description: "Kanji dictionary entry 謙: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/謙.gif"
-weight: 111
-frequency: 111
-kanji_grade: 9
-kanji_strokes: 1
+weight: 1352
+frequency: 1352
+kanji_grade: 7
+kanji_strokes: 17
 kanji_class: Jōyō
 kanji_jlpt: N1
-kanji_radical: 
+kanji_radical: 言
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- KEN
 kanji_meaning:
-- malaki
+- mapagkumbaba
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -24,13 +22,11 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/謙/index.md)**
+Pinagsamang [言](../言) (sabihin) at [兼](../兼) (at, magkasama) upang ipahiwatig ang konsepto ng pagpapakumbaba.
 
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
+Karamihang makikita sa salitang [謙](../謙)[譲](../譲)[語](../語) (humble language), kung saan gumagamit ng mapagkumbabang salita sa kausap, kagaya ng paggamit ng "itadakimasu," "itashimasu," etc.
 
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
- 
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Magpakumbaba kung sabay na may sasabihin."
 
 ### ON-KUN READING
 
@@ -39,26 +35,19 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [謙](../謙)[謙](../謙)　***reading***　meaning
-  - [謙](../謙)[謙](../謙)　***reading***　meaning
-  - [謙](../謙)[謙](../謙)　***reading***　meaning
-  - [謙](../謙)[謙](../謙)　***reading***　meaning
-
-### SPECIAL READING
-  - [謙](../謙)[謙](../謙)　***reading***　meaning
+#### ➊ **MAPAGKUMBABA**
+  - [謙](../謙)[譲](../譲)　***kenjō***　pagpapakumbaba
+  - [謙](../謙)[譲](../譲)[語](../語)　***kenjōgo***　humble language
+  - [謙](../謙)[虚](../虚)[な](../../nihongo/な)　***kenkyona***　mapagkumbaba
+  - [謙](../謙)[遜](../遜)　***kenson***　pagkamababang-loob
 
 ### ORIGIN
 
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/謙)**
 <table class="kanji-table"><tr><td>
-<img src="60px-謙-bronze.svg.png">
-</td><td>▶</td><td>
-<img src="60px-謙-oracle.svg.png">
+<img src="60px-謙-seal.svg.png">
 </td><td>▶</td>
 <td class="kanji-origin">謙</td>
 </tr></table>
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [謙](../謙) [弟](../弟) [謙](../謙) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
+- Magkatulad ng hitsura: [兼](../兼)
