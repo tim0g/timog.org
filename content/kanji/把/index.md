@@ -4,19 +4,18 @@ character: 把
 description: "Kanji dictionary entry 把: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/把.gif"
-weight: 111
-frequency: 111
-kanji_grade: 9
-kanji_strokes: 1
+weight: 1685
+frequency: 1685
+kanji_grade: 7
+kanji_strokes: 7
 kanji_class: Jōyō
 kanji_jlpt: N1
-kanji_radical: 
+kanji_radical: 手
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- HA
+- WA
 kanji_meaning:
-- malaki
+- mahigpit na hawak
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -24,13 +23,11 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/把/index.md)**
-
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
-
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
+Ito ang kanji na kailangang malaman dahil lang sa isang salita: [把](../把)[握](../握)[する](../../nihongo/する) (makuha (ang ibig sabihin) = maunawaan).
  
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+Pinagsamang kanji ng [手](../手) (扌 kamay) at [巴](../巴) ([tomoe](https://en.wikipedia.org/wiki/Tomoe)).
+ 
+**Mnemonic:** "Mahigpit na hawakan ng kamay ang *tomoe*."
 
 ### ON-KUN READING
 
@@ -39,26 +36,9 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [把](../把)[把](../把)　***reading***　meaning
-  - [把](../把)[把](../把)　***reading***　meaning
-  - [把](../把)[把](../把)　***reading***　meaning
-  - [把](../把)[把](../把)　***reading***　meaning
-
-### SPECIAL READING
-  - [把](../把)[把](../把)　***reading***　meaning
-
-### ORIGIN
-
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/把)**
-<table class="kanji-table"><tr><td>
-<img src="60px-把-bronze.svg.png">
-</td><td>▶</td><td>
-<img src="60px-把-oracle.svg.png">
-</td><td>▶</td>
-<td class="kanji-origin">把</td>
-</tr></table>
+#### ➊ **HAWAKAN**
+  - [把](../把)[握](../握)　***haaku***　mahawakan, maunawaan
+  - [把](../把)[持](../持)　***haji***　hawakan, makuha
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [把](../把) [把](../把) [把](../把) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
+- Magkatulad ng ibig sabihin: [握](../握)
