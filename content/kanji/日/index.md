@@ -18,7 +18,6 @@ kanji_reading:
 - ka
 kanji_meaning:
 - araw
-- Japan
 chōon: "Ō ō Ū ū ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)

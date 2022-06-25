@@ -4,19 +4,18 @@ character: 寒
 description: "Kanji dictionary entry 寒: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/寒.gif"
-weight: 111
-frequency: 111
-kanji_grade: 9
-kanji_strokes: 1
+weight: 959
+frequency: 959
+kanji_grade: 3
+kanji_strokes: 12
 kanji_class: Jōyō
-kanji_jlpt: N1
-kanji_radical: 
+kanji_jlpt: N3
+kanji_radical: 宀
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- KAN
+- samu-i
 kanji_meaning:
-- malaki
+- malamig
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -24,13 +23,11 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/寒/index.md)**
+Medyo kumplikadong kanji para sa isang simpleng salita at hindi madali ang pagsaulo.
 
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
-
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
+Kawili-wiling mapansin na ang kanji ng [寒](../寒) at [冬](../冬) (taglamig) ay parehong may dalawang maliliit na guhit sa ilalim na nagsisimbolo ng yelo. Maari natin ngayong hatiin ang kanji sa 宀, [井](../井) (balon), hindi kumpletong [六](../六) (anim), at ang dalawang guhit na simbolo ng yelo.
  
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Sobrang lamig kaya nagyelo ang anim na balon sa loob ng bahay."
 
 ### ON-KUN READING
 
@@ -39,26 +36,25 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [寒](../寒)[寒](../寒)　***reading***　meaning
-  - [寒](../寒)[寒](../寒)　***reading***　meaning
-  - [寒](../寒)[寒](../寒)　***reading***　meaning
-  - [寒](../寒)[寒](../寒)　***reading***　meaning
-
-### SPECIAL READING
-  - [寒](../寒)[寒](../寒)　***reading***　meaning
+#### ➊ **MALAMIG**
+  - [寒](../寒)[気](../気)　***kanki***　lamig, malamig na panahon
+  - [寒](../寒)[暑](../暑)　***kansho***　mainit at malamig
+  - [寒](../寒)[波](../波)　***kanpa***　cold wave
+  - [防](../防)[寒](../寒)　***bōkan***　proteksyon sa lamig
+  - [大](../大)[寒](../寒)　***daikan***　gitna ng taglamig
+  - [寒](../寒)[村](../村)　***kanson***　mahirap o inabandonang nayon
+  - [寒](../寒)[気](../気)　***samuke***　ginaw, lamig
+  - [寒](../寒)い　***samui***　malamig
 
 ### ORIGIN
 
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/寒)**
 <table class="kanji-table"><tr><td>
-<img src="60px-寒-bronze.svg.png">
+<img src="60px-寒-seal.svg.png">
 </td><td>▶</td><td>
-<img src="60px-寒-oracle.svg.png">
+<img src="60px-寒-bigseal.svg.png">
 </td><td>▶</td>
 <td class="kanji-origin">寒</td>
 </tr></table>
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [兄](../兄) [弟](../弟) [寒](../寒) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
+- Magkatulad ng ibig sabihin: [冷](../冷) [涼](../涼) [冬](../冬)

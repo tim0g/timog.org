@@ -4,19 +4,18 @@ character: 岸
 description: "Kanji dictionary entry 岸: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/岸.gif"
-weight: 111
-frequency: 111
-kanji_grade: 9
-kanji_strokes: 1
+weight: 717
+frequency: 717
+kanji_grade: 3
+kanji_strokes: 8
 kanji_class: Jōyō
-kanji_jlpt: N1
-kanji_radical: 
+kanji_jlpt: N2
+kanji_radical: 山
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- GAN
+- kishi
 kanji_meaning:
-- malaki
+- baybayin
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -24,13 +23,9 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/岸/index.md)**
-
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
-
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
+Pinagsamang [山](../山) (bundok) at [厈](../厈) (talampas), nagpapahiwatig ng lupa sa tabi ng dagat o ilog.
  
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Talampas at bundok sa baybayin."
 
 ### ON-KUN READING
 
@@ -39,26 +34,17 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [岸](../岸)[岸](../岸)　***reading***　meaning
-  - [岸](../岸)[岸](../岸)　***reading***　meaning
-  - [岸](../岸)[岸](../岸)　***reading***　meaning
-  - [岸](../岸)[岸](../岸)　***reading***　meaning
+#### ➊ **BAYBAYIN**
+  - [海](../海)[岸](../岸)　***kaigan***　baybay dagat
+  - [沿](../沿)[岸](../岸)　***engan***　baybayin, pangpang
+  - [対](../対)[岸](../岸)　***taigan***　kabilang pangpang
+  - [左](../左)[岸](../岸)　***sagan***　kaliwang pangpang
+  - [岸](../岸)[壁](../壁)　***ganpeki***　pantalan
+  - [岸](../岸)[辺](../辺)　***kishibe***　pangpang
 
-### SPECIAL READING
-  - [岸](../岸)[岸](../岸)　***reading***　meaning
-
-### ORIGIN
-
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/岸)**
-<table class="kanji-table"><tr><td>
-<img src="60px-岸-bronze.svg.png">
-</td><td>▶</td><td>
-<img src="60px-岸-oracle.svg.png">
-</td><td>▶</td>
-<td class="kanji-origin">岸</td>
-</tr></table>
+#### ➋ **AROGANTE**
+  - [傲](../傲)[岸](../岸)[な](../../nihongo/な)　***gōganna***　arogante, mayabang
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [兄](../兄) [弟](../弟) [岸](../岸) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
+- Magkatulad ng ibig sabihin: [浜](../浜)
+- Magkatulad ng hitsura: [岩](../岩)
