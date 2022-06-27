@@ -4,19 +4,18 @@ character: 双
 description: "Kanji dictionary entry 双: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/双.gif"
-weight: 111
-frequency: 111
-kanji_grade: 9
-kanji_strokes: 1
+weight: 980
+frequency: 980
+kanji_grade: 7
+kanji_strokes: 4
 kanji_class: Jōyō
-kanji_jlpt: N1
+kanji_jlpt: N2
 kanji_radical: 
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- SŌ
+- futa
 kanji_meaning:
-- malaki
+- pares
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -24,13 +23,9 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/双/index.md)**
-
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
-
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
+Dinobleng [又](../又) (o kaya) o ng katakanang ヌ, nagpapahiwatig ng "dalawa" o "pares". Katulad ng [二](../二) ang ibig sabihin at KUN reading, pero bukod sa kahulugan na "dalawa" ay may dagdag pa itong ibig sabihin na "pareho" o "magkatulad."
  
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Pares na ヌ."
 
 ### ON-KUN READING
 
@@ -39,26 +34,15 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [双](../双)[双](../双)　***reading***　meaning
-  - [双](../双)[双](../双)　***reading***　meaning
-  - [双](../双)[双](../双)　***reading***　meaning
-  - [双](../双)[双](../双)　***reading***　meaning
-
-### SPECIAL READING
-  - [双](../双)[双](../双)　***reading***　meaning
-
-### ORIGIN
-
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/双)**
-<table class="kanji-table"><tr><td>
-<img src="60px-双-bronze.svg.png">
-</td><td>▶</td><td>
-<img src="60px-双-oracle.svg.png">
-</td><td>▶</td>
-<td class="kanji-origin">双</td>
-</tr></table>
+#### ➊ **PARES**
+  - [双](../双)[方](../方)　***sōhō***　parehong panig
+  - [一](../一)[双](../双)　***issō***　isang pares
+  - [双](../双)[眼](../眼)[鏡](../鏡)　***sōgankyō***　binoculars
+  - [双](../双)[生](../生)[児](../児)　***sōseiji***　kambal
+  - [無](../無)[双](../双)　***musō***　walang kapantay
+  - [双](../双)[書](../書)　***sōsho***　serye, aklatan
+  - [双](../双)[葉](../葉)　***futaba***　dalawang dahon, usbong
+  - [双](../双)[子](../子)　***futago***　kambal
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [双](../双) [弟](../弟) [双](../双) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
+- Magkatulad ng ibig sabihin: [二](../二) [両](../両)

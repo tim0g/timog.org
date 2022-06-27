@@ -61,4 +61,4 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### RELATED KANJI
 - Miyembro ng pamilya: [父](../父) [母](../母) [飾](../飾) [弟](../弟) [飾](../飾) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
+- Magkatulad ng ibig sabihin: [日](../日)

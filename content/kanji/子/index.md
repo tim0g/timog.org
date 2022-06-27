@@ -4,19 +4,19 @@ character: 子
 description: "Kanji dictionary entry 子: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/子.gif"
-weight: 111
-frequency: 111
-kanji_grade: 9
-kanji_strokes: 1
+weight: 16
+frequency: 16
+kanji_grade: 1
+kanji_strokes: 3
 kanji_class: Jōyō
-kanji_jlpt: N1
-kanji_radical: 
+kanji_jlpt: N5
+kanji_radical: 子
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- SHI
+- SU
+- ko
 kanji_meaning:
-- malaki
+- bata
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -24,13 +24,9 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/子/index.md)**
-
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
-
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
+Kanji ng "bata" pero palagi ding ginagamit sa pangalan ng mga babae kagaya ng [恵](../洋)[子](../子) (Keiko), [洋](../洋)[子](../子) (Yōko), [愛](../愛)[子](../子) (Aiko), etc.
  
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Batang nakabukas ang braso."
 
 ### ON-KUN READING
 
@@ -39,26 +35,42 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [子](../子)[子](../子)　***reading***　meaning
-  - [子](../子)[子](../子)　***reading***　meaning
-  - [子](../子)[子](../子)　***reading***　meaning
-  - [子](../子)[子](../子)　***reading***　meaning
+#### ➊ **ANAK**
+  - [母](../母)[子](../子)　***boshi***　nanay at anak
+  - [男](../男)[子](../子)　***danshi***　batang lalaki
+  - [女](../女)[子](../子)　***joshi***　batang babae
+  - [養](../養)[子](../子)　***yōshi***　ampong anak
+  - [種](../種)[子](../子)　***shushi***　buto, punla
+  - [卵](../卵)[子](../子)　***ranshi***　ovum, itlog
+  - [女](../女)[の](../../nihongo/の)[子](../子)　***onna no ko***　batang babae
+  - [子](../子)[友](../友)　***kodomo***　bata
+  - [親](../親)[子](../子)　***oyako***　magulang at anak
+  - [息](../息)[子](../子)　***musuko***　anak na lalaki
+  - [迷](../迷)[子](../子)　***maigo***　nawawalang bata
+  - [子](../子)[猫](../猫)　***koneko***　kuting
+  - [玉](../玉)[子](../子)　***tamago***　itlog
 
-### SPECIAL READING
-  - [子](../子)[子](../子)　***reading***　meaning
+#### ➋ **IBA'T-IBANG MALILIIT NA BAGAY**
+  - [菓](../菓)[子](../子)　***kashi***　nanay at anak
+  - [椅](../椅)[子](../子)　***isu***　upuan
+  - [帽](../帽)[子](../子)　***boshi***　sombrero
+  - [晶](../晶)[子](../子)　***shōshi***　crystallite
+  - [粒](../粒)[子](../子)　***ryūshi***　partikulo, butil
+  - [原](../原)[子](../子)　***genshi***　atom
+  - [電](../電)[子](../子)　***denshi***　electron
+  - [調](../調)[子](../子)　***chōshi***　kondisyon, kalagayan
+  - [様](../様)[子](../子)　***yōsu***　sitwasyon, anyo
 
 ### ORIGIN
 
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/子)**
 <table class="kanji-table"><tr><td>
 <img src="60px-子-bronze.svg.png">
 </td><td>▶</td><td>
-<img src="60px-子-oracle.svg.png">
+<img src="60px-子-bigseal.svg.png">
 </td><td>▶</td>
 <td class="kanji-origin">子</td>
 </tr></table>
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [子](../子) [弟](../弟) [子](../子) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
+- Magkatulad ng ibig sabihin: [児](../児) [童](../童) [坊](../坊) [幼](../幼)
+- Magkatulad ng hitsura: [字](../字) [学](../学)

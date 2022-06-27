@@ -4,19 +4,18 @@ character: 長
 description: "Kanji dictionary entry 長: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/長.gif"
-weight: 111
-frequency: 111
-kanji_grade: 9
-kanji_strokes: 1
+weight: 10
+frequency: 10
+kanji_grade: 2
+kanji_strokes: 8
 kanji_class: Jōyō
-kanji_jlpt: N1
-kanji_radical: 
+kanji_jlpt: N5
+kanji_radical: 長
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- CHŌ
+- naga-i
 kanji_meaning:
-- malaki
+- mahaba
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -24,13 +23,11 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/長/index.md)**
+Mula sa hitsura ng matandang may mahabang buhok ([髪](../髪)), nangangahulugang "mahaba."
 
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
-
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
+Karamihan ding ginagamit para sa pangalan ng pinuno ng isang grupo o asosasyon.
  
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Mahaba ang buhok ng matandang pinuno."
 
 ### ON-KUN READING
 
@@ -39,26 +36,44 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [長](../長)[長](../長)　***reading***　meaning
-  - [長](../長)[長](../長)　***reading***　meaning
-  - [長](../長)[長](../長)　***reading***　meaning
-  - [長](../長)[長](../長)　***reading***　meaning
+#### ➊ **MAHABA, PAGLAKI**
+  - [長](../長)[期](../期)　***chōki***　mahabang panaho, long-term
+  - [長](../長)[距](../距)[離](../離)　***chōkyori***　mahabang distansiya
+  - [長](../長)[時](../時)[間](../間)　***chōjikan***　mahabang oras
+  - [身](../身)[長](../長)　***shinchō***　tangkad ng katawan
+  - [成](../成)[長](../長)　***seichō***　paglaki, pagtubo
+  - [延](../延)[長](../長)　***enchō***　paghaba, pagpatuloy
+  - [長さ](../長)　***nagasa***　haba
+  - [長い](../長)[足](../足)　***nagai ashi***　mahabang binti
+  - [長](../長)[靴](../靴)　***nagagutsu***　bota
+  - [長](../長)[引く](../引)　***nagabiku***　magpaliban, matagal
+  - [長](../長)[持ち](../持)　***nagamochi***　pangmatagalan, matagal ang buhay
 
-### SPECIAL READING
-  - [長](../長)[長](../長)　***reading***　meaning
+#### ➋ **MAGANDANG KATANGIAN**
+  - [長](../長)[所](../所)　***chōsho***　magandang katangian
+  - [特](../特)[長](../長)　***tokuchō***　natatanging galing, katangian
+
+#### ➌ **PINAKAMATANDA, PINUNO**
+  - [長](../長)[女](../女)　***chōjō***　pinakamatandang anak na babae
+  - [長](../長)[男](../男)　***chōnan***　pinakamatandang anak na lalaki
+  - [年](../年)[長](../長)　***nenchō***　seniority, mas matanda
+  - [校](../校)[長](../長)　***kōchō***　punong guro
+  - [市](../市)[長](../長)　***shichō***　alkalde
+  - [会](../会)[長](../長)　***kaichō***　presidente (ng asosasyon)
+  - [社](../社)[長](../長)　***shachō***　presidente (ng kumpanya)
+  - [部](../部)[長](../長)　***buchō***　division head
+  - [課](../課)[長](../長)　***kachō***　section head
 
 ### ORIGIN
 
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/長)**
 <table class="kanji-table"><tr><td>
 <img src="60px-長-bronze.svg.png">
 </td><td>▶</td><td>
-<img src="60px-長-oracle.svg.png">
+<img src="60px-長-seal.svg.png">
 </td><td>▶</td>
 <td class="kanji-origin">長</td>
 </tr></table>
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [長](../長) [弟](../弟) [長](../長) [娘](../娘)
-- Magkatulad ang ibig sabihin: [日](../日)
+- Magkatulad ng ibig sabihin: [永](../永)
+- Kabaligtaran ng ibig sabihin: [短](../短)
