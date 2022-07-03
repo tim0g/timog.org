@@ -4,19 +4,18 @@ character: 祈
 description: "Kanji dictionary entry 祈: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/祈.gif"
-weight: 111
-frequency: 111
-kanji_grade: 9
+weight: 1315
+frequency: 1315
+kanji_grade: 7
 kanji_strokes: 1
 kanji_class: Jōyō
-kanji_jlpt: N1
-kanji_radical: 
+kanji_jlpt: N2
+kanji_radical: 示
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- KI
+- ino-ru
 kanji_meaning:
-- malaki
+- dasal
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -24,13 +23,9 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/祈/index.md)**
-
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
-
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
+Ang standard version ng iba't-ibang kanji ([祷](../祷) [禱](../禱)), ang [祈](../祈) ay binubuo ng [示](../示) (礻 pagpahiwatig) at [斤](../斤) (original na ibig sabihin: palakol) at nagpapahiwatig ng pagdarasal o pagsusumamo sa isang mas mataas na nilalang.
  
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Ang pagdarasal ay pagpahiwatig gamit ng palakol."
 
 ### ON-KUN READING
 
@@ -39,26 +34,12 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [祈](../祈)[祈](../祈)　***reading***　meaning
-  - [祈](../祈)[祈](../祈)　***reading***　meaning
-  - [祈](../祈)[祈](../祈)　***reading***　meaning
-  - [祈](../祈)[祈](../祈)　***reading***　meaning
-
-### SPECIAL READING
-  - [祈](../祈)[祈](../祈)　***reading***　meaning
-
-### ORIGIN
-
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/祈)**
-<table class="kanji-table"><tr><td>
-<img src="60px-祈-bronze.svg.png">
-</td><td>▶</td><td>
-<img src="60px-祈-oracle.svg.png">
-</td><td>▶</td>
-<td class="kanji-origin">祈</td>
-</tr></table>
+#### ➊ **DASAL**
+  - [祈](../祈)[念](../念)　***kinen***　dasal, panalangin
+  - [祈](../祈)[祷](../祷)　***kitō***　dasal, panalangin
+  - [祈](../祈)[願](../願)[する](../../nihongo/する)　***kigan suru***　magdasal, magsumamo
+  - [祈り](../祈)　***inori***　panalangin
+  - [神](../神)[に](../../nihongo/に)[祈る](../祈)　***kami ni inoru***　manalangin sa diyos
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [兄](../兄) [弟](../弟) [祈](../祈) [娘](../娘)
-- Magkatulad ng ibig sabihin: [日](../日)
+  - Ibang bersyon: [祷](../祷) [禱](../禱)
