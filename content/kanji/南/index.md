@@ -4,19 +4,19 @@ character: 南
 description: "Kanji dictionary entry 南: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/南.gif"
-weight: 111
-frequency: 111
-kanji_grade: 9
-kanji_strokes: 1
+weight: 198
+frequency: 198
+kanji_grade: 2
+kanji_strokes: 9
 kanji_class: Jōyō
-kanji_jlpt: N1
-kanji_radical: 
+kanji_jlpt: N5
+kanji_radical: 十
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- NAN
+- NA
+- minami
 kanji_meaning:
-- malaki
+- timog
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -24,13 +24,13 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/南/index.md)**
+May nagsasabi na imahen daw ito ng harap ng bahay, at sa sinaunang China ay tinatayo ang bahay na nakaharap sa direksyon ng mas mainit na timog.
 
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
+Ang kanji ng kalabasa ay [南](../南)[瓜](../瓜) (timog at melon) dahil sa mainit na parteng timog ito tumutubo. Sa kabilang dako naman, paminsan-minsang sinusulat ang pakwan nang [西](../西)[瓜](../瓜) (kanluran at melon)--melon na galing sa kanluran.
 
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
+Maaring hatiin sa [十](../十) (sampu), [冂](../冂) (bahay) at ￥.
  
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Sampung yen sa loob ng bahay."
 
 ### ON-KUN READING
 
@@ -39,26 +39,29 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [南](../南)[南](../南)　***reading***　meaning
-  - [南](../南)[南](../南)　***reading***　meaning
-  - [南](../南)[南](../南)　***reading***　meaning
-  - [南](../南)[南](../南)　***reading***　meaning
+#### ➊ **TIMOG**
+  - [南](../南)[北](../北)　***nanboku***　hilaga at timog
+  - [東](../東)[南](../南)アジア　***tounan ajia***　Timog-silangang Asya
+  - [南](../南)[下](../下)　***nanka***　pumunta pababa sa timog
+  - [南](../南)[極](../極)　***nankyoku***　South Pole
+  - [南](../南)アフリカ　***minami afurika***　South Africa
+  - [南](../南)[口](../口)　***minamiguchi***　south entrance/exit
+  - [南](../南)[半](../半)[球](../球)　***minamihankyū***　Southern Hemisphere
 
 ### SPECIAL READING
-  - [南](../南)[南](../南)　***reading***　meaning
+
+  - [南](../南)[瓜](../瓜)^　***kabocha***　kalabasa
 
 ### ORIGIN
 
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/南)**
 <table class="kanji-table"><tr><td>
-<img src="60px-南-bronze.svg.png">
-</td><td>▶</td><td>
 <img src="60px-南-oracle.svg.png">
+</td><td>▶</td><td>
+<img src="60px-南-bronze.svg.png">
 </td><td>▶</td>
 <td class="kanji-origin">南</td>
 </tr></table>
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [南](../南) [南](../南) [南](../南) [娘](../娘)
-- Magkatulad ng ibig sabihin: [日](../日)
+
+- Mga direksyon: [北](../北) [東](../東) [西](../西)

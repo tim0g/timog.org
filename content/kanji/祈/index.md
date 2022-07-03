@@ -7,7 +7,7 @@ featured_image: "/祈.gif"
 weight: 1315
 frequency: 1315
 kanji_grade: 7
-kanji_strokes: 1
+kanji_strokes: 7
 kanji_class: Jōyō
 kanji_jlpt: N2
 kanji_radical: 示

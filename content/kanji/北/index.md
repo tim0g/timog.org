@@ -4,19 +4,18 @@ character: 北
 description: "Kanji dictionary entry 北: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/北.gif"
-weight: 111
-frequency: 111
-kanji_grade: 9
+weight: 80
+frequency: 80
+kanji_grade: 2
 kanji_strokes: 1
 kanji_class: Jōyō
-kanji_jlpt: N1
-kanji_radical: 
+kanji_jlpt: N5
+kanji_radical: 匕
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- HOKU
+- kita
 kanji_meaning:
-- malaki
+- hilaga
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -24,13 +23,11 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/北/index.md)**
+[Imahen](#origin) ng dalawang taong magkatalikuran. Sinasabing sa sinaunang China, ang mga bahay ang tinatayo nang nasa likod ang malamig na hilagang direksyon, kaya nagkaroon ito ng ganitong ibig sabihin.
 
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
-
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
+Mula sa "pagtalikod" nagkaroon din ito ng ibig sabihin na "pagkatalo."
  
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Nagkalikuran ang dalawang tao sa hilaga."
 
 ### ON-KUN READING
 
@@ -39,26 +36,25 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [北](../北)[北](../北)　***reading***　meaning
-  - [北](../北)[北](../北)　***reading***　meaning
-  - [北](../北)[北](../北)　***reading***　meaning
-  - [北](../北)[北](../北)　***reading***　meaning
-
-### SPECIAL READING
-  - [北](../北)[北](../北)　***reading***　meaning
+#### ➊ **HILAGA**
+  - [北](../北)[部](../部)　***hokubu***　hilagang bahagi
+  - [北](../北)[東](../東)　***hokutō***　hilagang silangan
+  - [北](../北)[極](../極)　***hokkyoku***　North Pole
+  - [北](../北)[海](../海)[道](../道)　***hokkaidō***　Hokkaidō
+  - [敗](../敗)[北](../北)　***haiboku***　pagkatalo
+  - [北](../北)[口](../口)　***kitaguchi***　north entrance/exit
+  - [北](../北)[半](../半)[球](../球)　***kitahankyū***　Northern Hemisphere
 
 ### ORIGIN
 
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/北)**
 <table class="kanji-table"><tr><td>
-<img src="60px-北-bronze.svg.png">
-</td><td>▶</td><td>
 <img src="60px-北-oracle.svg.png">
+</td><td>▶</td><td>
+<img src="60px-北-bigseal.svg.png">
 </td><td>▶</td>
 <td class="kanji-origin">北</td>
 </tr></table>
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [北](../北) [北](../北) [北](../北) [北](../北) [北](../北) [娘](../娘)
-- Magkatulad ng ibig sabihin: [日](../日)
+
+- Mga direksyon: [南](../南) [東](../東) [西](../西)

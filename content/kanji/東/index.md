@@ -4,19 +4,18 @@ character: 東
 description: "Kanji dictionary entry 東: meaning, on-kun reading, compounds, origin, related kanji"
 content_type: kanji
 featured_image: "/東.gif"
-weight: 111
-frequency: 111
-kanji_grade: 9
-kanji_strokes: 1
+weight: 18
+frequency: 18
+kanji_grade: 2
+kanji_strokes: 8
 kanji_class: Jōyō
-kanji_jlpt: N1
-kanji_radical: 
+kanji_jlpt: N5
+kanji_radical: 木
 kanji_reading: 
-- DAI
-- TAI
-- oo-kii
+- TŌ
+- higashi
 kanji_meaning:
-- malaki
+- silangan
 chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 ---
 [//]: # (Don't edit the line below. Kanji animated GIF code is automatically generated.)
@@ -24,13 +23,11 @@ chōon: "Ā Ī Ū Ē Ō ā ī ū ē ō ’"
 
 [//]: # (Edit below this line.)
 
-**[Edit this at Github. Delete this link after editing.](https://github.com/tim0g/tim/tree/main/content/kanji/東/index.md)**
+Galing sa [imahen](#origin) ng patpat na tumagos sa sakong itinali sa magkabilang dulo, sinasabi na sa sinaunang China, naniniwala ang mga tao na tumatagos ang araw sa silangang dagat bago sumikat kaya ito ang naging simbolo ng "silangan."
 
-Magsulat dito ng introduction tungkol sa kanji. Mga opinions, impressions, suggestions, trivia, ang kung ano-ano pa.
-
-Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
+Maari ding isipin ito na pinagpatong na [木](../木) (puno) at [日](../日) (araw).
  
-**Mnemonic:** "Maikling sentence na makakatulong sa pagsaulo."
+**Mnemonic:** "Sumikat ang araw sa likod ng puno."
 
 ### ON-KUN READING
 
@@ -39,26 +36,26 @@ Generate Lorem Ipsum placeholder text for use in your graphic, print and web lay
 
 ### MEANING & WORDS
 
-#### ➊ **Ibig sabihin**
-  - [東](../東)[東](../東)　***reading***　meaning
-  - [東](../東)[東](../東)　***reading***　meaning
-  - [東](../東)[東](../東)　***reading***　meaning
-  - [東](../東)[東](../東)　***reading***　meaning
-
-### SPECIAL READING
-  - [東](../東)[東](../東)　***reading***　meaning
+#### ➊ **SILANGAN**
+  - [東](../東)[北](../北)　***tōhoku***　hilagang-silangan
+  - [東](../東)[南](../南)アジア　***tōnan ajia***　Timog-silangang Asya
+  - [東](../東)[欧](../欧)　***tōō***　Eastern Europe
+  - [中](../中)[東](../東)　***chūtō***　Gitnang Silangan
+  - [東](../東)[洋](../洋)　***tōyō***　Orient
+  - [関](../関)[東](../東)　***kantō***　[Kanto](https://timog.org/what-are-the-eight-regions-of-japan/#kantō-region)
+  - [東](../東)[京](../京)　***tōkyō***　Tokyo
+  - [東](../東)[口](../口)　***higashiguchi***　east entrance/exit
+  - [東](../東)[側](../側)　***higashigawa***　silangang gilid
 
 ### ORIGIN
 
-**[Search Wiktionary. Delete this link after editing.](https://wiktionary.org/wiki/東)**
 <table class="kanji-table"><tr><td>
 <img src="60px-東-bronze.svg.png">
 </td><td>▶</td><td>
-<img src="60px-東-oracle.svg.png">
+<img src="60px-東-seal.svg.png">
 </td><td>▶</td>
 <td class="kanji-origin">東</td>
 </tr></table>
 
 ### RELATED KANJI
-- Miyembro ng pamilya: [父](../父) [母](../母) [東](../東) [東](../東) [東](../東) [娘](../娘)
-- Magkatulad ng ibig sabihin: [日](../日)
+- Mga direksyon: [北](../北) [南](../南) [西](../西)
